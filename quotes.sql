@@ -43,10 +43,14 @@ VALUES('To speak clearly, to the extent to which I hope, to which I worry about 
 INSERT INTO quote(text, page_number, book_uid, chapter)
 VALUES('it is clear that death and the absurd are here the principles of the only reasonable freedom: that which a human heart can experience and live.', 46, '0ace69d6-f36c-41bf-9189-6f833833e157', 'Absurd Freedom');
 
+INSERT INTO quote(text, page_number, book_uid, chapter)
+VALUES('if I admit that my freedom has no meaning except in relation to its limited fate, then I must say that what counts is not the best living but the most living.', 47, '0ace69d6-f36c-41bf-9189-6f833833e157', 'Absurd Freedom');
 
+INSERT INTO quote(text, page_number, book_uid, chapter)
+VALUES('To two men living the same number of years, the world always provides the same sum of experiences. It is up to us to be conscious of them.', 48, '0ace69d6-f36c-41bf-9189-6f833833e157', 'Absurd Freedom');
 
-
-
-
+INSERT INTO quote(text, page_number, book_uid, chapter)
+VALUES('All systems of morality are based on the idea that an action has consequences that legitimize or cancel it. A mind imbued with the absurd merely judges that those consequences must be considered calmly. It is ready to pay up. In other words, there may be responsible persons, but there are no guilty ones', 52, '0ace69d6-f36c-41bf-9189-6f833833e157', 'The Absurd Man');
+)
 
 

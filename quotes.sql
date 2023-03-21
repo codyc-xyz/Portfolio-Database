@@ -172,3 +172,24 @@ VALUES('For there is merely bad luck in not being loved; there is misfortune in 
 
 INSERT INTO quote(text, page_number, book_uid, chapter, section)
 VALUES('Without culture, and the relative freedom it implies, society, even when perfect, is but a jungle. This is why any authentic creation is a gift to the future.', 152, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Return to Tipasa');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('If there were no eternal consciousness in a man, if at the foundation of all there lay only a wildly seething power which writhing with obscure passions produced everything that is great and everything that is insignificant, if a bottomless void never satiated lay hidden beneath all – what then would life be but despair?', 8, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'A Panegyric Upon Abraham');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('It is human to sorrow, human to sorrow with them that sorrow, but it is greater to believe, more blessed to contemplate the believer.', 10, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'A Panegyric Upon Abraham');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('...for he who always hopes for the best becomes old, and he who is always prepared for the worst grows old early, but he who believes preserves an eternal youth.', 11, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'A Panegyric Upon Abraham');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('For the outward world is subjected to the law of imperfection, and again and again the experience is repeated that he too who does not work gets the bread, and that he who sleeps gets it more abundantly than the man who works ... It is different in the world of spirit.', 15, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('I for my part have devoted a good deal of time to the understanding of the Hegelian philosophy, I believe also that I understand it tolerably well, but when in spite of the trouble I have taken there are certain passages I cannot understand, I am foolhardy enough to think that he himself has not been quite clear.', 20, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Philosophy cannot and should not give faith, but it should understand itself and know what it has to offer and take nothing away, and least of all should fool people out of something as if it were nothing.', 20, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('I am unable to make the movements of faith, I cannot shut my eyes and plunge confidently into the absurd, for me that is an impossibility ... but I do not boast of it ... I am joyful and content, but my joy is not that of faith, and in comparison with that it is unhappy.', 21, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');

@@ -161,3 +161,14 @@ VALUES('It is Christianity that began substituting the tragedy of the soul for c
 INSERT INTO quote(text, page_number, book_uid, chapter, section)
 VALUES('For the Greeks, values pre-existed all action, of which they definitely set the limits. Modern philosophy places its values at the end of action. They are not but are becoming, and we shall know them fully only at the completion of history.', 135, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Helen''s Exile');
 
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('To be sure, it is sheer madness, almost always punished, to return to the sites of one''s youth and try to relive at forty what one loved or keenly enjoyed at twenty.', 139, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Return to Tipasa');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('But, after all, nothing is true that forces one to exclude ... Whoever aims to serve one exclusive of the other serves no one, not even himself, and eventually serves injustice twice.', 141, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Return to Tipasa');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('For there is merely bad luck in not being loved; there is misfortune in not loving.', 143, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Return to Tipasa');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Without culture, and the relative freedom it implies, society, even when perfect, is but a jungle. This is why any authentic creation is a gift to the future.', 152, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Return to Tipasa');

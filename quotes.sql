@@ -137,5 +137,27 @@ VALUES('As I see once more, existential thought in this regard (and contrary to 
 INSERT INTO quote(text, page_number, book_uid, chapter, section)
 VALUES('In the Algerian summer I learn that one thing only is more tragic than suffering, and that is the life of a happy man ... Many, in fact, feign love of life to avoid love itself. They try their skill at enjoyment and at “indulging in experiences.” But this is illusory. It requires a rare vocation to be a sensualist.', 111, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Summer in Algiers');
 
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('For if there is a sin against life, it consists perhaps not so much in despairing of life as in hoping for another life and in eluding the implacable grandeur of this life.', 111, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Summer in Algiers');
 
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('From Pandora''s box, where all the ills of humanity swarmed, the Greeks drew out hope after all the others, as the most dreadful of all. I know no more stirring symbol\; for, contrary to the general belief, hope equals resignation. And to live is not to resign oneself.', 111, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Summer in Algiers');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('The Greeks, who for centuries questioned themselves as to what is just, could understand nothing of our idea of justice. For them equity implied a limit, whereas our whole continent is convulsed in its search for a justice that must be total ... In our wildest aberrations we dream of an equilibrium we have left behind, which we naively expect to find at the end of our errors.', 133, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Helen''s Exile');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Socrates, facing the threat of being condemned to death, acknowledged only this one superiority in himself: what he did not know he did not claim to know. The most exemplary life and thought of those centuries close on a proud confession of ignorance. Forgetting that, we have forgotten our virility.', 134, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Helen''s Exile');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Heaven and earth. Our reason has driven all away. Alone at last, we end up by ruling over a desert.', 134, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Helen''s Exile');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('"Only the modern city,” Hegel dares write, “offers the mind a field in which it can become aware of itself.” We are thus living in the period of big cities. Deliberately, the world has been amputated of all that constitutes its permanence: nature, the sea, hilltops, evening meditation. Consciousness is to be found only in the streets, because history is to be found only in the streets—this is the edict.', 134, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Helen''s Exile');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('It is Christianity that began substituting the tragedy of the soul for contemplation of the world. But, at least, Christianity referred to a spiritual nature and thereby preserved a certain fixity. With God dead, there remains only history and power.', 135, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Helen''s Exile');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('For the Greeks, values pre-existed all action, of which they definitely set the limits. Modern philosophy places its values at the end of action. They are not but are becoming, and we shall know them fully only at the completion of history.', 135, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Helen''s Exile');
 

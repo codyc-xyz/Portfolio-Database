@@ -115,6 +115,28 @@ INSERT INTO quote(text, page_number, book_uid, chapter, section)
 VALUES('If this myth is tragic, that is because its hero is conscious. Where would his torture be, indeed, if at every step the hope of succeeding upheld him? The workman of today works every day in his life at the same tasks, and this fate is no less absurd. But it is tragic only at the rare moments when it becomes conscious.', 89, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'The Myth of Sisyphus');
 
 INSERT INTO quote(text, page_number, book_uid, chapter, section)
-VALUES('"I conclude that all is well", says Oedipus, and that remark is sacred ... All Sisyphus''s silent joy is contained therein. His fate belongs to him. His rock is his thing', 90, '0ace69d6-f36c-41bf-9189-6f833833e157', NULL, 'The Myth of Sisyphus');
+VALUES('"I conclude that all is well", says Oedipus, and that remark is sacred ... It makes of fate a human matter, which must be settled among men. All Sisyphus''s silent joy is contained therein. His fate belongs to him. His rock is his thing', 90, '0ace69d6-f36c-41bf-9189-6f833833e157', NULL, 'The Myth of Sisyphus');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('At that subtle moment when man glances backward over his life, Sisyphus returning toward his rock, in that slight pivoting he contemplates that series of unrelated actions which becomes his fate, created by him, combined under his memory’s eye and soon sealed by his death. Thus, convinced of the wholly human origin of all that is human, a blind man eager to see who knows that the night has no end, he is still on the go. The rock is still rolling.', 91, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'The Myth of Sisyphus');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('I leave Sisyphus at the foot of the mountain! One always finds one’s burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile.',  91, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'The Myth of Sisyphus');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('The struggle itself toward the heights is enough to fill a man’s heart. One must imagine Sisyphus happy.',  91, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'The Myth of Sisyphus');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Moreover, nothing is harder to understand than a symbolic work. A symbol always transcends the one who makes use of it and makes him say in reality more than he is aware of expressing.', 92, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Appendix: Hope and Absurd in the Work of Franz Kafka');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('The human heart has a tiresome tendency to label as fate only what crushes it. But happiness likewise, in its way, is without reason, since it is inevitable. Modern man, however, takes the credit for it himself, when he doesn’t fail to recognize it.', 95, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Appendix: Hope and Absurd in the Work of Franz Kafka');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('As I see once more, existential thought in this regard (and contrary to current opinion) is steeped in a vast hope. The very hope which at the time of early Christianity and the spreading of the good news inflamed the ancient world. But in that leap that characterizes all existential thought, in that insistence, in that surveying of a divinity devoid of surface, how can one fail to see the mark of a lucidity that repudiates itself?', 99, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Appendix: Hope and Absurd in the Work of Franz Kafka');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('In the Algerian summer I learn that one thing only is more tragic than suffering, and that is the life of a happy man ... Many, in fact, feign love of life to avoid love itself. They try their skill at enjoyment and at “indulging in experiences.” But this is illusory. It requires a rare vocation to be a sensualist.', 111, '0ace69d6-f36c-41bf-9189-6f833833e157', null, 'Summer in Algiers');
+
 
 

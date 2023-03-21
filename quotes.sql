@@ -12,7 +12,7 @@ INSERT INTO quote (text, page_number, book_uid, chapter, section)
 VALUES ('Hitherto, and it has not been wasted effort, people have played on words and pretended to believe that refusing to grant a meaning to life necessarily leads to declaring that it is not worth living. In truth, there is no necessary common measure between these two judgments.', 10, '0ace69d6-f36c-41bf-9189-6f833833e157', 'Absurdity and Suicide', 'An Absurd Reasoning');
 
 INSERT INTO quote (text, page_number, book_uid, chapter, section)
-VALUES ('Kierkegaard may shout in warning: “If man had no eternal consciousness, if, at the bottom of everything, there were merely a wild, seething force producing everything, both large and trifling, in the storm of dark passions, if the bottomless void that nothing can fill underlay all things, what would life be but despair?” This cry is not likely to stop the absurd man. Seeking what is true is not seeking what is desirable. If in order to elude the anxious question: “What would life be?” one must, like the donkey, feed on the roses of illusion, then the absurd mind, rather than resigning itself to falsehood, prefers, to adopt fearlessly Kierkegaard’s reply: “despair.” Everything considered, a determined soul will always manage.', 33, '0ace69d6-f36c-41bf-9189-6f833833e157', 'Philosophical Suicide', 'An Absurd Reasoning');
+VALUES ('Kierkegaard may shout in warning: “If man had no eternal consciousness, if, at the bottom of everything, there were merely a wild, seething force producing everything, both large and trifling, in the storm of dark passions, if the bottomless void that nothing can fill underlay all things, what would life be but despair?” This cry is not likely to stop the absurd man. Seeking what is true is not seeking what is desirable. If in order to elude the anxious question: “What would life be?” one must, like the donkey, feed on the roses of illusion, then the absurd mind, rather than resigning itself to falsehood, prefers, to adopt fearlessly Kierkegaard''s reply: “despair.” Everything considered, a determined soul will always manage.', 33, '0ace69d6-f36c-41bf-9189-6f833833e157', 'Philosophical Suicide', 'An Absurd Reasoning');
 
 INSERT INTO quote (text, page_number, book_uid, chapter, section)
 VALUES ('This world in itself is not reasonable, that is all that can be said. But what is absurd is the confrontation of this irrational and the wild longing for clarity whose call echoes in the human heart. The absurd depends as much on man as on the world.', 19, '0ace69d6-f36c-41bf-9189-6f833833e157', 'Absurd Walls', 'An Absurd Reasoning');
@@ -78,7 +78,7 @@ INSERT INTO quote(text, page_number, book_uid, chapter, section)
 VALUES('There is thus a metaphysical honor in enduring the world’s absurdity. Conquest or play-acting, multiple loves, absurd revolt are tributes that man pays to his dignity in a campaign in which he is defeated in advance.', 70, '0ace69d6-f36c-41bf-9189-6f833833e157', 'Philosophy and Fiction', 'Absurd Creation');
 
 INSERT INTO quote(text, page_number, book_uid, chapter, section)
-VALUES('...the absurd joy par excellence is creation. “Art and nothing but art,” said Nietzsche\; “we have art in order not to die of the truth."', 70, '0ace69d6-f36c-41bf-9189-6f833833e157', 'Philosophy and Fiction', 'Absurd Creation');
+VALUES('...the absurd joy par excellence is creation. “Art and nothing but art,” said Nietzsche; “we have art in order not to die of the truth."', 70, '0ace69d6-f36c-41bf-9189-6f833833e157', 'Philosophy and Fiction', 'Absurd Creation');
 
 INSERT INTO quote(text, page_number, book_uid, chapter, section)
 VALUES('All existence for a man turned away from the eternal is but a vast mime under the mask of the absurd. Creation is the great mime.', 71, '0ace69d6-f36c-41bf-9189-6f833833e157', 'Philosophy and Fiction', 'Absurd Creation');
@@ -193,3 +193,8 @@ VALUES('Philosophy cannot and should not give faith, but it should understand it
 
 INSERT INTO quote(text, page_number, book_uid, chapter, section)
 VALUES('I am unable to make the movements of faith, I cannot shut my eyes and plunge confidently into the absurd, for me that is an impossibility ... but I do not boast of it ... I am joyful and content, but my joy is not that of faith, and in comparison with that it is unhappy.', 21, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Generally people are of the opinion that what faith produces is not a work of art, that it is coarse and common work, only for the more clumsy natures; but in fact this is far from the truth. The dialectic of faith is the finest and most remarkable of all; it possesses an elevation, of which indeed I can form a conception, but nothing more.', 23, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+

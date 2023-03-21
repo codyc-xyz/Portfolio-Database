@@ -197,4 +197,38 @@ VALUES('I am unable to make the movements of faith, I cannot shut my eyes and pl
 INSERT INTO quote(text, page_number, book_uid, chapter, section)
 VALUES('Generally people are of the opinion that what faith produces is not a work of art, that it is coarse and common work, only for the more clumsy natures; but in fact this is far from the truth. The dialectic of faith is the finest and most remarkable of all; it possesses an elevation, of which indeed I can form a conception, but nothing more.', 23, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
 
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('People commonly travel around the world to see rivers and mountains, new stars, birds of rare plumage, queerly deformed fishes, ridiculous breeds of men – they abandon themselves to the bestial stupor which gapes at existence, and they think they have seen something.', 25, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
 
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Even to make the well-known Socratic distinction between what one understands and what one does not understand, passion is required, and of course even more to make the characteristic Socratic movement, the movement, namely, of ignorance ... If he lacks this intensity, if his soul from the beginning is dispersed in the multifarious, he will never get time to make the movements, he will be constantly running errands in life, never enter into eternity, for even at the instant when he is closest to it he will suddenly discover that he has forgotten something for which he must go back.', 28, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('To become another man he feels no inclination, nor does he by any means regard this as greatness. Only the lower natures forget themselves and become something new. Thus the butterfly has entirely forgotten that it was a caterpillar, perhaps it may in turn so entirely forget it was a butterfly that it becomes a fish. The deeper natures never forget themselves and never become anything else than what they were.', 29, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('What is education? I should suppose that education was the curriculum one had to run through in order to catch up with oneself, and he who will not pass through this curriculum is helped very little by the fact that he was born in the most enlightened age.', 31, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Faith therefore is not an aesthetic emotion but something far higher, precisely because it has resignation as its presupposition; it is not an immediate instinct of the heart, but is the paradox of life and existence.', 32, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('A purely human courage is required to renounce the whole of the temporal to gain the eternal; but this I gain, and to all eternity I cannot renounce it – that is a self-contradiction. But a paradoxical and humble courage is required to grasp the whole of the temporal by virtue of the absurd, and this is the courage of faith.', 33, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('He whose soul has not this romantic enthusiasm has sold his soul, whether he got a kingdom for it or a paltry piece of silver.', 34, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('...thus to live joyfully and happily every instant by virtue of the absurd, every instant to see the sword hanging over the head of the beloved, and yet not to find repose in the pain of resignation, but joy by virtue of the absurd – this is marvellous. He who does it is great, the only great man.', 35,  'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('The last movement, the paradoxical movement of faith, I cannot make ... in spite of the fact that I would do it more than gladly. Whether a man has a right to make this affirmation, must be left to him ... But what every man has not a right to do, is to make others believe that faith is something lowly, or that it is an easy thing, whereas it is the greatest and the hardest.', 36,  'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('It is now my intention to draw out from the story of Abraham the dialectical consequences inherent in it ... in order to see what a tremendous paradox faith is, a paradox which is capable of transforming a murder into a holy act well-pleasing to God, a paradox which gives Isaac back to Abraham, which no thought can master, because faith begins precisely there where thinking leaves off.', 37, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('The ethical as such is the universal, and as the universal it applies to everyone, which may be expressed from another point of view by saying that it applies every instant.', 38, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem I: Is there such a thing as a teleological suspension of the ethical?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Conceived immediately as physical and psychical, the particular individual is the individual who has his telos in the universal, and his ethical task is to express himself constantly in it, to abolish his particularity in order to become the universal. As soon as the individual would assert himself in his particularity over against the universal he sins ... Whenever the individual after he has entered the universal feels an impulse to assert himself as the particular, he is in temptation ...', 38,  'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem I: Is there such a thing as a teleological suspension of the ethical?', 'Problemata: Preliminary Expectoration');

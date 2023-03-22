@@ -241,3 +241,30 @@ VALUES('Now the story of Abraham contains such a teleological suspension of the 
 
 INSERT INTO quote(text, page_number, book_uid, chapter, section)
 VALUES('When in our age one hears this saying, “It is to be judged according to the result,” a man is at once clear as to who it is he has the honor of talking with ... Their lifework is to judge the great, and to judge them according to the result. Such behavior toward the great betrays a strange mixture of arrogance and misery: of arrogance because they think they are called to be judges; of misery because they do not feel that their lives are even in the remotest degree akin to the great.', 45, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem I: Is there such a thing as a teleological suspension of the ethical?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Surely a man who possesses even a little of the higher way of thinking... when he approaches what is great it can never escape his mind that from the creation of the world it has been customary for the result to come last, and that, if one would truly learn anything from great actions, one must pay attention precisely to the beginning. In case he who should act were to judge himself according to the result, he would never get to the point of beginning.', 45, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem I: Is there such a thing as a teleological suspension of the ethical?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('And yet no robber of temples condemned to hard labor behind iron bars, is so base a criminal as the man who pillages the holy, and even Judas who sold his Master for thirty pieces of silver is not more despicable than the man who sells greatness.', 46, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem I: Is there such a thing as a teleological suspension of the ethical?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Even if a man were born in humble circumstances, I would require of him nevertheless that he should not be so inhuman toward himself as not to be able to think of the King''s castle except at a remote distance, dreaming vaguely of its greatness and wanting at the same time to exalt it and also to abolish it by the fact that he exalted it meanly.', 46, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem I: Is there such a thing as a teleological suspension of the ethical?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('And what distance alone makes great, what people would make great by empty and hollow phrases, that they themselves reduce to naught.', 46, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem I: Is there such a thing as a teleological suspension of the ethical?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Faith is a miracle, and yet no man is excluded from it; for that in which all human life is unified is passion, and faith is a passion.', 48, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem I: Is there such a thing as a teleological suspension of the ethical?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('In the ethical way of regarding life it is therefore the task of the individual to divest himself of the inward determinants and express them in an outward way. Whenever he shrinks from this, whenever he is inclined to persist in or to slip back again into the inward determinants of feeling, mood, etc., he sins, he is in a temptation.', 50, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem II: Is there such a thing as an absolute duty toward God?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('In Luke 14:26, as everybody knows, there is a striking doctrine taught about the absolute duty toward God: “If any man cometh unto me and hateth not his own father and mother and wife and children and brethren and sisters, yea, and his own life also, he cannot be my disciple.” This is a hard saying, who can bear to hear it? For this reason it is heard very seldom. This silence, however, is only an evasion which is of no avail.', 52, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem II: Is there such a thing as an absolute duty toward God?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('But he who in demanding a person''s love thinks that this love should be proved also by becoming lukewarm to everything which hitherto was dear – that man is not only an egoist but stupid as well, and he who would demand such love signs at the same moment his own death-warrant ... If he had any notion of what love is, he would wish to discover that as daughter and sister she was perfect in love, and would see therein the proof that she would love him more than anyone else in the realm.', 54, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem II: Is there such a thing as an absolute duty toward God?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('They are afraid of giving men a free rein, are afraid that the worst will happen as soon as the individual takes it into his head to comport himself as the individual. Moreover, they think that to exist as the individual is the easiest thing of all, and that therefore people have to be compelled to become the universal. I cannot share either this fear or this opinion, and both for the same reason. He who has learned that to exist as the individual is the most terrible thing of all will not be fearful of saying that it is great ...', 55,  'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem II: Is there such a thing as an absolute duty toward God?', 'Problemata: Preliminary Expectoration');

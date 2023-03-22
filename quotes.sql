@@ -268,3 +268,23 @@ VALUES('But he who in demanding a person''s love thinks that this love should be
 
 INSERT INTO quote(text, page_number, book_uid, chapter, section)
 VALUES('They are afraid of giving men a free rein, are afraid that the worst will happen as soon as the individual takes it into his head to comport himself as the individual. Moreover, they think that to exist as the individual is the easiest thing of all, and that therefore people have to be compelled to become the universal. I cannot share either this fear or this opinion, and both for the same reason. He who has learned that to exist as the individual is the most terrible thing of all will not be fearful of saying that it is great ...', 55,  'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem II: Is there such a thing as an absolute duty toward God?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('...his notion that it is easy enough to exist as the individual implies a very suspicious admission with regard to himself; for he who has a real respect for himself and concern for his soul is convinced that the man who lives under his own supervision, alone in the whole world, lives more strictly and more secluded than a maiden in her lady''s bower.', 55, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem II: Is there such a thing as an absolute duty toward God?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('He who believes that it is easy enough to be the individual can always be sure that he is not a knight of faith, for vagabonds and roving geniuses are not men of faith.', 55, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem II: Is there such a thing as an absolute duty toward God?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('The knight of faith ... knows that it is beautiful and salutary to be the individual who translates himself into the universal, who edits as it were a pure and elegant edition of himself, as free from errors as possible and which everyone can read. He knows that it is refreshing to become intelligible to oneself in the universal so that he understands it and so that every individual who understands him understands through him in turn the universal, and both rejoice in the security of the universal.', 56, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem II: Is there such a thing as an absolute duty toward God?', 'Problemata: Preliminary Expectoration'); 
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('At this point men leap aside, they cannot bear the martyrdom of being uncomprehended, and instead of this they choose conveniently enough the worldly admiration of their proficiency.', 59, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem II: Is there such a thing as an absolute duty toward God?', 'Problemata: Preliminary Expectoration'); 
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('The true knight of faith is a witness, never a teacher, and therein lies his deep humanity, which is worth a good deal more than this silly participation in others'' weal and woe which is honored by the name of sympathy, whereas in fact it is nothing but vanity. He who would only be a witness thereby avows that no man, not even the lowliest, needs another man''s sympathy or should be abased that another may be exalted.', 59, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem II: Is there such a thing as an absolute duty toward God?', 'Problemata: Preliminary Expectoration');
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('But since he did not win what he won at a cheap price, neither does he sell it out at a cheap price, he is not petty enough to take men''s admiration and give them in return his silent contempt, he knows that what is truly great is equally accessible to all.', 60, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem II: Is there such a thing as an absolute duty toward God?', 'Problemata: Preliminary Expectoration'); 
+
+

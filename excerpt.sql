@@ -313,3 +313,15 @@ VALUES('...he had not even comprehended the little mystery, that it is better to
 
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('The proud and noble nature can endure everything, but one thing it cannot endure, it cannot endure pity. In that there is implied an indignity which can only be inflicted upon one by a higher power, for by oneself one can never become an object of pity.', 79, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem III: Was Abraham ethically defensible in keeping silent about his purpose before Sarah, before Eleazar, before Isaac?', 'Problemata: Preliminary Expectoration');  
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('If worse comes to worst, a doubter, even though by talking he were to bring down all possible misfortune upon the world, is much to be preferred to these miserable sweet-tooths who taste a little of everything, and who would heal doubt without being acquainted with it, and who are therefore usually the proximate cause of it when doubt breaks out wildly and with ungovernable rage.', 85, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem III: Was Abraham ethically defensible in keeping silent about his purpose before Sarah, before Eleazar, before Isaac?', 'Problemata: Preliminary Expectoration');  
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Therein lies the distress and anguish. For if I when I speak am unable to make myself intelligible, then I am not speaking – even though I were to talk uninterruptedly day and night. Such is the case with Abraham.', 87, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem III: Was Abraham ethically defensible in keeping silent about his purpose before Sarah, before Eleazar, before Isaac?', 'Problemata: Preliminary Expectoration');  
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Whatever the one generation may learn from the other, that which is genuinely human no generation learns from the foregoing. In this respect every generation begins primitively, has no different task from that of every previous generation, nor does it get further, except in so far as the preceding generation shirked its task and deluded itself.', 93, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Epilogue');  
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('But for the man also who does not so much as reach faith life has tasks enough, and if one loves them sincerely, life will by no means be wasted, even though it never is comparable to the life of those who sensed and grasped the highest.', 95,  'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Epilogue');  

@@ -287,4 +287,26 @@ VALUES('The true knight of faith is a witness, never a teacher, and therein lies
 INSERT INTO quote(text, page_number, book_uid, chapter, section)
 VALUES('But since he did not win what he won at a cheap price, neither does he sell it out at a cheap price, he is not petty enough to take men''s admiration and give them in return his silent contempt, he knows that what is truly great is equally accessible to all.', 60, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem II: Is there such a thing as an absolute duty toward God?', 'Problemata: Preliminary Expectoration'); 
 
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('...for certain it is that to be interesting or to have an interesting life is not a task for industrial art but a fateful privilege, which like every privilege in the world of spirit is bought only by deep pain.', 61, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem III: Was Abraham ethically defensible in keeping silent about his purpose before Sarah, before Eleazar, before Isaac?', 'Problemata: Preliminary Expectoration');  
 
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('It is no good arguing with ethics for it has pure categories. It does not appeal to experience, which of all ludicrous things is the most ludicrous, and which so far from making a man wise rather makes him mad if he knows nothing higher than this ... it warns against believing the calculations of the understanding, which are more perfidious than the oracles of ancient times', 63, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem III: Was Abraham ethically defensible in keeping silent about his purpose before Sarah, before Eleazar, before Isaac?', 'Problemata: Preliminary Expectoration');  
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('for this is the profound contradiction in the demoniacal, ... in a certain sense there dwells infinitely more good in a demoniac than in a trivial person.', 73,  'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem III: Was Abraham ethically defensible in keeping silent about his purpose before Sarah, before Eleazar, before Isaac?', 'Problemata: Preliminary Expectoration');  
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('...it is only very inexperienced people who suppose that it is easy to deceive innocence; existence is very profound, and it is in fact the easiest thing for the shrewd to fool the shrewd ...', 73, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem III: Was Abraham ethically defensible in keeping silent about his purpose before Sarah, before Eleazar, before Isaac?', 'Problemata: Preliminary Expectoration');  
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('Aesthetics is the most faithless of all sciences. Everyone who has deeply loved it becomes, in a certain sense, unhappy, but the one who has never loved it is and remains a philistine', 73, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem III: Was Abraham ethically defensible in keeping silent about his purpose before Sarah, before Eleazar, before Isaac?', 'Problemata: Preliminary Expectoration');  
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('If philosophy among other vagaries were also to have the notion that it could occur to a man to act in accordance with its teaching, one might make out of that a queer comedy.', 74, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem III: Was Abraham ethically defensible in keeping silent about his purpose before Sarah, before Eleazar, before Isaac?', 'Problemata: Preliminary Expectoration');  
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('...it is remarkable that even in paganism, more easy-going and less given to redection, the two outstanding representatives of the Greek "know thyself" as a conception of existence intimated each in his way that by delving deep into oneself one would first of all discover the disposition to evil.', 76, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem III: Was Abraham ethically defensible in keeping silent about his purpose before Sarah, before Eleazar, before Isaac?', 'Problemata: Preliminary Expectoration');  
+
+INSERT INTO quote(text, page_number, book_uid, chapter, section)
+VALUES('...he had not even comprehended the little mystery, that it is better to give than to receive, and has no inkling of the great one, that it is far more difficult to receive than to give ...', 79, 'ee6f699a-e0e6-4777-a396-c0981817b6d9', 'Problem III: Was Abraham ethically defensible in keeping silent about his purpose before Sarah, before Eleazar, before Isaac?', 'Problemata: Preliminary Expectoration');  

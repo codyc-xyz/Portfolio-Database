@@ -362,6 +362,33 @@ VALUES('What gives space reality is the organic process of nature; what gives ti
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('Socrates ... shows that every art must be understood in its ideal endeavor, that the parasite of finite teleology that wants to attach itself to it must be rejected. Every art has its own distinctive objective, its own usefulness, which is nothing other than to promote the interests of those entrusted to its care.', 136, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The View Made Possible', 'Part One: The Position of Socrates Viewed as Irony');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('To be specific, when subjectivity by means of its negative power has broken the spell in which human life lay in the form of substantiality, when it has emancipated man from his relation to God just as it freed him from his relation to the state, then the first form in which this manifests itself is ignorance.', 189, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The Actualization of the View', 'Part One: The Position of Socrates Viewed as Irony');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The knowledge that he knew nothing is not at all the pure, empty nothing one usually takes it to be, but the nothingness of the determinate content of the world as it is. The knowledge of the negativity of all finite content is his wisdom ...', 192, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The Actualization of the View', 'Part One: The Position of Socrates Viewed as Irony');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('True freedom, of course, consists in giving oneself to enjoyment and yet preserving one''s soul unscathed.', 200, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The Actualization of the View', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('But in Sophistry, reflection is awakened; it shakes the foundations of everything, and it is then that Sophistry lulls it to sleep again with reasons. By means of raisonnements, this hungry monster is satisfied, and thus together with the Sophists the thinker seems able to demonstrate everything, for they could give reasons for everything, and by means of reasons they could at any time whatever make anything whatever true.', 221, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The View Made Necessary', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...it nevertheless turns out that the individual, in relation to the good, is arbitrarily self-determining, and that the good as such has no absolute binding power.', 239, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Appendix: Hegel''s View of Socrates', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Here the moral individual is the negatively free individual. He is free because he is not bound by another, but he is negatively free precisely because he is not limited in another. When the individual by being in his other is in his own, then for the first time he is in truth (i.e., positively) free, affirmatively free. Therefore, moral freedom is arbitrariness; it is the possibility of good and evil.', 243, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Appendix: Hegel''s View of Socrates', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('But since the state had lost its significance for Socrates, his virtues are not civic virtues but personal virtues—indeed, to define them more sharply, they are imaginatively constructed virtues. The individual stands freely above them ..., can dispense with them when he wants to, and insofar as he does not do so, it is because he does not want to', 245, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Appendix: Hegel''s View of Socrates', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Thus, the first qualification with regard to the Socratic principle is the major one, even though it is still only formal: that consciousness draws from itself what constitutes truth. This is the principle of subjective freedom: that one carries consciousness within oneself.', 246, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Appendix: Hegel''s View of Socrates', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The good as task, when the good is understood as the infinitely negative, corresponds to the moral, that is, the negatively free subject. The moral individual can never actualize the good; only the positively free subject can have the good as the infinitely positive, as his task, and fulfill it.', 250, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Appendix: Hegel''s View of Socrates', 'Part One: The Position of Socrates Viewed as Irony');
+
+iNSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Already here we have a quality that permeates all irony—namely, that the phenomenon is not the essence but the opposite of the essence. When I am speaking, the thought, the meaning, is the essence, and the word is the phenomenon.', 260, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Observation For Orientation', 'Part Two: The Concept of Irony');
 

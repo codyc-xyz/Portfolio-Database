@@ -325,3 +325,43 @@ VALUES('Whatever the one generation may learn from the other, that which is genu
 
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('But for the man also who does not so much as reach faith life has tasks enough, and if one loves them sincerely, life will by no means be wasted, even though it never is comparable to the life of those who sensed and grasped the highest.', 95,  'ee6f699a-e0e6-4777-a396-c0981817b6d9', null, 'Epilogue');  
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Influenced as I was by Hegel and whatever was modern, without the maturity really to comprehend greatness, I could not resist pointing out somewhere in my dissertation that it was a defect on the part of Socrates to disregard the whole and only consider numerically the individuals. What a Hegelian fool I was! It is precisely this that powerfully demonstrates what a great ethicist Socrates was.', 13, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'A Passage in My Dissertation', 'Historical Introduction');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('That the state in a Christian sense is supposed to be what Hegel taught—namely, that it has moral significance, that true virtue can appear only in the state ... that the goal of the state is to improve men—is obviously nonsense. The state is of the evil rather than of the good, a necessary evil, in a certain sense a useful, expedient evil, rather than a good.', 13, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'A Passage in My Dissertation', 'Historical Introduction');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Just as we speak of a calculus of infinitesimals, so also the state is a calculus of egotisms, but always in such a way that it egotistically appears to be the most prudent thing to enter into and to be in this higher egotism. But this, after all, is anything but the moral abandoning of egotism.', 13, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'A Passage in My Dissertation', 'Historical Introduction');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Ordinarily the conversation of lovers is diametrically opposite to the proper discussion of something; thus it is as upbuilding to the lovers as it is dull and uninteresting to a third person.', 58, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The View Made Possible', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...to say that virtue can be taught must be understood as meaning either that an original emptiness in man is gradually filled through teaching (but this is a contradiction, since something that is absolutely foreign to man can never be brought into him) or that an inner condition of virtue gradually unfolds through successive teaching, and consequently it presupposes the original presence of virtue.', 82, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The View Made Possible', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('To be specific, the impact of sense impressions leads one to certain universal concepts—for example, equality, the in-and-for-itself beauty, the good, justice, piety, etc.—indeed, to all those characteristics “that we designate in our questions as well as in our answers as that which is”. These universal concepts are not attained through the atomistic observations of experience or by the usurpations of induction—on the contrary, they continually presuppose themselves. “Consequently, either we are born with this knowledge and we possess it throughout our whole lives, or they of whom we say that they learn something basically only recollect it, and therefore to learn is a recollecting."', 92, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The View Made Possible', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Rosenkrantz has correctly observed somewhere that the fuller life is, the more exuberantly it burgeons, the paler and more insubstantial is immortality.', 96, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The View Made Possible', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Socrates himself declares in the Phaedo that the primary aim of his endeavors to demonstrate the immortality of the soul really is to become convinced himself that this is so and adds: “I reckon, dear friend—and you see how selfish I am—that if what I assume is true, it is still excellent to be convinced of it, but if there is nothing after death, I will at least during the time before my death be less burdensome to my companions because of complaints ...', 100, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The View Made Possible', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('"For let me tell you, gentlemen, that to be afraid of death is only another form of thinking that one is wise when one is not; it is to think that one knows what one does not know ... and this ignorance, which thinks that it knows what it does not, must surely be ignorance most culpable." In this respect, too, Socrates feels that he has an advantage over others, for since he knows nothing at all about death he does not fear it. Now this is not only a sophism but also irony.', 104, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The View Made Possible', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Thus the mythical is the enthusiasm of imagination in the service of speculation and, to a certain degree, is what Hegel calls pantheism of the imagination. It has validity in the moment of contact and is not brought into relation with any reflection.', 122, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The View Made Possible', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('What gives space reality is the organic process of nature; what gives time reality is the plenitude of history. In the mythical, both time and space have merely the reality of the imagination.', 127, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The View Made Possible', 'Part One: The Position of Socrates Viewed as Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Socrates ... shows that every art must be understood in its ideal endeavor, that the parasite of finite teleology that wants to attach itself to it must be rejected. Every art has its own distinctive objective, its own usefulness, which is nothing other than to promote the interests of those entrusted to its care.', 136, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The View Made Possible', 'Part One: The Position of Socrates Viewed as Irony');
+
+
+
+

@@ -390,5 +390,27 @@ INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('The good as task, when the good is understood as the infinitely negative, corresponds to the moral, that is, the negatively free subject. The moral individual can never actualize the good; only the positively free subject can have the good as the infinitely positive, as his task, and fulfill it.', 250, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Appendix: Hegel''s View of Socrates', 'Part One: The Position of Socrates Viewed as Irony');
 
 iNSERT INTO excerpt(text, page_number, book_uid, chapter, section)
-VALUES('Already here we have a quality that permeates all irony—namely, that the phenomenon is not the essence but the opposite of the essence. When I am speaking, the thought, the meaning, is the essence, and the word is the phenomenon.', 260, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Observation For Orientation', 'Part Two: The Concept of Irony');
+VALUES('Already here we have a quality that permeates all irony—namely, that the phenomenon is not the essence but the opposite of the essence. When I am speaking, the thought, the meaning, is the essence, and the word is the phenomenon.', 260, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Observations For Orientation', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('A diplomat''s view of the world is ironic in many ways, and Talleyrand''s famous statement that man did not acquire speech in order to reveal his thoughts but in order to conceal them contains a profound irony about the world ...', 266, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Observations For Orientation', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Herein lies the profoundly tragic aspect of world history. At one and the same time, an individual may be world-historically justified and yet unauthorized. Insofar as he is the latter, he must become a sacrifice; insofar as he is the former, he must prevail—that is, he must prevail by becoming a sacrifice. Here we see how intrinsically consistent the world process is ... The past actuality shows itself to be still justified by demanding a sacrifice, the new actuality by providing a sacrifice. But a sacrifice there must be, because a new element must emerge ...', 273, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'The World-Historical Validity of Irony, the Irony of Socrates', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Here, then, we have irony as the infinite absolute negativity. It is negativity, because it only negates; it is infinite, because it does not negate this or that phenomenon; it is absolute, because that by virtue of which it negates is a higher something that still is not.', 274, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Observations For Orientation', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Therefore we can say of irony that it is earnestness about nothing—insofar as it is not earnestness about something. It continually conceives of nothing in contrast to something, and in order to free itself of earnestness about anything, it grasps the nothing. But it does not become earnestness about nothing, either, except insofar as it is not earnestness about anything.', 283, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Observations For Orientation', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...history has judged Socrates to be world-historically justified. He became a sacrifice. This is certainly a tragic fate, but nevertheless Socrates'' death is not basically tragic; and the Greek state really comes too late with its death sentence ... because death has no reality for Socrates ... thus it is an irony over the state that it condemns him to death and believes that it has inflicted punishment upon him.', 284, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Observations For Orientation', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('It cannot really be said that the ironist places himself outside and above morality and ethics, but he lives far too abstractly, far too metaphysically and esthetically to reach the concretion of the moral and the ethical. For him, life is a drama, and what absorbs him is the ingenious complication of this drama. He himself is a spectator, even when he himself is the one acting.', 296, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('In a sound and healthy life, however, the mood is just an intensification of the life that ordinarily stirs and moves within a person ... But since there is no continuity in the ironist, the most contrasting moods succeed one another. At times he is a god, at times a grain of sand. His moods are just as occasional as the incarnations of Brahma. And the ironist, who considers himself free, thereby falls under the horrible law of world irony and drudges along in the most frightful slavery.', 297, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
+
 

@@ -446,4 +446,26 @@ VALUES('"Striving for the infinite does not actually lead man beyond this life .
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('In our age there has been much talk about the importance of doubt for science and scholarship, but what doubt is to science, irony is to personal life. Just as scientists maintain that there is no true science without doubt, so it may be maintained with the same right that no genuinely human life is possible without irony ... Irony limits, finitizes, and circumscribes and thereby yields truth, actuality, content ...', 337, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony as a Controlled Element, the Truth of Irony', 'Part Two: The Concept of Irony');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...for now I feel more strongly than ever that I need my freedom. A person with my eccentricity should have his freedom until he meets a force in life that, as such, can bind him.', 8, 'dfd636c9-5833-4094-81fa-1477076105ec', null, 'Historical Introduction');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('What is a poet? An unhappy person who conceals profound anguish in his heart but whose lips are so formed that as sighs and cries pass over them they sound like beautiful music ... And people crowd around the poet and say to him, "Sing again soon"-in other words, may new sufferings torture your soul, and may your lips continue to be formed as before, because your screams would only alarm us, but the music is charming.', 19, 'dfd636c9-5833-4094-81fa-1477076105ec', 'to himself', 'Diapsalmata');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The most ludicrous of all ludicrous things, it seems to me, is to be busy in the world, to be a man who is brisk at his meals and brisk at his work ... What, after all, do these busy bustlers achieve? ... What more, after all, do they salvage from life''s huge conflagration?', 25, 'dfd636c9-5833-4094-81fa-1477076105ec', 'to himself', 'Diapsalmata');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Real enjoyment consists not in what one enjoys but in the idea.', 31, 'dfd636c9-5833-4094-81fa-1477076105ec', 'to himself', 'Diapsalmata');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Marry, and you will regret it. Do not marry, and you will also regret it. Marry or do not marry, you will regret it either way ... Laugh at the stupidities of the world, and you will regret it; weep over them, and you will also regret it. Laugh at the stupidities of the world or weep over them, you will regret it either way ... Hang yourself and you will regret it. Do not hang yourself, and you will also regret it. Hang yourself or do not hang yourself, you will regret it either way ... This, gentlemen, is the quintessence of all the wisdom of life.', 39, 'dfd636c9-5833-4094-81fa-1477076105ec', 'Either/Or: An Ecstatic Discourse', 'Diapsalmata');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('There is a paltry disbelief that seems to contain considerable healing power ... It considers that many a poet has lived who would have been just as immmortal as Homer if that glorious subject matter had not been taken over by him, many a composer who would have been just as immortal as Mozart if the opportunity had offered itself. This wisdom contains considerable consolation and balm for all mediocrities ...', 47, 'dfd636c9-5833-4094-81fa-1477076105ec', 'Insignificant Introduction', 'The Immediate Erotic Stages or The Musical-Erotic');
+
+
+
+
+
 

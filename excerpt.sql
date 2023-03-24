@@ -413,4 +413,37 @@ VALUES('It cannot really be said that the ironist places himself outside and abo
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('In a sound and healthy life, however, the mood is just an intensification of the life that ordinarily stirs and moves within a person ... But since there is no continuity in the ironist, the most contrasting moods succeed one another. At times he is a god, at times a grain of sand. His moods are just as occasional as the incarnations of Brahma. And the ironist, who considers himself free, thereby falls under the horrible law of world irony and drudges along in the most frightful slavery.', 297, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('If we ask what poetry is, we may say in general that it is victory over the world; it is through a negation of the imperfect actuality that poetry opens up a higher actuality, expands and transfigures the imperfect into the perfect and thereby assuages the deep pain that wants to make everything dark. To that extent, poetry is a kind of reconciliation, but it is not the true reconciliation, for it does not reconcile me with the actuality in which I am living ... the greater the contrast, the less perfect the actual reconciliation, so that when all is said and done there is often no reconciliation but rather an enmity', 309, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Only when I in my enjoying am not outside myself but am inside myself, only then is my enjoyment infinite, because it is inwardly infinite. Even if he enjoys the whole world, the person who enjoys poetically nevertheless lacks one enjoyment, for he does not enjoy himself.', 310, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...because living poetically ... means becoming clear and transparent to oneself, not in finite and egotistical self-satisfaction but in one''s absolute and eternal validity. And if this is not possible for every human being, then life is lunacy ... because either to be human is the absolute, or all life is nonsense, and despair is the only alternative for anyone not demented enough, not unkind and proud enough, not despairing enough, to believe that he is the chosen one.', 311, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The tragedy of romanticism is that what it seizes upon is not actuality. Poetry awakens; the powerful longings, the mysterious intimations, the inspiring feelings awaken; nature awakens; the enchanted princess awakens—the romanticist falls asleep. He experiences all this in a dream ... But dreams do not satisfy.', 316, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('"It is surely certain that his science (the philosopher''s) differs essentially from every other in that it is all-encompassing. Every other science presupposes something as given, either a specific form of knowledge as in mathematics, or a specific subject matter as in history, natural science, and the like. Philosophy alone must create itself.” - Solger', 322, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('“But the finite, the ordinary fact, is no more the true actuality than the infinite, the relation to concepts and alternating opposites, the eternal is. The true actuality is a moment of intuition wherein the finite and the infinite, cognizable by our ordinary understanding only in relation to each other, are completely annulled, inasmuch as God or the eternal discloses itself in it” - Solger', 323, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('“All our moral virtues are but such reflections of the good, and woe to them who trust in them! All our moral vices are but such reflections of evil, and woe to them who despair over them and regard them as actual and true, not believing in that before which they are nothing and that which alone is able to cancel them in us!” - Solger', 324 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Solger seems to want to find in art and poetry the higher actuality that emerges through the negation of finite actuality. But here a new difficulty appears. Since the poetry, the romantic, which Solger in his letters to Tieck so frequently acknowledges as supreme, is quite incapable of pacifying the negation in that higher actuality, inasmuch as in its essential striving it itself seeks to create an awareness that the given actuality is the imperfect one but the higher actuality can be perceived only in the infinite approximation of intimation ... that higher actuality that is supposed to emerge in poetry nevertheless is not in the poetry but is continually becoming.', 330, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The true actuality becomes what it is; the actuality of romanticism merely becomes. Thus faith is victory over the world,  and yet it is a struggle, and when it has struggled, it has won the victory over the world; and yet it had won the victory over the world before it struggled. Thus faith becomes what it is. Faith is not an eternal struggle, but it is a victory that is struggling.', 330, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('"Striving for the infinite does not actually lead man beyond this life ... but merely into indefiniteness and emptiness, because, ... it is incited merely by the feeling of earthly limitation to which we have been assigned once and for all. Any thought we might entertain of going beyond finite ends is foolish and empty conceit" - Solger', 331, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony after Fichte', 'Part Two: The Concept of Irony');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('In our age there has been much talk about the importance of doubt for science and scholarship, but what doubt is to science, irony is to personal life. Just as scientists maintain that there is no true science without doubt, so it may be maintained with the same right that no genuinely human life is possible without irony ... Irony limits, finitizes, and circumscribes and thereby yields truth, actuality, content ...', 337, 'abb65784-d3fc-4f42-bfad-5a3ccd6a7948', 'Irony as a Controlled Element, the Truth of Irony', 'Part Two: The Concept of Irony');
+
 

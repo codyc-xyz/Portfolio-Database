@@ -481,3 +481,78 @@ VALUES('Isolation always consists in asserting oneself as number; when one wants
 
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('When David really wanted to feel his power and glory, he had his people counted;7 in our age, however, it may be said that the people, in order to feel their significance over against a superior power, count themselves.', 141, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in Fragmentary Endeavor', 'The Tragic in Ancient Drama Reflected in the Tragic in Modern Drama');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('A feature in which our age certainly excels that age in Greece is that our age is more depressed and therefore deeper in despair. Thus, our age is sufficiently depressed to know that there is something called responsibility and that this means something. Therefore, although everyone wants to rule, no one wants to have responsibility.', 142, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in Fragmentary Endeavor', 'The Tragic in Ancient Drama Reflected in the Tragic in Modern Drama');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Sorrow always has in it something more substantial than pain. Pain always indicates a reflection upon the suffering that sorrow does not know. Psychologically, it is very interesting to observe a child when he sees an adult suffer. The child is not sufficiently reflective to feel pain, and yet his sorrow is infinitely deep ... On the other hand, when an adult sees a young person, a child, suffer, the pain is greater, the sorrow less. The more pronounced the idea of guilt, the greater the pain, the less profound the sorrow.', 148, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in Fragmentary Endeavor', 'The Tragic in Ancient Drama Reflected in the Tragic in Modern Drama');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Our age has lost all the substantial categories of family, state, kindred; it must turn the single individual over to himself completely in such a way that, strictly speaking, he becomes his own creator. Consequently his guilt is sin, his pain repentance, but thereby the tragic is canceled.', 149, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in Fragmentary Endeavor', 'The Tragic in Ancient Drama Reflected in the Tragic in Modern Drama');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The true tragic sorrow, then, requires an element of guilt, the true tragic pain an element of guiltlessness; the true tragic sorrow requires an element of transparency, the true tragic pain an element of opacity.', 151, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in Fragmentary Endeavor', 'The Tragic in Ancient Drama Reflected in the Tragic in Modern Drama');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Furthermore, anxiety always contains a reflection on time, for I cannot be anxious about the present but only about the past or the future, but the past and the future, kept in opposition to each other in such a way that the present vanishes, are categories of reflection.', 155, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in Fragmentary Endeavor', 'The Tragic in Ancient Drama Reflected in the Tragic in Modern Drama');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...it no doubt may be regarded as a conclusion unanimously recognized by all estheticians that the distinction between them is that art is in the category of space, poetry in the category of time, that art depicts repose, poetry motion.', 169, 'dfd636c9-5833-4094-81fa-1477076105ec', 'Extempore Apostraphe', 'Silhouettes Psychological Diversion');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('It is true that sorrow sneaks about in the world so very secretively that only the person who has sympathy for it gains an intimation of it.', 174, 'dfd636c9-5833-4094-81fa-1477076105ec', 'Extempore Apostraphe', 'Silhouettes Psychological Diversion');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Despite all the assurances of modern philosophy and the rash courage of its young ascribers, there are always great difficulties involved in thinking a contradiction', 198, 'dfd636c9-5833-4094-81fa-1477076105ec', '2. Donna Elvira', 'Silhouettes Psychological Diversion');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('As soon as doubt is pressed upon others, there is an envy involved that rejoices in wresting from them what they regarded as certain.', 208, 'dfd636c9-5833-4094-81fa-1477076105ec', '3. Margarete', 'Silhouettes Psychological Diversion');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The unhappy one is the person who in one way or another has his ideal, the substance of his life, the plenitude of his consciousness, his essential nature, outside himself. The unhappy one is the person who is always absent from himself, never present to himself.', 222, 'dfd636c9-5833-4094-81fa-1477076105ec', 'Peroration at the Meeting on Fridays', 'The Unhappiest One');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('There are the hoping and the recollecting individualities. If, generally, only the person who is present to himself is happy, then these people, insofar as they are only hoping or only recollecting, are in a sense certainly unhappy individualities.', 223, 'dfd636c9-5833-4094-81fa-1477076105ec', 'Peroration at the Meeting on Fridays', 'The Unhappiest One');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...if I were to imagine a person who had lived without grasping the joy of life or the enjoyment of it and who now at the point of death had his eyes opened to it, if I were to imagine that he did not die, which would be the best that could happen, but revived without therefore living his life over again, this person surely could be considered when the question arises about who is the unhappiest one.', 225, 'dfd636c9-5833-4094-81fa-1477076105ec', 'Peroration at the Meeting on Fridays', 'The Unhappiest One');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Anyone who has ever had leanings toward productivity has certainly also noticed that it is a little accidental external circumstance that becomes the occasion for the actual producing.', 233, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Comedy in One Act by Scribe', 'The First Love');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Any author who is either so naive as to believe that everything depends on an honest will, or industry and effort, or so shameless as to offer for sale the products of the spirit will not be wanting in ardent invocation or brash forwardness.', 233, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Comedy in One Act by Scribe', 'The First Love');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('In our day, the occasion, which as such is the unessential and accidental, may sometimes venture into the revolutionary. The occasion often plays the absolute master; it determines the outcome; it makes the product and the producer into something or nothing, whatever it wishes.', 234, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Comedy in One Act by Scribe', 'The First Love');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Since boredom advances and boredom is the root of all evil, no wonder, then, that the world goes backwards, that evil spreads. This can be traced back to the very beginning of the world. The gods were bored; therefore they created human beings. Adam was bored because he was alone; therefore Eve was created. Since that moment, boredom entered the world and grew in quantity in exact proportion to the growth of population.', 286, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in a Theory of Social Prudence', 'Rotation of Crops');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The Latin proverb idleness is the devil''s pillow is quite correct, but the devil does not find time to lay his head on this pillow if one s not bored. But since people believe that it is man''s destiny to work, the antithesis idleness/work is correct. I assume that it is man''s destiny to amuse himself, and therefore my antithesis is no less correct.', 290, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in a Theory of Social Prudence', 'Rotation of Crops');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...then the emperor Antoninus was wiser; he says: "You can begin a new life. Only see things afresh as you used to see them. In this consists the new life".', 292, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in a Theory of Social Prudence', 'Rotation of Crops');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Not until hope has been thrown overboard does one begin to live artistically ... It is indeed beautiful to see a person put out to sea with the fair wind ofhope; one may utilize the chance to let oneself be towed along, but one ought never have it on board one''s craft, least of all as pilot, for it is an untrustworthy shipmaster. For this reason, too, hope was one of Prometheus''s dubious gifts; instead of giving human beings the foreknowledge of the immortals, he gave them hope.', 293, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in a Theory of Social Prudence', 'Rotation of Crops');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Thus marvel at nothing is the proper wisdom of life. No part of life ought to have so much meaning for a person that he cannot forget it any moment he wants to; on the other hand, every single part of life ought to have so much meaning for a person that he can remember it at any moment.', 293, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in a Theory of Social Prudence', 'Rotation of Crops');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('A person''s resiliency can actually be measured by his power to forget. He who cannot forget will never amount to much ... What little understanding people generally have of this art is readily seen, for they usually want to forget only the unpleasant, not the pleasant. This betrays a total one-sidedness. Indeed, forgetting is the right expression for the proper assimilation that reduces experience to a sounding board. The reason nature is so great is that it has forgotten that it was chaos ...', 294, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in a Theory of Social Prudence', 'Rotation of Crops');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...invariably one is embarrassed only to the degree that one is seen, but invariably one is seen only to the degree that one sees.', 314, 'dfd636c9-5833-4094-81fa-1477076105ec', null, 'The Seducer''s Diary');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...the interesting always involves a reflecting on oneself, just as for the same reason the interesting in art always includes an impression of the artist.', 339, 'dfd636c9-5833-4094-81fa-1477076105ec', null, 'The Seducer''s Diary');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('An ancient philosopher has said that if a person carefully chronicles all his experiences, he is, before he knows where he is, a philosopher.', 416, 'dfd636c9-5833-4094-81fa-1477076105ec', null, 'The Seducer''s Diary');
+
+
+THE SEDUCER'S DIARY 301

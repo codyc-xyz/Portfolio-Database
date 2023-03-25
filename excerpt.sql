@@ -464,8 +464,20 @@ VALUES('Marry, and you will regret it. Do not marry, and you will also regret it
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('There is a paltry disbelief that seems to contain considerable healing power ... It considers that many a poet has lived who would have been just as immmortal as Homer if that glorious subject matter had not been taken over by him, many a composer who would have been just as immortal as Mozart if the opportunity had offered itself. This wisdom contains considerable consolation and balm for all mediocrities ...', 47, 'dfd636c9-5833-4094-81fa-1477076105ec', 'Insignificant Introduction', 'The Immediate Erotic Stages or The Musical-Erotic');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...if it is said that it was Homer''s good fortune that he acquired that most exceptional epic subject matter, this can lead one to forget that we always have this epic subject matter through Homer''s conception, and the fact that it appears to be the most perfect epic subject matter is clear to us only in and through the transubstantiation due to Homer.', 49, 'dfd636c9-5833-4094-81fa-1477076105ec', 'Insignificant Introduction', 'The Immediate Erotic Stages or The Musical-Erotic');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('If one is inclined to indulge in cleverness, one could say that sculpture and painting, too, are each a kind of language, inasmuch as every expression of an idea is always a language, since the essence of the idea is language.', 66, 'dfd636c9-5833-4094-81fa-1477076105ec', 'Insignificant Introduction', 'The Immediate Erotic Stages or The Musical-Erotic');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Reflection is implicit in language, and therefore language cannot express the immediate.', 70, 'dfd636c9-5833-4094-81fa-1477076105ec', 'Insignificant Introduction', 'The Immediate Erotic Stages or The Musical-Erotic');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('On the whole, the Middle Ages is the idea, partly conscious, partly unconscious, of representation; the totality is represented in a particular individual, yet in such a way that it is only a particular aspect that is defined as the totality and that is now manifest in a particular individual, who is therefore both more than and less than an individual. Then alongside this individual stands another individual, who just as totally represents another aspect of the content of life-for example, the knight and the scholastic, the clergyman and the layman. Here the great dialectic of life is continually exemplified in representative individuals ...', 87, 'dfd636c9-5833-4094-81fa-1477076105ec', '1. The Elementary Originality of the Sensuous Qualified as Seduction', 'The Immediate Erotic Stages or The Musical-Erotic');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Isolation always consists in asserting oneself as number; when one wants to assert oneself as one, this is isolation; all the friends of associations will surely agree with me on that, without therefore being able or willing to see that it is altogether the same isolation when a hundred assert themselves simply and solely as a hundred. Number is always indifferent to itself ...', 141, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in Fragmentary Endeavor', 'The Tragic in Ancient Drama Reflected in the Tragic in Modern Drama');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('When David really wanted to feel his power and glory, he had his people counted;7 in our age, however, it may be said that the people, in order to feel their significance over against a superior power, count themselves.', 141, 'dfd636c9-5833-4094-81fa-1477076105ec', 'A Venture in Fragmentary Endeavor', 'The Tragic in Ancient Drama Reflected in the Tragic in Modern Drama');

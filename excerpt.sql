@@ -579,5 +579,35 @@ INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('Alone in his kayak, a person is sufficient unto himself, has nothing to do with any person except when he himself so wishes. Alone in his kayak, a person is sufficient unto himself—but I cannot really understand how this emptiness can be filled ... think of the pain, sadness, and humiliation involved in being in this sense a stranger and an alien in the world.', 82, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
 
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
-VALUES('I have no hesitation at all in declaring secretiveness to be the absolute condition for preserving the esthetic in marriage, not in the sense that one should aim at it, pursue it, take it in vain, let the only real enjoyment be in the enjoyment of secretiveness.', 103, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+VALUES('I have no hesitation at all in declaring secretiveness to be the absolute condition for preserving the esthetic in marriage, not in the sense that one should aim at it, pursue it, take it in vain, let the only real enjoyment be in the enjoyment of secretiveness.', 102, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('It takes courage to be willing to appear as one really is; it takes courage not to want to buy oneself off from a little humiliation when one can do this by a certain secretiveness, not to want to buy a little more stature when one can do it by being inclosedly reserved.', 103, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Married life must not be a houserobe in which one relaxes, but neither should it be a corset that hinders movement ... It is a matter of staying as far as possible from the point where one has an intimation of a circular motion, the point where repetition begins; and since it cannot be avoided entirely, it is a matter of planning in such a way that a variation is possible. There is only a set number of texts, and if a person preaches himself out the very first Sunday, he has nothing to preach about not only the rest of the year but not even on the first Sunday in the next year.', 105, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('You are afraid that love will cease when the mystery is gone; I think, however, that it does not begin until that is gone ... not until the individual has deposited everything in the shared consciousness, not until then does secretiveness gain its strength, life, and meaning.', 107, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Even though it were the lowliest and most unimportant person in the world who loved the most richly endowed person in the world, the latter, if he had any truth in him, would nevertheless feel that all his gifts still left a chasmic abyss, and that the only way he could satisfy the demand implicit in the other’s love would be to love in return.', 108, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('If one wishes to preserve the esthetic, it is a matter of transforming the outer into an inner trial.', 121, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Here I may remind you of a phrase you fling around often enough: “It is not the given that is great, but the acquired,” for the conquering nature in a man and his making conquests are actually the given, but his possessing and wanting to possess are the acquired. To conquer takes pride, to possess takes humility; to conquer takes violence, to possess, patience ...', 129, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('It is quite true that there is a misunderstanding among many people that confuses what is esthetically beautiful with what can be presented with esthetic beauty. This is very easily explained by the fact that most people seek esthetic satisfaction, which the soul needs, in reading, in viewing works of art, etc.; whereas there are relatively few who themselves see the esthetic as it is in existence, who themselves see existence in an esthetic light and do not enjoy only the poetic reproduction.', 130, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Inner history is the only true history ... Wherever the individuality’s inner blossoming has not yet begun, wherever the individuality is still closed up, it is a matter of outer history. As soon, however, as this bursts into leaf, so to speak, inner history begins ... But since outer history can be concentrated without any damage, it is natural for art and poetry to choose it and thus in turn choose for representation the unopened individuality and what pertains to him.', 132, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('If one traces dialectically and just as much historically the development of the esthetically beautiful, one will find that the direction of this movement is from spatial categories to temporal categories, and that the perfecting of art is contingent upon the possibility of gradually detaching itself more and more from space and aiming toward time.', 133, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('You, with your capacity for observation, will certainly agree with me in the general remark that people are divided into two great classes: those who live predominantly in hope and those who live predominantly in recollection. Both indicate an improper relation to time. The healthy individual lives simultaneously in hope and in recollection, and only thereby does his life gain true and substantive continuity.', 139, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
 

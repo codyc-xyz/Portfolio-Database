@@ -554,5 +554,30 @@ VALUES('...the interesting always involves a reflecting on oneself, just as for 
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('An ancient philosopher has said that if a person carefully chronicles all his experiences, he is, before he knows where he is, a philosopher.', 416, 'dfd636c9-5833-4094-81fa-1477076105ec', null, 'The Seducer''s Diary');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...that which is true in this whole development, the genuinely esthetic, is that love is situated in striving', 18, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
 
-THE SEDUCER'S DIARY 301
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The egotistic depression naturally fears on its own account and, like all depression, is self-indulgent in enjoyment ... Sympathetic depression is more distressing and also somewhat more noble; it fears itself for the sake of the other.', 25, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Marriage, then, ought not to call forth erotic love; on the contrary, it presupposes it not as something past but as something present. But marriage has an ethical and religious element that erotic love does not have; for this reason, marriage is based on resignation, which erotic love does not have.', 36, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...the first, a phrase that has had and will ever have immense meaning in the world. The meaning this phrase has for the single individual is actually decisive for his whole intellectual-spiritual condition, just as the absence of any meaning whatever for him is sufficient to show that his soul is not predisposed to be moved or shaken by something higher. For those, however, for whom “the first” has acquired meaning, there are two ways. Either the first contains the promise of the future, is the motivating, the infinite impulse ... Or ... the power that is in the first does not become the propelling but the repelling power within the individual, becomes that which pushes away. ... The latter, of course, can never occur totally without the fault of the individual himself.', 39, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('What I want to stress, however, is the beauty in the marriages that have as little “why” as possible. The less “why,” the more love—that is, if one perceives the truth in this.', 62, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Achieve—”so who is achieving something? That is precisely one of the most dangerous illusions. I do not busy myself in the world at all; I amuse myself the best I can, and I am particularly amused by those people who believe that they are achieving something, and is it not indescribably funny that a person believes that? I refuse to burden my life with such grandiose pretensions.', 77, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('...an expression you yourself often use: that you are a stranger and an alien in the world. Younger men “who have no conception of the high price paid for experience, but who also have no intimation of its inexpressible wealth, can easily be sucked into the same whirlpool ... One seizes the moment, unfurls one''s sail, sweeps along with the infinite speed of restless thoughts, alone on the infinite ocean, alone under the infinite heaven. This life is dangerous, but one is intimate with the thought of losing it, for it is a real joy to vanish into the infinite in such a way that just enough remains so that one enjoys this vanishing.', 82, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Alone in his kayak, a person is sufficient unto himself, has nothing to do with any person except when he himself so wishes. Alone in his kayak, a person is sufficient unto himself—but I cannot really understand how this emptiness can be filled ... think of the pain, sadness, and humiliation involved in being in this sense a stranger and an alien in the world.', 82, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('I have no hesitation at all in declaring secretiveness to be the absolute condition for preserving the esthetic in marriage, not in the sense that one should aim at it, pursue it, take it in vain, let the only real enjoyment be in the enjoyment of secretiveness.', 103, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Esthetic Validity of Marraige');
+

@@ -625,3 +625,38 @@ VALUES('So also with a person—if he forgets to take into account the velocity�
 
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('...what is important in choosing is not so much to choose the right thing as the energy, the earnestness, and the pathos with which one chooses. In the choosing the personality declares itself in its inner infinity and in turn the personality is thereby consolidated. Therefore, even though a person chose the wrong thing, he nevertheless, by virtue of the energy with which he chose, will discover that he chose the wrong thing.', 162, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Balance Between the Esthetic and the Ethical in the Development of the Personality');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Philosophy has nothing at all to do with what could be called the inner deed, but the inner deed is the true life of freedom. Philosophy considers the external deed, yet in turn it does not see this as isolated but sees it as assimilated into and transformed in the world-historical process. This process is the proper subject for philosophy and it considers this under the category of necessity. Therefore it rejects the reflection that wants to point out that everything could be otherwise; it views world-history in such a way that there is no question of an Either/Or.', 169, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Balance Between the Esthetic and the Ethical in the Development of the Personality');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('To be honest, I ask no more, but I would still like to know which life is higher—the philosopher’s or the free man’s. If the philosopher is only a philosopher, absorbed in philosophy and without knowing the blessed life of freedom, then he misses a very important point, he wins the whole world and he loses himself—this can never happen to the person who lives for freedom, even though he lost ever so much.', 170, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Balance Between the Esthetic and the Ethical in the Development of the Personality')
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('In my previous letter, I noted that to have loved gives a person''s being a harmony that is never entirely lost. Now I will say that to choose gives a person''s being a solemnity, a quiet dignity, that is never entirely lost ... so the richest personality is nothing before he has chosen himself; and on the other hand even what might be called the poorest personality is everything when he has chosen himself, for the greatness is not to be this or that but to be oneself, and every human being can be this if he so wills it.', 171, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Balance Between the Esthetic and the Ethical in the Development of the Personality');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Every human being, no matter how slightly gifted he is, however subordinate his position in life may be, has a natural need to formulate a life-view, a conception of the meaning of life and of its purpose ... But the person who says that he wants to enjoy life always posits a condition that either lies outside the individual or is within the individual in such a way that it is not there by virtue of the individual himself.', 174, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Balance Between the Esthetic and the Ethical in the Development of the Personality');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('By way of precaution, I shall promptly point out that a person can have sorrow and care—indeed, this can be so deep that it may follow him his whole life, and this can even be beautiful and true—but only through his own fault does a person become depressed.', 180, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Balance Between the Esthetic and the Ethical in the Development of the Personality');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Frequently I have noticed in life that the costlier the liquid on which a person becomes intoxicated, the more difficult the cure becomes; the intoxication is more beautiful and the consequences apparently not as pernicious.', 188, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Balance Between the Esthetic and the Ethical in the Development of the Personality');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Doubt is the inner movement in thought itself, and in my doubt I conduct myself as impersonally as possible. I assume that thought, when doubt is carried through, finds the absolute and rests therein ... This is the grandeur of doubt; this is why it so often has been recommended and promoted by people who hardly understood what they were saying.', 205, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Balance Between the Esthetic and the Ethical in the Development of the Personality');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('But what is this self of mine? If I were to speak of a first moment, a first expression for it, then my answer is this: It is the most abstract of all, and yet in itself it is also the most concrete of all—it is freedom.', 207,  '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Balance Between the Esthetic and the Ethical in the Development of the Personality');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Indeed, it truly takes considerable ethical courage to acknowledge the good as the highest, because one thereby falls into altogether universal categories. People are very reluctant to do that; they much prefer to have their lives in differences.', 220, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Balance Between the Esthetic and the Ethical in the Development of the Personality');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Therefore it is quite all right that in modern drama the bad is always represented by the most brilliantly gifted characters, whereas the good, the upright, is represented by the grocer’s apprentice. The spectators find this entirely appropriate and learn from the play what they already knew, that it is far beneath their dignity to be classed with a grocer’s apprentice.', 220, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Balance Between the Esthetic and the Ethical in the Development of the Personality');
+
+
+
+
+

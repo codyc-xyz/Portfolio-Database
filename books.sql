@@ -1,6 +1,7 @@
 CREATE TABLE book (
   book_uid UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
   title VARCHAR(255) NOT NULL,
+  book_description TEXT NOT NULL,
   date_published DATE NOT NULL,
   pages INTEGER NOT NULL,
   genres VARCHAR(255)[] NOT NULL,

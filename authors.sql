@@ -3,11 +3,11 @@ CREATE TABLE author (
   author_biography TEXT NOT NULL,
   author_image VARCHAR(255) NOT NULL,
   author_name VARCHAR(255) NOT NULL,
-  date_born DATE NOT NULL,
-  date_deceased DATE
+  date_author_born DATE NOT NULL,
+  date_author_deceased DATE
 );
 
-INSERT INTO author (author_name, author_biography, date_born, date_deceased, author_image) 
+INSERT INTO author (author_name, author_biography, date_author_born, date_author_deceased, author_image) 
 VALUES ('Søren Kierkegaard', 
 '<p>Søren Kierkegaard was a Danish philosopher, theologian, and writer widely regarded as the father of existentialism. His work explored the depths of the human experience, and he is best known for his unique and often challenging views on faith, ethics, and the meaning of life.</p>
 
@@ -18,7 +18,7 @@ DATE '1813-05-05',
 DATE '1855-11-11',
 'https://i.postimg.cc/XqHbbbG9/soren-kierkegaard.jpg');
 
-INSERT INTO author (author_name, author_biography, date_born, date_deceased, author_image) 
+INSERT INTO author (author_name, author_biography, date_author_born, date_author_deceased, author_image) 
 VALUES ('Albert Camus', 
 '<p> Albert Camus was a French writer known for his contributions to existentialism, absurdism, and humanism. His philosophy was deeply influenced by his experiences of war, political upheaval, and human suffering. </p>
 

@@ -7,7 +7,7 @@ CREATE TABLE author (
   date_deceased DATE
 );
 
-INSERT INTO author (author_name, author_biography, date_born, date_deceased) 
+INSERT INTO author (author_name, author_biography, date_born, date_deceased, author_image) 
 VALUES ('Søren Kierkegaard', 
 '<p>Søren Kierkegaard was a Danish philosopher, theologian, and writer widely regarded as the father of existentialism. His work explored the depths of the human experience, and he is best known for his unique and often challenging views on faith, ethics, and the meaning of life.</p>
 
@@ -15,10 +15,17 @@ VALUES ('Søren Kierkegaard',
 
 <p>Kierkegaard''s ideas have had a profound impact on the development of 20th-century philosophy, particularly in the areas of existentialism, phenomenology, and hermeneutics. His emphasis on the importance of the individual, the subjective experience of existence, and the necessity of personal choice and responsibility continues to resonate with contemporary thinkers and readers.</p>',
 DATE '1813-05-05', 
-DATE '1855-11-11');
+DATE '1855-11-11',
+'https://i.postimg.cc/XqHbbbG9/soren-kierkegaard.jpg');
 
-INSERT INTO author (author_name, date_born, date_deceased) 
-VALUES ('Albert Camus', DATE '1913-11-07', DATE '1960-01-04');
+INSERT INTO author (author_name, author_biography, date_born, date_deceased, author_image) 
+VALUES ('Albert Camus', 
+'<p> Albert Camus was a French writer known for his contributions to existentialism, absurdism, and humanism. His philosophy was deeply influenced by his experiences of war, political upheaval, and human suffering. </p>
 
+<p> Camus rejected nihilism and the idea of absolute freedom, instead embracing the concept of the absurd. He believed that human beings are driven to search for meaning and purpose in a world that is fundamentally meaningless. According to Camus, this search is futile, but it is also essential to the human experience. </p>
 
+<p> Camus also emphasized the importance of individual freedom and the need to resist oppressive systems. He was critical of both communism and capitalism, seeing both as forms of oppression that limit human freedom and autonomy. Instead, he advocated for a more humanistic approach that valued individual dignity and respect for human life. </p>',
+DATE '1913-11-07', 
+DATE '1960-01-04',
+'https://i.postimg.cc/J04Lvnn1/albert-camus.jpg');
 

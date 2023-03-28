@@ -68,3 +68,23 @@ https://i.postimg.cc/1tW3Px2j/ikiru-4.jpg}',
 '760a7cad-af2d-4178-9ddc-f23b53bfb288'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Synecdoche, New York',
+'"Synecdoche, New York" is a surreal and existential drama film known for its complex and introspective exploration of life, art, and mortality. Directed by Charlie Kaufman, the movie follows the story of a theater director who embarks on a monumental project to create a replica of his own life in a massive warehouse. 
+Through its intricate and layered storytelling, "Synecdoche, New York" challenges conventional narrative structures and offers a thought-provoking meditation on the nature of reality and the human condition. The film has earned critical acclaim for its ambitious themes and innovative approach to filmmaking.',
+DATE '2008-05-23',
+123,
+'{Drama, "Psychological Thriller", "Art House"}',
+'https://i.postimg.cc/s2CYGLKX/synecdoche-new-york.jpg',
+'https://letterboxd.com/film/synecdoche-new-york/',
+'{https://i.postimg.cc/2yYj44Mn/s-ny-1.jpg,
+https://i.postimg.cc/zDwGqcH7/s-ny-2.jpg,
+https://i.postimg.cc/5NxNySwV/s-ny-3.jpg,
+https://i.postimg.cc/TYC2D59W/s-ny-4.jpg}',
+'United States of America',
+'{"Mental Health", Death, "Existential Crisis"}',
+'2792476c-7deb-4665-954c-38d4e1b9136e'
+);
+
+
+

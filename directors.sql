@@ -39,5 +39,13 @@ DATE '1998-09-06',
 'Japan'
 );
 
-
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Charlie Kaufman',
+'Charlie Kaufman is a celebrated American filmmaker known for his unique and surreal approach to storytelling. He has established himself as a master of offbeat and mind-bending narratives that challenge traditional film conventions. 
+Kaufman is widely regarded for his distinct voice in cinema, which often features themes of identity, memory, and existentialism. His films have become cult classics, earning critical acclaim and a loyal following among film enthusiasts.',
+DATE '1958-11-19',
+NULL,
+'https://i.postimg.cc/jq3SFJpQ/charlie-kaufman.jpg',
+'United States of America'
+);
 

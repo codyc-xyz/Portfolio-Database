@@ -141,7 +141,39 @@ https://i.postimg.cc/mkc0ZGMd/an-autumn-afternoon-4.jpg}',
 '181ac6be-f419-44b5-a39e-75675a1b2c4f'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Late Spring',
+'Late Spring is a classic Japanese film directed by Yasujirō Ozu, known for its masterful use of cinematography, minimalist style, and emotional depth. 
+The movie tells a poignant story of a father and daughter navigating the complexities of tradition, family expectations, and modernity in post-war Japan. The themes of love, sacrifice, and the changing roles of women in society make "Late Spring" a timeless masterpiece, widely regarded as one of the greatest films in the history of cinema.',
+DATE '1949-09-19',
+108,
+'{Drama, "Slice of Life", "Coming of Age"}',
+'https://i.postimg.cc/wj7cWcLd/late-spring.jpg',
+'https://letterboxd.com/film/late-spring/',
+'{https://i.postimg.cc/W3KW2Nrh/late-spring-1.png,
+https://i.postimg.cc/wxCfZBgr/late-spring-2.png,
+https://i.postimg.cc/fWtq8dnX/late-spring-3.png,
+https://i.postimg.cc/qq3mqPXQ/late-spring-4.png}',
+'Japan',
+NULL,
+'181ac6be-f419-44b5-a39e-75675a1b2c4f'
+);
 
-
-
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Tokyo Story',
+'Tokyo Story is a masterpiece of Japanese cinema directed by Yasujirō Ozu in 1953. It tells the story of an aging couple who visit their adult children in Tokyo, only to find themselves neglected and disconnected in the bustling city. 
+The film is known for its contemplative pace, understated acting, and deep emotional resonance, exploring themes of generational conflict, societal change, and the transience of life. Considered one of the greatest films ever made, Tokyo Story has had a significant influence on world cinema and remains a timeless meditation on family, aging, and the human condition.',
+DATE '1953-11-03',
+136,
+'{Drama, "Slice of Life", "Art House"}',
+'https://i.postimg.cc/qM3p8gvM/tokyo-story.jpg',
+'https://letterboxd.com/film/tokyo-story/',
+'{https://i.postimg.cc/kg6HS2NM/tokyo-story-1.jpg,
+https://i.postimg.cc/fbYgH1g6/tokyo-story-2.jpg,
+https://i.postimg.cc/wjCGQ9FX/tokyo-story-3.jpg,
+https://i.postimg.cc/NMYCZb3L/tokyo-story-4.webp}',
+'Japan',
+'{Death}',
+'181ac6be-f419-44b5-a39e-75675a1b2c4f'
+);
 

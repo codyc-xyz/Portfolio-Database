@@ -20,7 +20,7 @@ VALUES('Enter the Void',
 Known for its intense visual style and use of psychedelic imagery, Enter the Void is an immersive experience that explores themes of life, death, and rebirth. The film has been praised for its technical virtuosity and ambitious scope, and has been noted as an important contribution to the tradition of experimental cinema.',
 DATE '2009-05-22',
 161,
-'{Experimental, Drama, Fantasy, "Psychological Thriller", Horror}', 
+'{Experimental, Drama, Fantasy, "Psychological Thriller", Horror, "Art House"}', 
 'https://i.postimg.cc/6q9KhCYY/enter-the-void.jpg',
 'https://letterboxd.com/film/enter-the-void/',
 '{https://i.postimg.cc/HnLVvfh0/enter-the-void-1.jpg,
@@ -103,6 +103,27 @@ https://i.postimg.cc/wTzWy0x0/s-s-f-w-s-4.jpg}',
 '{"Sexual Violence", "Animal Cruelty", Suicide}',
 'f2027501-8332-4744-a058-5a9b4b4718ee'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Akira',
+'Akira is a groundbreaking Japanese animated film known for its stunning visuals, intense action sequences, and philosophical themes. Released in 1988, it has since become a cult classic and a major influence on both anime and science fiction films. 
+Set in a post-apocalyptic future, the movie follows a group of biker gangs caught up in a government conspiracy involving psychic powers and a mysterious entity called Akira. 
+With its complex plot and vivid imagery, Akira is widely considered a classic of both anime and science fiction cinema, and has had a lasting impact on popular culture and filmmaking.',
+DATE '1998-07-16',
+124,
+'{"Science Fiction", Action, Animation, Thriller, Horror}',
+'https://i.postimg.cc/y8dJYg5v/akira.jpg',
+'https://letterboxd.com/film/akira/',
+'{https://i.postimg.cc/x10ZkYys/akira-1.jpg,
+https://i.postimg.cc/DzNpYGVD/akira-2.jpg,
+https://i.postimg.cc/8CcnHHYM/akira-3.jpg,
+https://i.postimg.cc/C1fryKSK/akira-4.jpg}', 
+'Japan',
+'{Violence, Gore, Trauma}',
+'80a3d133-34b6-40e8-a0c9-4471da6ad11f'
+);
+
+
 
 
 

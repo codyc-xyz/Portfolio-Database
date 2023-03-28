@@ -69,6 +69,13 @@ DATE '2020-12-11',
 'South Korea'
 );
 
-
-
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Katsuhiro Otomo', 
+'Katsuhiro Otomo is a renowned Japanese director known for his pioneering work in the science fiction and cyberpunk genres. He gained international recognition for his anime masterpiece, "Akira," which revolutionized the animation industry with its stunning visuals and complex storytelling. 
+Otomo''s works often explore the darker side of technology and society, touching on themes such as power, corruption, and the human condition. His influence on Japanese animation and science fiction is immeasurable, cementing his place as one of the most important directors in the genre''s history.',
+DATE '1954-04-14',
+NULL,
+'https://i.postimg.cc/kXvZMkCn/katsuhiro-otomo.jpg',
+'Japan'
+);
 

@@ -70,8 +70,8 @@ https://i.postimg.cc/1tW3Px2j/ikiru-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Synecdoche, New York',
-'"Synecdoche, New York" is a surreal and existential drama film known for its complex and introspective exploration of life, art, and mortality. Directed by Charlie Kaufman, the movie follows the story of a theater director who embarks on a monumental project to create a replica of his own life in a massive warehouse. 
-Through its intricate and layered storytelling, "Synecdoche, New York" challenges conventional narrative structures and offers a thought-provoking meditation on the nature of reality and the human condition. The film has earned critical acclaim for its ambitious themes and innovative approach to filmmaking.',
+'Synecdoche, New York is a surreal and existential drama film known for its complex and introspective exploration of life, art, and mortality. Directed by Charlie Kaufman, the movie follows the story of a theater director who embarks on a monumental project to create a replica of his own life in a massive warehouse. 
+Through its intricate and layered storytelling, Synecdoche, New York challenges conventional narrative structures and offers a thought-provoking meditation on the nature of reality and the human condition. The film has earned critical acclaim for its ambitious themes and innovative approach to filmmaking.',
 DATE '2008-05-23',
 123,
 '{Drama, "Psychological Thriller", "Art House"}',
@@ -85,6 +85,25 @@ https://i.postimg.cc/TYC2D59W/s-ny-4.jpg}',
 '{"Mental Health", Death, "Existential Crisis"}',
 '2792476c-7deb-4665-954c-38d4e1b9136e'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Spring, Summer, Fall, Winter… and Spring',
+'Spring, Summer, Fall, Winter...and Spring is a meditative and visually stunning film by acclaimed Korean director Kim Ki-duk. Set in a remote Buddhist monastery, the movie follows the life of a young monk as he experiences the cycle of seasons and learns important life lessons from his master. 
+Known for its breathtaking cinematography, minimalist storytelling, and philosophical themes of redemption and the transience of life, the film is widely regarded as a masterpiece of Korean film and has earned critical acclaim around the world for its artistic merit and philosophical depth.', 
+DATE '2003-09-19',
+103,
+'{Drama, Romance, "Coming of Age", "Art House"}',
+'https://i.postimg.cc/HkC7sy6D/spring-summer-winter-fall-and-spring.jpg',
+'https://letterboxd.com/film/spring-summer-fall-winter-and-spring/',
+'{https://i.postimg.cc/05DWyLvz/s-s-f-w-s-1.jpg,
+https://i.postimg.cc/Qdx0SCT7/s-s-f-w-s-2.jpg,
+https://i.postimg.cc/DycxqL8F/s-s-f-w-s-3.jpg,
+https://i.postimg.cc/wTzWy0x0/s-s-f-w-s-4.jpg}',
+'South Korea',
+'{"Sexual Violence", "Animal Cruelty", Suicide}',
+'f2027501-8332-4744-a058-5a9b4b4718ee'
+);
+
 
 
 

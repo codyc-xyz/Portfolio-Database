@@ -38,7 +38,7 @@ VALUES('City of God',
 Known for its kinetic visual style and use of non-linear storytelling, City of God is a gripping and emotionally resonant work that explores issues of poverty, race, and social inequality in Brazil. The film''s impact on Brazilian and world cinema has been significant, inspiring a wave of new Latin American filmmakers and earning a place as a modern classic of global cinema.',
 DATE '2002-05-18',
 130,
-'{Crime, Drama, Action, "Coming of Age", "Social Realism", Thriller}',
+'{Crime, Drama, Action, "Coming of Age", "Social Commentary", Thriller}',
 'https://i.postimg.cc/XvKstrw8/city-of-god.jpg',
 'https://letterboxd.com/film/city-of-god/',
 '{https://i.postimg.cc/P5WMfKyj/City-Of-God-1.jpg,
@@ -50,6 +50,21 @@ DATE '2002-05-18',
 '997ae655-4119-4f6b-999a-08d8ef9ace25'
 );
 
-
-
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Ikiru', 
+'Ikiru is a 1952 Japanese film directed by Akira Kurosawa that follows a bureaucrat named Kanji Watanabe, who discovers he has terminal cancer and seeks to find meaning in his life. The film is known for its powerful themes of mortality, purpose, and the human condition, as well as Kurosawa''s masterful direction and innovative use of flashbacks. 
+Ikiru is widely regarded as one of Kurosawa''s greatest works and a masterpiece of world cinema, cementing his place as one of the most influential filmmakers of the 20th century.',
+DATE '1956-03-25',
+143,
+'{Drama, "Social Commentary", "Slice of Life"}',
+'https://i.postimg.cc/J4zdtfgQ/ikiru.jpg',
+'https://letterboxd.com/film/ikiru/',
+'{https://i.postimg.cc/zfFftHj5/ikiru-1.jpg,
+https://i.postimg.cc/mkt2gXG2/ikiru-2.jpg,
+https://i.postimg.cc/B6ZndZYF/ikiru-3.jpg,
+https://i.postimg.cc/1tW3Px2j/ikiru-4.jpg}',
+'Japan',
+'{"Death and Illness", "Existential Crisis", "Family Issues"}',
+'760a7cad-af2d-4178-9ddc-f23b53bfb288'
+);
 

@@ -27,3 +27,17 @@ NULL,
 'https://i.postimg.cc/WzWth4Tc/fernando-meirelles.jpg',
 'Brazil'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Akira Kurosawa',
+'Akira Kurosawa is widely regarded as one of the most influential and innovative filmmakers of the 20th century. He is known for his masterful storytelling, striking visual style, and deep exploration of human nature. 
+Kurosawa''s films often tackle complex themes such as honor, justice, and redemption, and he is especially acclaimed for his samurai epics such as "Seven Samurai" and "Yojimbo." 
+He is often considered as one of the greatest directors in the history of cinema, and his work continues to be celebrated and studied to this day.', 
+DATE '1910-03-23',
+DATE '1998-09-06',
+'https://i.postimg.cc/yx6bztcW/akira-kurosawa.jpg',
+'Japan'
+);
+
+
+

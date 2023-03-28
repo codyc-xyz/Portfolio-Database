@@ -123,6 +123,23 @@ https://i.postimg.cc/C1fryKSK/akira-4.jpg}',
 '80a3d133-34b6-40e8-a0c9-4471da6ad11f'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('An Autumn Afternoon',
+'An Autumn Afternoon is a 1962 Japanese film directed by Yasujirō Ozu. Known for its poetic portrayal of family life and societal changes in post-war Japan, the movie follows an aging father as he navigates his relationships with his children and contemplates the value of tradition versus modernity. 
+It is considered one of Ozu''s finest works and a masterpiece of Japanese cinema, praised for its delicate storytelling, contemplative pacing, and visually stunning composition. Its themes of intergenerational conflict, loneliness, and the passage of time make it a timeless classic.',
+DATE '1962-11-18',
+113,
+'{Drama, Romance, "Slice of Life"}',
+'https://i.postimg.cc/05KFhPC3/an-autumn-afternoon.jpg',
+'https://letterboxd.com/film/an-autumn-afternoon/',
+'{https://i.postimg.cc/TP08C0fc/an-autumn-afternoon-1.jpg,
+https://i.postimg.cc/ZRsGhq9B/an-autumn-afternoon-2.jpg,
+https://i.postimg.cc/d1VbXC0c/an-autumn-afternoon-3.jpg,
+https://i.postimg.cc/mkc0ZGMd/an-autumn-afternoon-4.jpg}',
+'Japan',
+'{Alcoholism, Ageism, Sexism}',
+'181ac6be-f419-44b5-a39e-75675a1b2c4f'
+);
 
 
 

@@ -79,3 +79,13 @@ NULL,
 'Japan'
 );
 
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Yasujirō Ozu',
+'Yasujirō Ozu was a highly influential Japanese film director known for his distinct style and focus on everyday family life in post-war Japan. His films often portrayed the tensions between traditional Japanese values and modernization, with a particular emphasis on the role of family relationships in navigating these changes.
+Ozu''s work has been widely recognized for its understated beauty, use of static camera shots, and emphasis on small moments of intimacy and connection. He is widely regarded as one of the most influential directors of the 20th century, and his films continue to be celebrated for their profound insights into the human condition.',
+DATE '1903-12-12',
+DATE '1963-12-12',
+'https://i.postimg.cc/sD1G9H93/yasujiro-ozu.jpg',
+'Japan'
+);
+

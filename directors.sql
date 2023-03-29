@@ -99,3 +99,22 @@ DATE '1997-12-20',
 'Japan'
 );
 
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('François Truffaut',
+'François Truffaut was a French film director known for his contributions to the French New Wave movement. His films often explored the themes of love, relationships, and the struggles of youth.
+ Truffaut''s style emphasized naturalistic performances and handheld camera work, giving his films a sense of intimacy and immediacy. He is widely regarded as one of the most important and influential filmmakers of the 20th century.',
+ DATE '1932-02-06',
+ DATE '1984-10-21',
+ 'https://i.postimg.cc/2jFDr9jC/francois-truffaut.jpg',
+ 'France'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Stanley Kubrick',
+'Stanley Kubrick was a renowned filmmaker known for his technical mastery, bold artistic vision, and uncompromising approach to filmmaking. He tackled a wide range of themes in his films, from the human condition and the nature of violence, to societal norms and the dangers of technology. 
+Kubrick''s films are often regarded as some of the most influential and groundbreaking works in cinema history, and his legacy continues to inspire and shape contemporary filmmaking.',
+DATE '1928-07-26',
+DATE '1999-03-07',
+'https://i.postimg.cc/QMqgtyCD/stanley-kubrick.jpg',
+'United States of America'
+);

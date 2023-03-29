@@ -196,3 +196,41 @@ https://i.postimg.cc/KYNpXmzS/tampopo-4.jpg}',
 'b67010ea-9bcf-430a-b03e-88200dc08c29'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The 400 Blows',
+'The 400 Blows is a groundbreaking French New Wave film that follows the story of a troubled adolescent boy named Antoine, who rebels against his parents, school, and society. 
+Directed by François Truffaut, the movie is known for its raw and honest portrayal of youth, its innovative cinematography, and its exploration of themes such as alienation, youth delinquency, and the search for personal freedom.',
+DATE '1959-05-04',
+99,
+'{Drama, "Coming of Age", "Art House", "Psychological Drama"}',
+'https://i.postimg.cc/fLYNPDRh/the-400-blows.jpg',
+'https://letterboxd.com/film/the-400-blows/',
+'{https://i.postimg.cc/qMrpKhMX/the-400-blows-1.jpg,
+https://i.postimg.cc/W1WVx5mX/the-400-blows-2.jpg,
+https://i.postimg.cc/8zPDy2v7/the-400-blows-3.jpg,
+https://i.postimg.cc/DzShh1BF/the-400-blows-4.jpg
+}',
+'France',
+'{"Child Abuse"}',
+'5fb797ba-edff-4bb0-96d9-8d86260ca5ca'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Shining',
+'The Shining is a horror classic directed by Stanley Kubrick and based on the novel by Stephen King. Known for its iconic imagery, eerie soundtrack, and Jack Nicholson''s unforgettable performance as Jack Torrance, the film explores themes of isolation, madness, and the supernatural. 
+It has been lauded for its use of cinematography, symbolism, and subtext, and is widely regarded as one of the greatest horror films ever made.',
+DATE '1980-05-23',
+144,
+'{Horror, Thriller, Drama, Mystery, "Psychological Thriller"}',
+'https://i.postimg.cc/kGgjf01M/the-shining.jpg',
+'https://letterboxd.com/film/the-shining/',
+'{https://i.postimg.cc/Z5QCR6tw/the-shining-1.jpg,
+https://i.postimg.cc/nLQMQMnp/the-shining-2.jpg,
+https://i.postimg.cc/xCD8GYdH/the-shining-3.jpg,
+https://i.postimg.cc/mDYD8qcn/the-shining-4.jpg
+}',
+'United States of America',
+'{Violence, Gore, "Mental Illness"}',
+'a653eb3e-ca6b-486c-bf87-4e075491cda5'
+);
+

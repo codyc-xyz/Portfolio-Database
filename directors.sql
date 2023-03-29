@@ -89,3 +89,13 @@ DATE '1963-12-12',
 'Japan'
 );
 
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Juzo Itami',
+'Juzo Itami was a renowned Japanese director known for his witty and satirical films that tackled societal issues with humor and insight. His works often explored the complexities of modern Japanese culture and the clash between traditional and contemporary values. 
+Itami''s unique approach to storytelling and his ability to blend humor and drama has made him a significant figure in Japanese cinema and an influence on filmmakers around the world.',
+DATE '1933-05-15',
+DATE '1997-12-20',
+'https://i.postimg.cc/HxJGc1cw/juzo-itami.jpg',
+'Japan'
+);
+

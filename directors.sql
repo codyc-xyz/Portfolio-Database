@@ -139,3 +139,22 @@ DATE '2006-11-20',
 'United States of America'
 );
 
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Park Chan-wook',
+'Park Chan-wook is a highly acclaimed South Korean director known for his provocative and visually stunning films that explore the darker aspects of human nature. His works often delve into themes of revenge, redemption, and morality, and are characterized by their intricate storytelling, complex characters, and bold cinematic style. 
+Park''s unique voice and artistic vision have established him as a significant figure in contemporary cinema, with his films widely regarded as some of the most influential works in modern Korean and world cinema.',
+DATE '1963-08-23',
+NULL,
+'https://i.postimg.cc/P5yTd6NR/park-chan-wook.webp',
+'South Korea'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Peter Weir', 
+'Peter Weir is an Australian director known for his visually stunning films that explore themes of isolation, identity, and cultural clashes. His work often features characters who find themselves in unfamiliar environments and must navigate the complexities of human relationships. Weir''s films are often praised for their evocative imagery and thought-provoking narratives.',
+DATE '1944-08-21',
+NULL,
+'https://i.postimg.cc/NFTKsLJD/peter-weir.jpg',
+'Australia'
+);
+

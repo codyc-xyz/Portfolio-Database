@@ -255,7 +255,7 @@ https://i.postimg.cc/gjWc7yFm/in-the-mood-for-love-4.jpg
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Player',
-'"The Player" is a 1992 satirical black comedy film directed by Robert Altman. The movie is known for its clever use of meta-narrative and its commentary on the Hollywood film industry. The plot follows a cynical movie executive, played by Tim Robbins, who becomes embroiled in a murder plot while trying to navigate the cutthroat world of movie-making. The film''s themes of power, corruption, and betrayal are expertly woven into its plot, making it a standout in the genre.',
+'The Player is a 1992 satirical black comedy film directed by Robert Altman. The movie is known for its clever use of meta-narrative and its commentary on the Hollywood film industry. The plot follows a cynical movie executive, played by Tim Robbins, who becomes embroiled in a murder plot while trying to navigate the cutthroat world of movie-making. The film''s themes of power, corruption, and betrayal are expertly woven into its plot, making it a standout in the genre.',
 DATE '1992-04-03',
 124,
 '{Drama, Comedy, Crime, Satire}',
@@ -268,4 +268,41 @@ https://i.postimg.cc/5y8RyvR7/the-player-4.jpg}',
 'United States of America',
 '{Violence, "Strong Language", "Sexual Content"}',
 '70440f68-4875-434d-b935-bc334958f549'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Handmaiden',
+'The Handmaiden is a critically acclaimed South Korean film known for its intricate plot, stunning visuals, and exploration of themes such as love, betrayal, and power dynamics. Directed by Park Chan-wook, the film is a period piece set in Japanese-occupied Korea and follows the story of a young Korean handmaiden who is hired by a wealthy Japanese heiress. As the two women become closer, their relationship becomes increasingly complex, leading to unexpected twists and turns. 
+With its provocative themes and masterful storytelling, The Handmaiden has earned its place as a standout film in both South Korean cinema and the broader international film canon.',
+DATE '2016-05-14',
+144,
+'{Drama, Romance, Thriller, Mystery, Historical, Crime}',
+'https://i.postimg.cc/CxrMjPYf/the-handmaiden.jpg',
+'https://letterboxd.com/film/the-handmaiden/',
+'{https://i.postimg.cc/vmDrzNnR/the-handmaiden-1.jpg,
+https://i.postimg.cc/26Z4pLT2/the-handmaiden-2.jpg,
+https://i.postimg.cc/NF8mFh3X/the-handmaiden-3.jpg,
+https://i.postimg.cc/5yW8f9R1/the-handmaiden-4.jpg}',
+'South Korea',
+'{"Sexual Violence", Nudity, Abuse}',
+'9c92fb06-ff01-4b51-847f-334050b70917'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Truman Show',
+'The Truman Show is a critically acclaimed film known for its innovative concept and profound thematic exploration of reality, free will, and human agency. The movie follows Truman Burbank, a man who has unknowingly lived his entire life as the star of a reality TV show. 
+As Truman begins to uncover the truth about his world, the film grapples with questions of personal identity and societal control.',
+DATE '1998-06-01',
+103,
+'{Drama, Comedy, "Science Fiction", "Psychological Thriller", Satire}',
+'https://i.postimg.cc/QCVq0gMt/the-truman-show.jpg',
+'https://letterboxd.com/film/the-truman-show/',
+'{https://i.postimg.cc/GhtMQy7V/the-truman-show-1.jpg,
+https://i.postimg.cc/tg3DTtJZ/the-truman-show-2.jpg,
+https://i.postimg.cc/wjswKddk/the-truman-show-3.jpg,
+https://i.postimg.cc/Bv9M4wSf/the-truman-show-4.jpg
+}',
+'United States of America',
+'{Manipulation, Gaslighting}',
+'c846f8bd-e01b-42a1-9b07-019e45547925'
 );

@@ -118,3 +118,24 @@ DATE '1999-03-07',
 'https://i.postimg.cc/QMqgtyCD/stanley-kubrick.jpg',
 'United States of America'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Wong Kar-wai',
+'Wong Kar-wai is a renowned Hong Kong filmmaker known for his stylish and poetic approach to storytelling. He is recognized for exploring themes of love, longing, and loss, often through the lens of urban loneliness and the intersection of modernity and tradition. 
+Wong''s work is notable for its distinct visual style, characterized by his use of vibrant colors, slow-motion cinematography, and intricate editing techniques.',
+DATE '1958-07-17',
+NULL,
+'https://i.postimg.cc/d1vCzG9J/wong-kar-wai.jpg',
+'Hong Kong'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Robert Altman',
+'Robert Altman was an American film director known for his unique style of filmmaking, often characterized by his use of ensemble casts, overlapping dialogue, and nonlinear storytelling. 
+He focused on themes of American culture and society, exploring topics such as power, corruption, and the human condition.',
+DATE '1925-02-20',
+DATE '2006-11-20',
+'https://i.postimg.cc/RCdqY8FY/robert-altman.jpg',
+'United States of America'
+);
+

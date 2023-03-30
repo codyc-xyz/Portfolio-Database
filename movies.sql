@@ -234,3 +234,38 @@ https://i.postimg.cc/mDYD8qcn/the-shining-4.jpg
 'a653eb3e-ca6b-486c-bf87-4e075491cda5'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('In the Mood for Love',
+'In the Mood for Love is a critically acclaimed film known for its lush visuals, mesmerizing score, and poignant exploration of love, loneliness, and missed connections. Set in 1960s Hong Kong, the film follows two neighbors who bond over their respective spouses'' infidelity and develop an unspoken attraction. 
+However, societal norms and personal obligations prevent them from acting on their feelings, leading to a beautifully heartbreaking meditation on the fleeting nature of love and the human longing for connection.',
+DATE '2000-05-20',
+98,
+'{Romance, Drama, "Art House", Historical}',
+'https://i.postimg.cc/MKkYDfCK/in-the-mood-for-love.jpg',
+'https://letterboxd.com/film/in-the-mood-for-love/',
+'{https://i.postimg.cc/q7WvsV1t/in-the-mood-for-love-1.jpg,
+https://i.postimg.cc/2y7jNqrv/in-the-mood-for-love-2.jpg,
+https://i.postimg.cc/DZsy5jNx/in-the-mood-for-love-3.jpg,
+https://i.postimg.cc/gjWc7yFm/in-the-mood-for-love-4.jpg
+}',
+'Hong Kong',
+'{Infidelity}',
+'b3f855be-6486-4e4d-9d66-66cfad778e40'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Player',
+'"The Player" is a 1992 satirical black comedy film directed by Robert Altman. The movie is known for its clever use of meta-narrative and its commentary on the Hollywood film industry. The plot follows a cynical movie executive, played by Tim Robbins, who becomes embroiled in a murder plot while trying to navigate the cutthroat world of movie-making. The film''s themes of power, corruption, and betrayal are expertly woven into its plot, making it a standout in the genre.',
+DATE '1992-04-03',
+124,
+'{Drama, Comedy, Crime, Satire}',
+'https://i.postimg.cc/sf5SnwdQ/the-player.jpg',
+'https://letterboxd.com/film/the-player/',
+'{https://i.postimg.cc/nzj58NYt/the-player-1.jpg,
+https://i.postimg.cc/MTCLztdf/the-player-2.jpg,
+https://i.postimg.cc/wxNPw8jX/the-player-3.jpg,
+https://i.postimg.cc/5y8RyvR7/the-player-4.jpg}',
+'United States of America',
+'{Violence, "Strong Language", "Sexual Content"}',
+'70440f68-4875-434d-b935-bc334958f549'
+);

@@ -168,3 +168,22 @@ DATE '2007-06-29',
 'Taiwan'
 );
 
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Sergei Parajanov',
+'Sergei Parajanov was a Soviet filmmaker known for his innovative and visually stunning approach to cinema. His films were characterized by their poetic, dreamlike quality, as well as their use of richly textured, symbolic imagery. 
+Parajanov''s work often explored themes of cultural identity, folklore, and spirituality, drawing on the traditions of his native Armenia and the wider Caucasus region. Despite facing censorship and persecution from Soviet authorities, Parajanov''s films have since gained recognition as major contributions to the world cinema canon.',
+DATE '1924-01-09',
+DATE '1990-07-20',
+'https://i.postimg.cc/Vs75hmCr/sergei-parajanov.jpg',
+'Armenia'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Alfonso Cuarón',
+'Alfonso Cuaron is a renowned director known for his visually stunning and thematically rich films that explore the complexities of human relationships and societal issues. 
+With a keen eye for detail and a unique cinematic style, Cuaron has established himself as a leading figure in contemporary filmmaking. His works often tackle themes such as family, identity, and political turmoil, while also incorporating elements of magical realism and social commentary.',
+DATE '1961-11-28',
+NULL,
+'https://i.postimg.cc/qq902kmg/alfonso-cuaron.webp',
+'Mexico'
+);

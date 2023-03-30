@@ -364,3 +364,39 @@ https://i.postimg.cc/MHQfzByP/terrorizers-4.jpg}',
 '0653d471-f70a-483a-8048-57ad64d64a0a'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Color of Pomegranates', 
+'The Color of Pomegranates is a visually stunning film known for its poetic and symbolic exploration of the life and work of the 18th-century Armenian poet, Sayat-Nova. Directed by Sergei Parajanov, the film features vivid, dreamlike imagery and a non-linear narrative structure that blurs the line between reality and imagination. 
+Through its themes of love, spirituality, and cultural identity, The Color of Pomegranates offers a unique and deeply personal reflection on Armenian history and culture. The Color of Pomegranates is considered a masterpiece of world cinema and is widely regarded as one of the greatest experimental films of all time.',
+DATE '1969-01-01',
+78,
+'{"Art House", Historical, Experimental}',
+'https://i.postimg.cc/sg2NjP6D/the-color-of-pomegranates.jpg',
+'https://letterboxd.com/film/the-color-of-pomegranates/',
+'{https://i.postimg.cc/0NGMV4mV/the-color-of-pomegranates-1.jpg,
+https://i.postimg.cc/pVc9czhM/the-color-of-pomegranates-2.jpg,
+https://i.postimg.cc/tJcY1GQ4/the-color-of-pomegranates-3.jpg,
+https://i.postimg.cc/1XX855dd/the-color-of-pomegranates-4.jpg}',
+'Soviet Union',
+'{"Animal Cruelty"}',
+'9e2dfdf2-b284-4fc6-a06d-ccab5119c7bd'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Roma',
+'Roma is a critically acclaimed film directed by Alfonso Cuarón, known for its stunning black and white cinematography and intimate portrayal of a middle-class family in 1970s Mexico City.
+The movie delves into themes of social class, family dynamics, and political turmoil, drawing from Cuarón''s own childhood experiences. Roma has been praised for its artistry and emotional depth, and has garnered numerous awards and nominations.',
+DATE '2018-08-30',
+135,
+'{Drama, Historical, "Art House"}',
+'https://i.postimg.cc/GhtnmsmK/roma.jpg',
+'https://letterboxd.com/film/roma-2018/',
+'{https://i.postimg.cc/P5JCffCZ/roma-1.jpg,
+https://i.postimg.cc/PxsJMm2z/roma-2.jpg,
+https://i.postimg.cc/R0nqfPQZ/roma-3.jpg,
+https://i.postimg.cc/htYfXFmY/roma-4.jpg}',
+'Mexico',
+'{Violence, "Domestic Abuse"}',
+'b403fd78-01d7-4fc7-8bce-bd133ac7d459'
+);
+

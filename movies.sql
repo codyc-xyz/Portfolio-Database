@@ -255,7 +255,8 @@ https://i.postimg.cc/gjWc7yFm/in-the-mood-for-love-4.jpg
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Player',
-'The Player is a 1992 satirical black comedy film directed by Robert Altman. The movie is known for its clever use of meta-narrative and its commentary on the Hollywood film industry. The plot follows a cynical movie executive, played by Tim Robbins, who becomes embroiled in a murder plot while trying to navigate the cutthroat world of movie-making. The film''s themes of power, corruption, and betrayal are expertly woven into its plot, making it a standout in the genre.',
+'The Player is a 1992 satirical black comedy film directed by Robert Altman. The movie is known for its clever use of meta-narrative and its commentary on the Hollywood film industry. 
+The plot follows a cynical movie executive, played by Tim Robbins, who becomes embroiled in a murder plot while trying to navigate the cutthroat world of movie-making. The film''s themes of power, corruption, and betrayal are expertly woven into its plot, making it a standout in the genre.',
 DATE '1992-04-03',
 124,
 '{Drama, Comedy, Crime, Satire}',
@@ -306,3 +307,60 @@ https://i.postimg.cc/Bv9M4wSf/the-truman-show-4.jpg
 '{Manipulation, Gaslighting}',
 'c846f8bd-e01b-42a1-9b07-019e45547925'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Yi Yi',
+'Yi Yi is a critically acclaimed drama film that explores the complexities of family, relationships, and the human experience. Directed by Taiwanese filmmaker Edward Yang, the movie is renowned for its subtle and insightful portrayal of everyday life and the struggles that come with it. 
+Through its exquisite cinematography, well-crafted characters, and meditative pacing, Yi Yi offers a profound and poignant reflection on the universal themes of love, loss, and personal growth.',
+DATE '2000-05-14',
+173,
+'{Drama, "Slice of Life", "Coming of Age", "Art House"}',
+'https://i.postimg.cc/vB5XSJCN/yi-yi.jpg',
+'https://letterboxd.com/film/yi-yi/',
+'{https://i.postimg.cc/cLHgJPMt/yi-yi-1.jpg,
+https://i.postimg.cc/7LJ537Rx/yi-yi-2.jpg,
+https://i.postimg.cc/SxvXYVDT/yi-yi-3.jpg,
+https://i.postimg.cc/Y91jV7kZ/yi-yi-4.png
+}',
+'Taiwan',
+'{Death, Infidelity}',
+'0653d471-f70a-483a-8048-57ad64d64a0a'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('A Brighter Summer Day',
+'A Brighter Summer Day is a Taiwanese coming-of-age film directed by Edward Yang, known for its intricate portrayal of youth culture, family dynamics, and societal issues in Taiwan during the 1960s. 
+The film''s central themes revolve around identity, alienation, and the search for meaning in a rapidly changing world. It is widely regarded as a masterpiece of Taiwanese cinema and a quintessential work of the New Taiwan Cinema movement.',
+DATE '1991-07-27',
+237,
+'{Drama, "Coming of Age", Historical, Romance}',
+'https://i.postimg.cc/FFSsTNGx/a-brighter-summer-day.jpg',
+'https://letterboxd.com/film/a-brighter-summer-day/',
+'{https://i.postimg.cc/d3hWj5GW/a-brighter-summer-day-1.jpg,
+https://i.postimg.cc/28BcqXky/a-brighter-summer-day-2.jpg,
+https://i.postimg.cc/cCPF9fmd/a-brighter-summer-day-3.webp,
+https://i.postimg.cc/xjZp1SSB/a-brighter-summer-day-4.jpg
+}',
+'Taiwan',
+'{Violence, Suicide}',
+'0653d471-f70a-483a-8048-57ad64d64a0a'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Terrorizers',
+'Terrorizers is a critically acclaimed Taiwanese film known for its haunting exploration of isolation, urban alienation, and interconnected lives. 
+Directed by Edward Yang, the movie weaves together a complex tapestry of characters, relationships, and events that reflect the anxieties and disorientations of modern urban life. With its nuanced storytelling, evocative cinematography, and poignant themes, Terrorizers is considered a masterpiece of Taiwanese cinema.',
+DATE '1986-12-19',
+110,
+'{"Thriller", Crime, Drama}',
+'https://i.postimg.cc/kGKG0mmL/terrorizers.jpg',
+'https://letterboxd.com/film/terrorizers/',
+'{https://i.postimg.cc/d0sCGLY3/terrorizers-1.jpg,
+https://i.postimg.cc/FRqJtpJk/terrorizers-2.jpg,
+https://i.postimg.cc/gJr6BQrP/terrorizers-3.jpg,
+https://i.postimg.cc/MHQfzByP/terrorizers-4.jpg}',
+'Taiwan',
+'{Violence, Suicide, Infidelity}',
+'0653d471-f70a-483a-8048-57ad64d64a0a'
+);
+

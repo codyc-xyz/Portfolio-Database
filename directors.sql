@@ -158,3 +158,13 @@ NULL,
 'Australia'
 );
 
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Edward Yang',
+'Edward Yang was a highly acclaimed Taiwanese filmmaker known for his meticulous approach to storytelling and his ability to capture the complexities of contemporary Taiwanese society. Yang was a prominent figure in the "New Taiwanese Cinema" movement, which emerged in the 1980s and revitalized Taiwanese cinema.
+His films often explored themes of urban alienation, generational conflict, and the struggle for personal and cultural identity.',
+DATE '1947-11-06',
+DATE '2007-06-29',
+'https://i.postimg.cc/XN1qZrrQ/edward-yang.jpg',
+'Taiwan'
+);
+

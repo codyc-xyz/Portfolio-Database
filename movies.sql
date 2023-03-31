@@ -400,3 +400,38 @@ https://i.postimg.cc/htYfXFmY/roma-4.jpg}',
 'b403fd78-01d7-4fc7-8bce-bd133ac7d459'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Y Tu Mamá También',
+'Y Tu Mamá También is a critically acclaimed Mexican film known for its coming-of-age story, complex characters, and exploration of class, sexuality, and Mexican society. Directed by Alfonso Cuarón, the movie follows two teenage boys who embark on a road trip with an older woman, exploring their relationships and the social and political realities of Mexico. 
+Y Tu Mamá También is recognized for its honest and raw portrayal of adolescence and its unique blend of humor and tragedy. It has earned significant praise for its themes of friendship, love, and loss.',
+DATE '2001-06-08',
+106,
+'{Drama, "Coming of Age", Romance, Comedy}',
+'https://i.postimg.cc/cLgXGXxT/y-tu-mama-tambien.jpg',
+'https://letterboxd.com/film/y-tu-mama-tambien/',
+'{https://i.postimg.cc/Y08Mkt3c/y-tu-mama-tambien-1.jpg,
+https://i.postimg.cc/DyjnMy0L/y-tu-mama-tambien-2.jpg,
+https://i.postimg.cc/pXXPCnWP/y-tu-mama-tambien-3.jpg,
+https://i.postimg.cc/wxk6DkdW/y-tu-mama-tambien-4.jpg}',
+'Mexico',
+'{"Sexual Content", Nudity, "Strong Language"}',
+'b403fd78-01d7-4fc7-8bce-bd133ac7d459'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Children of Men',
+'"Children of Men" is a dystopian science-fiction film known for its raw, gritty portrayal of a world plagued by infertility and social unrest. The film''s central themes explore hope, despair, and the human condition in a time of crisis, as the last remaining pregnant woman becomes the hope for humanity''s survival.
+With stunning cinematography and visceral action sequences, "Children of Men" has become a modern classic, recognized for its bold and thought-provoking approach to the dystopian genre.',
+DATE '2006-09-03',
+109,
+'{"Science Fiction", Thriller, Action, Adventure}',
+'https://i.postimg.cc/BnRgNHGy/children-of-men.jpg',
+'https://letterboxd.com/film/children-of-men/',
+'{https://i.postimg.cc/pdDtN6K4/children-of-men-1.jpg,
+https://i.postimg.cc/ydj4x3QT/children-of-men-2.jpg,
+https://i.postimg.cc/HnLGyWF1/children-of-men-3.jpg,
+https://i.postimg.cc/JnMCR5qn/children-of-men-4.jpg}',
+'United Kingdom',
+'{Violence, "Disturbing Imagery", "Sexual Content"}',
+'b403fd78-01d7-4fc7-8bce-bd133ac7d459'
+);

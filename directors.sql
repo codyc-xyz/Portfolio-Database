@@ -187,3 +187,23 @@ NULL,
 'https://i.postimg.cc/qq902kmg/alfonso-cuaron.webp',
 'Mexico'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Shôhei Imamura',
+'Shôhei Imamura is a highly regarded Japanese filmmaker known for his exploration of complex human characters and social issues. Imamura''s works often examine the darker aspects of Japanese society, including corruption, sexual desire, and the psychological effects of World War II. 
+His distinct style combines realism and surrealism, showcasing a unique perspective on the human condition. Imamura was a key figure in the Japanese New Wave movement, which sought to challenge traditional cinematic conventions and push the boundaries of the medium. His work has been celebrated for its uncompromising vision and uncompromising honesty.',
+DATE '1926-09-15',
+DATE '2006-05-30',
+'https://i.postimg.cc/jSzCdZT0/shohei-imamura.jpg',
+'Japan'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Kurt Kuenne', 
+'Kurt Kuenne is a renowned director known for his thought-provoking explorations of the human condition. He delves deep into the complexities of relationships, loss, and redemption, often using his unique visual style to convey his message.
+ His films offer a compelling perspective on life and the world we live in, challenging audiences to reflect on their own experiences and values.',
+ DATE '1973-10-24',
+ NULL,
+'https://i.postimg.cc/52mf4DWc/kurt-kuenne.jpg',
+'United States of America'
+);

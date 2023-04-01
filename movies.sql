@@ -435,3 +435,39 @@ https://i.postimg.cc/JnMCR5qn/children-of-men-4.jpg}',
 '{Violence, "Disturbing Imagery", "Sexual Content"}',
 'b403fd78-01d7-4fc7-8bce-bd133ac7d459'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Vengeance is Mine', 
+'Vengeance is Mine is a critically acclaimed Japanese film known for its unflinching portrayal of a cold-blooded killer who eludes capture for years. The film explores themes of guilt, retribution, and the nature of evil, as the protagonist grapples with the consequences of his actions. 
+With its intense character study and unapologetic approach to violence, Vengeance is Mine has cemented its place as a seminal work in the genre of psychological thrillers and Japanese cinema at large.',
+DATE '1979-04-21',
+140,
+'{Crime, Drama, "Psychological Thriller"}',
+'https://i.postimg.cc/k4KzZ1tG/vengeance-is-mine.jpg',
+'https://letterboxd.com/film/vengeance-is-mine/',
+'{https://i.postimg.cc/766M6vCf/vengeance-is-mine-1.jpg,
+https://i.postimg.cc/MHf77ymw/vengeance-is-mine-2.jpg,
+https://i.postimg.cc/G34V7VML/vengeance-is-mine-3.jpg,
+https://i.postimg.cc/qgf8jz13/vengeance-is-mine-4.jpg}',
+'Japan',
+'{Violence, Rape, Murder}',
+'546a6ba8-941d-4d63-be32-e9295791e706'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Dear Zachary: A Letter to a Son About His Father',
+'"Dear Zachary: A Letter to a Son About His Father" is a heart-wrenching documentary that tells the story of a father''s murder and the devastating aftermath that ensues. 
+The film is known for its raw emotional power, expert storytelling, and powerful themes of love, loss, and justice. It is a standout in the genre of true crime documentaries and has earned critical acclaim for its masterful handling of its difficult subject matter.',
+DATE '2008-01-17',
+93,
+'{Documentary, Crime, Drama}',
+'https://i.postimg.cc/TwhpzfSY/dear-zachary-a-letter-to-a-son-about-his-father.jpg',
+'https://letterboxd.com/film/dear-zachary-a-letter-to-a-son-about-his-father/',
+'{https://i.postimg.cc/13PbRHQb/Dear-Zachary-a-Letter-to-a-Son-About-His-Father-1.jpg,
+https://i.postimg.cc/6p0g8v6q/Dear-Zachary-a-Letter-to-a-Son-About-His-Father-2.jpg,
+https://i.postimg.cc/JhzgZztq/Dear-Zachary-a-Letter-to-a-Son-About-His-Father-3.jpg,
+https://i.postimg.cc/Bv7zgfKG/Dear-Zachary-a-Letter-to-a-Son-About-His-Father-4.jpg}',
+'United States of America',
+'{"Child Murder", Suicide}',
+'eb2da03f-5217-4fdc-a332-22553f79221e'
+);

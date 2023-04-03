@@ -667,3 +667,42 @@ https://i.postimg.cc/htwTKMZ0/the-housemaid-4.jpg}',
 '{"Sexual Violence", Infanticide, Suicide}',
 'b8dd625e-0bdd-444e-a2ab-c751303bed28'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Chinatown',
+'Chinatown is a classic neo-noir film known for its intricate plot, stunning cinematography, and iconic performances by Jack Nicholson and Faye Dunaway. Set in 1930s Los Angeles, the movie follows private detective J.J. "Jake" Gittes as he uncovers corruption and scandal in the city''s water department. With themes of power, greed, and betrayal, Chinatown explores the dark underbelly of the American Dream.
+Directed by Roman Polanski, Chinatown is widely regarded as a masterpiece of the genre and has had a significant impact on film history, inspiring countless imitations and homages over the years.',
+DATE '1974-06-20',
+131,
+'{Crime, Mystery, Noir, Drama}',
+'https://i.postimg.cc/yx1Y0SHx/chinatown.jpg',
+'https://letterboxd.com/film/chinatown/',
+'{https://i.postimg.cc/mZngPknL/chinatown-1.jpg,
+https://i.postimg.cc/cJdspnvm/chinatown-2.jpg,
+https://i.postimg.cc/qvVBGY0W/chinatown-3.jpg,
+https://i.postimg.cc/gk6k8d9v/chinatown-4.jpg}',
+'United States of America',
+'{Racism, "Sexual Violence", Incest, Violence}',
+'3ac8c7bf-04a0-4173-a110-8ad80b90cc94'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Mulholland Drive',
+'Mulholland Drive is a surrealist neo-noir film directed by David Lynch, known for its mysterious plot, dream-like atmosphere, and nonlinear storytelling. The movie explores themes of identity, memory, and the dark underbelly of Hollywood through the story of an amnesiac woman and an aspiring actress.
+ Mulholland Drive has become a cult classic and is often cited as one of the greatest films of the 21st century, with its unconventional style and storytelling pushing the boundaries of traditional cinema.',
+DATE '2001-05-16',
+146,
+'{Mystery, "Psychological Thriller", Drama, Noir}',
+'https://i.postimg.cc/NFG2Qjdh/mulholland-drive.jpg',
+'https://letterboxd.com/film/mulholland-drive/',
+'{https://i.postimg.cc/MGKyWtH3/mulholland-drive-1.jpg,
+https://i.postimg.cc/fL1XfNK1/mulholland-drive-2.jpg,
+https://i.postimg.cc/QM4cV5W8/mulholland-drive-3.jpg,
+https://i.postimg.cc/vB4fnBWW/mulholland-drive-4.jpg}',
+'United States of America',
+'{Violence, Suicide, "Sexual Content"}',
+'227ab380-e623-4702-ad4d-70bf41026bc0'
+);
+
+
+

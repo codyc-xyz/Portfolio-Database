@@ -286,3 +286,12 @@ NULL,
 'France'
 );
 
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('David Lynch',
+'David Lynch is a visionary director known for his unique style and exploration of surreal, dreamlike themes. His work often delves into the darker aspects of human nature, with a particular focus on psychological horror and the subconscious mind. 
+Lynch''s films and television shows are characterized by their striking visuals, haunting soundscapes, and unconventional narratives that challenge audiences to question their own perceptions of reality.',
+DATE '1946-01-20',
+NULL,
+'https://i.postimg.cc/x1F1rCSN/david-lynch.jpg',
+'United States of America'
+);

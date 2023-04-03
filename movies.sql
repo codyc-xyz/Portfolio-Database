@@ -456,7 +456,7 @@ https://i.postimg.cc/qgf8jz13/vengeance-is-mine-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Dear Zachary: A Letter to a Son About His Father',
-'"Dear Zachary: A Letter to a Son About His Father" is a heart-wrenching documentary that tells the story of a father''s murder and the devastating aftermath that ensues. 
+'Dear Zachary: A Letter to a Son About His Father is a heart-wrenching documentary that tells the story of a father''s murder and the devastating aftermath that ensues. 
 The film is known for its raw emotional power, expert storytelling, and powerful themes of love, loss, and justice. It is a standout in the genre of true crime documentaries and has earned critical acclaim for its masterful handling of its difficult subject matter.',
 DATE '2008-01-17',
 93,
@@ -471,3 +471,147 @@ https://i.postimg.cc/Bv7zgfKG/Dear-Zachary-a-Letter-to-a-Son-About-His-Father-4.
 '{"Child Murder", Suicide}',
 'eb2da03f-5217-4fdc-a332-22553f79221e'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Belladona of Sadness',
+'Belladonna of Sadness is a 1973 Japanese animated film known for its vivid psychedelic imagery, erotic themes, and bold exploration of feminist and anti-establishment ideas. The movie follows the story of a young woman who, after being raped by the feudal lord of her village, turns to witchcraft to gain power and seek revenge. 
+The film''s use of psychedelic imagery and surreal storytelling techniques make it a cult classic among film enthusiasts, and its themes of liberation and empowerment continue to resonate with audiences today.',
+DATE '1973-06-27',
+86,
+'{Fantasy, Drama, Animation, Experimental, "Art House"}',
+'https://i.postimg.cc/BnmQ2MD9/belladonna-of-sadness.jpg',
+'https://letterboxd.com/film/belladonna-of-sadness/',
+'{https://i.postimg.cc/zGFp7RX1/belladonna-of-sadness-1.jpg,
+https://i.postimg.cc/4dq1y6wp/belladonna-of-sadness-2.jpg,
+https://i.postimg.cc/pd0CbbFG/belladonna-of-sadness-3.jpg,
+https://i.postimg.cc/J0X5ksdv/belladonna-of-sadness-4.jpg}',
+'Japan',
+'{"Sexual Violence", Nudity}',
+'d10deaf1-9b71-432d-83f4-6fd12ba1991e'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Rebels of the Neon God',
+'Rebels of the Neon God is a Taiwanese coming-of-age film known for its striking cinematography and exploration of disaffected youth in urban Taipei. Director Tsai Ming-liang''s first feature film, it follows the intersecting lives of three young men who are struggling with their place in society and the constraints of traditional values in a world that seems to have left them behind. 
+With themes of isolation, disillusionment, and urban decay, Rebels of the Neon God captures the spirit of Taiwanese youth culture in the 1990s with striking honesty.',
+DATE '1992-09-27',
+106,
+'{Drama, "Art House", "Coming of Age"}',
+'https://i.postimg.cc/T1Wh2mHL/rebels-of-the-neon-god.jpg',
+'https://letterboxd.com/film/rebels-of-the-neon-god/',
+'{https://i.postimg.cc/tRVMGJCL/rebels-of-the-neon-god-1.jpg,
+https://i.postimg.cc/RZvstTQB/rebels-of-the-neon-god-2.jpg,
+https://i.postimg.cc/m2Yphn9j/rebels-of-the-neon-god-3.jpg,
+https://i.postimg.cc/65J1WK8T/rebels-of-the-neon-god-4.jpg}',
+'Taiwan',
+'{Violence, "Sexual Content", "Drug Use"}',
+'0b37d7bb-859a-4508-8ffc-b9202e16d3a0'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Climax',
+'Climax is a 2018 French psychological horror film directed by Gaspar Noé, known for its stunning cinematography, provocative themes, and visceral dance sequences. The movie follows a group of dancers who are trapped in a school after drinking spiked sangria and descending into a nightmare of paranoia and chaos. 
+Climax is an unsettling exploration of human nature, addiction, and the consequences of giving in to primal desires. The film has been praised for its technical proficiency and has become a cult classic among horror fans and admirers of Noé''s provocative work.',
+DATE '2018-05-13',
+96,
+'{"Psychological Thriller", Drama, Horror, "Art House"}',
+'https://i.postimg.cc/xCfWmbWh/climax.jpg',
+'https://letterboxd.com/film/climax-2018/',
+'{https://i.postimg.cc/fRHHPgF2/climax-1.jpg,
+https://i.postimg.cc/TPFtd5Tn/climax-2.jpg,
+https://i.postimg.cc/RFtXNC0y/climax-3.jpg,
+https://i.postimg.cc/CKzvpspF/climax-4.jpg}',
+'France',
+'{"Drug use", Violence, Nudity}',
+'c9d957c0-5310-4312-b2fb-0a3d7962f6a0'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Shoplifters',
+'Shoplifters is a critically acclaimed Japanese film directed by Hirokazu Kore-eda, known for its emotional depth and exploration of family dynamics. The movie follows a group of impoverished individuals who rely on shoplifting to survive, and the unexpected bond they form with a young girl they take under their wing. 
+Through its nuanced portrayal of societal inequality, the film challenges viewers to question the meaning of family and the impact of poverty on human relationships.',
+DATE '2018-05-13',
+121,
+'{Drama, Crime}',
+'https://i.postimg.cc/JnVH1Z2w/shoplifters.jpg',
+'https://letterboxd.com/film/shoplifters/',
+'{https://i.postimg.cc/1zP42snP/shoplifters-1.jpg,
+https://i.postimg.cc/wjYBRgkJ/shoplifters-2.jpg,
+https://i.postimg.cc/0N82ZnFy/shoplifters-3.jpg,
+https://i.postimg.cc/qvcv8SmF/shoplifters-4.jpg}',
+'Japan',
+'{"Child Abuse", Death}',
+'7e90cf75-f95f-4a94-ba00-3f7844c45d3b'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Nobody Knows',
+'Nobody Knows is a poignant and heart-wrenching Japanese film directed by Hirokazu Kore-eda. Nobody Knows is known for its powerful storytelling, naturalistic performances, and intimate portrayal of family dynamics. 
+The movie follows four siblings who are forced to fend for themselves when their mother abandons them in a small Tokyo apartment. Through their struggles and relationships with each other, the film explores themes of isolation, abandonment, and the resilience of the human spirit.',
+DATE '2004-05-13',
+141,
+'{Drama}',
+'https://i.postimg.cc/yYPWSWLR/nobody-knows.jpg',
+'https://letterboxd.com/film/nobody-knows/',
+'{https://i.postimg.cc/t44dsKNX/nobody-knows-1.jpg,
+https://i.postimg.cc/cLkRwFFf/nobody-knows-2.jpg,
+https://i.postimg.cc/g0f3BnFJ/nobody-knows-3.jpg,
+https://i.postimg.cc/7LCgVSRd/nobody-knows-4.jpg}',
+'Japan',
+'{"Child Neglect", Abandonment}',
+'7e90cf75-f95f-4a94-ba00-3f7844c45d3b'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Something in the Air',
+'Something in the Air offers a thought-provoking depiction of youth rebellion and political turmoil in France after the May 1968 student protests. The movie is renowned for its immersive portrayal of the counterculture movement and the disillusionment experienced by its young activists, providing a poignant reflection on the choices and sacrifices made by a generation struggling with social and cultural transformation. 
+The film explores themes of artistic expression, activism, and the pursuit of personal and political freedom.',
+DATE '2012-09-03',
+122,
+'{Drama, "Coming of Age", Historical}',
+'https://i.postimg.cc/Y01HZcrt/something-in-the-air.jpg',
+'https://letterboxd.com/film/something-in-the-air/',
+'{https://i.postimg.cc/zDWH8V3G/something-in-the-air-1.jpg,
+https://i.postimg.cc/P5fCWyyC/something-in-the-air-2.jpg,
+https://i.postimg.cc/fTNtLD0j/something-in-the-air-3.jpg,
+https://i.postimg.cc/4NQKHq6C/something-in-the-air-4.jpg}',
+'France',
+'{"Drug Use", Nudity, Violence}',
+'41e2ffc8-32a9-428f-aaac-d50d5cf44665'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Trainspotting',
+'Trainspotting is a cult classic film known for its raw portrayal of addiction and the gritty reality of urban life in 1990s Scotland. Directed by Danny Boyle and based on Irvine Welsh''s novel of the same name, the film follows a group of young heroin addicts as they navigate the highs and lows of their drug-fueled existence. 
+Trainspotting explores themes of friendship, loyalty, mortality, and the pursuit of happiness amidst overwhelming adversity.',
+DATE '1996-02-23',
+93,
+'{Drama, Comedy, Crime}',
+'https://i.postimg.cc/wMhQmMKf/trainspotting.jpg',
+'https://letterboxd.com/film/trainspotting/',
+'{https://i.postimg.cc/wMtS8hmt/trainspotting-1.jpg,
+https://i.postimg.cc/wxPC5bCD/trainspotting-2.jpg,
+https://i.postimg.cc/Rhj2MN7g/trainspotting-3.jpg,
+https://i.postimg.cc/8P6qZmG9/trainspotting-4.jpg}',
+'United Kingdom',
+'{"Drug Use", Violence, Death}',
+'5daf5d47-bb9c-4e73-b4bd-cfbe2d2972d5'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Chungking Express',
+'Chungking Express is a critically acclaimed Hong Kong film known for its stylish direction, unconventional narrative structure, and themes of loneliness, love, and chance encounters in the bustling city of Hong Kong. Directed by Wong Kar-wai, the film is divided into two interconnected stories that explore the fleeting nature of relationships and the search for human connection in a rapidly changing world.',
+DATE '1994-07-14',
+98,
+'{Romance, Drama, Comedy, Crime, "Art House"}',
+'https://i.postimg.cc/jdTz1yJC/chungking-express.jpg',
+'https://letterboxd.com/film/chungking-express/',
+'{https://i.postimg.cc/cJtgCJ8V/chungking-express-1.jpg,
+https://i.postimg.cc/mDxcHGYh/chungking-express-2.jpg,
+https://i.postimg.cc/x8nc6yF2/chungking-express-3.jpg,
+https://i.postimg.cc/3Rgkjb11/chungking-express-4.jpg}',
+'Hong Kong',
+'{Violence, "Drug Use", "Sexual Content"}',
+'b3f855be-6486-4e4d-9d66-66cfad778e40'
+);
+

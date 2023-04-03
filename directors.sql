@@ -207,3 +207,52 @@ VALUES('Kurt Kuenne',
 'https://i.postimg.cc/52mf4DWc/kurt-kuenne.jpg',
 'United States of America'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Eiichi Yamamoto',
+'Eiichi Yamamoto is a renowned Japanese director who is known for his thought-provoking and visually stunning animated films. He is recognized for his exploration of unconventional and taboo themes such as sexuality, politics, and religion. 
+Yamamoto''s work often pushes the boundaries of traditional storytelling and incorporates elements of surrealism and experimentalism. His unique style and artistic vision have made him an influential figure in the world of animation, and his films have been praised for their depth, complexity, and social commentary.',
+DATE '1940-11-22',
+DATE '2021-09-07',
+'https://i.postimg.cc/hGv660YB/eiichi-yamamoto.jpg',
+'Japan'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Tsai Ming-Liang', 
+'Tsai Ming-Liang is a renowned Taiwanese film director known for his unique visual style and exploration of themes such as urban alienation, loneliness, and human connections. His films often feature long takes, minimal dialogue, and a contemplative pace, creating a profound and immersive cinematic experience. 
+Tsai''s work often portrays the struggle to connect with others in a fast-paced, urbanized world, and his films have been lauded for their poignant and provocative commentary on the human condition.',
+DATE '1957-10-27',
+NULL,
+'https://i.postimg.cc/0QTHF1gg/tsai-ming-liang.webp',
+'Malaysia'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Hirokazu Kore-eda',
+'Hirokazu Kore-eda is a highly acclaimed Japanese director known for his contemplative and humanistic approach to storytelling. His films often explore the complexities of family dynamics, the struggle to find meaning and purpose in life, and the inherent beauty and fragility of the human condition. 
+Kore-eda''s works are recognized for their nuanced characterizations and understated style, which have earned him a place among the most respected filmmakers of his generation.',
+DATE '1962-06-06',
+NULL,
+'https://i.postimg.cc/13ZPt43h/hirokazu-kore-eda.jpg',
+'Japan'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Olivier Assayas',
+'Olivier Assayas is a French film director known for his stylistic approach to storytelling and exploration of complex themes such as identity, relationships, and the passage of time. His works often feature unconventional narratives and nuanced characterizations, capturing the intricacies of the human experience with sensitivity and depth.',
+DATE '1955-01-25',
+NULL,
+'https://i.postimg.cc/J0BrYz81/olivier-assayas.jpg',
+'France'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Danny Boyle',
+'Danny Boyle is a highly regarded director known for his distinctive style and versatility. He is recognized for his ability to blend genres, experiment with visual storytelling techniques, and infuse his films with a unique energy and dynamism. 
+Boyle is also known for his exploration of themes such as the human condition, identity, and redemption, often delving into the darker aspects of society and the psyche.',
+DATE '1956-10-20',
+NULL,
+'https://i.postimg.cc/pVDQk0fC/danny-boyle.jpg',
+'United Kingdom'
+);

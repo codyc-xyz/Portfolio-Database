@@ -615,3 +615,55 @@ https://i.postimg.cc/3Rgkjb11/chungking-express-4.jpg}',
 'b3f855be-6486-4e4d-9d66-66cfad778e40'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Fallen Angels',
+'Fallen Angels is a critically acclaimed Hong Kong neo-noir film known for its visually stunning cinematography and complex exploration of urban loneliness and existential angst. The movie follows a hitman, his partner, and a lovelorn woman as they navigate the neon-lit streets of Hong Kong, weaving together stories of love, violence, and alienation. 
+With its atmospheric soundtrack and stylish direction by Wong Kar-wai, "Fallen Angels" is a haunting meditation on the human condition and the search for connection in a world of isolation.',
+DATE '1995-09-06',
+96,
+'{Drama, Crime, Romance, Noir, "Art House"}',
+'https://i.postimg.cc/W4DD4Nmx/fallen-angels.jpg',
+'https://letterboxd.com/film/fallen-angels/',
+'{https://i.postimg.cc/FzfmyzzQ/fallen-angels-1.jpg,
+https://i.postimg.cc/VsTzYqZs/fallen-angels-2.jpg,
+https://i.postimg.cc/NFWtpt22/fallen-angels-3.jpg,
+https://i.postimg.cc/dtywDhg2/fallen-angels-4.jpg}',
+'Hong Kong',
+'{Violence, "Sexual Content", Death, "Strong Language"}',
+'b3f855be-6486-4e4d-9d66-66cfad778e40'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Manila in the Claws of Light',
+'Manila in the Claws of Light is a 1975 Philippine film directed by Lino Brocka that is renowned for its gritty portrayal of poverty and social injustice in Manila. The movie follows the story of a young provincial man who moves to Manila to find his lover, only to be thrust into the harsh realities of urban life. 
+Through its vivid depiction of Manila''s underbelly, the film explores themes of powerlessness, corruption, and the human struggle for survival.',
+DATE '1975-07-16',
+125,
+'{Drama, Crime, "Social Commentary"}',
+'https://i.postimg.cc/ZqNFstst/manila-in-the-claws-of-light.jpg',
+'https://letterboxd.com/film/manila-in-the-claws-of-light/',
+'{https://i.postimg.cc/Pq8s6JkX/manila-in-the-claws-of-light-1.jpg,
+https://i.postimg.cc/hjWFNnS9/manila-in-the-claws-of-light-2.jpg,
+https://i.postimg.cc/hjLFBYjN/manila-in-the-claws-of-light-3.jpg,
+https://i.postimg.cc/Hnmg8gRp/manila-in-the-claws-of-light-4.jpg}',
+'Philippines',
+'{"Sexual Content", Violence}',
+'d744a1b7-49a4-43c4-888e-58024ba5ca00'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Housemaid',
+'The Housemaid by Kim Ki-young is a highly acclaimed Korean film known for its disturbing portrayal of a middle-class family''s descent into madness and destruction after hiring a seductive and manipulative housemaid. The film explores themes of power dynamics, sexuality, and class struggle, and its shocking and controversial content has earned it a reputation as a classic of Korean cinema.',
+DATE '1960-11-03',
+108,
+'{Drama, "Psychological Thriller", "Art House", Horror}',
+'https://i.postimg.cc/rmjBrdrQ/the-housemaid.jpg',
+'https://letterboxd.com/film/the-housemaid/',
+'{https://i.postimg.cc/TYfcskBL/the-housemaid-1.jpg,
+https://i.postimg.cc/HsYQzr7b/the-housemaid-2.jpg,
+https://i.postimg.cc/d0yd3dzc/the-housemaid-3.jpg,
+https://i.postimg.cc/htwTKMZ0/the-housemaid-4.jpg}',
+'South Korea',
+'{"Sexual Violence", Infanticide, Suicide}',
+'b8dd625e-0bdd-444e-a2ab-c751303bed28'
+);

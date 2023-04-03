@@ -256,3 +256,33 @@ NULL,
 'https://i.postimg.cc/pVDQk0fC/danny-boyle.jpg',
 'United Kingdom'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Lino Brocka', 
+'Lino Brocka was a prominent Filipino director known for his socially relevant films that addressed themes of poverty, corruption, and oppression. He was a leading figure in Philippine cinema during the 1970s and 1980s, and his works are considered to be seminal contributions to the country''s cinematic heritage. 
+Brocka''s films were characterized by their raw realism, intense drama, and unflinching portrayal of Philippine society''s struggles.',
+DATE '1939-04-03',
+DATE '1991-05-22',
+'https://i.postimg.cc/NFSkCJxz/lino-brocka.jpg',
+'Philippines'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Kim Ki-young',
+'Kim Ki-young was a South Korean filmmaker known for his unique and daring approach to storytelling, often exploring controversial themes such as sexuality, obsession, and power dynamics. His films were characterized by their psychological depth and unconventional narrative structures, earning him a reputation as one of the most influential filmmakers in South Korean cinema history. 
+Despite facing censorship and backlash during his career, Kim''s works have since been recognized for their profound impact on the development of Korean cinema and their enduring legacy.',
+DATE '1919-10-10',
+DATE '1998-02-05',
+'https://i.postimg.cc/hvNLGrpx/kim-ki-young.jpg',
+'South Korea'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Roman Polanski',
+'Roman Polanski is a Polish-French director known for his bold and controversial approach to filmmaking. Throughout his career, he has explored themes of isolation, paranoia, and psychological terror, often delving into the darker corners of the human psyche. Polanski''s work has been praised for its technical mastery, as well as its willingness to confront uncomfortable truths about human nature.',
+DATE '1933-08-18',
+NULL,
+'https://i.postimg.cc/BvHgydZF/roman-polanski.jpg',
+'France'
+);
+

@@ -335,3 +335,24 @@ NULL,
 'https://i.postimg.cc/GhNWH15g/bong-joon-ho.jpg',
 'South Korea'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Paul Schrader', 
+'Paul Schrader is a renowned director known for his exploration of themes such as alienation, isolation, and spiritual crisis. His work often delves into the darker aspects of the human condition, and his films are known for their psychological depth and intense character studies. 
+Schrader''s distinctive visual style and ability to elicit powerful performances from his actors have made him a highly respected figure in the world of cinema.',
+DATE '1946-07-22',
+NULL,
+'https://i.postimg.cc/rpN94SQZ/paul-schrader.jpg',
+'United States of America'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Andrei Tarkovsky',
+'Andrei Tarkovsky was a Russian filmmaker known for his poetic and deeply philosophical approach to cinema. He is recognized for his masterful use of long takes, atmospheric soundscapes, and surreal imagery to create profound meditations on humanity, spirituality, and the meaning of existence. 
+Tarkovsky''s films often explore themes such as memory, time, and the relationship between nature and civilization, inviting viewers to reflect deeply on the nature of existence and the role of art in illuminating our innermost truths.',
+DATE '1932-04-04',
+DATE '1986-12-29',
+'https://i.postimg.cc/D0Rydfhj/andrei-tarkovsky.jpg',
+'Russia'
+);
+

@@ -776,3 +776,40 @@ https://i.postimg.cc/pd6gwMtt/parasite-4.jpg}',
 '{Violence, Gore}',
 '11f93e18-5ffb-44c2-8e2b-4bf86feeeea4'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Mishima: A Life in Four Chapters',
+'Mishima: A Life in Four Chapters is a visually stunning biopic that explores the life of the controversial Japanese author and political activist, Yukio Mishima. Directed by Paul Schrader, the film is known for its unique thematic structure, which weaves together scenes from Mishima''s life, his fictional works, and his last day before his suicide. 
+Through its poetic and dreamlike imagery, the film explores themes of masculinity, nationalism, and the struggle for identity in a changing world. Mishima: A Life in Four Chapters is considered a masterpiece of 1980s cinema, and continues to be praised for its innovative approach to biography and its visual storytelling.',
+DATE '1985-10-04',
+120,
+'{Drama, "Art House", Historical}',
+'https://i.postimg.cc/BvPrGZcB/mishima-a-life-in-four-chapters.jpg',
+'https://letterboxd.com/film/mishima-a-life-in-four-chapters/',
+'{https://i.postimg.cc/wv1JxPbz/mishima-a-life-in-four-chapters-1.jpg,
+https://i.postimg.cc/hvxdTmB3/mishima-a-life-in-four-chapters-2.jpg,
+https://i.postimg.cc/JnSXsq9k/mishima-a-life-in-four-chapters-3.jpg,
+https://i.postimg.cc/9XqTv67t/mishima-a-life-in-four-chapters-4.jpg}',
+'United States of America',
+'{Suicide, Violence, Nudity}',
+'c6081c89-d043-46c3-8de0-feb5fcb7de3f'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Stalker',
+'Stalker is a science fiction masterpiece directed by Andrei Tarkovsky, known for its hauntingly beautiful visuals and philosophical themes. The film follows a guide, a writer, and a scientist as they journey into a mysterious and forbidden area called the "Zone" in search of a room that grants wishes. Along the way, they confront existential questions about faith, knowledge, and the human condition. 
+Stalker is regarded as one of the greatest works in cinema history, praised for its profound exploration of the relationship between man and the unknown, and its influence on science fiction and art-house cinema.',
+DATE '1979-05-25',
+161,
+'{"Science Fiction", Drama, "Psychological Thriller", "Art House"}',
+'https://i.postimg.cc/Y0rynQrj/stalker.jpg',
+'https://letterboxd.com/film/stalker/',
+'{https://i.postimg.cc/y6TrtpSd/stalker-1.jpg,
+https://i.postimg.cc/CLPrLZ7p/stalker-2.jpg,
+https://i.postimg.cc/5NNkV5wm/stalker-3.jpg,
+https://i.postimg.cc/Z5W79TsB/stalker-4.jpg}',
+'Russia',
+'{Violence, Suicide}',
+'386ded26-0232-4e5c-8c3c-ec7018140ade'
+);
+

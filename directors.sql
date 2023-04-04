@@ -304,3 +304,34 @@ DATE '2017-10-12',
 'https://i.postimg.cc/5NwZF5qS/hu-bo.webp',
 'China'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Errol Morris',
+'Errol Morris is a renowned American filmmaker known for his unique style of documentary storytelling. He has been recognized for his ability to capture complex and controversial subjects with a journalistic approach, often challenging the audience''s preconceptions. 
+Morris has focused on a wide range of themes in his work, including the nature of truth and reality, the ethics of representation, and the human condition. He is particularly well-known for his exploration of controversial and complex topics such as crime, politics, and war. 
+His films are characterized by their attention to detail, use of reenactments, and the use of innovative techniques to capture interviews. Morris is considered one of the most influential documentary filmmakers of our time.',
+DATE '1948-02-05',
+NULL,
+'https://i.postimg.cc/HnZ40kp7/errol-morris.jpg',
+'United States of America'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Orson Welles',
+'Orson Welles was a highly influential American filmmaker, known for his innovative techniques and experimentation in the art of filmmaking. He is best known for his works in the Golden Age of Hollywood, which pushed the boundaries of narrative structure, visual style, and storytelling. 
+Themes explored in his films often included the corrupting influence of power, the blurred line between truth and fiction, and the fragility of the human psyche.',
+DATE '1915-05-06',
+DATE '1985-10-10',
+'https://i.postimg.cc/zBbV2wY7/orson-welles.jpg',
+'United States of America'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Bong Joon-ho',
+'Bong Joon-ho is a renowned South Korean film director known for his masterful storytelling, unique visual style, and thought-provoking themes. He is particularly known for exploring societal issues such as class inequality, environmentalism, and the human condition. 
+Bong''s films often incorporate elements of black comedy, satire, and suspense, and he is widely regarded as one of the most innovative and influential directors working today.',
+DATE '1969-09-14',
+NULL,
+'https://i.postimg.cc/GhNWH15g/bong-joon-ho.jpg',
+'South Korea'
+);

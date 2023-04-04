@@ -719,6 +719,60 @@ https://i.postimg.cc/k4Sv2s3Q/an-elephant-sitting-still-3.jpg,
 https://i.postimg.cc/cCNMw30V/an-elephant-sitting-still-4.jpg}',
 'China',
 '{Suicide, Violence, Death}',
-'38389229-be51-442c-a121-88042c9a446a');
+'38389229-be51-442c-a121-88042c9a446a'
+);
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Thin Blue Line',
+'The Thin Blue Line is a groundbreaking documentary known for its innovative approach to storytelling and its exploration of the justice system''s flaws. Director Errol Morris uses reenactments, interviews, and stylized visuals to investigate the wrongful conviction of Randall Dale Adams for the murder of a police officer. 
+The film raises questions about truth, memory, and the reliability of witness testimony, and has had a significant impact on the true crime genre and the criminal justice system.',
+DATE '1988-03-18',
+103,
+'{Documentary, Crime, Mystery}',
+'https://i.postimg.cc/c4cvrLxs/the-thin-blue-line.jpg',
+'https://letterboxd.com/film/the-thin-blue-line/',
+'{https://i.postimg.cc/GpKKKCxr/the-thin-blue-line-1.jpg,
+https://i.postimg.cc/k45chpTS/the-thin-blue-line-2.jpg,
+https://i.postimg.cc/D0Jc7bky/the-thin-blue-line-3.jpg,
+https://i.postimg.cc/Sstr0fPv/the-thin-blue-line-4.jpg}',
+'United States of America',
+'{Violence, Murder}',
+'2c54a8c9-b06d-4431-b7f2-8e601d2ee441'
+);
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('F for Fake',
+'F for Fake is a 1973 film directed by Orson Welles, known for its experimental and playful approach to the documentary form. The movie is renowned for its exploration of the nature of truth and authenticity in art and life, and its examination of the blurred lines between reality and illusion. 
+Through interviews, archive footage, and re-enactments, F for Fake tells the story of art forger Elmyr de Hory and his biographer Clifford Irving, while also delving into broader themes of authorship, creativity, and the power of storytelling. 
+With its unique structure and philosophical insights, F for Fake is considered a landmark work in the history of documentary filmmaking and a testament to Welles'' formidable talent as a director and thinker.',
+DATE '1973-12-12',
+88,
+'{Documentary, "Art House", Experimental}',
+'https://i.postimg.cc/ydXQPMnK/f-for-fake.jpg',
+'https://letterboxd.com/film/f-for-fake/',
+'{https://i.postimg.cc/kGLnyRfL/f-for-fake-1.jpg,
+https://i.postimg.cc/mgYbQDM6/f-for-fake-2.jpg,
+https://i.postimg.cc/Bn9SLD8K/f-for-fake-3.jpg,
+https://i.postimg.cc/VLbsk4Nw/f-for-fake-4.jpg}',
+'United States of America',
+'{Nudity}',
+'69819657-50c2-4931-baee-f5f86be0d42f'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Parasite',
+'Parasite is a critically acclaimed South Korean film directed by Bong Joon-ho, known for its expertly crafted plot twists and biting social commentary on class inequality. The film explores the lives of two families from opposite ends of the socioeconomic spectrum, and their complicated relationship as they become intertwined in unexpected ways. 
+Parasite is renowned for its exploration of themes such as greed, privilege, and exploitation, and has been lauded for its masterful storytelling and cinematography.',
+DATE '2019-05-21',
+132,
+'{Thriller, Drama, Satire}',
+'https://i.postimg.cc/WzSXg08w/parasite.jpg',
+'https://letterboxd.com/film/parasite-2019/',
+'{https://i.postimg.cc/MGTC3KND/parasite-1.jpg,
+https://i.postimg.cc/8ch9fFf1/parasite-2.jpg,
+https://i.postimg.cc/MTfhx3Wf/parasite-3.jpg,
+https://i.postimg.cc/pd6gwMtt/parasite-4.jpg}',
+'South Korea',
+'{Violence, Gore}',
+'11f93e18-5ffb-44c2-8e2b-4bf86feeeea4'
+);

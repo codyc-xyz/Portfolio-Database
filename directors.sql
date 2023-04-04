@@ -295,3 +295,12 @@ NULL,
 'https://i.postimg.cc/x1F1rCSN/david-lynch.jpg',
 'United States of America'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Hu Bo',
+'Hu Bo was a Chinese filmmaker known for his poignant depictions of societal alienation, despair, and loneliness in modern urban China. His works often explored themes of human connection, identity, and the search for meaning in a rapidly changing world. Hu''s films were characterized by long takes, minimalistic dialogue, and a powerful visual language.',
+DATE '1988-07-20',
+DATE '2017-10-12',
+'https://i.postimg.cc/5NwZF5qS/hu-bo.webp',
+'China'
+);

@@ -704,5 +704,21 @@ https://i.postimg.cc/vB4fnBWW/mulholland-drive-4.jpg}',
 '227ab380-e623-4702-ad4d-70bf41026bc0'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('An Elephant Sitting Still',
+'An Elephant Sitting Still is a critically acclaimed Chinese drama film known for its powerful exploration of human desperation and isolation in the face of societal pressures. The film tells the interconnected stories of four individuals who are all struggling with their own personal crises. 
+The film is notable for its slow pace and minimalistic cinematography, which contribute to the intense emotional impact of its themes. Directed by Hu Bo, "An Elephant Sitting Still" is regarded as a masterpiece of contemporary Chinese cinema and has been praised for its unflinching portrayal of life on the margins.',
+DATE '2018-02-16',
+234,
+'{Drama, "Art House"}',
+'https://i.postimg.cc/tCYNK97Z/an-elephant-sitting-still.jpg',
+'https://letterboxd.com/film/an-elephant-sitting-still/',
+'{https://i.postimg.cc/1zfHQPvY/an-elephant-sitting-still-1.jpg,
+https://i.postimg.cc/nrYKkLLM/an-elephant-sitting-still-2.jpg,
+https://i.postimg.cc/k4Sv2s3Q/an-elephant-sitting-still-3.jpg,
+https://i.postimg.cc/cCNMw30V/an-elephant-sitting-still-4.jpg}',
+'China',
+'{Suicide, Violence, Death}',
+'38389229-be51-442c-a121-88042c9a446a');
 
 

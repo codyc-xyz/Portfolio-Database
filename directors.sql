@@ -356,3 +356,12 @@ DATE '1986-12-29',
 'Russia'
 );
 
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Jean-Luc Godard',
+'Jean-Luc Godard is a renowned French-Swiss film director who revolutionized cinema in the 1960s with his innovative and unconventional approach. He is known for his intellectual and philosophical approach to filmmaking, as well as his experimental use of sound, music, and visuals. 
+Godard''s films often explore political and social issues, such as class struggle, consumerism, and the Vietnam War, and are characterized by their fragmented narrative structure and deconstruction of cinematic conventions.',
+DATE '1930-12-03',
+DATE '2022-09-13',
+'https://i.postimg.cc/SxR8xJZf/jean-luc-godard.jpg',
+'France'
+);

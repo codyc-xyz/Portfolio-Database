@@ -813,3 +813,60 @@ https://i.postimg.cc/Z5W79TsB/stalker-4.jpg}',
 '386ded26-0232-4e5c-8c3c-ec7018140ade'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Still Walking',
+'Still Walking is a critically acclaimed Japanese drama film directed by Hirokazu Kore-eda, known for its nuanced exploration of family dynamics, grief, and memory. Set over the course of a single day, the film follows a family as they come together to commemorate the death of their eldest son, who drowned 15 years ago. 
+Through subtle performances and intimate character interactions, Kore-eda skillfully examines the complexities of familial relationships and the ways in which we grapple with loss and the passage of time. Widely regarded as a masterpiece of contemporary Japanese cinema, Still Walking is a poignant and thought-provoking meditation on the universal themes of love, loss, and acceptance.',
+DATE '2007-06-28',
+114,
+'{Drama, "Slice of Life"}',
+'https://i.postimg.cc/ncsZxQbN/still-walking.jpg',
+'https://letterboxd.com/film/still-walking/',
+'{https://i.postimg.cc/HWMn0Kjr/still-walking-1.jpg,
+https://i.postimg.cc/QxkMwTQs/still-walking-2.jpg,
+https://i.postimg.cc/YCrSHCRF/still-walking-3.jpg,
+https://i.postimg.cc/FHTHsXCB/still-walking-4.jpg}',
+'Japan',
+'{Death}',
+'7e90cf75-f95f-4a94-ba00-3f7844c45d3b'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Contempt',
+'Contempt by Godard is a 1963 French New Wave classic known for its meta-cinematic approach and exploration of themes such as artistic integrity, commodification of art, and the fragility of relationships. 
+The film follows a struggling screenwriter''s descent into contempt for his wife and his art, as he navigates the ruthless Hollywood film industry. Contempt has been lauded for its use of color and composition, as well as its commentary on the intersection of personal relationships and the commercialization of art.',
+DATE '1963-10-29',
+101,
+'{Drama, Romance, "Art House"}',
+'https://i.postimg.cc/vm8h99NG/contempt.jpg',
+'https://letterboxd.com/film/contempt/',
+'{https://i.postimg.cc/Kj0LRzwC/contempt-1.jpg,
+https://i.postimg.cc/qMZyrN83/contempt-2.jpg,
+https://i.postimg.cc/66cCHjqz/contempt-3.jpg,
+https://i.postimg.cc/KvYBCPgb/contempt-4.jpg}',
+'France',
+'{"Sexual Content", Nudity}',
+'9614b3c8-c92b-4d4c-af27-f8577cc47160'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Insiang',
+'Insiang is a powerful Filipino drama film known for its stark portrayal of poverty and oppression in Manila. The movie follows the titular character, Insiang, as she navigates the harsh realities of life in the slums and confronts the men who have wronged her. 
+With themes of survival, revenge, and female empowerment, Insiang stands out as a groundbreaking work of Filipino cinema and a timeless exploration of the human condition.',
+DATE '1976-12-25',
+94,
+'{Drama, "Coming of Age", "Social Commentary"}',
+'https://i.postimg.cc/q721gsLY/insiang.jpg',
+'https://letterboxd.com/film/insiang/',
+'{https://i.postimg.cc/NGZb8CzV/insiang-1.jpg,
+https://i.postimg.cc/W1vnCFjw/insiang-2.jpg,
+https://i.postimg.cc/jdNcMQVj/insiang-3.jpg,
+https://i.postimg.cc/GmxQCLmw/insiang-4.jpg}',
+'Philippines',
+'{"Sexual Assault", Violence}',
+'d744a1b7-49a4-43c4-888e-58024ba5ca00'
+);
+
+
+
+

@@ -920,10 +920,56 @@ https://i.postimg.cc/3NFYTd4N/8-1-2-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Perfect Blue',
-'Perfect Blue is a critically acclaimed Japanese animated psychological thriller film directed by Satoshi Kon. Known for its mind-bending narrative and visually stunning animation, the film follows a young pop idol named Mima who decides to leave her music career to pursue acting, but soon finds herself caught in a nightmarish reality where the line between illusion and reality blurs. "Perfect Blue" explores themes of identity, perception, and the dark side of fame, delving into the psychological turmoil of the protagonist as she grapples with her own sanity.',
-
-
-
+'Perfect Blue is a critically acclaimed Japanese animated psychological thriller film directed by Satoshi Kon. Known for its mind-bending narrative and visually stunning animation, the film follows a young pop idol named Mima who decides to leave her music career to pursue acting, but soon finds herself caught in a nightmarish reality where the line between illusion and reality blurs. 
+Perfect Blue explores themes of identity, perception, and the dark side of fame, delving into the psychological turmoil of the protagonist as she grapples with her own sanity.',
+DATE '1997-08-05',
+81,
+'{"Psychological Thriller", Mystery, Drama, Animation}',
+'https://i.postimg.cc/MpB90XMn/perfect-blue.jpg',
+'https://letterboxd.com/film/perfect-blue/',
+'{https://i.postimg.cc/rFVdCHDx/perfect-blue-1.jpg,
+https://i.postimg.cc/jS9LTdZ4/perfect-blue-2.jpg,
+https://i.postimg.cc/134fbNcz/perfect-blue-3.jpg,
+https://i.postimg.cc/ZKwWfLNg/perfect-blue-4.jpg}',
+'Japan',
+'{"Sexual Content", "Graphic Violence", Nudity, "Self-Harm"}',
 'c5f82644-d7b5-4dd1-bcce-7219334a5cd0'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Millenium Actress',
+'Millennium Actress is a mesmerizing Japanese animated film known for its captivating storytelling and unique blending of reality and fantasy. Directed by Satoshi Kon, it tells the story of a retired actress named Chiyoko, who reflects on her life and career while being interviewed by a documentary filmmaker. As she recounts her memories, the lines between her films and her own experiences blur, creating a beautiful and nostalgic journey through the history of Japanese cinema. 
+With its seamless transitions between different time periods and its exploration of themes such as love, loss, and the power of storytelling, "Millennium Actress" is a cinematic masterpiece that has gained critical acclaim for its artistic and narrative brilliance.',
+DATE '2001-07-28',
+87,
+'{Animation, Drama, Romance, Historical, Mystery, Fantasy}',
+'https://i.postimg.cc/9fBxnMdJ/millenium-actress.jpg',
+'https://letterboxd.com/film/millennium-actress/',
+'{https://i.postimg.cc/Bbq98kqn/millenium-actress-1.jpg,
+https://i.postimg.cc/Lsfrx25s/millenium-actress-2.jpg,
+https://i.postimg.cc/dV7MT8Kr/millenium-actress-3.jpg,
+https://i.postimg.cc/fR1G7JwF/millenium-actress-4.jpg}',
+'Japan',
+'{"Seizure Warning", Violence, Nudity, "Drug Use"}',
+'c5f82644-d7b5-4dd1-bcce-7219334a5cd0'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Close-Up',
+'Close-Up is a critically acclaimed Iranian film directed by Abbas Kiarostami, known for its unique blend of reality and fiction. The plot follows the true story of a struggling filmmaker who impersonates a famous Iranian director to befriend a wealthy family, resulting in a gripping courtroom drama. 
+Through its meta-narrative structure, Close-Up explores themes of identity, art, and truth, blurring the lines between reality and fiction. This landmark film is considered a masterpiece of Iranian cinema and has been praised for its innovative storytelling and thought-provoking commentary on the power of cinema.',
+DATE '1990-02-01',
+98,
+'{Drama, "Art House", Documentary}',
+'https://i.postimg.cc/0y9KCdfM/close-up.jpg',
+'https://letterboxd.com/film/close-up/',
+'{https://i.postimg.cc/Dy6p65TR/close-up-1.jpg,
+https://i.postimg.cc/hP2MTj8B/close-up-2.jpg,
+https://i.postimg.cc/jSCcXbvJ/close-up-3.jpg,
+https://i.postimg.cc/hGd0k1kD/close-up-4.jpg
+}',
+'Iran',
+'{"Mental Illness"}',
+'ddf4918b-ddca-4fa8-a198-6ca58b376c55'
 );
 

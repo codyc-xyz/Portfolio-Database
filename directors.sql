@@ -404,3 +404,12 @@ DATE '2010-08-24',
 'https://i.postimg.cc/qR9G2xLh/satoshi-kon.jpg',
 'Japan'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Abbas Kiarostami', 
+'Abbas Kiarostami, an internationally renowned Iranian director, is celebrated for his thought-provoking films that blur the line between reality and fiction. Known for his minimalist style and poetic approach, Kiarostami often delves into universal human experiences through subtle nuances and profound symbolism. His films tackle themes such as the intricacies of human relationships, the beauty of everyday moments, and the complexities of life and death.',
+DATE '1940-06-22',
+DATE '2016-07-04',
+'https://i.postimg.cc/BvKR64G0/abbas-kiarostami.jpg',
+'Iran'
+);

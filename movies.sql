@@ -867,6 +867,57 @@ https://i.postimg.cc/GmxQCLmw/insiang-4.jpg}',
 'd744a1b7-49a4-43c4-888e-58024ba5ca00'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Ballad of Narayama',
+'The Ballad of Narayama is a 1958 Japanese film directed by Keisuke Kinoshita that is known for its striking cinematography and exploration of the cyclical nature of life and death. Set in a remote village in Japan, the film tells the story of a community where elderly people are voluntarily taken to the top of a mountain to die. 
+The film''s thematic choices center around the harsh realities of life, the importance of community, and the inevitability of death.',
+DATE '1958-06-01',
+98,
+'{Drama, Historical, Tragedy, "Art House"}',
+'https://i.postimg.cc/rF3mwxz5/the-ballad-of-narayama.jpg',
+'https://letterboxd.com/film/the-ballad-of-narayama-1958/',
+'{https://i.postimg.cc/wTLXHqjx/the-ballad-of-narayama-1.jpg,
+https://i.postimg.cc/DzyLq1dm/the-ballad-of-narayama-2.jpg,
+https://i.postimg.cc/zftWp307/the-ballad-of-narayama-3.jpg,
+https://i.postimg.cc/VkFXrKt3/the-ballad-of-narayama-4.jpg}',
+'Japan',
+'{Violence, Cannabalism, Death}',
+'be757950-51fc-4aa6-a283-395196655acd'
+);
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Mommy',
+'Mommy is a critically acclaimed drama film known for its raw emotional power and exploration of complex familial relationships. Set in a fictional Canada where parents can legally institutionalize their troubled children, the film follows a widowed mother''s struggles to raise her violent and unpredictable son. T
+hrough its intimate portrayal of love, loss, and sacrifice, Mommy examines themes of motherhood, mental illness, and societal norms.',
+DATE '2014-05-22',
+138,
+'{Drama, "Coming of Age"}',
+'https://i.postimg.cc/28Py7BdR/mommy.jpg',
+'https://letterboxd.com/film/mommy-2014/',
+'{https://i.postimg.cc/3N9vSrB5/mommy-1.jpg,
+https://i.postimg.cc/NFtq0Bmn/mommy-2.jpg,
+https://i.postimg.cc/C1kpYzBD/mommy-3.jpg,
+https://i.postimg.cc/xdWVWKCn/mommy-4.jpg}',
+'Canada',
+'{Violence, "Strong Language", "Mental Illness"}',
+'62910616-628e-44e5-8a4c-1a5b3d27f875'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('8 1/2',
+'8 1/2 is a renowned Italian film directed by Federico Fellini, known for its avant-garde approach to storytelling and surrealistic visuals. The movie explores the struggles of a film director grappling with creative block and personal turmoil, delving into themes of artistic integrity, existentialism, and the blurred lines between reality and imagination.',
+DATE '1963-01-02',
+138,
+'{Drama, Comedy, "Art House"}',
+'https://i.postimg.cc/k4CQ5pY4/8-1-2.jpg',
+'https://letterboxd.com/film/8-half/',
+'{https://i.postimg.cc/q7WkXfHJ/8-1-2-1.jpg,
+https://i.postimg.cc/0jsPFpNh/8-1-2-2.jpg,
+https://i.postimg.cc/h4LSx3yn/8-1-2-3.jpg,
+https://i.postimg.cc/3NFYTd4N/8-1-2-4.jpg}',
+'Italy',
+'{"Sexual Content", Nudity, Infidelity, Suicide}',
+'8770af99-f7cd-49b0-a615-02ca43ea5a89'
+);
 
 

@@ -365,3 +365,42 @@ DATE '2022-09-13',
 'https://i.postimg.cc/SxR8xJZf/jean-luc-godard.jpg',
 'France'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Keisuke Kinoshita',
+'Keisuke Kinoshita was a highly regarded Japanese filmmaker known for his poignant and socially conscious films. His works often explored themes such as family dynamics, poverty, and the struggles of everyday people. 
+Kinoshita''s films were renowned for their emotional depth and humanism, and he was considered a key figure in the post-World War II Japanese film industry.',
+DATE '1912-12-05',
+DATE '1998-12-30',
+'https://i.postimg.cc/3JKNqYVD/keisuke-kinoshita.jpg',
+'Japan'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Xavier Dolan',
+'Xavier Dolan is a Canadian director known for his visually stunning and emotionally charged films. He often explores themes of identity, family dynamics, and interpersonal relationships with a raw and unflinching honesty. 
+His work has been praised for its unique style and powerful storytelling, cementing his place as one of the most important voices in contemporary cinema.',
+DATE '1989-03-20',
+NULL,
+'https://i.postimg.cc/qMGD88Hg/xavier-dolan.jpg',
+'Canada'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Federico Fellini',
+'Federico Fellini was an Italian film director widely regarded as one of the most influential and innovative filmmakers of the 20th century. He was known for his unique and surrealistic style, which often blended fantasy and reality in his works.
+Fellini''s films were often characterized by their dreamlike quality, which explored themes such as the human condition, sexuality, and the nature of reality. His films often featured exaggerated characters, elaborate sets, and stunning visuals that transported viewers to a different world.',
+DATE '1920-01-20',
+DATE '1993-10-31',
+'https://i.postimg.cc/dV8cC7t0/federico-fellini.jpg',
+'Italy'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Satoshi Kon',
+'Satoshi Kon was a highly influential Japanese anime director known for his innovative storytelling and surreal imagery. He explored themes of identity, perception, and memory through his films, often blurring the lines between reality and fantasy. Kon''s work has had a significant impact on the animation industry and has been praised for its artistic and philosophical depth.',
+DATE '1963-10-12',
+DATE '2010-08-24',
+'https://i.postimg.cc/qR9G2xLh/satoshi-kon.jpg',
+'Japan'
+);

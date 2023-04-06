@@ -217,8 +217,8 @@ https://i.postimg.cc/DzShh1BF/the-400-blows-4.jpg
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Shining',
-'The Shining is a horror classic directed by Stanley Kubrick and based on the novel by Stephen King. Known for its iconic imagery, eerie soundtrack, and Jack Nicholson''s unforgettable performance as Jack Torrance, the film explores themes of isolation, madness, and the supernatural. 
-It has been lauded for its use of cinematography, symbolism, and subtext, and is widely regarded as one of the greatest horror films ever made.',
+'The Shining is a classic horror film directed by Stanley Kubrick, known for its iconic imagery, psychological intensity, and masterful filmmaking techniques. The plot follows Jack Torrance, a writer and recovering alcoholic, who becomes the caretaker of the isolated Overlook Hotel during the winter season. 
+As Jack''s sanity unravels, the hotel''s malevolent forces come to life, leading to a terrifying descent into madness. The movie is renowned for its exploration of themes such as isolation, madness, and the breakdown of the family unit.',
 DATE '1980-05-23',
 144,
 '{Horror, Thriller, Drama, Mystery, "Psychological Thriller"}',
@@ -310,8 +310,8 @@ https://i.postimg.cc/Bv9M4wSf/the-truman-show-4.jpg
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Yi Yi',
-'Yi Yi is a critically acclaimed drama film that explores the complexities of family, relationships, and the human experience. Directed by Taiwanese filmmaker Edward Yang, the movie is renowned for its subtle and insightful portrayal of everyday life and the struggles that come with it. 
-Through its exquisite cinematography, well-crafted characters, and meditative pacing, Yi Yi offers a profound and poignant reflection on the universal themes of love, loss, and personal growth.',
+'Yi Yi is a Taiwanese film directed by Edward Yang that offers an intimate exploration of the complexities of human relationships and the search for meaning in life. The film follows a Taiwanese family over the course of a year, capturing their joys, sorrows, and everyday moments with quiet authenticity. 
+Known for its poetic storytelling, rich character development, and stunning cinematography, Yi Yi delves into themes of family, love, identity, and the passage of time.',
 DATE '2000-05-14',
 173,
 '{Drama, "Slice of Life", "Coming of Age", "Art House"}',
@@ -329,8 +329,8 @@ https://i.postimg.cc/Y91jV7kZ/yi-yi-4.png
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('A Brighter Summer Day',
-'A Brighter Summer Day is a Taiwanese coming-of-age film directed by Edward Yang, known for its intricate portrayal of youth culture, family dynamics, and societal issues in Taiwan during the 1960s. 
-The film''s central themes revolve around identity, alienation, and the search for meaning in a rapidly changing world. It is widely regarded as a masterpiece of Taiwanese cinema and a quintessential work of the New Taiwan Cinema movement.',
+'A Brighter Summer Day is a critically acclaimed Taiwanese coming-of-age drama directed by Edward Yang. Set in 1960s Taiwan, the film tells the story of a young teenager named Xiao S''ir as he navigates the complexities of family, love, and gang violence. 
+The film is known for its meticulous attention to detail, stunning cinematography, and thought-provoking exploration of themes such as youth rebellion, societal changes, and the search for identity. Considered a masterpiece of Taiwanese cinema, A Brighter Summer Day has been praised for its rich character development and its place as a poignant reflection of Taiwan''s history during a time of political and cultural transformation.',
 DATE '1991-07-27',
 237,
 '{Drama, "Coming of Age", Historical, Romance}',
@@ -384,11 +384,11 @@ https://i.postimg.cc/1XX855dd/the-color-of-pomegranates-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Roma',
-'Roma is a critically acclaimed film directed by Alfonso Cuarón, known for its stunning black and white cinematography and intimate portrayal of a middle-class family in 1970s Mexico City.
-The movie delves into themes of social class, family dynamics, and political turmoil, drawing from Cuarón''s own childhood experiences. Roma has been praised for its artistry and emotional depth, and has garnered numerous awards and nominations.',
+'Roma is a critically acclaimed film directed by Alfonso Cuarón known for its breathtaking black-and-white cinematography and intimate storytelling. Set in Mexico City in the 1970s, the film follows the life of a young indigenous domestic worker named Cleo, who works for an affluent family.
+As Cleo navigates her own challenges while serving the family, Roma delves into themes of class, race, and societal hierarchies, while also exploring the complexities of human relationships and the struggles of marginalized individuals. With its poignant portrayal of everyday life, "Roma" has been lauded for its visual artistry, emotional depth, and social commentary.',
 DATE '2018-08-30',
 135,
-'{Drama, Historical, "Art House"}',
+'{Drama, Historical, "Art House", "Social Commentary"}',
 'https://i.postimg.cc/GhtnmsmK/roma.jpg',
 'https://letterboxd.com/film/roma-2018/',
 '{https://i.postimg.cc/P5JCffCZ/roma-1.jpg,
@@ -420,8 +420,8 @@ https://i.postimg.cc/wxk6DkdW/y-tu-mama-tambien-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Children of Men',
-'"Children of Men" is a dystopian science-fiction film known for its raw, gritty portrayal of a world plagued by infertility and social unrest. The film''s central themes explore hope, despair, and the human condition in a time of crisis, as the last remaining pregnant woman becomes the hope for humanity''s survival.
-With stunning cinematography and visceral action sequences, "Children of Men" has become a modern classic, recognized for its bold and thought-provoking approach to the dystopian genre.',
+'Children of Men is a dystopian thriller that takes place in a future world where infertility has caused humanity to face extinction. The film follows a jaded bureaucrat, played by Clive Owen, who is tasked with protecting the last pregnant woman on Earth. 
+Known for its gripping action sequences, thought-provoking themes of hope, sacrifice, and the fragility of human existence, and its stunning long-take cinematography, Children of Men has earned critical acclaim for its unique and immersive storytelling. The film is often lauded for its social and political commentary, exploring topics such as immigration, authoritarianism, and the dehumanizing effects of a collapsing society.',
 DATE '2006-09-03',
 109,
 '{"Science Fiction", Thriller, Action, Adventure}',
@@ -438,8 +438,7 @@ https://i.postimg.cc/JnMCR5qn/children-of-men-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Vengeance is Mine', 
-'Vengeance is Mine is a critically acclaimed Japanese film known for its unflinching portrayal of a cold-blooded killer who eludes capture for years. The film explores themes of guilt, retribution, and the nature of evil, as the protagonist grapples with the consequences of his actions. 
-With its intense character study and unapologetic approach to violence, Vengeance is Mine has cemented its place as a seminal work in the genre of psychological thrillers and Japanese cinema at large.',
+'Vengeance is Mine is a thought-provoking and gritty Japanese crime drama directed by Shohei Imamura. The film follows the true story of a real-life serial killer, Akira Nishiguchi, who went on a killing spree in Japan during the 1960s. Imamura delves into the dark and complex psychology of the killer, exploring themes of morality, human nature, and societal norms. Known for its unflinching portrayal of a disturbed protagonist and its realistic depiction of crime and punishment, Vengeance is Mine is a masterful exploration of the human psyche and a standout work in Imamura''s oeuvre.',
 DATE '1979-04-21',
 140,
 '{Crime, Drama, "Psychological Thriller"}',
@@ -456,8 +455,8 @@ https://i.postimg.cc/qgf8jz13/vengeance-is-mine-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Dear Zachary: A Letter to a Son About His Father',
-'Dear Zachary: A Letter to a Son About His Father is a heart-wrenching documentary that tells the story of a father''s murder and the devastating aftermath that ensues. 
-The film is known for its raw emotional power, expert storytelling, and powerful themes of love, loss, and justice. It is a standout in the genre of true crime documentaries and has earned critical acclaim for its masterful handling of its difficult subject matter.',
+'Dear Zachary: A Letter to a Son About his Father is a heart-wrenching documentary that tells the true story of a grieving man''s attempt to create a lasting memorial for his murdered best friend. Through a series of heartfelt letters addressed to his friend''s young son, the film explores themes of love, loss, justice, and the power of human connection. 
+Dear Zachary is known for its raw emotional impact and unflinching portrayal of a tragic event. It has been praised for its powerful storytelling, captivating interviews, and thought-provoking commentary on the flaws of the legal system.',
 DATE '2008-01-17',
 93,
 '{Documentary, Crime, Drama}',
@@ -564,8 +563,8 @@ https://i.postimg.cc/7LCgVSRd/nobody-knows-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Something in the Air',
-'Something in the Air offers a thought-provoking depiction of youth rebellion and political turmoil in France after the May 1968 student protests. The movie is renowned for its immersive portrayal of the counterculture movement and the disillusionment experienced by its young activists, providing a poignant reflection on the choices and sacrifices made by a generation struggling with social and cultural transformation. 
-The film explores themes of artistic expression, activism, and the pursuit of personal and political freedom.',
+'Something in the Air is a French drama film directed by Olivier Assayas that captures the rebellious spirit of the 1970s counterculture. Set in the aftermath of the May 1968 protests in Paris, the film follows a group of young activists as they navigate the complexities of politics, art, and love in a changing world. 
+Known for its raw portrayal of the disillusionment and idealism of youth, Something in the Air explores themes of revolution, creativity, and the search for identity.', 
 DATE '2012-09-03',
 122,
 '{Drama, "Coming of Age", Historical}',
@@ -600,7 +599,8 @@ https://i.postimg.cc/8P6qZmG9/trainspotting-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Chungking Express',
-'Chungking Express is a critically acclaimed Hong Kong film known for its stylish direction, unconventional narrative structure, and themes of loneliness, love, and chance encounters in the bustling city of Hong Kong. Directed by Wong Kar-wai, the film is divided into two interconnected stories that explore the fleeting nature of relationships and the search for human connection in a rapidly changing world.',
+'Chungking Express by Wong Kar-wai is a critically acclaimed Hong Kong film known for its unconventional narrative structure, stylish visuals, and vibrant soundtrack. The film tells the story of two separate but interconnected tales of love and longing in the bustling city of Hong Kong. 
+Through its unique blend of romance, mystery, and melancholy, Chungking Express explores themes of urban loneliness, fleeting connections, and the search for human connection in a fast-paced, modern world.',
 DATE '1994-07-14',
 98,
 '{Romance, Drama, Comedy, Crime, "Art House"}',
@@ -653,7 +653,7 @@ https://i.postimg.cc/Hnmg8gRp/manila-in-the-claws-of-light-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Housemaid',
-'The Housemaid by Kim Ki-young is a highly acclaimed Korean film known for its disturbing portrayal of a middle-class family''s descent into madness and destruction after hiring a seductive and manipulative housemaid. The film explores themes of power dynamics, sexuality, and class struggle, and its shocking and controversial content has earned it a reputation as a classic of Korean cinema.',
+'The Housemaid by Kim Ki-young is a landmark South Korean psychological thriller known for its dark and provocative themes. The film tells the story of a young housemaid who becomes entangled in a complex web of lust, jealousy, and manipulation within a wealthy family. Through its intense storytelling and daring narrative choices, The Housemaid explores issues of class, gender, and desire, challenging societal norms while pushing the boundaries of traditional Korean cinema.', 
 DATE '1960-11-03',
 108,
 '{Drama, "Psychological Thriller", "Art House", Horror}',
@@ -688,8 +688,7 @@ https://i.postimg.cc/gk6k8d9v/chinatown-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Mulholland Drive',
-'Mulholland Drive is a surrealist neo-noir film directed by David Lynch, known for its mysterious plot, dream-like atmosphere, and nonlinear storytelling. The movie explores themes of identity, memory, and the dark underbelly of Hollywood through the story of an amnesiac woman and an aspiring actress.
- Mulholland Drive has become a cult classic and is often cited as one of the greatest films of the 21st century, with its unconventional style and storytelling pushing the boundaries of traditional cinema.',
+'Mulholland Drive is a surrealist neo-noir film directed by David Lynch, known for its enigmatic and dreamlike narrative. The plot follows the intertwined stories of an aspiring actress named Betty and an amnesiac woman named Rita, as they navigate the dark and mysterious world of Hollywood. With its nonlinear structure, unconventional storytelling, and surreal imagery, "Mulholland Drive" is celebrated for its haunting atmosphere, cryptic symbolism, and thought-provoking themes on identity, memory, and the illusions of fame.', 
 DATE '2001-05-16',
 146,
 '{Mystery, "Psychological Thriller", Drama, Noir}',
@@ -706,8 +705,8 @@ https://i.postimg.cc/vB4fnBWW/mulholland-drive-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('An Elephant Sitting Still',
-'An Elephant Sitting Still is a critically acclaimed Chinese drama film known for its powerful exploration of human desperation and isolation in the face of societal pressures. The film tells the interconnected stories of four individuals who are all struggling with their own personal crises. 
-The film is notable for its slow pace and minimalistic cinematography, which contribute to the intense emotional impact of its themes. Directed by Hu Bo, "An Elephant Sitting Still" is regarded as a masterpiece of contemporary Chinese cinema and has been praised for its unflinching portrayal of life on the margins.',
+'An Elephant Sitting Still by Hu Bo is a critically acclaimed Chinese drama film known for its raw and poignant portrayal of the struggles and isolation faced by individuals in modern society. The movie follows the interconnected stories of four characters over the course of a single day as they search for meaning and connection in a bleak and oppressive world. 
+Through its striking cinematography, immersive storytelling, and thought-provoking themes of existentialism, alienation, and the pursuit of hope, An Elephant Sitting Still has been recognized as a powerful and resonant work of art, leaving a lasting impact on its audiences. It is considered a masterpiece of contemporary Chinese cinema, and a reflection of the human condition in the face of societal pressures and despair.',
 DATE '2018-02-16',
 234,
 '{Drama, "Art House"}',
@@ -887,8 +886,7 @@ https://i.postimg.cc/VkFXrKt3/the-ballad-of-narayama-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Mommy',
-'Mommy is a critically acclaimed drama film known for its raw emotional power and exploration of complex familial relationships. Set in a fictional Canada where parents can legally institutionalize their troubled children, the film follows a widowed mother''s struggles to raise her violent and unpredictable son. T
-hrough its intimate portrayal of love, loss, and sacrifice, Mommy examines themes of motherhood, mental illness, and societal norms.',
+'Mommy is a critically acclaimed drama film known for its raw emotional power and exploration of complex familial relationships. Set in a fictional Canada where parents can legally institutionalize their troubled children, the film follows a widowed mother''s struggles to raise her violent and unpredictable son. Through its intimate portrayal of love, loss, and sacrifice, Mommy examines themes of motherhood, mental illness, and societal norms.',
 DATE '2014-05-22',
 138,
 '{Drama, "Coming of Age"}',
@@ -920,4 +918,12 @@ https://i.postimg.cc/3NFYTd4N/8-1-2-4.jpg}',
 '8770af99-f7cd-49b0-a615-02ca43ea5a89'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Perfect Blue',
+'Perfect Blue is a critically acclaimed Japanese animated psychological thriller film directed by Satoshi Kon. Known for its mind-bending narrative and visually stunning animation, the film follows a young pop idol named Mima who decides to leave her music career to pursue acting, but soon finds herself caught in a nightmarish reality where the line between illusion and reality blurs. "Perfect Blue" explores themes of identity, perception, and the dark side of fame, delving into the psychological turmoil of the protagonist as she grapples with her own sanity.',
+
+
+
+'c5f82644-d7b5-4dd1-bcce-7219334a5cd0'
+);
 

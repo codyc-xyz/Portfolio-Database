@@ -46,7 +46,7 @@ https://i.postimg.cc/857s6Bjy/City-Of-God-2.jpg,
 https://i.postimg.cc/tgSYJmCZ/City-Of-God-3.jpg,
 https://i.postimg.cc/SsHR729m/City-Of-God-4.jpg}',
 'Brazil',
-'{Violence, "Drug Use", "Sexual Content", "Strong Language", Gore, "Child Endangerment", "Police Brutality", Racism, Poverty, "Gang activity"}',
+'{Violence, "Drug Use", "Sexual Content", "Strong Language", Gore, "Child Endangerment", "Police Brutality", Racism, "Gang activity"}',
 '997ae655-4119-4f6b-999a-08d8ef9ace25'
 );
 
@@ -972,4 +972,82 @@ https://i.postimg.cc/hGd0k1kD/close-up-4.jpg
 '{"Mental Illness"}',
 'ddf4918b-ddca-4fa8-a198-6ca58b376c55'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Pickpocket', 
+'Pickpocket is a thought-provoking drama by acclaimed Chinese filmmaker Jia Zhangke. Known for his minimalist style and social commentary, Jia tells the story of a small-time thief named Xiaowen who drifts through life in modern-day China, grappling with existential questions and his own moral dilemmas. 
+Through a meticulously crafted narrative and stunning visuals, Pickpocket explores themes of alienation, urbanization, and the struggle for identity in a rapidly changing society.',
+DATE '1997-10-05',
+111,
+'{Drama, Crime}',
+'https://i.postimg.cc/wxZBWKXs/pickpocket.jpg',
+'https://letterboxd.com/film/pickpocket-1997/',
+'{https://i.postimg.cc/bJTzHJxQ/pickpocket-1.jpg,
+https://i.postimg.cc/PJVT9RFJ/pickpocket-2.jpg,
+https://i.postimg.cc/kXDnK7Bb/pickpocket-3.jpg,
+https://i.postimg.cc/dQ5shhtF/pickpocket-4.jpg}',
+'China',
+'{Violence}',
+'92861508-77ec-41d2-8ac5-0e76901e5a04'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Smiles of a Summer Night',
+'Smiles of a Summer Night is a timeless classic directed by Ingmar Bergman that is known for its wit, charm, and sensual exploration of human relationships. This Swedish film is set during a magical midsummer night in the 19th century, where characters find themselves embroiled in a comedic and bittersweet tale of love, lust, and longing. 
+With its clever dialogue, memorable characters, and poetic cinematography, Smiles of a Summer Night is a masterful exploration of human emotions and desires. This film stands out in Bergman''s filmography for its lighter tone, yet it still delves into deep existential questions about love, sex, and the complexities of human connections.',
+DATE '1955-12-26',
+108,
+'{Drama, Romance, Comedy}',
+'https://i.postimg.cc/N0rsC8hd/smiles-of-a-summer-night.jpg',
+'https://letterboxd.com/film/smiles-of-a-summer-night/',
+'{https://i.postimg.cc/Yqqb6bYB/smiles-of-a-summer-night-1.jpg,
+https://i.postimg.cc/rFngQxN0/smiles-of-a-summer-night-2.jpg,
+https://i.postimg.cc/kgLsdCZ7/smiles-of-a-summer-night-3.jpg,
+https://i.postimg.cc/52XgGysP/smiles-of-a-summer-night-4.jpg
+}',
+'Sweden',
+'{"Sexual Content", Infidelity, Nudity}',
+'c38af25b-548a-4416-9518-0adf55739174'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Christiane F.',
+'Christiane F. by Uli Edel is a gripping and raw portrayal of the dark and gritty reality of addiction and youth culture in 1980s Berlin. Based on a true story, the film follows the turbulent life of Christiane, a young girl who becomes entangled in the world of drug abuse and prostitution. 
+Through its unflinching depiction of the harsh realities of addiction, Christiane F. delves deep into the desperate struggle for survival, isolation, and the longing for escape. This cult classic is known for its realistic portrayal of addiction, its haunting performances, and its unapologetic exploration of the darker side of youth culture.',
+DATE '1981-04-02',
+138,
+'{Drama, "Coming of Age", "Social Commentary", Crime}',
+'https://i.postimg.cc/tgSXN70Q/christiane-f.jpg',
+'https://letterboxd.com/film/christiane-f/',
+'{https://i.postimg.cc/7Ykf6Gwm/christiane-f-1.jpg,
+https://i.postimg.cc/FFjH2r3c/christiane-f-2.jpg,
+https://i.postimg.cc/L628Sc3W/christiane-f-3.jpg,
+https://i.postimg.cc/d3mQd6wn/christiane-f-4.jpg
+}',
+'Germany',
+'{"Substance Use", "Sexual Content", "Child Exploitation", "Self Harm", "Strong Language", "Mental Illness", Prostitution}',
+'a1a9fb4f-ca31-499e-98c8-bff91131e0fc'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Branded to Kill',
+'Branded to Kill by Seijun Suzuki is a provocative Japanese crime thriller that pushes the boundaries of traditional genre conventions. Known for its avant-garde style, bold visual choices, and unconventional narrative structure, the film follows the story of a hitman named Goro Hanada who becomes embroiled in a deadly game of cat and mouse with other rival assassins. 
+As the plot unfolds, viewers are drawn into a surreal and darkly comedic world, filled with surreal symbolism and unexpected twists. Branded to Kill is celebrated for its daring and subversive approach to storytelling, exploring themes of identity, obsession, and the blurred lines between reality and illusion.', 
+DATE '1967-06-15',
+91,
+'{Crime, Thriller. Action, Noir}',
+'https://i.postimg.cc/C1VLK1sf/branded-to-kill.jpg',
+'https://letterboxd.com/film/branded-to-kill/',
+'{https://i.postimg.cc/9MrMSSbL/branded-to-kill-1.jpg,
+https://i.postimg.cc/7PJhnFf6/branded-to-kill-2.jpg,
+https://i.postimg.cc/FR8RQZnN/branded-to-kill-3.jpg,
+https://i.postimg.cc/Rht0CHjf/branded-to-kill-4.jpg
+}',
+'Japan',
+'{Violence, "Sexual Content", Nudity, Gore, "Strong Language", "Substance Use", Suicide}',
+'fd03be13-ffb6-4630-9f62-8e946a843b90'
+);
+
+
+
 

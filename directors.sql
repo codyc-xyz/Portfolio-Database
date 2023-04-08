@@ -413,3 +413,50 @@ DATE '2016-07-04',
 'https://i.postimg.cc/BvKR64G0/abbas-kiarostami.jpg',
 'Iran'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Jia Zhangke',
+'Jia Zhangke is a prominent Chinese film director known for his distinct storytelling style that often blends realism and poetry. His films explore themes of social and economic changes in contemporary China, depicting the struggles and conflicts of ordinary people caught in the midst of rapid societal transformations. 
+Jia is considered a leading figure in the "Sixth Generation" of Chinese filmmakers, known for his critically acclaimed works that offer poignant reflections on China''s modern history and its impact on individuals and society.',
+DATE '1970-05-24',
+NULL,
+'https://i.postimg.cc/7ZPfp3WF/jia-zhangke.jpg',
+'China'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Ingmar Bergman', 
+'Ingmar Bergman, a renowned Swedish film director, is widely recognized for his introspective and psychologically complex films. His works often delve into existentialist themes, exploring the intricacies of human relationships, the nature of faith, and the struggles of the human condition. Bergman''s films are known for their meticulous attention to detail, masterful storytelling, and deep emotional resonance.',
+DATE '1918-07-14',
+DATE '2007-07-30',
+'https://i.postimg.cc/ZKJLTC0Y/ingmar-bergman.jpg',
+'Sweden'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Uli Edel',
+'Uli Edel is a renowned director known for his distinct style and unique approach to filmmaking. With a career spanning decades, Edel has earned a reputation for his bold and thought-provoking films that often explore complex themes of human nature, morality, and societal issues. His work has been critically acclaimed for its gritty realism and uncompromising portrayal of human emotions.',
+DATE '1947-04-11',
+NULL,
+'https://i.postimg.cc/rwcvHcch/uli-edel.jpg',
+'Germany'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Seijun Suzuki',
+'Seijun Suzuki, a renowned Japanese filmmaker, is known for his innovative and unconventional approach to cinema. His directorial style is characterized by vibrant visuals, striking use of color, and bold storytelling choices. Suzuki is renowned for pushing the boundaries of traditional storytelling, often incorporating elements of surrealism and absurdity in his films.
+Suzuki often explored themes of youth rebellion, societal critique, and the complexities of human nature. He frequently challenged the norms of Japanese cinema during his time, subverting genre conventions and experimenting with narrative structures to create unique and thought-provoking films.',
+DATE '1923-05-24',
+NULL,
+'https://i.postimg.cc/qMNJrSbc/seijun-suzuki.webp',
+'Japan'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Chris Marker',
+'Chris Marker was a visionary filmmaker known for his avant-garde approach to cinema. His films often explored complex themes such as memory, time, politics, and social commentary. Marker''s unique style combined elements of documentary, experimental, and poetic cinema, creating a distinct voice that left a lasting impact on the world of film.',
+DATE '1921-07-29',
+DATE '2012-07-29',
+'https://i.postimg.cc/0QV88CWb/chris-marker.jpg',
+'France'
+);

@@ -1049,5 +1049,60 @@ https://i.postimg.cc/Rht0CHjf/branded-to-kill-4.jpg
 );
 
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Sans Soleil',
+'Sans Soleil by Chris Marker is a renowned experimental documentary film known for its poetic and philosophical exploration of memory, time, and cultural identity. Through a series of mesmerizing images and voice-over narration, the film weaves together travelogue-style footage from around the world with personal reflections on memory and history. It''s a thought-provoking exploration of the human condition and our perception of reality, creating a unique cinematic experience that challenges traditional narrative structure. 
+Sans Soleil is widely considered a masterpiece of avant-garde cinema, and its innovative approach to storytelling has made it a seminal work in the history of experimental filmmaking.',
+DATE '1983-05-12',
+100,
+'{Documentary, Experimental, "Art House"}',
+'https://i.postimg.cc/bJ12w4X3/sans-soleil.jpg',
+'https://letterboxd.com/film/sans-soleil/',
+'{https://i.postimg.cc/XJwS1kFr/sans-soleil-1.jpg,
+https://i.postimg.cc/Wz8RTp5j/sans-soleil-2.jpg,
+https://i.postimg.cc/vTbRJxL3/sans-soleil-3.jpg,
+https://i.postimg.cc/BZBfxN4y/sans-soleil-4.jpg
+}',
+'France',
+'{Violence}',
+'e057ae95-35ec-465b-a5a2-c857b25c164f'
+);
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Koumiko Mystery',
+'While filming the Olympics in Tokyo, Marker encounters a Japanese girl named Koumiko Muraoka. Manchurian born and French educated, she''s an intriguing anomaly. He films her around Tokyo, as she speaks of Japan, being Japanese and her unique perspective on life. 
+The Koumiko Mystery is a thought-provoking avant-garde documentary that delves into the enigmatic life of Koumiko. Marker explores Koumiko''s mysterious personality and her quest for existential meaning in a modern world filled with consumerism and isolation. The film is known for its unique blend of fiction and reality, as well as its evocative visual imagery and poetic narration. The Koumiko Mystery raises profound questions about cultural identity, human connection, and the complexities of the human psyche.',
+DATE '1965-11-07',
+54,
+'{Documentary, Experimental, "Art House", "Social Commentary"}',
+'https://i.postimg.cc/nz3qskv6/the-koumiko-mystery.jpg',
+'https://letterboxd.com/film/the-koumiko-mystery/',
+'{https://i.postimg.cc/c198CXF9/the-koumiko-mystery-1.jpg,
+https://i.postimg.cc/Z539fZ42/the-koumiko-mystery-2.jpg,
+https://i.postimg.cc/ZqSW2gqR/the-koumiko-mystery-3.jpg,
+https://i.postimg.cc/m2KzNhf7/the-koumiko-mystery-4.jpg
+}',
+'France',
+NULL,
+'e057ae95-35ec-465b-a5a2-c857b25c164f'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Flowers of Shanghai',
+'Flowers of Shanghai by Hou Hsiao-Hsien is a critically acclaimed Taiwanese film known for its stunning cinematography, meticulous attention to period detail, and immersive portrayal of the social dynamics of 19th-century Shanghai''s courtesan culture. The film delves into the lives of several courtesans and their patrons, examining the complexities of love, desire, and power within the confines of the opulent brothels. 
+Through its masterful use of long takes and exquisite mise-en-scène, Flowers of Shanghai offers a nuanced exploration of gender, class, and interpersonal relationships, while also reflecting on the shifting cultural landscape of Shanghai during a time of societal change.',
+DATE '1998-05-20',
+113,
+'{Drama, Romance, Historical, "Art House"}',
+'https://i.postimg.cc/RZzLdT9g/flowers-of-shanghai.jpg',
+'https://letterboxd.com/film/flowers-of-shanghai/',
+'{https://i.postimg.cc/rwPWbCL6/flowers-of-shanghai-1.jpg,
+https://i.postimg.cc/d1MCQs14/flowers-of-shanghai-2.jpg,
+https://i.postimg.cc/k4xbB0R9/flowers-of-shanghai-3.jpg,
+https://i.postimg.cc/bvSbjDzZ/flowers-of-shanghai-4.jpg
+}',
+'Taiwan',
+'{"Substance Use", "Sexual Content", Misogyny, Infidelity}',
+'ec81fde9-c092-4b46-bf8f-3dcbb7996b46'
+);
 

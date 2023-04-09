@@ -460,3 +460,13 @@ DATE '2012-07-29',
 'https://i.postimg.cc/0QV88CWb/chris-marker.jpg',
 'France'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Hou Hsiao-hsien',
+'Hou Hsiao-hsien is a renowned Taiwanese film director known for his artful and contemplative approach to cinema. He is often associated with the Taiwanese New Wave movement and is recognized for his mastery of long takes, subtle nuances, and exquisite visual compositions. Hou''s films often explore themes of memory, history, and interpersonal relationships, capturing the complex emotions and cultural dynamics of Taiwan.',
+DATE '1947-04-08',
+NULL,
+'https://i.postimg.cc/XJv91WTr/hou-hsiao-hsien.jpg',
+'Taiwan'
+);
+

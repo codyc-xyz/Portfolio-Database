@@ -10,8 +10,8 @@ CREATE TABLE director (
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Gaspar Noé',
-'Gaspar Noé is a provocative and boundary-pushing filmmaker known for his uncompromising approach to storytelling and intense, visceral style. He has gained a reputation for his exploration of taboo themes, including violence, sex, and drugs, often using unconventional techniques such as extended takes and dizzying camera movements to immerse the audience in his characters'' experiences.
-Noé''s work occupies a unique place in the contemporary film landscape, pushing boundaries and challenging audiences to confront uncomfortable truths about human nature. His films have been praised for their technical prowess and boldness, and have earned a cult following among fans of challenging cinema.',
+'Gaspar Noé is a provocative and controversial filmmaker known for his avant-garde and daring approach to cinema. He is recognized for pushing the boundaries of visual and narrative storytelling, often exploring taboo and explicit subject matter with raw and unapologetic intensity. Noé is known for his unique and visceral style, utilizing unconventional techniques such as long takes, dizzying camera movements, and experimental editing to create immersive and disturbing experiences for the audience. 
+His films often center around themes of human desires, sexuality, violence, and the dark side of human nature, delving into the depths of the human psyche and challenging societal norms. Noé is notorious for his unflinching portrayal of explicit and controversial content, which has both gained him critical acclaim and stirred controversy, making him a polarizing figure in the world of cinema.',
 DATE '1963-12-27',
 NULL,
 'https://i.postimg.cc/V60K7JZD/gaspar-noe.jpg',
@@ -20,8 +20,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Fernando Meirelles',
-'Fernando Meirelles is a Brazilian filmmaker known for his powerful and socially conscious approach to filmmaking. He has gained international acclaim for his work, which often addresses issues such as poverty, corruption, and political upheaval in Brazil and beyond.
-Meirelles is known for his dynamic visual style and skillful use of music and sound to create immersive cinematic experiences. His films have been praised for their boldness and emotional resonance, and have earned numerous awards and accolades.',
+'Fernando Meirelles is a renowned director known for his bold and visually captivating filmmaking style. He has a distinct ability to tackle complex and thought-provoking themes, often exploring the dark and gritty aspects of human nature with unflinching honesty. Meirelles has a keen eye for depicting social and political issues, delving into the intricacies of power dynamics, corruption, and social inequality. 
+His films are known for their intense storytelling, dynamic cinematography, and compelling performances that leave a lasting impact on audiences. Meirelles is a master storyteller who fearlessly delves into the depths of the human condition, challenging conventions and pushing boundaries to create thought-provoking and impactful films.',
 DATE '1955-11-09',
 NULL,
 'https://i.postimg.cc/WzWth4Tc/fernando-meirelles.jpg',
@@ -30,9 +30,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Akira Kurosawa',
-'Akira Kurosawa is widely regarded as one of the most influential and innovative filmmakers of the 20th century. He is known for his masterful storytelling, striking visual style, and deep exploration of human nature. 
-Kurosawa''s films often tackle complex themes such as honor, justice, and redemption, and he is especially acclaimed for his samurai epics such as "Seven Samurai" and "Yojimbo." 
-He is often considered as one of the greatest directors in the history of cinema, and his work continues to be celebrated and studied to this day.', 
+'Akira Kurosawa was a renowned Japanese filmmaker who is widely recognized for his groundbreaking contributions to world cinema. Known for his distinct visual style and masterful storytelling, Kurosawa''s films often revolve around themes of human nature, morality, and the complexities of the human condition. He was a prolific filmmaker who directed a wide range of genres, including historical epics, samurai films, crime dramas, and social commentaries. 
+Kurosawa''s works are characterized by his meticulous attention to detail, skillful use of cinematography, and deep exploration of human emotions and societal issues. He is celebrated for his innovative approach to storytelling, which often blended traditional Japanese culture with influences from Western literature and cinema. Kurosawa''s films continue to be highly regarded for their artistic merit and profound impact on the world of cinema.',
 DATE '1910-03-23',
 DATE '1998-09-06',
 'https://i.postimg.cc/yx6bztcW/akira-kurosawa.jpg',
@@ -41,18 +40,8 @@ DATE '1998-09-06',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Charlie Kaufman',
-'Charlie Kaufman is a celebrated American filmmaker known for his unique and surreal approach to storytelling. He has established himself as a master of offbeat and mind-bending narratives that challenge traditional film conventions. 
-Kaufman is widely regarded for his distinct voice in cinema, which often features themes of identity, memory, and existentialism. His films have become cult classics, earning critical acclaim and a loyal following among film enthusiasts.',
-DATE '1958-11-19',
-NULL,
-'https://i.postimg.cc/jq3SFJpQ/charlie-kaufman.jpg',
-'United States of America'
-);
-
-INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
-VALUES('Charlie Kaufman',
-'Charlie Kaufman is a celebrated American filmmaker known for his unique and surreal approach to storytelling. He has established himself as a master of offbeat and mind-bending narratives that challenge traditional film conventions. 
-Kaufman is widely regarded for his distinct voice in cinema, which often features themes of identity, memory, and existentialism. His films have become cult classics, earning critical acclaim and a loyal following among film enthusiasts.',
+'Charlie Kaufman is a highly acclaimed American film director known for his unique and thought-provoking approach to storytelling. He is renowned for his introspective and mind-bending narratives that often blur the lines between reality and fantasy. Kaufman''s work is characterized by his exploration of existentialism, self-reflection, and the complexities of human nature. 
+He is known for his thought-provoking and often surreal storytelling style, which challenges conventional cinematic norms and pushes the boundaries of storytelling. Kaufman''s films often delve into the intricacies of the human mind and its inherent struggles, delving into themes of identity, memory, and the search for meaning in life. His films are known for their intellectual depth, unconventional structures, and profound introspection.',
 DATE '1958-11-19',
 NULL,
 'https://i.postimg.cc/jq3SFJpQ/charlie-kaufman.jpg',
@@ -61,8 +50,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Kim Ki-duk',
-'Kim Ki-duk was a South Korean filmmaker known for his provocative and often controversial films that explore themes of violence, sex, and spirituality. His films feature minimalist storytelling, stark visuals, and intense performances, reflecting his background in fine arts. 
-Although Kim''s films have been both celebrated and criticized for their graphic content and unconventional themes, he is widely regarded as one of the most important and influential figures in contemporary South Korean cinema.',
+'Kim Ki-duk is a South Korean film director known for his provocative and controversial works that often delve into dark and intense themes. His films are known for their minimalist style, poetic visual imagery, and unconventional storytelling. Kim Ki-duk often explores themes such as human isolation, existentialism, the struggle for identity, and the complexities of human relationships. He has a reputation for pushing the boundaries of conventional cinema, often delving into taboo subjects and presenting unflinching portrayals of the human condition. 
+Kim Ki-duk''s films are known for their thought-provoking and sometimes controversial content, challenging viewers to confront uncomfortable truths about the human experience. Although Kim''s films have been both celebrated and criticized for their graphic content and unconventional themes, he is widely regarded as one of the most important and influential figures in contemporary South Korean cinema.',
 DATE '1960-12-20',
 DATE '2020-12-11',
 'https://i.postimg.cc/667npwfK/kim-ki-duk.jpg',
@@ -71,8 +60,8 @@ DATE '2020-12-11',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Katsuhiro Otomo', 
-'Katsuhiro Otomo is a renowned Japanese director known for his pioneering work in the science fiction and cyberpunk genres. He gained international recognition for his anime masterpiece, "Akira," which revolutionized the animation industry with its stunning visuals and complex storytelling. 
-Otomo''s works often explore the darker side of technology and society, touching on themes such as power, corruption, and the human condition. His influence on Japanese animation and science fiction is immeasurable, cementing his place as one of the most important directors in the genre''s history.',
+'Katsuhiro Otomo is a renowned Japanese director known for his groundbreaking contributions to the field of animation and his influential impact on the cyberpunk genre. Otomo''s works often explore the complexities of human nature, societal structures, and the potential consequences of technological advancement. 
+With a distinctive visual style and meticulous attention to detail, Otomo has crafted thought-provoking narratives that delve into themes of power, corruption, and the human condition. His stories often feature morally ambiguous characters, dystopian settings, and a sense of gritty realism that challenges conventional storytelling norms.', 
 DATE '1954-04-14',
 NULL,
 'https://i.postimg.cc/kXvZMkCn/katsuhiro-otomo.jpg',
@@ -81,8 +70,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Yasujirō Ozu',
-'Yasujirō Ozu was a highly influential Japanese film director known for his distinct style and focus on everyday family life in post-war Japan. His films often portrayed the tensions between traditional Japanese values and modernization, with a particular emphasis on the role of family relationships in navigating these changes.
-Ozu''s work has been widely recognized for its understated beauty, use of static camera shots, and emphasis on small moments of intimacy and connection. He is widely regarded as one of the most influential directors of the 20th century, and his films continue to be celebrated for their profound insights into the human condition.',
+'Yasujirō Ozu was a Japanese film director known for his distinctive style of storytelling and his deep exploration of family dynamics and societal changes. He is often associated with the "Ozu style," characterized by his minimalist approach, precise framing, and use of static shots. Ozu''s films often revolve around ordinary, everyday experiences and the challenges of modern life, particularly in post-World War II Japan. 
+His works are known for their profound insights into human relationships, generational conflicts, and the complexities of traditional Japanese values in the face of societal shifts. Ozu''s films are celebrated for their poignant and subtle portrayal of human emotions, often capturing the quiet moments of life with profound depth and sensitivity.',
 DATE '1903-12-12',
 DATE '1963-12-12',
 'https://i.postimg.cc/sD1G9H93/yasujiro-ozu.jpg',
@@ -91,8 +80,8 @@ DATE '1963-12-12',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Juzo Itami',
-'Juzo Itami was a renowned Japanese director known for his witty and satirical films that tackled societal issues with humor and insight. His works often explored the complexities of modern Japanese culture and the clash between traditional and contemporary values. 
-Itami''s unique approach to storytelling and his ability to blend humor and drama has made him a significant figure in Japanese cinema and an influence on filmmakers around the world.',
+'Juzo Itami was a renowned Japanese film director known for his satirical comedies and social commentary. He was known for his sharp wit, distinctive style, and ability to blend humor with thought-provoking themes. Itami often addressed societal issues such as consumerism, bureaucracy, and gender roles in his films, using satire to critique and challenge the status quo. His works often featured eccentric characters, intricate plots, and a playful tone that combined entertainment with meaningful social critique. 
+Itami''s films were celebrated for their clever storytelling, incisive humor, and bold exploration of contemporary Japanese society.',
 DATE '1933-05-15',
 DATE '1997-12-20',
 'https://i.postimg.cc/HxJGc1cw/juzo-itami.jpg',
@@ -101,8 +90,8 @@ DATE '1997-12-20',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('François Truffaut',
-'François Truffaut was a French film director known for his contributions to the French New Wave movement. His films often explored the themes of love, relationships, and the struggles of youth.
- Truffaut''s style emphasized naturalistic performances and handheld camera work, giving his films a sense of intimacy and immediacy. He is widely regarded as one of the most important and influential filmmakers of the 20th century.',
+'François Truffaut was a prominent French film director known for his influential contributions to the French New Wave movement. He was recognized for his innovative approach to filmmaking, characterized by his distinct directorial style that combined autobiographical elements, emotional intensity, and a deep understanding of human psychology. Truffaut''s films often centered around themes such as love, relationships, childhood, and the complexities of human emotions. 
+His unique storytelling approach, which often incorporated non-linear narratives and experimental techniques, challenged traditional filmmaking conventions and expanded the boundaries of cinematic storytelling. Truffaut''s work is celebrated for its deep emotional resonance, thought-provoking narratives, and its exploration of the human condition.',
  DATE '1932-02-06',
  DATE '1984-10-21',
  'https://i.postimg.cc/2jFDr9jC/francois-truffaut.jpg',
@@ -111,8 +100,8 @@ VALUES('François Truffaut',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Stanley Kubrick',
-'Stanley Kubrick was a renowned filmmaker known for his technical mastery, bold artistic vision, and uncompromising approach to filmmaking. He tackled a wide range of themes in his films, from the human condition and the nature of violence, to societal norms and the dangers of technology. 
-Kubrick''s films are often regarded as some of the most influential and groundbreaking works in cinema history, and his legacy continues to inspire and shape contemporary filmmaking.',
+'Stanley Kubrick was a legendary film director known for his distinct cinematic style and innovative storytelling techniques. His films often delved into the human psyche, exploring the darker aspects of human nature, and challenging societal norms and conventions. Kubrick was a master of visual composition, utilizing meticulous attention to detail in his cinematography and production design to create visually stunning and immersive films. 
+He was also known for his uncompromising perfectionism and obsessive attention to every element of his films, from the script to the music to the performances of his actors. Kubrick was revered for his thought-provoking narratives that often tackled complex themes such as existentialism, morality, technology, war, and human evolution. His films continue to be celebrated for their artistic brilliance, pushing the boundaries of filmmaking and leaving a lasting impact on cinema as an art form.',
 DATE '1928-07-26',
 DATE '1999-03-07',
 'https://i.postimg.cc/QMqgtyCD/stanley-kubrick.jpg',
@@ -121,8 +110,8 @@ DATE '1999-03-07',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Wong Kar-wai',
-'Wong Kar-wai is a renowned Hong Kong filmmaker known for his stylish and poetic approach to storytelling. He is recognized for exploring themes of love, longing, and loss, often through the lens of urban loneliness and the intersection of modernity and tradition. 
-Wong''s work is notable for its distinct visual style, characterized by his use of vibrant colors, slow-motion cinematography, and intricate editing techniques.',
+'Wong Kar-wai is a renowned Hong Kong film director known for his visually stunning and emotionally resonant films. He is recognized for his distinctive style characterized by his poetic storytelling, lush cinematography, and unconventional narrative structures. Wong Kar-wai often explores themes of love, longing, and memory, and his films are known for their immersive and introspective character studies. 
+His works often delve into the complexities of human relationships, showcasing the joys and struggles of love in various forms. Wong Kar-wai''s films also frequently feature themes of nostalgia, urban alienation, and the passage of time, creating a unique cinematic experience that resonates deeply with audiences.',
 DATE '1958-07-17',
 NULL,
 'https://i.postimg.cc/d1vCzG9J/wong-kar-wai.jpg',
@@ -131,8 +120,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Robert Altman',
-'Robert Altman was an American film director known for his unique style of filmmaking, often characterized by his use of ensemble casts, overlapping dialogue, and nonlinear storytelling. 
-He focused on themes of American culture and society, exploring topics such as power, corruption, and the human condition.',
+'Robert Altman was a prominent American film director known for his innovative and unconventional approach to filmmaking. He was known for pushing the boundaries of traditional storytelling, often employing overlapping dialogue, multi-layered narratives, and a naturalistic style that blurred the lines between reality and fiction. Altman''s films were characterized by their keen observation of human behavior, satirical social commentary, and a deep exploration of the complexities and contradictions of human nature. 
+He often tackled themes such as the fragility of human relationships, the breakdown of societal norms, and the exploration of power dynamics. Altman''s unique directorial style and thematic choices made him a significant figure in American cinema, and his films continue to be celebrated for their originality and provocative storytelling.',
 DATE '1925-02-20',
 DATE '2006-11-20',
 'https://i.postimg.cc/RCdqY8FY/robert-altman.jpg',
@@ -141,8 +130,8 @@ DATE '2006-11-20',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Park Chan-wook',
-'Park Chan-wook is a highly acclaimed South Korean director known for his provocative and visually stunning films that explore the darker aspects of human nature. His works often delve into themes of revenge, redemption, and morality, and are characterized by their intricate storytelling, complex characters, and bold cinematic style. 
-Park''s unique voice and artistic vision have established him as a significant figure in contemporary cinema, with his films widely regarded as some of the most influential works in modern Korean and world cinema.',
+'Park Chan-wook is a renowned South Korean filmmaker known for his distinctive style and bold storytelling. He is celebrated for his visually stunning films that push boundaries and challenge societal norms. Park often delves into themes of revenge, morality, and human nature, exploring the complexities of human emotions and the darker aspects of the human psyche. 
+His work is often characterized by intricate plotlines, masterful cinematography, and a penchant for creating morally ambiguous and morally conflicted characters.',
 DATE '1963-08-23',
 NULL,
 'https://i.postimg.cc/P5yTd6NR/park-chan-wook.webp',
@@ -151,7 +140,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Peter Weir', 
-'Peter Weir is an Australian director known for his visually stunning films that explore themes of isolation, identity, and cultural clashes. His work often features characters who find themselves in unfamiliar environments and must navigate the complexities of human relationships. Weir''s films are often praised for their evocative imagery and thought-provoking narratives.',
+'Peter Weir is an Australian film director renowned for his distinct style and thought-provoking films. He is known for his exceptional storytelling abilities and his ability to create atmospheric and visually stunning films that captivate audiences. Weir''s films often explore themes of isolation, identity, and the human condition. He has a keen eye for capturing the complexities of human behavior and relationships, often delving into the psychological and emotional depths of his characters. 
+Weir is also known for his skillful use of symbolism and allegory, creating layers of meaning in his films that challenge viewers to ponder and interpret his work. His films are characterized by a sense of mystery and ambiguity, leaving audiences with lingering questions and a desire for introspection.', 
 DATE '1944-08-21',
 NULL,
 'https://i.postimg.cc/NFTKsLJD/peter-weir.jpg',
@@ -160,8 +150,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Edward Yang',
-'Edward Yang was a highly acclaimed Taiwanese filmmaker known for his meticulous approach to storytelling and his ability to capture the complexities of contemporary Taiwanese society. Yang was a prominent figure in the "New Taiwanese Cinema" movement, which emerged in the 1980s and revitalized Taiwanese cinema.
-His films often explored themes of urban alienation, generational conflict, and the struggle for personal and cultural identity.',
+'Edward Yang was a Taiwanese film director known for his masterful storytelling and deep exploration of human emotions. His films often depicted the complexities of modern Taiwanese society and delved into the intricacies of interpersonal relationships, family dynamics, and the struggles of individuals caught in the flux of societal changes. Yang''s works were renowned for their thought-provoking narratives, realistic portrayals of characters, and a keen eye for detail. 
+He was known for his profound understanding of human nature and his ability to capture the nuances of human behavior on screen. Yang''s films were often characterized by a minimalist visual style, allowing the audience to focus on the intricate layers of his storytelling. His body of work continues to be celebrated for its profound insights into the human condition and its exploration of the human psyche.',
 DATE '1947-11-06',
 DATE '2007-06-29',
 'https://i.postimg.cc/XN1qZrrQ/edward-yang.jpg',
@@ -170,8 +160,8 @@ DATE '2007-06-29',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Sergei Parajanov',
-'Sergei Parajanov was a Soviet filmmaker known for his innovative and visually stunning approach to cinema. His films were characterized by their poetic, dreamlike quality, as well as their use of richly textured, symbolic imagery. 
-Parajanov''s work often explored themes of cultural identity, folklore, and spirituality, drawing on the traditions of his native Armenia and the wider Caucasus region. Despite facing censorship and persecution from Soviet authorities, Parajanov''s films have since gained recognition as major contributions to the world cinema canon.',
+'Sergei Parajanov, a renowned filmmaker, is best known for his distinct visual style, which incorporates richly textured and highly symbolic imagery. His films are often characterized by their poetic and lyrical approach, blending elements of folklore, history, and surrealism. Parajanov is also known for his unapologetic celebration of ethnic and cultural diversity, and his films often explore themes of identity, spirituality, and the human condition. 
+His work is hailed for its bold and innovative approach to storytelling, challenging conventional narrative structures and pushing the boundaries of visual storytelling. Parajanov''s films are celebrated for their evocative visuals, meticulous attention to detail, and profound emotional impact. Despite facing censorship and persecution from Soviet authorities, Parajanov''s films have since gained recognition as major contributions to the world cinema canon.',
 DATE '1924-01-09',
 DATE '1990-07-20',
 'https://i.postimg.cc/Vs75hmCr/sergei-parajanov.jpg',
@@ -180,8 +170,8 @@ DATE '1990-07-20',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Alfonso Cuarón',
-'Alfonso Cuaron is a renowned director known for his visually stunning and thematically rich films that explore the complexities of human relationships and societal issues. 
-With a keen eye for detail and a unique cinematic style, Cuaron has established himself as a leading figure in contemporary filmmaking. His works often tackle themes such as family, identity, and political turmoil, while also incorporating elements of magical realism and social commentary.',
+'Alfonso Cuarón is a renowned Mexican film director known for his masterful storytelling, visual aesthetics, and innovative filmmaking techniques. He has a penchant for exploring intimate human stories against the backdrop of larger socio-political events, often addressing themes such as class struggle, identity, and survival.
+ Cuarón has a keen eye for capturing the struggles and triumphs of ordinary people, and his films are often characterized by their deeply emotional and intimate portrayals of human experiences. He is celebrated for his unique ability to create immersive cinematic experiences that blend realism with fantasy, pushing the boundaries of conventional storytelling.',
 DATE '1961-11-28',
 NULL,
 'https://i.postimg.cc/qq902kmg/alfonso-cuaron.webp',
@@ -190,8 +180,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Shôhei Imamura',
-'Shôhei Imamura is a highly regarded Japanese filmmaker known for his exploration of complex human characters and social issues. Imamura''s works often examine the darker aspects of Japanese society, including corruption, sexual desire, and the psychological effects of World War II. 
-His distinct style combines realism and surrealism, showcasing a unique perspective on the human condition. Imamura was a key figure in the Japanese New Wave movement, which sought to challenge traditional cinematic conventions and push the boundaries of the medium. His work has been celebrated for its uncompromising vision and uncompromising honesty.',
+'Shohei Imamura was a renowned Japanese film director known for his distinct approach to storytelling, characterized by his exploration of complex human nature and societal taboos. Imamura''s films often delved into the darker aspects of human behavior, challenging social norms and exposing the contradictions and hypocrisies of Japanese society. 
+He was known for his gritty and provocative narratives that tackled themes such as the struggles of the working class, the marginalized, and the underprivileged. Imamura''s films were often marked by a deep sense of realism, portraying flawed characters with all their complexities and contradictions. With a keen eye for detail and a knack for blending humor with drama, Imamura''s films were provocative, thought-provoking, and unflinching in their depiction of human nature and societal issues.',
 DATE '1926-09-15',
 DATE '2006-05-30',
 'https://i.postimg.cc/jSzCdZT0/shohei-imamura.jpg',
@@ -200,8 +190,8 @@ DATE '2006-05-30',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Kurt Kuenne', 
-'Kurt Kuenne is a renowned director known for his thought-provoking explorations of the human condition. He delves deep into the complexities of relationships, loss, and redemption, often using his unique visual style to convey his message.
- His films offer a compelling perspective on life and the world we live in, challenging audiences to reflect on their own experiences and values.',
+'Kurt Kuenne is an accomplished director known for his profound storytelling and keen eye for capturing emotions on screen. With a distinctive style that blends heart-wrenching drama with moments of levity, Kuenne has a knack for connecting with audiences on a deeply emotional level. Throughout his illustrious career, Kuenne has consistently delved into themes of love, loss, and human connection, exploring the complexities of relationships and the rawness of human emotions. 
+His films are often characterized by their poignant narratives, rich character development, and thought-provoking exploration of the human condition.',
  DATE '1973-10-24',
  NULL,
 'https://i.postimg.cc/52mf4DWc/kurt-kuenne.jpg',
@@ -210,8 +200,8 @@ VALUES('Kurt Kuenne',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Eiichi Yamamoto',
-'Eiichi Yamamoto is a renowned Japanese director who is known for his thought-provoking and visually stunning animated films. He is recognized for his exploration of unconventional and taboo themes such as sexuality, politics, and religion. 
-Yamamoto''s work often pushes the boundaries of traditional storytelling and incorporates elements of surrealism and experimentalism. His unique style and artistic vision have made him an influential figure in the world of animation, and his films have been praised for their depth, complexity, and social commentary.',
+'Eiichi Yamamoto is a visionary Japanese director celebrated for his distinct style and thought-provoking storytelling. Over the years, he has gained recognition for his unique approach to animation, pushing boundaries and challenging societal norms. Yamamoto is known for delving into complex and often controversial themes such as sexuality, spirituality, and human nature, with a keen eye for detail and a fearless approach to exploring the human condition. 
+His work often features visually stunning imagery, evocative symbolism, and a blend of traditional and avant-garde elements that captivate audiences and leave a lasting impression.',
 DATE '1940-11-22',
 DATE '2021-09-07',
 'https://i.postimg.cc/hGv660YB/eiichi-yamamoto.jpg',
@@ -220,8 +210,8 @@ DATE '2021-09-07',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Tsai Ming-Liang', 
-'Tsai Ming-Liang is a renowned Taiwanese film director known for his unique visual style and exploration of themes such as urban alienation, loneliness, and human connections. His films often feature long takes, minimal dialogue, and a contemplative pace, creating a profound and immersive cinematic experience. 
-Tsai''s work often portrays the struggle to connect with others in a fast-paced, urbanized world, and his films have been lauded for their poignant and provocative commentary on the human condition.',
+'Tsai Ming-liang is a highly acclaimed Taiwanese filmmaker known for his unique and distinct style of cinema. With a career spanning several decades, Tsai has gained a reputation as a master of minimalist storytelling, using long takes and static shots to create poetic and introspective narratives. He is often associated with the slow cinema movement, where he delves into the nuances of human existence and explores themes of loneliness, alienation, and urban dislocation. 
+Tsai''s films are known for their unflinching portrayal of the human condition, often depicting characters who are marginalized, disconnected, and struggling to find meaning in a modern society. His films are deeply contemplative, capturing the subtlest of emotions and the mundane moments of life with a keen eye for detail.',
 DATE '1957-10-27',
 NULL,
 'https://i.postimg.cc/0QTHF1gg/tsai-ming-liang.webp',
@@ -230,17 +220,19 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Hirokazu Kore-eda',
-'Hirokazu Kore-eda is a highly acclaimed Japanese director known for his contemplative and humanistic approach to storytelling. His films often explore the complexities of family dynamics, the struggle to find meaning and purpose in life, and the inherent beauty and fragility of the human condition. 
-Kore-eda''s works are recognized for their nuanced characterizations and understated style, which have earned him a place among the most respected filmmakers of his generation.',
+'Hirokazu Kore-eda is a highly acclaimed Japanese director known for his deeply humanistic approach to storytelling. With a career spanning over decades, he has established himself as a master of subtle, thought-provoking cinema that captures the complexity of human relationships and emotions. 
+Kore-eda is known for his keen observation of everyday life and his ability to create rich character-driven narratives that explore universal themes such as family, memory, loss, and identity. His films often delve into the nuances of human behavior and the intricacies of family dynamics, revealing the depth and beauty of ordinary lives.',
 DATE '1962-06-06',
 NULL,
 'https://i.postimg.cc/13ZPt43h/hirokazu-kore-eda.jpg',
 'Japan'
 );
 
+
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Olivier Assayas',
-'Olivier Assayas is a French film director known for his stylistic approach to storytelling and exploration of complex themes such as identity, relationships, and the passage of time. His works often feature unconventional narratives and nuanced characterizations, capturing the intricacies of the human experience with sensitivity and depth.',
+'Olivier Assayas is a renowned French director known for his distinct cinematic style and thought-provoking storytelling. With a career spanning several decades, Assayas has earned a reputation as a skilled filmmaker who pushes the boundaries of conventional storytelling, often exploring complex and nuanced themes in his films. His works are known for their deep exploration of human relationships, identity, and the struggles of modern society. 
+Assayas is also recognized for his unique ability to capture the zeitgeist of contemporary culture, often delving into the impact of technology and globalization on individuals and communities. His films are characterized by their intricate narratives, rich characterizations, and evocative visuals, creating a sense of emotional intimacy and intellectual depth.',
 DATE '1955-01-25',
 NULL,
 'https://i.postimg.cc/J0BrYz81/olivier-assayas.jpg',
@@ -249,8 +241,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Danny Boyle',
-'Danny Boyle is a highly regarded director known for his distinctive style and versatility. He is recognized for his ability to blend genres, experiment with visual storytelling techniques, and infuse his films with a unique energy and dynamism. 
-Boyle is also known for his exploration of themes such as the human condition, identity, and redemption, often delving into the darker aspects of society and the psyche.',
+'Danny Boyle is a visionary British director known for his distinct cinematic style and diverse filmography. With a career spanning decades, Boyle has been lauded for his ability to captivate audiences with his unconventional storytelling and unique visual flair. He is renowned for his seamless blending of genres, from gritty dramas to pulse-pounding thrillers, and has earned a reputation for pushing boundaries and taking risks in his films. 
+Boyle''s work often delves into thought-provoking themes such as human nature, identity, and the human condition. His films are characterized by their compelling characters, dynamic storytelling, and striking visuals, making him one of the most innovative and influential directors in modern cinema.',
 DATE '1956-10-20',
 NULL,
 'https://i.postimg.cc/pVDQk0fC/danny-boyle.jpg',
@@ -259,8 +251,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Lino Brocka', 
-'Lino Brocka was a prominent Filipino director known for his socially relevant films that addressed themes of poverty, corruption, and oppression. He was a leading figure in Philippine cinema during the 1970s and 1980s, and his works are considered to be seminal contributions to the country''s cinematic heritage. 
-Brocka''s films were characterized by their raw realism, intense drama, and unflinching portrayal of Philippine society''s struggles.',
+'Lino Brocka was a renowned Filipino film director known for his thought-provoking and socially relevant films. With a career spanning several decades, Brocka was recognized for his uncompromising and unflinching portrayal of the harsh realities faced by marginalized communities in the Philippines. He was a prominent figure in Philippine cinema, known for his unapologetic exploration of issues such as poverty, corruption, social inequality, and human rights abuses. 
+Brocka''s films often featured complex characters and layered narratives that delved into the depths of human nature and societal struggles. He was widely regarded as a pioneering force in Philippine cinema, using his craft to shed light on the pressing social issues faced by his countrymen.',
 DATE '1939-04-03',
 DATE '1991-05-22',
 'https://i.postimg.cc/NFSkCJxz/lino-brocka.jpg',
@@ -269,7 +261,8 @@ DATE '1991-05-22',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Kim Ki-young',
-'Kim Ki-young was a South Korean filmmaker known for his unique and daring approach to storytelling, often exploring controversial themes such as sexuality, obsession, and power dynamics. His films were characterized by their psychological depth and unconventional narrative structures, earning him a reputation as one of the most influential filmmakers in South Korean cinema history. 
+'Kim Ki-young, a visionary South Korean filmmaker, is celebrated for his bold and provocative cinematic style that often pushes the boundaries of traditional storytelling. Known for his deep exploration of human psychology and the dark complexities of human nature, Kim Ki-young''s films are renowned for their intense and visceral portrayal of human emotions. 
+With a career spanning over several decades, Kim Ki-young established himself as a master of psychological horror and suspense, often blurring the lines between reality and illusion in his films. His works are known for their unapologetic and daring approach, delving into taboo subjects such as desire, obsession, and societal norms with unwavering fearlessness. 
 Despite facing censorship and backlash during his career, Kim''s works have since been recognized for their profound impact on the development of Korean cinema and their enduring legacy.',
 DATE '1919-10-10',
 DATE '1998-02-05',
@@ -279,7 +272,8 @@ DATE '1998-02-05',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Roman Polanski',
-'Roman Polanski is a Polish-French director known for his bold and controversial approach to filmmaking. Throughout his career, he has explored themes of isolation, paranoia, and psychological terror, often delving into the darker corners of the human psyche. Polanski''s work has been praised for its technical mastery, as well as its willingness to confront uncomfortable truths about human nature.',
+'Roman Polanski is a renowned filmmaker known for his distinct visual style and provocative storytelling. With a career spanning several decades, Polanski has established himself as a visionary director, often exploring themes of psychological tension, human frailty, and the darker aspects of the human condition. 
+His films often delve into the complexities of human relationships, examining the intricacies of human behavior and the consequences of our actions. Polanski is known for his meticulous attention to detail and his ability to create compelling narratives that are both visually stunning and emotionally impactful.',
 DATE '1933-08-18',
 NULL,
 'https://i.postimg.cc/BvHgydZF/roman-polanski.jpg',
@@ -288,8 +282,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('David Lynch',
-'David Lynch is a visionary director known for his unique style and exploration of surreal, dreamlike themes. His work often delves into the darker aspects of human nature, with a particular focus on psychological horror and the subconscious mind. 
-Lynch''s films and television shows are characterized by their striking visuals, haunting soundscapes, and unconventional narratives that challenge audiences to question their own perceptions of reality.',
+'David Lynch, a visionary director and a master of surrealism, is renowned for his enigmatic and unconventional approach to filmmaking. With a career spanning several decades, Lynch has carved a unique niche in the world of cinema, mesmerizing audiences with his distinctive storytelling style and unparalleled visual aesthetics. Known for his uncanny ability to create a sense of unease and mystery, Lynch often delves into the dark recesses of the human mind, exploring the complexities of identity, dreams, and the subconscious. His films are a captivating blend of the ordinary and the bizarre, filled with haunting and enigmatic imagery that lingers in the viewer''s mind long after the credits roll.
+Lynch''s work is often characterized by his use of surreal and symbolic elements, as well as his exploration of the duality of human nature and the blurred lines between reality and illusion.',
 DATE '1946-01-20',
 NULL,
 'https://i.postimg.cc/x1F1rCSN/david-lynch.jpg',
@@ -298,7 +292,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Hu Bo',
-'Hu Bo was a Chinese filmmaker known for his poignant depictions of societal alienation, despair, and loneliness in modern urban China. His works often explored themes of human connection, identity, and the search for meaning in a rapidly changing world. Hu''s films were characterized by long takes, minimalistic dialogue, and a powerful visual language.',
+'Hu Bo, a prominent Chinese filmmaker, was known for his uncompromising and raw portrayals of human suffering and isolation. As a director, he tackled themes of existential despair, social inequality, and the human condition with unflinching honesty. With a distinctive and poetic visual style, Hu Bo''s films were known for their long takes and immersive storytelling that delved deep into the psyche of his characters. 
+His work often confronted the harsh realities of life in contemporary China, depicting the struggles of marginalized individuals in a society that seemed indifferent to their plight. Hu Bo''s films were acclaimed for their thought-provoking narratives, stark visuals, and powerful performances.',
 DATE '1988-07-20',
 DATE '2017-10-12',
 'https://i.postimg.cc/5NwZF5qS/hu-bo.webp',
@@ -307,9 +302,8 @@ DATE '2017-10-12',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Errol Morris',
-'Errol Morris is a renowned American filmmaker known for his unique style of documentary storytelling. He has been recognized for his ability to capture complex and controversial subjects with a journalistic approach, often challenging the audience''s preconceptions. 
-Morris has focused on a wide range of themes in his work, including the nature of truth and reality, the ethics of representation, and the human condition. He is particularly well-known for his exploration of controversial and complex topics such as crime, politics, and war. 
-His films are characterized by their attention to detail, use of reenactments, and the use of innovative techniques to capture interviews. Morris is considered one of the most influential documentary filmmakers of our time.',
+'Errol Morris is a prominent and influential director known for his distinctive style of documentary filmmaking. With a career spanning several decades, Morris has gained a reputation as a veteran filmmaker and journalist, renowned for his incisive and thought-provoking explorations of truth, perception, and human nature. 
+He has a unique ability to peel back the layers of reality, examining the complexity of human behavior and delving into the intricacies of memory and storytelling. Morris is known for his unflinching approach to controversial and sometimes taboo subjects, challenging traditional notions of truth and documentary filmmaking. His films often blur the line between reality and fiction, capturing the subjective nature of truth and the power of storytelling.', 
 DATE '1948-02-05',
 NULL,
 'https://i.postimg.cc/HnZ40kp7/errol-morris.jpg',
@@ -318,8 +312,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Orson Welles',
-'Orson Welles was a highly influential American filmmaker, known for his innovative techniques and experimentation in the art of filmmaking. He is best known for his works in the Golden Age of Hollywood, which pushed the boundaries of narrative structure, visual style, and storytelling. 
-Themes explored in his films often included the corrupting influence of power, the blurred line between truth and fiction, and the fragility of the human psyche.',
+'Orson Welles, a legendary filmmaker and visionary, is known for his unparalleled creativity, boldness, and innovative approach to cinema. His work, spanning across different genres and mediums, is characterized by a relentless pursuit of artistic excellence and a profound exploration of the human condition. 
+With an uncanny ability to push the boundaries of storytelling and technical craftsmanship, Welles captivated audiences with his distinctive style, often featuring complex characters grappling with existential themes such as power, corruption, identity, and the nature of reality.', 
 DATE '1915-05-06',
 DATE '1985-10-10',
 'https://i.postimg.cc/zBbV2wY7/orson-welles.jpg',
@@ -328,8 +322,8 @@ DATE '1985-10-10',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Bong Joon-ho',
-'Bong Joon-ho is a renowned South Korean film director known for his masterful storytelling, unique visual style, and thought-provoking themes. He is particularly known for exploring societal issues such as class inequality, environmentalism, and the human condition. 
-Bong''s films often incorporate elements of black comedy, satire, and suspense, and he is widely regarded as one of the most innovative and influential directors working today.',
+'Bong Joon-ho, a visionary South Korean filmmaker, is widely recognized for his distinct storytelling style and unique approach to filmmaking. With a career spanning over two decades, Bong has become a master storyteller, known for his ability to seamlessly blend genres and create thought-provoking films that challenge societal norms. He has gained international acclaim for his innovative and visually stunning films that often explore the dark and complex aspects of human nature. 
+Bong is renowned for his meticulous attention to detail, his sharp social commentary, and his skillful use of symbolism to convey powerful messages about class disparity, societal injustices, and the human condition. His films often feature morally ambiguous characters and delve into themes of social inequality, corruption, and the human struggle for survival, leaving audiences with profound insights into the human condition and the world we inhabit.',
 DATE '1969-09-14',
 NULL,
 'https://i.postimg.cc/GhNWH15g/bong-joon-ho.jpg',
@@ -338,8 +332,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Paul Schrader', 
-'Paul Schrader is a renowned director known for his exploration of themes such as alienation, isolation, and spiritual crisis. His work often delves into the darker aspects of the human condition, and his films are known for their psychological depth and intense character studies. 
-Schrader''s distinctive visual style and ability to elicit powerful performances from his actors have made him a highly respected figure in the world of cinema.',
+'Paul Schrader is a celebrated filmmaker known for his thought-provoking and introspective works. With a career spanning several decades, Schrader has been recognized for his unique style and uncompromising approach to storytelling. His films often explore complex themes of existentialism, morality, and the human condition, delving deep into the inner struggles and conflicts of his characters. 
+Schrader is also known for his unflinching examination of darker aspects of society, including exploring the gritty underbelly of urban life and the complexities of human desires. His works are known for their sharp and incisive writing, nuanced characters, and evocative visuals that captivate audiences and leave a lasting impact.',
 DATE '1946-07-22',
 NULL,
 'https://i.postimg.cc/rpN94SQZ/paul-schrader.jpg',
@@ -358,8 +352,9 @@ DATE '1986-12-29',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Jean-Luc Godard',
-'Jean-Luc Godard is a renowned French-Swiss film director who revolutionized cinema in the 1960s with his innovative and unconventional approach. He is known for his intellectual and philosophical approach to filmmaking, as well as his experimental use of sound, music, and visuals. 
-Godard''s films often explore political and social issues, such as class struggle, consumerism, and the Vietnam War, and are characterized by their fragmented narrative structure and deconstruction of cinematic conventions.',
+'Jean-Luc Godard, a renowned French filmmaker and pioneer of the French New Wave movement, is known for his avant-garde approach to cinema. Over the course of his illustrious career, which spans several decades, Godard has consistently challenged the traditional conventions of filmmaking, pushing the boundaries of narrative structure, editing techniques, and visual aesthetics. He is known for his innovative and experimental style, often incorporating unconventional storytelling methods, non-linear narratives, and bold visual imagery into his films.
+Godard''s films are characterized by his keen socio-political commentary and his exploration of existential themes such as alienation, love, and the human condition. He is known for his critical examination of society, politics, and culture, often taking a provocative and thought-provoking stance. His films are known for their intellectual depth, philosophical musings, and poetic sensibility.
+Godard''s works often feature fragmented narratives, nonlinear storytelling, and an unconventional use of editing techniques. He is also known for his innovative use of cinematography, with a keen eye for visual composition and juxtaposition. Godard''s films are renowned for their unique blend of fiction and reality, as well as their artistic and intellectual complexity.',
 DATE '1930-12-03',
 DATE '2022-09-13',
 'https://i.postimg.cc/SxR8xJZf/jean-luc-godard.jpg',
@@ -368,8 +363,8 @@ DATE '2022-09-13',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Keisuke Kinoshita',
-'Keisuke Kinoshita was a highly regarded Japanese filmmaker known for his poignant and socially conscious films. His works often explored themes such as family dynamics, poverty, and the struggles of everyday people. 
-Kinoshita''s films were renowned for their emotional depth and humanism, and he was considered a key figure in the post-World War II Japanese film industry.',
+'Keisuke Kinoshita was a highly influential Japanese film director, known for his remarkable contributions to the Golden Age of Japanese cinema. With a career spanning several decades, Kinoshita established himself as a master storyteller, often delving into themes of family, humanism, and social issues. His films were characterized by their heartfelt and poignant portrayals of ordinary people and their struggles, as well as their deep emotional resonance. 
+Kinoshita''s works are celebrated for their exquisite craftsmanship, striking visuals, and profound exploration of the human condition.',
 DATE '1912-12-05',
 DATE '1998-12-30',
 'https://i.postimg.cc/3JKNqYVD/keisuke-kinoshita.jpg',
@@ -378,8 +373,8 @@ DATE '1998-12-30',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Xavier Dolan',
-'Xavier Dolan is a Canadian director known for his visually stunning and emotionally charged films. He often explores themes of identity, family dynamics, and interpersonal relationships with a raw and unflinching honesty. 
-His work has been praised for its unique style and powerful storytelling, cementing his place as one of the most important voices in contemporary cinema.',
+'Xavier Dolan is a visionary Canadian director known for his bold and provocative filmmaking style. With a keen eye for aesthetics and a deep understanding of human emotions, Dolan has captivated audiences with his unique approach to storytelling. Throughout his illustrious career, Dolan has been recognized for his fearless exploration of themes such as love, identity, family dynamics, and the complexities of human relationships. His films often challenge societal norms and push boundaries, tackling subjects with raw honesty and emotional intensity. 
+Dolan''s work is characterized by his intricate attention to detail, masterful use of visuals and sound, and his unwavering commitment to telling stories that are both visually stunning and emotionally resonant.', 
 DATE '1989-03-20',
 NULL,
 'https://i.postimg.cc/qMGD88Hg/xavier-dolan.jpg',
@@ -388,8 +383,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Federico Fellini',
-'Federico Fellini was an Italian film director widely regarded as one of the most influential and innovative filmmakers of the 20th century. He was known for his unique and surrealistic style, which often blended fantasy and reality in his works.
-Fellini''s films were often characterized by their dreamlike quality, which explored themes such as the human condition, sexuality, and the nature of reality. His films often featured exaggerated characters, elaborate sets, and stunning visuals that transported viewers to a different world.',
+'Federico Fellini, an iconic Italian filmmaker, is renowned for his unique and visionary approach to cinema. With a career spanning several decades, Fellini is recognized for his surrealistic and imaginative storytelling, characterized by dreamlike sequences, fantastical imagery, and deeply introspective narratives. 
+Known for his vivid and evocative visual style, Fellini has a penchant for exploring the complexities of the human psyche, delving into the themes of memory, desire, and the search for meaning in life. His films often blend reality and fantasy, blurring the lines between the conscious and the subconscious, resulting in mesmerizing cinematic experiences that challenge traditional storytelling conventions.', 
 DATE '1920-01-20',
 DATE '1993-10-31',
 'https://i.postimg.cc/dV8cC7t0/federico-fellini.jpg',
@@ -398,7 +393,8 @@ DATE '1993-10-31',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Satoshi Kon',
-'Satoshi Kon was a highly influential Japanese anime director known for his innovative storytelling and surreal imagery. He explored themes of identity, perception, and memory through his films, often blurring the lines between reality and fantasy. Kon''s work has had a significant impact on the animation industry and has been praised for its artistic and philosophical depth.',
+'Satoshi Kon, a visionary Japanese filmmaker, is renowned for his unique blend of psychological thrillers and surreal storytelling. With a career spanning over two decades, Kon is known for his thought-provoking exploration of the human mind, blurring the lines between reality and illusion. His works often feature intricate and mind-bending narratives, rich character development, and visually stunning animation. 
+Themes of identity, memory, dreams, and the complexities of the human psyche are recurrent in Kon''s films, which challenge conventional storytelling conventions and captivate audiences with their hauntingly mesmerizing imagery. Kon''s work has had a significant impact on the animation industry and has been praised for its artistic and philosophical depth.',
 DATE '1963-10-12',
 DATE '2010-08-24',
 'https://i.postimg.cc/qR9G2xLh/satoshi-kon.jpg',
@@ -407,7 +403,8 @@ DATE '2010-08-24',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Abbas Kiarostami', 
-'Abbas Kiarostami, an internationally renowned Iranian director, is celebrated for his thought-provoking films that blur the line between reality and fiction. Known for his minimalist style and poetic approach, Kiarostami often delves into universal human experiences through subtle nuances and profound symbolism. His films tackle themes such as the intricacies of human relationships, the beauty of everyday moments, and the complexities of life and death.',
+'Abbas Kiarostami, a renowned Iranian director, is a master of cinematic storytelling who has captivated audiences worldwide with his unique style and thought-provoking narratives. Known for his innovative approach to filmmaking, Kiarostami often blurs the line between reality and fiction, creating a seamless blend of naturalistic performances and poetic imagery. His films are marked by their minimalist aesthetics and contemplative pace, which allow viewers to deeply engage with the characters and their emotions.
+Kiarostami''s works are deeply rooted in the human experience and often explore universal themes such as love, loss, isolation, and the complexities of human relationships. His keen observation of everyday life and his ability to find beauty in the mundane make his films feel both grounded and transcendent, inviting viewers to reflect on the deeper meanings of existence. Kiarostami''s films also often highlight the social and cultural dynamics of Iranian society, shedding light on its complexities and contradictions.',
 DATE '1940-06-22',
 DATE '2016-07-04',
 'https://i.postimg.cc/BvKR64G0/abbas-kiarostami.jpg',
@@ -416,8 +413,8 @@ DATE '2016-07-04',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Jia Zhangke',
-'Jia Zhangke is a prominent Chinese film director known for his distinct storytelling style that often blends realism and poetry. His films explore themes of social and economic changes in contemporary China, depicting the struggles and conflicts of ordinary people caught in the midst of rapid societal transformations. 
-Jia is considered a leading figure in the "Sixth Generation" of Chinese filmmakers, known for his critically acclaimed works that offer poignant reflections on China''s modern history and its impact on individuals and society.',
+'Jia Zhangke is a visionary Chinese filmmaker renowned for his compelling portrayals of contemporary China''s socio-political and economic landscape. With a keen eye for detail and a deep understanding of his country''s complex history and culture, Jia has earned a reputation for his thought-provoking and socially relevant films that explore the impact of modernization, urbanization, and globalization on individuals and communities. 
+His works often feature characters who grapple with issues of identity, dislocation, and alienation in the face of rapid societal changes, while also delving into the tensions between tradition and progress, memory and forgetting, and personal desires and societal expectations. Jia''s distinctive style combines poetic realism with documentary-like elements, capturing the nuances of everyday life with unflinching honesty and authenticity.',
 DATE '1970-05-24',
 NULL,
 'https://i.postimg.cc/7ZPfp3WF/jia-zhangke.jpg',
@@ -426,7 +423,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Ingmar Bergman', 
-'Ingmar Bergman, a renowned Swedish film director, is widely recognized for his introspective and psychologically complex films. His works often delve into existentialist themes, exploring the intricacies of human relationships, the nature of faith, and the struggles of the human condition. Bergman''s films are known for their meticulous attention to detail, masterful storytelling, and deep emotional resonance.',
+'Ingmar Bergman, a legendary Swedish film director, is widely regarded as one of the most influential and innovative filmmakers of the 20th century. Known for his distinctive cinematic style and deeply introspective storytelling, Bergman''s films are renowned for their profound exploration of the human condition and existential themes such as love, faith, mortality, and the meaning of life.
+Throughout his prolific career, Bergman''s works often delved into the complexity of human relationships, inner struggles, and psychological conflicts, creating thought-provoking narratives that challenge the audience''s perceptions and emotions. His films are known for their stark visuals, intense performances, and intricate character studies, capturing the rawness and vulnerability of the human experience.',
 DATE '1918-07-14',
 DATE '2007-07-30',
 'https://i.postimg.cc/ZKJLTC0Y/ingmar-bergman.jpg',
@@ -435,7 +433,8 @@ DATE '2007-07-30',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Uli Edel',
-'Uli Edel is a renowned director known for his distinct style and unique approach to filmmaking. With a career spanning decades, Edel has earned a reputation for his bold and thought-provoking films that often explore complex themes of human nature, morality, and societal issues. His work has been critically acclaimed for its gritty realism and uncompromising portrayal of human emotions.',
+'Uli Edel is a seasoned director renowned for his bold and provocative filmmaking style. With a career spanning decades, he has established himself as a visionary storyteller who fearlessly explores the dark and gritty corners of human nature. Edel''s films often tackle controversial and taboo subjects with unapologetic rawness, delving into the complexities of human behavior and pushing the boundaries of conventional storytelling. 
+Known for his meticulous attention to detail and ability to elicit powerful performances from his actors, Edel''s films are characterized by their haunting visuals and thought-provoking themes that challenge societal norms and provoke introspection.'
 DATE '1947-04-11',
 NULL,
 'https://i.postimg.cc/rwcvHcch/uli-edel.jpg',
@@ -444,8 +443,9 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Seijun Suzuki',
-'Seijun Suzuki, a renowned Japanese filmmaker, is known for his innovative and unconventional approach to cinema. His directorial style is characterized by vibrant visuals, striking use of color, and bold storytelling choices. Suzuki is renowned for pushing the boundaries of traditional storytelling, often incorporating elements of surrealism and absurdity in his films.
-Suzuki often explored themes of youth rebellion, societal critique, and the complexities of human nature. He frequently challenged the norms of Japanese cinema during his time, subverting genre conventions and experimenting with narrative structures to create unique and thought-provoking films.',
+'Seijun Suzuki, a renowned Japanese filmmaker, is known for his avant-garde and visually stunning films that challenge conventional storytelling and push the boundaries of genre. His distinct style often features bold and unconventional visual techniques, such as vibrant colors, surreal imagery, and stylized violence.
+Suzuki''s films are characterized by their complex narratives, layered with symbolism and social commentary, which often explore themes of alienation, youth rebellion, and the human condition. His works often blur the lines between reality and fantasy, and he is known for his unique blend of gritty crime dramas, stylized action films, and poetic art-house cinema.
+Considered a maverick in Japanese cinema, Suzuki''s unconventional approach to filmmaking often led to clashes with studio executives, resulting in his controversial dismissal from Nikkatsu, a major Japanese film studio. However, his films have since gained critical acclaim worldwide.',
 DATE '1923-05-24',
 NULL,
 'https://i.postimg.cc/qMNJrSbc/seijun-suzuki.webp',
@@ -454,7 +454,8 @@ NULL,
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Chris Marker',
-'Chris Marker was a visionary filmmaker known for his avant-garde approach to cinema. His films often explored complex themes such as memory, time, politics, and social commentary. Marker''s unique style combined elements of documentary, experimental, and poetic cinema, creating a distinct voice that left a lasting impact on the world of film.',
+'Chris Marker  was a renowned French filmmaker and multimedia artist known for his innovative and thought-provoking works. His films are often characterized by their poetic and experimental nature, blending elements of documentary and fiction to explore complex themes such as memory, time, politics, and the human condition. 
+Marker''s unique style often employed unconventional narrative structures, nonlinear storytelling, and the use of found footage, creating visually captivating and intellectually stimulating cinematic experiences. He was considered a pioneer in the realm of avant-garde cinema, pushing the boundaries of traditional filmmaking and challenging conventional storytelling techniques.', 
 DATE '1921-07-29',
 DATE '2012-07-29',
 'https://i.postimg.cc/0QV88CWb/chris-marker.jpg',
@@ -463,10 +464,23 @@ DATE '2012-07-29',
 
 INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
 VALUES('Hou Hsiao-hsien',
-'Hou Hsiao-hsien is a renowned Taiwanese film director known for his artful and contemplative approach to cinema. He is often associated with the Taiwanese New Wave movement and is recognized for his mastery of long takes, subtle nuances, and exquisite visual compositions. Hou''s films often explore themes of memory, history, and interpersonal relationships, capturing the complex emotions and cultural dynamics of Taiwan.',
+'Hou Hsiao-hsien, a renowned Taiwanese film director, is celebrated for his distinct directorial style and innovative approach to storytelling. With a career spanning over four decades, Hou is known for his meticulous attention to detail, breathtaking cinematography, and emphasis on the subtleties of human emotions. His films often explore complex relationships, cultural identity, and the passage of time, while reflecting on Taiwan''s history and societal changes. 
+Hou''s work is characterized by his poetic sensibility, minimalist aesthetic, and masterful use of long takes, which draw viewers into his intricate narratives and evoke deep emotional resonance.',
 DATE '1947-04-08',
 NULL,
 'https://i.postimg.cc/XJv91WTr/hou-hsiao-hsien.jpg',
 'Taiwan'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Masaki Kobayashi',
+'Masaki Kobayashi, a prominent Japanese director, is known for his thought-provoking and socially-conscious films that often explore the human condition and challenge societal norms. With a career spanning over four decades, Kobayashi has been lauded for his uncompromising vision and distinctive style, which often incorporates elements of satire, social critique, and psychological depth.
+Kobayashi''s films are known for their profound themes, tackling philosophical and existenential subjects such as war, human rights, injustice, and morality. He is often praised for his ability to depict the complexities of human nature and the moral ambiguity of societal systems. Kobayashi''s films often offer a critical commentary on the socio-political issues of his time, and his works have been described as powerful indictments of social injustice and oppression.
+Kobayashi''s films are highly regarded for their meticulous craftsmanship, striking visuals, and profound storytelling.',
+DATE '1916-02-14',
+DATE '1996-10-04',
+'https://i.postimg.cc/VkgrQ9Qs/masaki-kobayashi.jpg',
+'Japan'
+);
+
 

@@ -16,8 +16,9 @@ CREATE TABLE movie (
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Enter the Void',
-'Enter the Void is a mind-bending and visually stunning film by Gaspar Noé that has gained a reputation as a challenging and provocative work of art. The film follows the journey of a young American drug dealer in Tokyo who is shot and killed, and then watches over his sister and the city as a ghostly presence. 
-Known for its intense visual style and use of psychedelic imagery, Enter the Void is an immersive experience that explores themes of life, death, and rebirth. The film has been praised for its technical virtuosity and ambitious scope, and has been noted as an important contribution to the tradition of experimental cinema.',
+'Enter the Void is a psychedelic and experimental film directed by Gaspar Noé. The movie follows the life and afterlife of Oscar, a young American living in Tokyo who becomes a drug dealer to support himself and his sister, Linda. However, after a violent encounter with the police, Oscar''s life is cut short, and he transitions into a surreal and metaphysical journey as a spirit, witnessing the aftermath of his death and the lives of those he left behind.
+Enter the Void is set apart is its unique visual style, characterized by stunning long takes, dizzying camera movements, and vibrant neon colors, which create a hallucinatory and immersive experience for the audience. The film is also notorious for its explicit and provocative content, including graphic depictions of sex, violence, and drug use, pushing the boundaries of conventional cinema.
+Thematically, Enter the Void explores existential and metaphysical concepts, such as the nature of life, death, and consciousness. It delves into the human psyche, exploring themes of guilt, redemption, and the cyclical nature of existence. The film also touches on the impact of trauma, the fleetingness of human connections, and the subjective nature of reality.',
 DATE '2009-05-22',
 161,
 '{Experimental, Drama, Fantasy, "Psychological Thriller", Horror, "Art House"}', 
@@ -34,8 +35,9 @@ https://i.postimg.cc/qRJxVFDN/enter-the-void-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('City of God',
-'City of God is a Brazilian crime drama directed by Fernando Meirelles that has gained widespread critical and popular acclaim for its powerful storytelling and raw, unflinching depiction of life in the favelas of Rio de Janeiro. The film follows the lives of several characters as they navigate the violent and chaotic world of the City of God, a notorious and impoverished neighborhood plagued by drugs, crime, and police brutality.
-Known for its kinetic visual style and use of non-linear storytelling, City of God is a gripping and emotionally resonant work that explores issues of poverty, race, and social inequality in Brazil. The film''s impact on Brazilian and world cinema has been significant, inspiring a wave of new Latin American filmmakers and earning a place as a modern classic of global cinema.',
+'City of God is a critically acclaimed Brazilian film directed by Fernando Meirelles, known for its gritty portrayal of life in the slums of Rio de Janeiro. The plot follows the life of a young man named Rocket, who grows up in the violent and poverty-stricken neighborhood of Cidade de Deus, or City of God. As Rocket navigates through the dangerous and brutal realities of the favela, he becomes entangled with various characters, including his charismatic but ruthless friend Li''l Zé, and the benevolent drug dealer Knockout Ned.
+City of God apart is famed for its unflinching depiction of the harsh and brutal environment of the favela, where poverty, crime, and violence are rampant. The film portrays the harsh realities of life in the slums, including the cycle of poverty, the lure of crime, and the impact of gang culture on the lives of the residents. It delves into the themes of survival, the pursuit of power, and the consequences of violence.
+The movie is known for its fast-paced editing, dynamic camera work, and compelling performances from its mostly non-professional cast. Meirelles'' unique visual style and the film''s raw and authentic portrayal of life in the favela have earned it widespread acclaim, both for its technical excellence and its powerful storytelling.',
 DATE '2002-05-18',
 130,
 '{Crime, Drama, Action, "Coming of Age", "Social Commentary", Thriller}',
@@ -52,8 +54,9 @@ https://i.postimg.cc/SsHR729m/City-Of-God-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Ikiru', 
-'Ikiru is a 1952 Japanese film directed by Akira Kurosawa that follows a bureaucrat named Kanji Watanabe, who discovers he has terminal cancer and seeks to find meaning in his life. The film is known for its powerful themes of mortality, purpose, and the human condition, as well as Kurosawa''s masterful direction and innovative use of flashbacks. 
-Ikiru is widely regarded as one of Kurosawa''s greatest works and a masterpiece of world cinema, cementing his place as one of the most influential filmmakers of the 20th century.',
+'Ikiru is a Japanese film directed by Akira Kurosawa. The plot revolves around a bureaucrat named Kanji Watanabe, who discovers he has terminal cancer and has only a few months to live. Faced with his mortality, Watanabe embarks on a journey to find meaning in his life and make a difference in the world.
+The movie is known for its profound exploration of the human condition, particularly the themes of existentialism, mortality, and the search for purpose. Kurosawa masterfully depicts Watanabe''s internal struggles and emotional transformation as he grapples with his impending death. The film also highlights the flaws of the bureaucratic system and societal norms, and how they can stifle individuality and hinder authentic living.
+Ikiru is a poignant and thought-provoking film that challenges viewers to reflect on the meaning of life and the importance of living a life with purpose and compassion.',
 DATE '1956-03-25',
 143,
 '{Drama, "Social Commentary", "Slice of Life"}',
@@ -70,8 +73,9 @@ https://i.postimg.cc/TwMJ7wgJ/ikiru-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Synecdoche, New York',
-'Synecdoche, New York is a surreal and existential drama film known for its complex and introspective exploration of life, art, and mortality. Directed by Charlie Kaufman, the movie follows the story of a theater director who embarks on a monumental project to create a replica of his own life in a massive warehouse. 
-Through its intricate and layered storytelling, Synecdoche, New York challenges conventional narrative structures and offers a thought-provoking meditation on the nature of reality and the human condition. The film has earned critical acclaim for its ambitious themes and innovative approach to filmmaking.',
+'Synecdoche, New York is a thought-provoking film directed by Charlie Kaufman, known for its complex narrative structure and exploration of existential themes. The story follows the life of Caden Cotard, a theater director, who becomes increasingly absorbed in a sprawling and surreal theatrical production that mimics his own life. 
+As Caden''s mental state deteriorates, the lines between reality and fiction blur, and the film delves into themes of identity, mortality, and the nature of art. Synecdoche, New York is known for its intricate storytelling, philosophical undertones, and surreal visuals, challenging the audience to question the nature of existence and the complexities of human experience.
+The film''s thematic choices, such as the exploration of the passage of time, the search for meaning in life, and the interconnectedness of art and reality, make it a thought-provoking and introspective viewing experience.',
 DATE '2008-05-23',
 123,
 '{Drama, "Psychological Thriller", "Art House"}',
@@ -88,8 +92,9 @@ https://i.postimg.cc/501RRnM0/s-ny-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Spring, Summer, Fall, Winter… and Spring',
-'Spring, Summer, Fall, Winter...and Spring is a meditative and visually stunning film by acclaimed Korean director Kim Ki-duk. Set in a remote Buddhist monastery, the movie follows the life of a young monk as he experiences the cycle of seasons and learns important life lessons from his master. 
-Known for its breathtaking cinematography, minimalist storytelling, and philosophical themes of redemption and the transience of life, the film is widely regarded as a masterpiece of Korean film and has earned critical acclaim around the world for its artistic merit and philosophical depth.', 
+'Spring, Summer, Fall, Winter... and Spring is a South Korean film directed by Kim Ki-duk, known for its serene and contemplative portrayal of the passage of time and the cyclical nature of life. The movie is set in a remote Buddhist monastery floating on a lake and follows the life journey of a young Buddhist monk from childhood to old age.
+The story is divided into five chapters, each representing a different season of life. In each chapter, the young monk encounters various challenges and temptations that test his spiritual beliefs and moral integrity. As he grows older, he grapples with desires, attachments, and the consequences of his actions, ultimately seeking redemption and enlightenment.
+The film is renowned for its minimalist storytelling, stunning visuals, and sparse dialogue, with nature serving as a powerful backdrop that reflects the characters'' internal states. Kim Ki-duk''s masterful use of symbolism, allegory, and visual metaphors invites viewers to reflect on profound philosophical and existential questions about life, death, morality, and the human condition.',
 DATE '2003-09-19',
 103,
 '{Drama, Romance, "Coming of Age", "Art House"}',

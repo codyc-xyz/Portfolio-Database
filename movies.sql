@@ -644,8 +644,11 @@ https://i.postimg.cc/8P6qZmG9/trainspotting-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Chungking Express',
-'Chungking Express by Wong Kar-wai is a critically acclaimed Hong Kong film known for its unconventional narrative structure, stylish visuals, and vibrant soundtrack. The film tells the story of two separate but interconnected tales of love and longing in the bustling city of Hong Kong. 
-Through its unique blend of romance, mystery, and melancholy, Chungking Express explores themes of urban loneliness, fleeting connections, and the search for human connection in a fast-paced, modern world.',
+'Chungking Express, directed by Wong Kar-wai, is a critically acclaimed Hong Kong film known for its innovative storytelling and unique visual style. The film is divided into two distinct storylines, each depicting a different love story that unfolds in the vibrant and chaotic streets of Hong Kong.
+The first story follows a jaded police officer, He Qiwu, who becomes obsessed with the idea of lost love after his breakup with his girlfriend. He frequents a local fast-food restaurant, the Midnight Express, where he meets a mysterious woman in a blonde wig.. As He Qiwu tries to unravel the mystery of the woman''s identity, he finds himself drawn into a whirlwind of unpredictable events.
+The second story focuses on another police officer, Cop 663, who is also reeling from a recent breakup. He becomes infatuated with a quirky and free-spirited snack bar worker, Faye, who secretly takes care of his apartment while he is away. As Cop 663 tries to move on from his past relationship, he finds solace in his interactions with Faye, who injects a sense of spontaneity and optimism into his life.
+Chungking Express is known for its visually striking cinematography, capturing the hustle and bustle of Hong Kong''s urban landscape with its neon lights, fast-paced editing, and stylized camera movements. Wong Kar-wai''s use of color, music, and unconventional narrative structure create a dream-like and poetic atmosphere that is both mesmerizing and introspective.
+Chungking Express delves into the complexities of human connections, loneliness, and the fleeting nature of love. It explores the transient and ephemeral nature of relationships in a fast-paced urban environment, where chance encounters and missed opportunities shape the lives of its characters. The film further explores the idea of longing and the search for emotional connections in a disconnected world.',
 DATE '1994-07-14',
 98,
 '{Romance, Drama, Comedy, Crime, "Art House"}',
@@ -662,8 +665,10 @@ https://i.postimg.cc/3Rgkjb11/chungking-express-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Fallen Angels',
-'Fallen Angels is a critically acclaimed Hong Kong neo-noir film known for its visually stunning cinematography and complex exploration of urban loneliness and existential angst. The movie follows a hitman, his partner, and a lovelorn woman as they navigate the neon-lit streets of Hong Kong, weaving together stories of love, violence, and alienation. 
-With its atmospheric soundtrack and stylish direction by Wong Kar-wai, "Fallen Angels" is a haunting meditation on the human condition and the search for connection in a world of isolation.',
+'Fallen Angels is a visually captivating and emotionally complex film directed by Wong Kar-wai. The story takes place in Hong Kong and revolves around the lives of four interconnected characters whose paths cross in the bustling streets of the city.
+The movie follows the journey of a disillusioned hitman, a mute ex-convict who becomes his partner, a lovelorn woman who works as a professional killer, and her quirky and obsessive ex-boyfriend. As their lives intersect, their individual struggles with love, loneliness, and isolation are explored in a nonlinear and fragmented narrative style.
+The movie is characterized by its vibrant colors, moody lighting, and dynamic camera movements, creating a dreamlike and surreal atmosphere. The fast-paced editing and unconventional storytelling techniques also add to its unique visual style.
+Fallen Angels delves into the complexities of human emotions and relationships. It explores themes of unrequited love, longing, and the search for connection in a fast-paced urban environment. The characters'' internal struggles and their yearning for intimacy are depicted with rawness and depth, offering a poignant reflection on the human condition.',
 DATE '1995-09-06',
 96,
 '{Drama, Crime, Romance, Noir, "Art House"}',
@@ -680,8 +685,9 @@ https://i.postimg.cc/dtywDhg2/fallen-angels-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Manila in the Claws of Light',
-'Manila in the Claws of Light is a 1975 Philippine film directed by Lino Brocka that is renowned for its gritty portrayal of poverty and social injustice in Manila. The movie follows the story of a young provincial man who moves to Manila to find his lover, only to be thrust into the harsh realities of urban life. 
-Through its vivid depiction of Manila''s underbelly, the film explores themes of powerlessness, corruption, and the human struggle for survival.',
+'Manila in the Claws of Light, directed by Lino Brocka, is a Philippine film known for its gritty depiction of urban poverty and exploitation. The story follows Julio, a young fisherman from the province, who journeys to Manila to search for his missing girlfriend Ligaya. As he navigates the dark and seedy alleys of the city, Julio becomes entangled in its corrupt and oppressive systems, encountering exploitative employers, criminal syndicates, and crooked officials in his desperate quest to find Ligaya.
+The movie is known for its raw and realistic portrayal of the harsh realities faced by the urban poor in Manila during the 1970s. Brocka''s masterful direction captures the squalor, violence, and social injustice that pervade the city, highlighting the stark contrast between the rich and the poor. The film''s gritty cinematography and bleak tone depict Manila as a merciless and unforgiving metropolis that ensnares its inhabitants in its claws of poverty and exploitation.
+Manila in the Claws of Light explores the dehumanizing effects of urbanization, capitalism, and corruption on individuals and communities. It critiques the systemic oppression and exploitation faced by the marginalized in Manila, particularly the poor and the powerless. The film further interrogates issues of gender inequality, as Julio''s search for Ligaya is driven by his love and determination to protect her from the exploitation faced by women in the city.',
 DATE '1975-07-16',
 125,
 '{Drama, Crime, "Social Commentary"}',
@@ -698,7 +704,10 @@ https://i.postimg.cc/Hnmg8gRp/manila-in-the-claws-of-light-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Housemaid',
-'The Housemaid by Kim Ki-young is a landmark South Korean psychological thriller known for its dark and provocative themes. The film tells the story of a young housemaid who becomes entangled in a complex web of lust, jealousy, and manipulation within a wealthy family. Through its intense storytelling and daring narrative choices, The Housemaid explores issues of class, gender, and desire, challenging societal norms while pushing the boundaries of traditional Korean cinema.', 
+'The Housemaid is a South Korean film directed by Kim Ki-young and released in 1960. The movie tells the story of a young woman named Eun-yi who becomes a housemaid for a wealthy family. However, her life takes a dark turn as she becomes entangled in a complex web of relationships and secrets within the household.
+The Housemaid was a groundbreaking work of Korean cinema. Known for its daring and provocative themes, the film explores issues of class, desire, and power dynamics in a way that was considered controversial for its time. The movie delves into the complexities of human behavior and morality, exposing the dark side of human nature and the consequences of desire and obsession.
+The film utilizes symbolism, metaphor, and allegory to create a sense of unease and tension throughout. The use of stark black-and-white cinematography and the haunting performances of the cast further enhance the film''s atmospheric and psychological impact.
+In addition to its aesthetic achievements, The Housemaid is lauded for its social commentary. The film offers a critique of societal norms and expectations, particularly regarding gender roles and the exploitation of the working class. It exposes the inequalities and injustices faced by women and workers in Korean society, and challenges the traditional patriarchal values of the time.',
 DATE '1960-11-03',
 108,
 '{Drama, "Psychological Thriller", "Art House", Horror}',
@@ -713,10 +722,12 @@ https://i.postimg.cc/htwTKMZ0/the-housemaid-4.jpg}',
 'b8dd625e-0bdd-444e-a2ab-c751303bed28'
 );
 
+
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Chinatown',
-'Chinatown is a classic neo-noir film known for its intricate plot, stunning cinematography, and iconic performances by Jack Nicholson and Faye Dunaway. Set in 1930s Los Angeles, the movie follows private detective J.J. "Jake" Gittes as he uncovers corruption and scandal in the city''s water department. With themes of power, greed, and betrayal, Chinatown explores the dark underbelly of the American Dream.
-Directed by Roman Polanski, Chinatown is widely regarded as a masterpiece of the genre and has had a significant impact on film history, inspiring countless imitations and homages over the years.',
+'Chinatown is a neo-noir mystery film directed by Roman Polanski, released in 1974. The story follows private detective J.J. "Jake" Gittes as he investigates a seemingly straightforward case of adultery, which leads him into a complex web of deceit and corruption in 1930s Los Angeles.
+The film is known for its intricate plot and unexpected twists, as well as its atmospheric setting and superb performances by its cast. Polanski''s direction, combined with Robert Towne''s screenplay, creates a dark and gritty world that immerses viewers in the seedy underbelly of Los Angeles, particularly the titular Chinatown district.
+The film relentlessly investigates the concepts of corruption and the abuse of power. Through its intricate plot and morally ambiguous characters, Chinatown explores the dark side of human nature and the corrupting influence of money and greed. The film also touches on themes of family, justice, and the futility of trying to control or manipulate fate.',
 DATE '1974-06-20',
 131,
 '{Crime, Mystery, Noir, Drama}',
@@ -733,7 +744,9 @@ https://i.postimg.cc/gk6k8d9v/chinatown-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Mulholland Drive',
-'Mulholland Drive is a surrealist neo-noir film directed by David Lynch, known for its enigmatic and dreamlike narrative. The plot follows the intertwined stories of an aspiring actress named Betty and an amnesiac woman named Rita, as they navigate the dark and mysterious world of Hollywood. With its nonlinear structure, unconventional storytelling, and surreal imagery, "Mulholland Drive" is celebrated for its haunting atmosphere, cryptic symbolism, and thought-provoking themes on identity, memory, and the illusions of fame.', 
+'Mulholland Drive, directed by David Lynch, is a surreal and enigmatic neo-noir film that follows the story of a young aspiring actress, Betty, who arrives in Hollywood with dreams of becoming a star. She befriends a mysterious amnesiac woman, Rita, who is found in an abandoned apartment. Together, they embark on a journey to uncover Rita''s true identity and solve the mystery of her amnesia.
+However, Mulholland Drive is not a straightforward narrative, and the plot twists and turns into a labyrinth of surreal and nightmarish sequences that blur the lines between reality and fantasy. Lynch''s signature style of nonlinear storytelling, dreamlike imagery, and bizarre symbolism creates a haunting and puzzling experience for the viewers.
+Mulholland Drive delves into the dark and mysterious underbelly of Hollywood, exploring themes of identity, ambition, illusion, desire, and the dark nature of dreams. It exposes the dark truths and illusions of the entertainment industry, revealing the emptiness and loneliness that often lurks beneath the glamorous facade of Hollywood.',
 DATE '2001-05-16',
 146,
 '{Mystery, "Psychological Thriller", Drama, Noir}',
@@ -750,8 +763,10 @@ https://i.postimg.cc/vB4fnBWW/mulholland-drive-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('An Elephant Sitting Still',
-'An Elephant Sitting Still by Hu Bo is a critically acclaimed Chinese drama film known for its raw and poignant portrayal of the struggles and isolation faced by individuals in modern society. The movie follows the interconnected stories of four characters over the course of a single day as they search for meaning and connection in a bleak and oppressive world. 
-Through its striking cinematography, immersive storytelling, and thought-provoking themes of existentialism, alienation, and the pursuit of hope, An Elephant Sitting Still has been recognized as a powerful and resonant work of art, leaving a lasting impact on its audiences. It is considered a masterpiece of contemporary Chinese cinema, and a reflection of the human condition in the face of societal pressures and despair.',
+'An Elephant Sitting Still, directed by Hu Bo, is a critically acclaimed Chinese drama film known for its gritty realism, bleakness, and raw emotional power. The story follows four characters - Wei Bu, Huang Ling, Wang Jin, and Xiao Jin - over the course of a single day as they struggle to find meaning and hope in their lives amidst the harsh realities of modern China.
+Set in a northern Chinese industrial city, the film portrays a society plagued by alienation, poverty, corruption, and moral decay. The characters are all trapped in their own internal conflicts and external circumstances, seeking solace and redemption. The titular elephant, a metaphorical presence, symbolizes the overwhelming sense of despair and helplessness that looms over their lives.
+The film is known for its slow, contemplative pace and long takes, allowing the audience to immerse themselves in the characters'' emotions and experiences. The cinematography, marked by muted colors and gloomy landscapes, enhances the film''s bleak atmosphere.
+Thematically, An Elephant Sitting Still explores the futility of human existence, the search for connection and purpose, and the oppressive weight of societal expectations. It delves into the complexities of human nature, depicting characters who are flawed, desperate, and morally conflicted. The film paints a dark and unflinching portrait of contemporary China, capturing the struggles of ordinary people in a rapidly changing and indifferent society.',
 DATE '2018-02-16',
 234,
 '{Drama, "Art House"}',
@@ -768,8 +783,10 @@ https://i.postimg.cc/cCNMw30V/an-elephant-sitting-still-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Thin Blue Line',
-'The Thin Blue Line is a groundbreaking documentary known for its innovative approach to storytelling and its exploration of the justice system''s flaws. Director Errol Morris uses reenactments, interviews, and stylized visuals to investigate the wrongful conviction of Randall Dale Adams for the murder of a police officer. 
-The film raises questions about truth, memory, and the reliability of witness testimony, and has had a significant impact on the true crime genre and the criminal justice system.',
+'The Thin Blue Line, directed by Errol Morris, is a groundbreaking and influential documentary film that focuses on the murder case of a police officer in Dallas, Texas. The film weaves together interviews, reenactments, and archival footage to examine the events surrounding the crime and the subsequent trial of the suspect, Randall Adams.
+At its core, The Thin Blue Line is celebrated for its innovative approach to documentary filmmaking, as Morris employs a distinctive style that blurs the line between reality and reconstruction. The film challenges the concept of truth in storytelling, as multiple witnesses provide conflicting accounts, raising questions about the reliability of memory and the fallibility of the criminal justice system.
+The Thin Blue Line explores the abuse of power by law enforcement and the flaws in the criminal justice system. The film presents a critical examination of the investigation and trial that led to Adams'' conviction, highlighting issues such as police misconduct, coerced confessions, and unreliable eyewitness testimony.
+The film is renowned for its use of subjective storytelling and unconventional narrative structure. Morris employs stylized reenactments and a hauntingly atmospheric score to create a sense of ambiguity and uncertainty, inviting viewers to question their own assumptions and interpretations of the case.',
 DATE '1988-03-18',
 103,
 '{Documentary, Crime, Mystery}',
@@ -786,9 +803,9 @@ https://i.postimg.cc/Sstr0fPv/the-thin-blue-line-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('F for Fake',
-'F for Fake is a 1973 film directed by Orson Welles, known for its experimental and playful approach to the documentary form. The movie is renowned for its exploration of the nature of truth and authenticity in art and life, and its examination of the blurred lines between reality and illusion. 
-Through interviews, archive footage, and re-enactments, F for Fake tells the story of art forger Elmyr de Hory and his biographer Clifford Irving, while also delving into broader themes of authorship, creativity, and the power of storytelling. 
-With its unique structure and philosophical insights, F for Fake is considered a landmark work in the history of documentary filmmaking and a testament to Welles'' formidable talent as a director and thinker.',
+'F for Fake is a 1973 film directed by Orson Welles that blurs the lines between reality and illusion, exploring the concepts of art, authenticity, and deception. The film tells the story of notorious art forger Elmyr de Hory, who duped the art world with his fake masterpieces, and Clifford Irving, a writer who fabricated a hoax autobiography of Howard Hughes.
+However, F for Fake is not a conventional documentary or narrative film. It is known for its unconventional structure, combining elements of documentary, fiction, and essay filmmaking, with Welles himself serving as the charismatic and enigmatic narrator. The film challenges the notions of truth and authenticity in art and life, raising questions about the nature of authorship, the value of art, and the blurred lines between reality and illusion.
+F for Fake examines and encapsulates the role of the artist as a storyteller and manipulator of reality. With its unique structure and philosophical insights, the film is considered a landmark work in the history of documentary filmmaking and a testament to Welles'' formidable talent as a director and thinker.',
 DATE '1973-12-12',
 88,
 '{Documentary, "Art House", Experimental}',

@@ -112,9 +112,9 @@ https://i.postimg.cc/9QZwQBvC/s-s-f-w-s-4.jpg
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Akira',
-'Akira is a groundbreaking Japanese animated film known for its stunning visuals, intense action sequences, and philosophical themes. Released in 1988, it has since become a cult classic and a major influence on both anime and science fiction films. 
-Set in a post-apocalyptic future, the movie follows a group of biker gangs caught up in a government conspiracy involving psychic powers and a mysterious entity called Akira. 
-With its complex plot and vivid imagery, Akira is widely considered a classic of both anime and science fiction cinema, and has had a lasting impact on popular culture and filmmaking.',
+'Akira is a groundbreaking 1988 Japanese animated science fiction film directed by Katsuhiro Otomo, based on his manga of the same name. The story is set in a post-apocalyptic Tokyo known as Neo-Tokyo, which has been rebuilt after the destruction caused by a mysterious explosion. The government is corrupt, and the city is plagued by gang violence and terrorism. The main character, Kaneda, becomes embroiled in a conspiracy involving a secret government project and his friend Tetsuo, who gains powerful psychic abilities after a motorcycle accident.
+Akira is known for is its stunning animation, innovative visual effects, and intricate world-building. The film''s cyberpunk aesthetic, featuring dystopian cityscapes, high-speed motorcycle chases, and explosive action sequences, has captivated audiences worldwide. It is also renowned for its complex themes and philosophical undertones, delving into issues such as power, technology, identity, and the human condition. Akira challenges conventional notions of authority, explores the consequences of unchecked scientific experimentation, and raises questions about the potential dangers of humanity''s pursuit of progress.
+The movie''s thematic choices are thought-provoking and highlight the darker aspects of human nature, while also exploring the complexities of friendship, loyalty, and sacrifice. Akira serves as a cautionary tale about the consequences of uncontrolled power and the destructive nature of human ambition.',
 DATE '1998-07-16',
 124,
 '{"Science Fiction", Action, Animation, Thriller, Horror}',
@@ -131,8 +131,9 @@ https://i.postimg.cc/L86GHyqZ/akira-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('An Autumn Afternoon',
-'An Autumn Afternoon is a 1962 Japanese film directed by Yasujirō Ozu. Known for its poetic portrayal of family life and societal changes in post-war Japan, the movie follows an aging father as he navigates his relationships with his children and contemplates the value of tradition versus modernity. 
-It is considered one of Ozu''s finest works and a masterpiece of Japanese cinema, praised for its delicate storytelling, contemplative pacing, and visually stunning composition. Its themes of intergenerational conflict, loneliness, and the passage of time make it a timeless classic.',
+'An Autumn Afternoon is a 1962 Japanese film directed by Yasujirō Ozu, known for his distinct style of filmmaking that captures the subtleties of human relationships and societal changes. The film follows the story of an aging widower, Shuhei Hirayama, who works as an office manager and his interactions with his family and friends. As Hirayama''s daughter gets married and moves away, he realizes his loneliness and the changing dynamics of family life.
+The movie is known for its minimalist and contemplative approach to storytelling, with Ozu''s signature use of static shots, low camera angles, and long takes that capture the quiet moments and nuances of everyday life. The film also explores themes of family, duty, and social norms in post-war Japan, where traditional values clash with modernization and Western influences.
+Ozu''s keen observation of human emotions and the complexities of family relationships shines through in An Autumn Afternoon, as he portrays the universal struggles of aging, loneliness, and the passage of time. The film is renowned for its exquisite cinematography, delicate performances, and profound reflections on the human condition, making it a classic of Japanese cinema and a poignant exploration of the fleeting beauty of life.',
 DATE '1962-11-18',
 113,
 '{Drama, Romance, "Slice of Life"}',
@@ -149,8 +150,10 @@ https://i.postimg.cc/Pxc54s1Y/an-autumn-afternoon-4.jpg}'
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Late Spring',
-'Late Spring is a classic Japanese film directed by Yasujirō Ozu, known for its masterful use of cinematography, minimalist style, and emotional depth. 
-The movie tells a poignant story of a father and daughter navigating the complexities of tradition, family expectations, and modernity in post-war Japan. The themes of love, sacrifice, and the changing roles of women in society make "Late Spring" a timeless masterpiece, widely regarded as one of the greatest films in the history of cinema.',
+'Late Spring is a Japanese film directed by Yasujiro Ozu, released in 1949. The film revolves around the story of a widowed father, Shukichi Somiya, and his adult daughter, Noriko, as they navigate societal pressures and familial expectations in post-war Japan.
+Late Spring centers around Shukichi''s desire to see Noriko, who is in her late 20s, married and settled. However, Noriko is content with her life as it is and does not wish to marry. The story explores the tension between traditional Japanese societal norms, which prioritize marriage and family, and individual desires and choices.
+The film is known for is its portrayal of the subtleties of human relationships and its meticulous attention to everyday details. Ozu''s signature style of using static shots, low camera angles, and minimalistic dialogue creates a sense of calm and contemplation throughout. 
+Thematically, Late Spring delves into the complexities of familial bonds, duty, sacrifice, and the changing dynamics of post-war Japanese society. It explores the tension between tradition and modernity, as well as the struggles of individuals to navigate societal expectations while staying true to themselves.',
 DATE '1949-09-19',
 108,
 '{Drama, "Slice of Life", "Coming of Age"}',
@@ -167,8 +170,9 @@ NULL,
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Tokyo Story',
-'Tokyo Story is a masterpiece of Japanese cinema directed by Yasujirō Ozu in 1953. It tells the story of an aging couple who visit their adult children in Tokyo, only to find themselves neglected and disconnected in the bustling city. 
-The film is known for its contemplative pace, understated acting, and deep emotional resonance, exploring themes of generational conflict, societal change, and the transience of life. Considered one of the greatest films ever made, Tokyo Story has had a significant influence on world cinema and remains a timeless meditation on family, aging, and the human condition.',
+'Tokyo Story is a Japanese film directed by Yasujiro Ozu, released in 1953. The film tells the story of an elderly couple, Shukishi and Tomi, who travel from their rural hometown to Tokyo to visit their adult children. However, they find themselves neglected and marginalized by their busy and self-absorbed children, who are preoccupied with their own lives. As the couple navigates the complexities of modern urban life and familial relationships, they come to realize the harsh reality of their children''s indifference and the changing values of society.
+Tokyo Story is known for its slow pace and minimalist style, with Ozu''s signature use of static shots and low camera angles. The film is renowned for its profound portrayal of human emotions and the universal themes of family, aging, and intergenerational conflicts. It explores the tensions between tradition and modernity, the breakdown of traditional family values in post-war Japan, and the loneliness and emptiness that can arise in urban life. 
+Tokyo Story is often regarded as a masterpiece of world cinema, with its poignant storytelling and nuanced performances capturing the essence of human existence and leaving a lasting impact on viewers.',
 DATE '1953-11-03',
 136,
 '{Drama, "Slice of Life"}',
@@ -185,8 +189,10 @@ https://i.postimg.cc/7b8fn8Sb/tokyo-story-4.webp}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Tampopo',
-'Tampopo is a 1985 Japanese comedy-drama film known for its unique blend of food, humor, and romance. Directed by Juzo Itami, the movie follows the story of a widow who sets out to improve her ramen restaurant with the help of a truck driver and a cast of eccentric characters. 
-The film is renowned for its exploration of food culture, and its themes of perseverance, self-improvement, and the pursuit of excellence. Tampopo has received praised worldwide for its innovative storytelling, stunning cinematography, and delightful performances.',
+'Tampopo is a 1985 Japanese comedy film directed by Juzo Itami. The story revolves around Tampopo, a widowed woman who runs a small ramen noodle shop. When her business struggles, she seeks help from a truck driver named Goro and together they embark on a quest to create the perfect bowl of ramen.
+However, Tampopo is more than just a story about food. It is known for its unique blend of comedy, drama, and culinary sensibilities. The film features a series of vignettes and subplots that revolve around food, exploring various aspects of Japanese food culture, from the etiquette of eating to the craftsmanship of cooking.
+In addition to its gastronomic focus, Tampopo delves into themes of human connection, perseverance, and the search for excellence. It challenges societal norms and expectations, and highlights the importance of passion, dedication, and teamwork in pursuing one''s dreams.
+Juzo Itami''s masterful direction, coupled with the film''s witty humor, satirical social commentary, and mouth-watering food scenes, have made Tampopo a cinematic celebration of food, culture, and the human spirit, earning its reputation as a unique and unforgettable movie.',
 DATE '1985-11-23',
 115,
 '{Comedy, Drama, Romance}',
@@ -203,8 +209,9 @@ https://i.postimg.cc/KYNpXmzS/tampopo-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The 400 Blows',
-'The 400 Blows is a groundbreaking French New Wave film that follows the story of a troubled adolescent boy named Antoine, who rebels against his parents, school, and society. 
-Directed by François Truffaut, the movie is known for its raw and honest portrayal of youth, its innovative cinematography, and its exploration of themes such as alienation, youth delinquency, and the search for personal freedom.',
+'The 400 Blows is a 1959 French film directed by François Truffaut. It tells the story of Antoine Doinel, a young boy growing up in Paris who faces neglect from his parents, mistreatment from teachers, and an uncaring society. The film follows Antoine''s struggles as he navigates the challenges of his troubled youth, which ultimately lead to his descent into delinquency.
+The movie is known for its poignant portrayal of the human condition, particularly the challenges faced by marginalized youth. Truffaut''s raw and honest depiction of Antoine''s experiences resonates with audiences, showcasing the harsh realities of growing up in a world that can be indifferent and unforgiving. The film is also recognized for its groundbreaking cinematic techniques, including the use of handheld camera shots and innovative editing, which helped define the French New Wave movement.
+Thematically, The 400 Blows explores the complexities of adolescence, the impact of neglect and societal pressures on youth, and the search for identity and belonging. It raises questions about the nature of authority, the limitations of conventional education, and the consequences of societal expectations on young individuals. Through Antoine''s struggles and emotions, Truffaut presents a critique of a flawed society that fails to provide adequate support and guidance to its younger generation.',
 DATE '1959-05-04',
 99,
 '{Drama, "Coming of Age", "Art House", "Psychological Drama"}',
@@ -222,8 +229,9 @@ https://i.postimg.cc/DzShh1BF/the-400-blows-4.jpg
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Shining',
-'The Shining is a classic horror film directed by Stanley Kubrick, known for its iconic imagery, psychological intensity, and masterful filmmaking techniques. The plot follows Jack Torrance, a writer and recovering alcoholic, who becomes the caretaker of the isolated Overlook Hotel during the winter season. 
-As Jack''s sanity unravels, the hotel''s malevolent forces come to life, leading to a terrifying descent into madness. The movie is renowned for its exploration of themes such as isolation, madness, and the breakdown of the family unit.',
+'The Shining is a psychological horror film directed by Stanley Kubrick. The story follows Jack Torrance, played by Jack Nicholson, who becomes the winter caretaker of the isolated Overlook Hotel in the Colorado Rockies, along with his wife Wendy and son Danny. As Jack descends into madness, the family''s stay at the hotel becomes increasingly terrifying as they confront malevolent supernatural forces that seem to be driving Jack to violence.
+The movie is known for its iconic and haunting visuals, Kubrick''s meticulous attention to detail, and its eerie atmosphere. The film''s cinematography, with its use of long tracking shots and symmetrical compositions, creates a sense of unease and isolation. The movie''s score, composed by Wendy Carlos and Rachel Elkind, adds to the tension with its dissonant and haunting tones.
+Thematically, The Shining delves into the dark recesses of the human mind, exploring madness, isolation, and the disintegration of the family unit. It raises questions about the nature of reality and perception, as well as the effects of psychological trauma. The film also investigates the concept of cyclical violence and the idea of a haunted past that can impact the present.',
 DATE '1980-05-23',
 144,
 '{Horror, Thriller, Drama, Mystery, "Psychological Thriller"}',

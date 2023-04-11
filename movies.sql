@@ -142,7 +142,7 @@ DATE '1962-11-18',
 '{https://i.postimg.cc/d0s3Q9qk/an-autumn-afternoon-1.jpg,
 https://i.postimg.cc/MTXGVKfz/an-autumn-afternoon-2.jpg,
 https://i.postimg.cc/k5T42t4j/an-autumn-afternoon-3.jpg,
-https://i.postimg.cc/Pxc54s1Y/an-autumn-afternoon-4.jpg}'
+https://i.postimg.cc/Pxc54s1Y/an-autumn-afternoon-4.jpg}',
 'Japan',
 '{Alcoholism, Ageism, Sexism}',
 '181ac6be-f419-44b5-a39e-75675a1b2c4f'
@@ -349,8 +349,6 @@ https://i.postimg.cc/Y91jV7kZ/yi-yi-4.png
 '0653d471-f70a-483a-8048-57ad64d64a0a'
 );
 
-
-
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('A Brighter Summer Day',
 'A Brighter Summer Day is a Taiwanese epic drama film directed by Edward Yang. Set in the early 1960s, the film follows the story of a young teenager named Xiao Si''r, living in Taipei during a time of political and social upheaval. Caught between the rival gangs of his school and the pressures of his family, Xiao Si''r navigates a tumultuous world of violence, love, and loss.
@@ -370,7 +368,6 @@ https://i.postimg.cc/xjZp1SSB/a-brighter-summer-day-4.jpg
 '{Violence, Suicide}',
 '0653d471-f70a-483a-8048-57ad64d64a0a'
 );
-
 
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
@@ -470,7 +467,9 @@ https://i.postimg.cc/JnMCR5qn/children-of-men-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Vengeance is Mine', 
-'Vengeance is Mine is a thought-provoking and gritty Japanese crime drama directed by Shohei Imamura. The film follows the true story of a real-life serial killer, Akira Nishiguchi, who went on a killing spree in Japan during the 1960s. Imamura delves into the dark and complex psychology of the killer, exploring themes of morality, human nature, and societal norms. Known for its unflinching portrayal of a disturbed protagonist and its realistic depiction of crime and punishment, Vengeance is Mine is a masterful exploration of the human psyche and a standout work in Imamura''s oeuvre.',
+'Vengeance is Mine is a Japanese crime drama film directed by Shohei Imamura. The film tells the true story of Iwao Enokizu, a notorious serial killer who terrorizes rural Japan in the late 1960s. Enokizu is portrayed as a complex and enigmatic character, driven by his dark impulses and desires.
+The film is renowned for its unflinching exploration of the human psyche and its provocative themes. Imamura delves into the complex psychology of the killer, examining the blurred lines between good and evil, sanity and madness, and the human capacity for violence. The film challenges traditional notions of morality and offers a stark portrayal of the darker aspects of human nature.
+Vengeance is Mine is celebrated for its bold and unconventional storytelling approach. Imamura employs a fragmented narrative structure, weaving together multiple timelines and perspectives, to create a sense of disorientation and ambiguity. The film''s nonlinear structure adds to its thematic complexity, inviting the audience to question their perceptions of truth and reality.',
 DATE '1979-04-21',
 140,
 '{Crime, Drama, "Psychological Thriller"}',
@@ -487,8 +486,10 @@ https://i.postimg.cc/qgf8jz13/vengeance-is-mine-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Dear Zachary: A Letter to a Son About His Father',
-'Dear Zachary: A Letter to a Son About his Father is a heart-wrenching documentary that tells the true story of a grieving man''s attempt to create a lasting memorial for his murdered best friend. Through a series of heartfelt letters addressed to his friend''s young son, the film explores themes of love, loss, justice, and the power of human connection. 
-Dear Zachary is known for its raw emotional impact and unflinching portrayal of a tragic event. It has been praised for its powerful storytelling, captivating interviews, and thought-provoking commentary on the flaws of the legal system.',
+'Dear Zachary: A Letter to a Son About His Father is a documentary film directed by Kurt Kuenne. The film tells the heart-wrenching story of the murder of Dr. Andrew Bagby and the subsequent legal battles that follow. The movie is known for its emotional intensity, raw and personal approach, and its unique style of storytelling.
+The documentary is structured as a letter to Zachary, the son of the murdered Dr. Bagby, and serves as a tribute to his father''s memory. Through interviews, home videos, and candid footage, Kuenne paints a vivid portrait of Dr. Bagby''s life, his loving relationship with Zachary''s mother, and the devastating impact of his murder on his family and friends.
+The film elicits a wide range of emotions from viewers, including grief, anger, and shock, as it delves into the dark and painful aftermath of the murder. Kuenne''s personal connection to the subject matter, as a close friend of Dr. Bagby, adds an intimate and deeply emotional layer to the film.
+The film explores themes of grief, loss, justice, and the failings of the legal system. It raises important questions about the flaws and loopholes in the justice system that can allow tragedy to unfold, and the ways in which it can impact the lives of those left behind.',
 DATE '2008-01-17',
 93,
 '{Documentary, Crime, Drama}',
@@ -504,9 +505,11 @@ https://i.postimg.cc/Bv7zgfKG/Dear-Zachary-a-Letter-to-a-Son-About-His-Father-4.
 );
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
-VALUES('Belladona of Sadness',
-'Belladonna of Sadness is a 1973 Japanese animated film known for its vivid psychedelic imagery, erotic themes, and bold exploration of feminist and anti-establishment ideas. The movie follows the story of a young woman who, after being raped by the feudal lord of her village, turns to witchcraft to gain power and seek revenge. 
-The film''s use of psychedelic imagery and surreal storytelling techniques make it a cult classic among film enthusiasts, and its themes of liberation and empowerment continue to resonate with audiences today.',
+VALUES('Belladonna of Sadness',
+'Belladonna of Sadness is an avant-garde animated film directed by Eiichi Yamamoto, released in 1973. The film is known for its unique and controversial style, combining psychedelic visuals, eroticism, and dark themes.
+Set in medieval France, the movie follows the journey of Jeanne, a young woman who is brutally raped by the local lord on her wedding night. After being rejected by her husband and society, Jeanne makes a pact with the devil and gains supernatural powers. She uses her newfound abilities to seek revenge and challenge the societal norms and religious beliefs of her time.
+The movie is known for its striking and visually mesmerizing animation, which incorporates a mix of watercolor, ink, and psychedelic imagery. The art style and explicit sexual content of the film have made it controversial and often described as an erotic and psychedelic masterpiece.
+Belladonna of Sadness explores themes of sexuality, feminism, religion, and societal oppression. It challenges traditional gender roles, critiques the abuse of power, and questions the role of women in society. The film''s visual and narrative choices are often interpreted as allegories for female empowerment, sexual liberation, and the corrupting influence of authority.',
 DATE '1973-06-27',
 86,
 '{Fantasy, Drama, Animation, Experimental, "Art House"}',
@@ -523,8 +526,10 @@ https://i.postimg.cc/J0X5ksdv/belladonna-of-sadness-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Rebels of the Neon God',
-'Rebels of the Neon God is a Taiwanese coming-of-age film known for its striking cinematography and exploration of disaffected youth in urban Taipei. Director Tsai Ming-liang''s first feature film, it follows the intersecting lives of three young men who are struggling with their place in society and the constraints of traditional values in a world that seems to have left them behind. 
-With themes of isolation, disillusionment, and urban decay, Rebels of the Neon God captures the spirit of Taiwanese youth culture in the 1990s with striking honesty.',
+'Rebels of the Neon God is a Taiwanese film directed by Tsai Ming-Liang, released in 1992. The film follows the lives of three disconnected individuals in Taipei, Taiwan, whose paths intersect in unexpected ways.
+The story centers around Hsiao-kang, a disaffected young man who drops out of school and becomes obsessed with video games and the arcade culture. He forms an uneasy friendship with Ah-tze, a small-time criminal who steals motorcycle parts, and Ah-kuei, a young woman caught in a love triangle with Ah-tze and her boyfriend Ah-ping. As their lives intersect and collide in Taipei''s gritty urban landscape, they struggle to find meaning and connection in a modern society that seems to be spiraling into chaos.
+Rebels of the Neon God is known for its stark, minimalist style and slow pacing, which reflects the emptiness and alienation experienced by its characters. The film is notable for its striking visuals, with Tsai Ming-Liang using long takes, static shots, and urban landscapes to create a sense of urban ennui and detachment. The neon-lit streets of Taipei serve as a metaphor for the characters'' restless search for identity and meaning in a modern, rapidly changing world.
+Rebels of the Neon God explores the dislocation and disillusionment of urban youth, the impact of modernization on traditional values, and the longing for human connection in an increasingly impersonal society. The film touches on issues of social and cultural alienation, urban decay, and the search for identity in a rapidly changing world.',
 DATE '1992-09-27',
 106,
 '{Drama, "Art House", "Coming of Age"}',
@@ -539,10 +544,12 @@ https://i.postimg.cc/65J1WK8T/rebels-of-the-neon-god-4.jpg}',
 '0b37d7bb-859a-4508-8ffc-b9202e16d3a0'
 );
 
+
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Climax',
-'Climax is a 2018 French psychological horror film directed by Gaspar Noé, known for its stunning cinematography, provocative themes, and visceral dance sequences. The movie follows a group of dancers who are trapped in a school after drinking spiked sangria and descending into a nightmare of paranoia and chaos. 
-Climax is an unsettling exploration of human nature, addiction, and the consequences of giving in to primal desires. The film has been praised for its technical proficiency and has become a cult classic among horror fans and admirers of Noé''s provocative work.',
+'Climax is a provocative and disturbing psychological horror film directed by Gaspar Noé. The story follows a group of dancers who gather for a rehearsal in an abandoned school building. However, their celebration turns into a nightmarish descent into chaos as they realize their sangria has been spiked with hallucinogens, leading to a night of violence, paranoia, and psychological breakdowns.
+Noé''s signature style is evident in his use of long takes, swirling camera movements, and pulsating electronic music, which contribute to the film''s sense of unease and discomfort. The film is infamous for its highly explicit and disturbing scenes, including graphic depictions of violence and drug-induced hallucinations, which can be challenging and polarizing for viewers.
+Climax explores the dark and primal aspects of human nature, delving into the themes of chaos, madness, and the breakdown of social order. It examines the psychological and physical effects of drugs and their potential to reveal the hidden desires and fears of individuals. The film interrogates the power dynamics and interpersonal relationships among the characters, revealing the fragile veneer of civility and the raw instincts that lurk beneath.',
 DATE '2018-05-13',
 96,
 '{"Psychological Thriller", Drama, Horror, "Art House"}',
@@ -559,8 +566,9 @@ https://i.postimg.cc/CKzvpspF/climax-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Shoplifters',
-'Shoplifters is a critically acclaimed Japanese film directed by Hirokazu Kore-eda, known for its emotional depth and exploration of family dynamics. The movie follows a group of impoverished individuals who rely on shoplifting to survive, and the unexpected bond they form with a young girl they take under their wing. 
-Through its nuanced portrayal of societal inequality, the film challenges viewers to question the meaning of family and the impact of poverty on human relationships.',
+'Shoplifters is a critically acclaimed Japanese drama film directed by Hirokazu Kore-eda. The story revolves around a family that survives by shoplifting, led by Osamu Shibata, who teaches his son Shota the art of stealing. One day, while returning home from a shoplifting spree, they find a young girl named Yuri abandoned in the cold and take her in as one of their own. The film follows the family''s struggles and dynamics as they try to navigate their unconventional lifestyle and the challenges that arise.
+Shoplifters is distinguished by its exploration of family, morality, and societal norms. The film delves into the complex dynamics of a makeshift family, where the bonds of love and loyalty are tested. It questions the concept of family and challenges the traditional definition of blood ties, highlighting the importance of human connection and compassion. The film also explores the moral ambiguity of stealing as a means of survival, raising ethical questions about what is considered right or wrong in desperate circumstances.
+The film is known for its poignant storytelling, nuanced performances, and Kore-eda''s signature naturalistic style. Ithas been lauded for its thought-provoking themes, tender portrayal of human relationships, and the exploration of the human condition. It invites audiences to reflect on the intricacies of family dynamics, societal norms, and the choices people make in challenging circumstances, making it a compelling and thought-provoking viewing experience.',
 DATE '2018-05-13',
 121,
 '{Drama, Crime}',
@@ -577,8 +585,9 @@ https://i.postimg.cc/qvcv8SmF/shoplifters-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Nobody Knows',
-'Nobody Knows is a poignant and heart-wrenching Japanese film directed by Hirokazu Kore-eda. Nobody Knows is known for its powerful storytelling, naturalistic performances, and intimate portrayal of family dynamics. 
-The movie follows four siblings who are forced to fend for themselves when their mother abandons them in a small Tokyo apartment. Through their struggles and relationships with each other, the film explores themes of isolation, abandonment, and the resilience of the human spirit.',
+'Nobody Knows is a Japanese drama film directed by Hirokazu Kore-eda. The movie tells the story of four siblings who are left to fend for themselves after their mother abandons them in their small apartment in Tokyo. The eldest sibling, Akira, takes on the role of caregiver for his younger siblings, and they must navigate the challenges of survival in a world where nobody knows about their existence.
+The film is known for its powerful portrayal of the resilience and resourcefulness of children in the face of adversity. It sensitively explores themes of family, abandonment, and the consequences of societal neglect. Kore-eda''s masterful direction and the natural performances of the child actors create an intimate and heart-wrenching portrayal of a family struggling to survive in isolation.
+Nobody Knows stands out for its realistic depiction of everyday life, capturing the mundane details of the children''s lives as they try to create a semblance of normalcy. The film portrays the complexities of human relationships, the impact of societal norms, and the harsh realities faced by those living on the margins of society.',
 DATE '2004-05-13',
 141,
 '{Drama}',
@@ -595,11 +604,13 @@ https://i.postimg.cc/7LCgVSRd/nobody-knows-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Something in the Air',
-'Something in the Air is a French drama film directed by Olivier Assayas that captures the rebellious spirit of the 1970s counterculture. Set in the aftermath of the May 1968 protests in Paris, the film follows a group of young activists as they navigate the complexities of politics, art, and love in a changing world. 
-Known for its raw portrayal of the disillusionment and idealism of youth, Something in the Air explores themes of revolution, creativity, and the search for identity.', 
+'Something in the Air is a French film directed by Olivier Assayas, released in 2012. The story is set in the aftermath of the May 1968 student protests in France and follows the life of Gilles, a young aspiring artist, as he navigates through the social and political changes of the time.
+The film is known for its evocative depiction of the countercultural movements of the 1970s, capturing the spirit of rebellion and idealism that characterized the era. Assayas portrays the struggles, desires, and disillusionments of Gilles and his friends as they grapple with questions of art, politics, and personal identity in the wake of societal upheaval.
+Something in the Air delves into the complexities of youth culture, exploring the tensions between individualism and collective action, and the conflicts between artistic ambition and political engagement. Assayas masterfully weaves together the personal and the political, capturing the spirit of the times and the challenges faced by a generation seeking to change the world.
+Through its authentic period setting, nuanced characters, and thought-provoking narrative, Something in the Air offers a compelling reflection on the turbulent era of the 1970s and the lingering impact of the May 1968 protests, making it a standout film in French cinema celebrated for its thematic depth and social commentary.',
 DATE '2012-09-03',
 122,
-'{Drama, "Coming of Age", Historical}',
+'{Drama, "Coming of Age", Historical, "Social Commentary"}',
 'https://i.postimg.cc/Y01HZcrt/something-in-the-air.jpg',
 'https://letterboxd.com/film/something-in-the-air/',
 '{https://i.postimg.cc/zDWH8V3G/something-in-the-air-1.jpg,
@@ -613,8 +624,10 @@ https://i.postimg.cc/4NQKHq6C/something-in-the-air-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Trainspotting',
-'Trainspotting is a cult classic film known for its raw portrayal of addiction and the gritty reality of urban life in 1990s Scotland. Directed by Danny Boyle and based on Irvine Welsh''s novel of the same name, the film follows a group of young heroin addicts as they navigate the highs and lows of their drug-fueled existence. 
-Trainspotting explores themes of friendship, loyalty, mortality, and the pursuit of happiness amidst overwhelming adversity.',
+'Trainspotting, directed by Danny Boyle, is a gritty and visceral film that delves into the lives of a group of heroin addicts in Edinburgh, Scotland. The story follows Renton, a young man caught in the grip of addiction, as he navigates the dark and dangerous world of drug abuse alongside his friends Begbie, Sick Boy, Spud, and Diane.
+The movie is known for its raw and unapologetic portrayal of addiction, exploring the physical, mental, and emotional toll it takes on individuals and their relationships. It depicts the harsh reality of drug use, including its devastating consequences such as overdoses, withdrawal, and the constant struggle to maintain a "normal" life.
+Boyle''s film is also notable for its innovative storytelling techniques, including frenetic editing, dynamic visuals, and a pulsating soundtrack that reflects the characters'' state of mind. The film''s unique style and fast-paced narrative capture the chaos and desperation of addiction, immersing viewers into the dark and seedy world of heroin culture.
+Trainspotting tackles powerful themes such as addiction, alienation, identity, and the pursuit of escape. It explores the cyclical nature of addiction, the self-destructive behaviors that often accompany it, and the consequences of chasing fleeting moments of pleasure in the midst of despair. The film raises questions about the limits of freedom, the emptiness of hedonism, and the search for meaning in a seemingly bleak existence.',
 DATE '1996-02-23',
 93,
 '{Drama, Comedy, Crime}',

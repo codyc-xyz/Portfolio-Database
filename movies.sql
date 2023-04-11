@@ -247,10 +247,13 @@ https://i.postimg.cc/mDYD8qcn/the-shining-4.jpg
 'a653eb3e-ca6b-486c-bf87-4e075491cda5'
 );
 
+
+
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('In the Mood for Love',
-'In the Mood for Love is a critically acclaimed film known for its lush visuals, mesmerizing score, and poignant exploration of love, loneliness, and missed connections. Set in 1960s Hong Kong, the film follows two neighbors who bond over their respective spouses'' infidelity and develop an unspoken attraction. 
-However, societal norms and personal obligations prevent them from acting on their feelings, leading to a beautifully heartbreaking meditation on the fleeting nature of love and the human longing for connection.',
+'In the Mood for Love is a film directed by Wong Kar-wai, known for its captivating visuals, poetic storytelling, and profound exploration of unrequited love. Set in 1960s Hong Kong, the film follows the story of two neighbors, Mr. Chow and Mrs. Chan, who discover that their spouses are having an affair with each other. As Mr. Chow and Mrs. Chan grapple with the emotional turmoil of betrayal, they find solace in each other''s company and develop a deep emotional connection. However, societal conventions and their own moral codes prevent them from acting on their feelings, leading to a restrained and unfulfilled relationship.
+The film is known for its visually stunning cinematography, with lush colors, elegant costumes, and carefully composed shots that capture the characters'' inner struggles and desires. The use of slow motion, close-ups, and repetitive motifs, create a dreamlike and melancholic atmosphere that amplifies the characters'' emotions.
+Thematically, In the Mood for Love delves into the complexities of love, longing, and missed opportunities. It explores the societal expectations and constraints that shape relationships, the pain of unrequited love, and the fleeting nature of human connections. The film also touches on themes of loneliness, nostalgia, and the passage of time, as the characters'' lives and relationships evolve over the years.',
 DATE '2000-05-20',
 98,
 '{Romance, Drama, "Art House", Historical}',
@@ -266,10 +269,12 @@ https://i.postimg.cc/gjWc7yFm/in-the-mood-for-love-4.jpg
 'b3f855be-6486-4e4d-9d66-66cfad778e40'
 );
 
+
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Player',
-'The Player is a 1992 satirical black comedy film directed by Robert Altman. The movie is known for its clever use of meta-narrative and its commentary on the Hollywood film industry. 
-The plot follows a cynical movie executive, played by Tim Robbins, who becomes embroiled in a murder plot while trying to navigate the cutthroat world of movie-making. The film''s themes of power, corruption, and betrayal are expertly woven into its plot, making it a standout in the genre.',
+'The Player is a 1992 film directed by Robert Altman that follows Griffin Mill, a ruthless Hollywood studio executive who becomes embroiled in a murder mystery. Griffin receives threatening postcards from an unknown screenwriter and becomes obsessed with finding the culprit, all while navigating the cutthroat world of the film industry and dealing with his own personal and professional challenges.
+The Player is known for is its satirical and darkly comedic take on Hollywood and the entertainment industry. Altman uses a sharp and cynical lens to critique the greed, vanity, and duplicity that exist in Hollywood, exposing the darker side of the glamorous facade. The film features a star-studded cast of actors playing exaggerated versions of themselves, blurring the lines between reality and fiction.
+The Player examines the commodification of art and the loss of artistic integrity in the pursuit of commercial success. Altman poses questions about the sacrifices made in the name of profit and the ethical dilemmas faced by those in the entertainment industry. The film also explores themes of guilt, paranoia, and the consequences of one''s actions.',
 DATE '1992-04-03',
 124,
 '{Drama, Comedy, Crime, Satire}',
@@ -284,10 +289,11 @@ https://i.postimg.cc/5y8RyvR7/the-player-4.jpg}',
 '70440f68-4875-434d-b935-bc334958f549'
 );
 
+
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Handmaiden',
-'The Handmaiden is a critically acclaimed South Korean film known for its intricate plot, stunning visuals, and exploration of themes such as love, betrayal, and power dynamics. Directed by Park Chan-wook, the film is a period piece set in Japanese-occupied Korea and follows the story of a young Korean handmaiden who is hired by a wealthy Japanese heiress. As the two women become closer, their relationship becomes increasingly complex, leading to unexpected twists and turns. 
-With its provocative themes and masterful storytelling, The Handmaiden has earned its place as a standout film in both South Korean cinema and the broader international film canon.',
+'The Handmaiden is a South Korean psychological thriller film directed by Park Chan-wook. The story is based on the novel Fingersmith by Sarah Waters and is set in 1930s Korea under Japanese colonial rule. The movie follows the lives of a con artist posing as a maid, Sook-hee, and her wealthy employer, Lady Hideko, whom she is tasked with deceiving. As Sook-hee becomes increasingly entwined in Lady Hideko''s life, their relationship takes unexpected turns, leading to a complex web of betrayal, passion, and revenge.
+The movie is known for its lush cinematography, intricate plot twists, and explicit depictions of sexuality. It explores themes of desire, power dynamics, and female agency in a patriarchal society. The film challenges societal norms and conventions, as well as the concept of truth and perspective. It subverts genre expectations and keeps viewers on the edge of their seats with its suspenseful storytelling and layered characters.',
 DATE '2016-05-14',
 144,
 '{Drama, Romance, Thriller, Mystery, Historical, Crime}',
@@ -304,8 +310,10 @@ https://i.postimg.cc/5yW8f9R1/the-handmaiden-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Truman Show',
-'The Truman Show is a critically acclaimed film known for its innovative concept and profound thematic exploration of reality, free will, and human agency. The movie follows Truman Burbank, a man who has unknowingly lived his entire life as the star of a reality TV show. 
-As Truman begins to uncover the truth about his world, the film grapples with questions of personal identity and societal control.',
+'The Truman Show, directed by Peter Weir, is a satirical drama film released in 1998 that explores the life of Truman Burbank, played by Jim Carrey. Truman is an ordinary man who unknowingly lives his entire life in a fabricated reality TV show created for public entertainment.
+The story revolves around Truman''s discovery that his seemingly perfect and idyllic hometown is actually a giant television set, and that he is the unwitting star of a 24/7 reality show that has been broadcast to the world since his birth. As Truman starts to question his reality and search for the truth, he must navigate through various challenges and obstacles while coming to terms with the fact that his entire life has been orchestrated and manipulated for the sake of ratings.
+The Truman Show is known for is satirization of the media''s obsession with voyeurism, reality TV, and the blurring of truth and fiction in the modern world. The film delves into the ethical implications of manipulating someone''s life for entertainment purposes, raising questions about the morality of exploiting an individual''s privacy for the sake of public consumption.
+The movie explores the nature of reality, free will, and the concept of individuality. It also delves into the power dynamics between the creator and the subject, and the consequences of living a life that is not truly authentic.',
 DATE '1998-06-01',
 103,
 '{Drama, Comedy, "Science Fiction", "Psychological Thriller", Satire}',
@@ -323,8 +331,9 @@ https://i.postimg.cc/Bv9M4wSf/the-truman-show-4.jpg
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Yi Yi',
-'Yi Yi is a Taiwanese film directed by Edward Yang that offers an intimate exploration of the complexities of human relationships and the search for meaning in life. The film follows a Taiwanese family over the course of a year, capturing their joys, sorrows, and everyday moments with quiet authenticity. 
-Known for its poetic storytelling, rich character development, and stunning cinematography, Yi Yi delves into themes of family, love, identity, and the passage of time.',
+'Yi Yi is a Taiwanese film directed by Edward Yang that delves into the intricacies of modern family life in Taipei. The story revolves around a middle-class family, the Jians, as they navigate the complexities of love, relationships, and personal growth. The film primarily focuses on the perspectives of the father, N.J., the mother, Min-Min, and their young son, Yang-Yang.
+The film is known for its exquisite cinematography, capturing the subtle nuances of everyday life, and its attention to detail in depicting the characters'' inner struggles and emotions. It portrays the challenges and joys of family life with authenticity and sensitivity, presenting a multi-generational portrait of a family dealing with the complexities of their own lives and relationships.
+Yi Yi explores of the passage of time and the impact it has on individuals and their relationships. It investigates the concept of memory and how it shapes our perceptions of ourselves and others. The film also delves into the search for meaning and purpose in life, as the characters grapple with questions of identity, regret, and existentialism.',
 DATE '2000-05-14',
 173,
 '{Drama, "Slice of Life", "Coming of Age", "Art House"}',
@@ -340,10 +349,13 @@ https://i.postimg.cc/Y91jV7kZ/yi-yi-4.png
 '0653d471-f70a-483a-8048-57ad64d64a0a'
 );
 
+
+
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('A Brighter Summer Day',
-'A Brighter Summer Day is a critically acclaimed Taiwanese coming-of-age drama directed by Edward Yang. Set in 1960s Taiwan, the film tells the story of a young teenager named Xiao S''ir as he navigates the complexities of family, love, and gang violence. 
-The film is known for its meticulous attention to detail, stunning cinematography, and thought-provoking exploration of themes such as youth rebellion, societal changes, and the search for identity. Considered a masterpiece of Taiwanese cinema, A Brighter Summer Day has been praised for its rich character development and its place as a poignant reflection of Taiwan''s history during a time of political and cultural transformation.',
+'A Brighter Summer Day is a Taiwanese epic drama film directed by Edward Yang. Set in the early 1960s, the film follows the story of a young teenager named Xiao Si''r, living in Taipei during a time of political and social upheaval. Caught between the rival gangs of his school and the pressures of his family, Xiao Si''r navigates a tumultuous world of violence, love, and loss.
+A Brighter Summer Day is set apart by its nuanced portrayal of the complexities of adolescence and its examination of the impact of societal and cultural changes on individuals. Yang masterfully captures the struggles of young people trying to find their identity amidst a changing world, and the consequences of their choices. The film is known for its rich character development, poetic cinematography, and immersive storytelling that draws viewers into the protagonist''s tumultuous journey.
+A Brighter Summer Day delves into the themes of identity, alienation, and cultural displacement. It explores the tension between traditional values and modern influences, and the disillusionment that arises from the collision of different cultural forces. The film also touches on the impact of family dynamics, peer pressure, and societal expectations on the lives of young people.',
 DATE '1991-07-27',
 237,
 '{Drama, "Coming of Age", Historical, Romance}',
@@ -359,10 +371,13 @@ https://i.postimg.cc/xjZp1SSB/a-brighter-summer-day-4.jpg
 '0653d471-f70a-483a-8048-57ad64d64a0a'
 );
 
+
+
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Terrorizers',
-'Terrorizers is a critically acclaimed Taiwanese film known for its haunting exploration of isolation, urban alienation, and interconnected lives. 
-Directed by Edward Yang, the movie weaves together a complex tapestry of characters, relationships, and events that reflect the anxieties and disorientations of modern urban life. With its nuanced storytelling, evocative cinematography, and poignant themes, Terrorizers is considered a masterpiece of Taiwanese cinema.',
+'Terrorizers is a Taiwanese film directed by Edward Yang. The story follows the lives of three interconnected characters in Taipei - a young woman named Xiaoxiao, a photojournalist named Yang, and a doctor named Zheng. Their lives become intertwined as a mysterious and violent event shakes their city.
+Terrorizers is known for is its complex narrative structure and its exploration of the disconnection and alienation in modern urban life. The film weaves together multiple storylines and perspectives, creating a fragmented and nonlinear narrative that challenges traditional storytelling conventions. Yang employs a distinctive visual style, using long takes and striking compositions to capture the emotional and psychological landscapes of the characters.
+The film delves into the existential crises of its characters, who are grappling with their own insecurities, desires, and failures in a rapidly changing society. It reflects on the impact of modernization, urbanization, and globalization on individuals and relationships, depicting a sense of disillusionment and emptiness in the midst of urban chaos.',
 DATE '1986-12-19',
 110,
 '{"Thriller", Crime, Drama}',
@@ -379,8 +394,9 @@ https://i.postimg.cc/MHQfzByP/terrorizers-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Color of Pomegranates', 
-'The Color of Pomegranates is a visually stunning film known for its poetic and symbolic exploration of the life and work of the 18th-century Armenian poet, Sayat-Nova. Directed by Sergei Parajanov, the film features vivid, dreamlike imagery and a non-linear narrative structure that blurs the line between reality and imagination. 
-Through its themes of love, spirituality, and cultural identity, The Color of Pomegranates offers a unique and deeply personal reflection on Armenian history and culture. The Color of Pomegranates is considered a masterpiece of world cinema and is widely regarded as one of the greatest experimental films of all time.',
+'The Color of Pomegranates is a visually stunning avant-garde film directed by Sergei Parajanov, originally released in 1969. The film is a poetic and abstract portrayal of the life of the 18th-century Armenian poet Sayat-Nova, and is known for its unique and unconventional approach to storytelling.
+The film eschews traditional narrative structure, instead using a series of visually striking tableaus to depict key moments in Sayat-Nova''s life, ranging from his childhood to his career as a court poet. Parajanov employs a surreal and symbolic visual language, incorporating vivid colors, striking costumes, and elaborate set designs to create a dreamlike and mesmerizing atmosphere.
+The Color of Pomegranates explores identity, spirituality, and artistic expression while delving into Sayat-Nova''s internal struggles with his dual identity as an Armenian poet in a society ruled by Persian and Russian influences, and the challenges he faces as he navigates his art and his own sense of self.',
 DATE '1969-01-01',
 78,
 '{"Art House", Historical, Experimental}',
@@ -397,8 +413,9 @@ https://i.postimg.cc/1XX855dd/the-color-of-pomegranates-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Roma',
-'Roma is a critically acclaimed film directed by Alfonso Cuarón known for its breathtaking black-and-white cinematography and intimate storytelling. Set in Mexico City in the 1970s, the film follows the life of a young indigenous domestic worker named Cleo, who works for an affluent family.
-As Cleo navigates her own challenges while serving the family, Roma delves into themes of class, race, and societal hierarchies, while also exploring the complexities of human relationships and the struggles of marginalized individuals. With its poignant portrayal of everyday life, "Roma" has been lauded for its visual artistry, emotional depth, and social commentary.',
+'Roma is a visually stunning and deeply emotional film directed by Alfonso Cuarón. Set in Mexico City in the early 1970s, it follows the life of a young domestic worker named Cleo, who works for a middle-class family. The story revolves around Cleo''s daily routines, her relationships with the family members, and her personal struggles.
+Roma is set apart by its meticulous attention to detail and its powerful portrayal of human emotions. Cuarón''s masterful use of black-and-white cinematography creates a striking visual aesthetic that captures both the beauty and the harshness of everyday life. The film''s slow pacing and long takes create an immersive experience, drawing the audience into Cleo''s world and allowing them to deeply empathize with her character.
+Roma explores social and political issues such as class disparity, gender roles, and societal norms. It delves into the complexities of relationships, family dynamics, and the impact of historical events on individuals. The film portrays the struggles and resilience of marginalized individuals, and highlights the often overlooked role of domestic workers in society.',
 DATE '2018-08-30',
 135,
 '{Drama, Historical, "Art House", "Social Commentary"}',
@@ -415,8 +432,9 @@ https://i.postimg.cc/htYfXFmY/roma-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Y Tu Mamá También',
-'Y Tu Mamá También is a critically acclaimed Mexican film known for its coming-of-age story, complex characters, and exploration of class, sexuality, and Mexican society. Directed by Alfonso Cuarón, the movie follows two teenage boys who embark on a road trip with an older woman, exploring their relationships and the social and political realities of Mexico. 
-Y Tu Mamá También is recognized for its honest and raw portrayal of adolescence and its unique blend of humor and tragedy. It has earned significant praise for its themes of friendship, love, and loss.',
+'Y Tu Mama Tambien, directed by Alfonso Cuarón, is a Mexican coming-of-age film that tells the story of two teenage boys, Julio and Tenoch, who embark on a road trip with an older woman named Luisa. The film is known for its provocative and daring exploration of sexuality, politics, and identity.
+Set against the backdrop of a politically charged Mexico in the early 2000s, the film follows Julio and Tenoch as they leave the city and head to a secluded beach with Luisa, who is dealing with her own personal struggles. As the trio journey through the Mexican countryside, their relationships and dynamics evolve, leading to unexpected consequences.
+The film delves into the complexities of class and privilege in Mexico, exposing the disparities between the affluent urban youth and the impoverished rural communities they encounter on their journey. Cuarón''s masterful direction and storytelling skillfully combine humor, drama, and social commentary to create a thought-provoking and powerful exploration of youth, sexuality, and the human condition.',
 DATE '2001-06-08',
 106,
 '{Drama, "Coming of Age", Romance, Comedy}',
@@ -433,8 +451,9 @@ https://i.postimg.cc/wxk6DkdW/y-tu-mama-tambien-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Children of Men',
-'Children of Men is a dystopian thriller that takes place in a future world where infertility has caused humanity to face extinction. The film follows a jaded bureaucrat, played by Clive Owen, who is tasked with protecting the last pregnant woman on Earth. 
-Known for its gripping action sequences, thought-provoking themes of hope, sacrifice, and the fragility of human existence, and its stunning long-take cinematography, Children of Men has earned critical acclaim for its unique and immersive storytelling. The film is often lauded for its social and political commentary, exploring topics such as immigration, authoritarianism, and the dehumanizing effects of a collapsing society.',
+'Children of Men is a dystopian science fiction film directed by Alfonso Cuarón. Set in a near-future world where humanity faces infertility and the impending collapse of society, the story follows Theo, a former activist, who is tasked with protecting the only pregnant woman on Earth.
+The movie is known for its stunning visual and technical achievements, particularly its groundbreaking long-take action sequences that immerse the audience in the chaos and violence of the deteriorating world. Cuarón''s masterful direction, combined with Emmanuel Lubezki''s innovative cinematography, creates a sense of urgency and realism that heightens the film''s suspenseful and gritty tone.
+Children of Men explores the loss of hope, the breakdown of societal norms, and the consequences of humanity''s inability to reproduce. It raises thought-provoking questions about immigration, government oppression, and the value of life in the face of despair. The film also offers poignant social commentary on issues such as xenophobia, terrorism, and authoritarianism, making it a compelling and thought-provoking piece of dystopian cinema.',
 DATE '2006-09-03',
 109,
 '{"Science Fiction", Thriller, Action, Adventure}',

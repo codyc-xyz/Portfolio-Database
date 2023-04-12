@@ -805,7 +805,7 @@ INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in
 VALUES('F for Fake',
 'F for Fake is a 1973 film directed by Orson Welles that blurs the lines between reality and illusion, exploring the concepts of art, authenticity, and deception. The film tells the story of notorious art forger Elmyr de Hory, who duped the art world with his fake masterpieces, and Clifford Irving, a writer who fabricated a hoax autobiography of Howard Hughes.
 However, F for Fake is not a conventional documentary or narrative film. It is known for its unconventional structure, combining elements of documentary, fiction, and essay filmmaking, with Welles himself serving as the charismatic and enigmatic narrator. The film challenges the notions of truth and authenticity in art and life, raising questions about the nature of authorship, the value of art, and the blurred lines between reality and illusion.
-F for Fake examines and encapsulates the role of the artist as a storyteller and manipulator of reality. With its unique structure and philosophical insights, the film is considered a landmark work in the history of documentary filmmaking and a testament to Welles'' formidable talent as a director and thinker.',
+F for Fake examines and embodies the role of the artist as a storyteller and manipulator of reality. With its unique structure and philosophical insights, the film is considered a landmark work in the history of documentary filmmaking and a testament to Welles'' formidable talent as a director and thinker.',
 DATE '1973-12-12',
 88,
 '{Documentary, "Art House", Experimental}',
@@ -822,8 +822,9 @@ https://i.postimg.cc/VLbsk4Nw/f-for-fake-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Parasite',
-'Parasite is a critically acclaimed South Korean film directed by Bong Joon-ho, known for its expertly crafted plot twists and biting social commentary on class inequality. The film explores the lives of two families from opposite ends of the socioeconomic spectrum, and their complicated relationship as they become intertwined in unexpected ways. 
-Parasite is renowned for its exploration of themes such as greed, privilege, and exploitation, and has been lauded for its masterful storytelling and cinematography.',
+'Parasite, directed by Bong Joon-ho, is a South Korean dark comedy thriller that follows the story of the Kim family, who live in poverty and scheme their way into the lives of the wealthy Park family. The Kims slowly infiltrate the Parks'' lives, posing as highly skilled individuals, and become entangled in a complex web of lies and deception.
+Parasite is distinctive in its seamless blend of various genres, including dark comedy, drama, and suspense, creating a unique and captivating viewing experience. The movie is known for its clever and unpredictable plot twists that keep audiences on the edge of their seats.
+Parasite delves into the harsh realities of class inequality and social hierarchy, exploring the stark contrast between the lives of the rich and the poor. It portrays the struggles and desperation of those who are marginalized and economically disadvantaged, and the lengths they may go to escape poverty and achieve a better life. Through its thought-provoking narrative, Parasite challenges societal norms and critiques the capitalist system, shedding light on the harsh truths of the class divide.',
 DATE '2019-05-21',
 132,
 '{Thriller, Drama, Satire}',
@@ -838,13 +839,15 @@ https://i.postimg.cc/pd6gwMtt/parasite-4.jpg}',
 '11f93e18-5ffb-44c2-8e2b-4bf86feeeea4'
 );
 
+
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Mishima: A Life in Four Chapters',
-'Mishima: A Life in Four Chapters is a visually stunning biopic that explores the life of the controversial Japanese author and political activist, Yukio Mishima. Directed by Paul Schrader, the film is known for its unique thematic structure, which weaves together scenes from Mishima''s life, his fictional works, and his last day before his suicide. 
-Through its poetic and dreamlike imagery, the film explores themes of masculinity, nationalism, and the struggle for identity in a changing world. Mishima: A Life in Four Chapters is considered a masterpiece of 1980s cinema, and continues to be praised for its innovative approach to biography and its visual storytelling.',
+'Mishima: A Life in Four Chapters is a biographical drama film directed by Paul Schrader, released in 1985. The film portrays the life of Yukio Mishima, a Japanese novelist and playwright, and is divided into four chapters, each depicting different periods: "Beauty," "Art," "Action," and "Harmony of Pen and Sword."
+The film is known for its unique narrative structure and visual aesthetics. Schrader skillfully weaves together Mishima''s real-life story with scenes from his own works, creating a visually stunning and thought-provoking film. The movie uses bold color schemes, elaborate sets, and striking imagery to capture the intensity and complexity of Mishima''s life and work.
+Mishima: A Life in Four Chapters explores the tension between traditionalism and modernity, individualism and conformity, and the search for meaning and identity. It delves into Mishima''s internal struggles as an artist and his disillusionment with the changing social and cultural landscape of post-war Japan and further investigates the themes of eroticism, nationalism, and the complex relationship between art and life.',
 DATE '1985-10-04',
 120,
-'{Drama, "Art House", Historical}',
+'{Drama, "Art House", Historical, Biography}',
 'https://i.postimg.cc/BvPrGZcB/mishima-a-life-in-four-chapters.jpg',
 'https://letterboxd.com/film/mishima-a-life-in-four-chapters/',
 '{https://i.postimg.cc/wv1JxPbz/mishima-a-life-in-four-chapters-1.jpg,
@@ -858,8 +861,9 @@ https://i.postimg.cc/9XqTv67t/mishima-a-life-in-four-chapters-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Stalker',
-'Stalker is a science fiction masterpiece directed by Andrei Tarkovsky, known for its hauntingly beautiful visuals and philosophical themes. The film follows a guide, a writer, and a scientist as they journey into a mysterious and forbidden area called the "Zone" in search of a room that grants wishes. Along the way, they confront existential questions about faith, knowledge, and the human condition. 
-Stalker is regarded as one of the greatest works in cinema history, praised for its profound exploration of the relationship between man and the unknown, and its influence on science fiction and art-house cinema.',
+'Stalker, directed by Andrei Tarkovsky, is a Soviet science fiction film released in 1979. The story revolves around a mysterious guide known as the "Stalker" who leads two individuals, the "Writer" and the "Professor," through a forbidden and post-apocalyptic area called the "Zone." The Zone is rumored to contain a room that grants the deepest desires of those who enter it. As the journey progresses, the characters confront their inner fears, desires, and existential dilemmas.
+Stalker is known for its atmospheric and meditative tone, deliberate pacing, and stunning cinematography. Tarkovsky masterfully employs long takes, minimal dialogue, and haunting visuals to create a sense of otherworldliness and provoke philosophical and metaphysical reflections. The film raises questions about the nature of reality, the purpose of life, and the consequences of pursuing one''s desires.
+Stalker is celebrated for its exploration of human longing and the consequences of unchecked desires. The characters'' motivations and actions reflect their yearning for meaning and fulfillment in a bleak and uncertain world. Tarkovsky also delves into the contrast between the external world and the internal world of emotions, thoughts, and memories and investigates the role of faith, belief, and the inherent ambiguity of truth.',
 DATE '1979-05-25',
 161,
 '{"Science Fiction", Drama, "Psychological Thriller", "Art House"}',
@@ -876,8 +880,9 @@ https://i.postimg.cc/Z5W79TsB/stalker-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Still Walking',
-'Still Walking is a critically acclaimed Japanese drama film directed by Hirokazu Kore-eda, known for its nuanced exploration of family dynamics, grief, and memory. Set over the course of a single day, the film follows a family as they come together to commemorate the death of their eldest son, who drowned 15 years ago. 
-Through subtle performances and intimate character interactions, Kore-eda skillfully examines the complexities of familial relationships and the ways in which we grapple with loss and the passage of time. Widely regarded as a masterpiece of contemporary Japanese cinema, Still Walking is a poignant and thought-provoking meditation on the universal themes of love, loss, and acceptance.',
+'Still Walking is a Japanese family drama film directed by Hirokazu Kore-eda. The film follows the Yokoyama family as they gather for their annual reunion to commemorate the death of their eldest son who drowned in a tragic accident 15 years ago. Over the course of one day, family dynamics and buried emotions come to the surface as they navigate through their shared grief, regrets, and unspoken truths.
+Still Walking is renowned for its sensitive and nuanced exploration of family relationships and the complexities of human emotions. The film delves into the dynamics of a seemingly ordinary family, revealing the intricacies of their interactions, conflicts, and unspoken resentments. Kore-eda''s minimalist storytelling style and attention to detail create a poignant and thought-provoking exploration of family ties and the passage of time.
+Still Walking explores family dynamics, the weight of familial expectations, and the impact of unresolved grief. The film delves into the often unspoken expectations that family members have of each other, the ways in which grief can linger and affect relationships, and the complexities of familial love. Through its quiet yet powerful storytelling, the film invites viewers to reflect on their own relationships and emotions, and the delicate intricacies that shape family bonds.',
 DATE '2007-06-28',
 114,
 '{Drama, "Slice of Life"}',
@@ -894,8 +899,9 @@ https://i.postimg.cc/FHTHsXCB/still-walking-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Contempt',
-'Contempt by Godard is a 1963 French New Wave classic known for its meta-cinematic approach and exploration of themes such as artistic integrity, commodification of art, and the fragility of relationships. 
-The film follows a struggling screenwriter''s descent into contempt for his wife and his art, as he navigates the ruthless Hollywood film industry. Contempt has been lauded for its use of color and composition, as well as its commentary on the intersection of personal relationships and the commercialization of art.',
+'Contempt, directed by Jean-Luc Godard, is a French film that tells the story of a failing marriage between a screenwriter named Paul and his wife, Camille. As Paul is hired to rewrite a script for a film adaptation of The Odyssey, he becomes disillusioned with his work, and the couple''s relationship deteriorates.
+Contempt is celebrates for its innovative and unconventional filmmaking techniques, including the use of long takes, disjointed editing, and self-reflexive storytelling. The film is also notable for its visually stunning cinematography, with vivid colors and striking compositions.
+Contempt explores the disintegration of human relationships, the commercialization of art, and the complexities of communication and language. Godard uses the story of Paul and Camille''s crumbling marriage as a metaphor for the larger disillusionment with modern society and the loss of humanity''s connection to art and culture.',
 DATE '1963-10-29',
 101,
 '{Drama, Romance, "Art House"}',
@@ -910,10 +916,12 @@ https://i.postimg.cc/KvYBCPgb/contempt-4.jpg}',
 '9614b3c8-c92b-4d4c-af27-f8577cc47160'
 );
 
+
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Insiang',
-'Insiang is a powerful Filipino drama film known for its stark portrayal of poverty and oppression in Manila. The movie follows the titular character, Insiang, as she navigates the harsh realities of life in the slums and confronts the men who have wronged her. 
-With themes of survival, revenge, and female empowerment, Insiang stands out as a groundbreaking work of Filipino cinema and a timeless exploration of the human condition.',
+'Insiang, directed by Lino Brocka, is a critically acclaimed Filipino film known for its gritty portrayal of poverty and exploitation in Manila. The story revolves around Insiang, a young woman living in a crowded slum, who faces the harsh realities of life as she navigates through an oppressive environment.
+The film centers on Insiang''s relationships with the people around her, including her abusive mother and her mother''s lover. Insiang is subjected to abuse, betrayal, and manipulation, and her struggles are vividly depicted onscreen, revealing the dark and oppressive side of society.
+Insiang is renowned for its unflinching depiction of the harsh living conditions and social injustices faced by the poor in Manila. Brocka''s masterful direction captures the squalor and desperation of the slums, as well as the complexity of human relationships in such a challenging environment. The film delves into themes of gender, power dynamics, and societal inequalities, shedding light on the exploitation of women and the marginalized.',
 DATE '1976-12-25',
 94,
 '{Drama, "Coming of Age", "Social Commentary"}',
@@ -930,8 +938,9 @@ https://i.postimg.cc/GmxQCLmw/insiang-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Ballad of Narayama',
-'The Ballad of Narayama is a 1958 Japanese film directed by Keisuke Kinoshita that is known for its striking cinematography and exploration of the cyclical nature of life and death. Set in a remote village in Japan, the film tells the story of a community where elderly people are voluntarily taken to the top of a mountain to die. 
-The film''s thematic choices center around the harsh realities of life, the importance of community, and the inevitability of death.',
+'The Ballad of Narayama, directed by Keisuke Kinoshita, is a visually striking and thematically profound film that portrays the life of an isolated rural community in Japan during the 19th century. The story centers around Orin, an elderly woman living in the mountainous region of Narayama, who must face the tradition of obasute - the custom of abandoning elderly family members on the mountainside to die as a means of conserving scarce resources for the younger generation. Orin accepts her fate with stoicism and dignity, preparing herself and her family for her journey to the mountain.
+The film is known for its striking visual aesthetics, with stunning cinematography capturing the beauty of the Japanese landscape and the harshness of the mountain environment. Kinoshita skillfully uses color to create a vivid and immersive world, contrasting the vibrant hues of nature with the muted tones of the village, highlighting the contrast between the beauty of life and the inevitability of death.
+The Ballad of Narayama is renowned for its powerful exploration of human nature, morality, and societal norms. Through Orin''s journey, the film raises thought-provoking questions about the value of life, the sacrifices made for survival, and the bonds of family and community. It challenges traditional notions of aging, familial duty, and the balance between individualism and collectivism in society.',
 DATE '1958-06-01',
 98,
 '{Drama, Historical, Tragedy, "Art House"}',
@@ -948,7 +957,9 @@ https://i.postimg.cc/VkFXrKt3/the-ballad-of-narayama-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Mommy',
-'Mommy is a critically acclaimed drama film known for its raw emotional power and exploration of complex familial relationships. Set in a fictional Canada where parents can legally institutionalize their troubled children, the film follows a widowed mother''s struggles to raise her violent and unpredictable son. Through its intimate portrayal of love, loss, and sacrifice, Mommy examines themes of motherhood, mental illness, and societal norms.',
+'Mommy, directed by Xavier Dolan, is a riveting and emotionally charged drama that delves into the tumultuous relationship between a widowed mother and her troubled teenage son. Set in a fictional Canada where a law allows parents to hospitalize their unruly children, the story follows the struggles of Diane "Die" Després as she navigates the challenges of raising her volatile son Steve, who has ADHD and a history of violence. As Die tries to provide a stable home for Steve, she forms an unlikely bond with her eccentric neighbor, Kyla, who becomes a source of support and solace.
+Mommy is distinctive for its visual style, shot in a unique aspect ratio that emphasizes the intensity of the characters'' emotions. Dolan''s signature use of vibrant colors, dynamic camera movements, and an evocative soundtrack further elevate the film''s emotional impact. The movie is a standout for its raw and authentic performances, particularly from the lead actors who bring depth and complexity to their roles.
+Mommy explores the complexities of motherhood, the challenges of raising a child with behavioral issues, and the intricacies of human connections. It delves into the themes of love, sacrifice, and the lengths a mother will go to protect her child, while also examining the limitations and flaws of parental love. The film also touches upon the impact of mental health and societal norms on individuals and families, and the resilience and strength that can be found in human relationships, even in the face of adversity.',
 DATE '2014-05-22',
 138,
 '{Drama, "Coming of Age"}',
@@ -963,9 +974,13 @@ https://i.postimg.cc/xdWVWKCn/mommy-4.jpg}',
 '62910616-628e-44e5-8a4c-1a5b3d27f875'
 );
 
+
+
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('8 1/2',
-'8 1/2 is a renowned Italian film directed by Federico Fellini, known for its avant-garde approach to storytelling and surrealistic visuals. The movie explores the struggles of a film director grappling with creative block and personal turmoil, delving into themes of artistic integrity, existentialism, and the blurred lines between reality and imagination.',
+'8 1/2 is a classic Italian film directed by Federico Fellini, released in 1963. It follows the story of Guido Anselmi, a troubled filmmaker who is struggling to find inspiration for his next film. Guido is constantly bombarded by the pressures of his work, the expectations of his colleagues, and the demands of his personal life. As he grapples with creative block and a mid-life crisis, Guido retreats into his memories, fantasies, and dreams to escape the reality of his struggles.
+8 1/2 is celebrated for its unique narrative structure and innovative cinematic techniques. Fellini masterfully weaves together reality and fantasy, blurring the lines between past and present, memory and imagination. The film is known for its surreal and visually stunning sequences, featuring dreamlike imagery, circus performances, and extravagant costumes. It uses music, symbolism, and recurring motifs to heighten the emotional and psychological aspects of the story.
+8 1/2 explores the challenges and contradictions of artistic creation, the complexity of human relationships, and the search for meaning in life. It delves into the psyche of the protagonist, exposing his vulnerabilities, fears, and desires. Through Guido''s journey, the film reflects on the nature of identity, the role of art in society, and the blurred boundaries between reality and illusion.',
 DATE '1963-01-02',
 138,
 '{Drama, Comedy, "Art House"}',
@@ -982,8 +997,9 @@ https://i.postimg.cc/3NFYTd4N/8-1-2-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Perfect Blue',
-'Perfect Blue is a critically acclaimed Japanese animated psychological thriller film directed by Satoshi Kon. Known for its mind-bending narrative and visually stunning animation, the film follows a young pop idol named Mima who decides to leave her music career to pursue acting, but soon finds herself caught in a nightmarish reality where the line between illusion and reality blurs. 
-Perfect Blue explores themes of identity, perception, and the dark side of fame, delving into the psychological turmoil of the protagonist as she grapples with her own sanity.',
+'Perfect Blue, directed by Satoshi Kon, is a psychological thriller anime film that tells the story of Mima Kirigoe, a young pop idol who decides to leave her successful music career to pursue acting. As Mima struggles to navigate the challenges of her new career, she becomes increasingly haunted by a stalker who seems to know everything about her life. As her reality blurs and the line between her past and present become indistinguishable, Mima''s mental state deteriorates, and she is plunged into a dark world of paranoia, obsession, and psychological horror.
+Perfect Blue is renowned for its intricate and mind-bending narrative, which blurs the boundaries between reality and fantasy, leaving viewers questioning what is real and what is imagined. The film masterfully portrays the psychological struggles of its protagonist, Mima, as she grapples with issues of identity, fame, and the pressure to conform to societal expectations. Satoshi Kon employs a visual and auditory style that effectively conveys the disorienting and nightmarish experiences of the protagonist, creating a sense of unease and tension throughout the film.
+Perfect Blue delves into the dark side of the entertainment industry, exploring the toll of fame on mental health, the loss of self in pursuit of success, and the objectification and exploitation of female idols. The film also explores the themes of perception, reality, and the fragile nature of identity in a world where appearances can be deceptive. Through its thought-provoking storytelling and provocative visuals, Perfect Blue is widely regarded as a seminal work in psychological horror and an impressive exploration of the human psyche.',
 DATE '1997-08-05',
 81,
 '{"Psychological Thriller", Mystery, Drama, Animation}',
@@ -1000,8 +1016,9 @@ https://i.postimg.cc/ZKwWfLNg/perfect-blue-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Millenium Actress',
-'Millennium Actress is a mesmerizing Japanese animated film known for its captivating storytelling and unique blending of reality and fantasy. Directed by Satoshi Kon, it tells the story of a retired actress named Chiyoko, who reflects on her life and career while being interviewed by a documentary filmmaker. As she recounts her memories, the lines between her films and her own experiences blur, creating a beautiful and nostalgic journey through the history of Japanese cinema. 
-With its seamless transitions between different time periods and its exploration of themes such as love, loss, and the power of storytelling, "Millennium Actress" is a cinematic masterpiece that has gained critical acclaim for its artistic and narrative brilliance.',
+'Millennium Actress is a critically acclaimed anime film directed by Satoshi Kon. The story follows the life of an aging former actress, Chiyoko Fujiwara, as she recounts her career to a documentary filmmaker and retraces her memories. The film seamlessly intertwines reality and fantasy, blurring the lines between the past and the present, as Chiyoko''s memories and films come to life in a surreal and dreamlike manner.
+Millennium Actress is set apart by its unique approach to storytelling, where the boundaries between reality and imagination are constantly blurred. The film effortlessly shifts between different time periods and genres, from historical dramas to sci-fi adventures, creating a captivating and immersive narrative. It is known for its mesmerizing visuals, fluid animation, and intricate storytelling techniques that challenge the traditional linear structure of storytelling.
+Millennium Actress explores the nature of memory, dreams, and the passage of time. It delves into the elusive nature of truth and reality, as Chiyoko''s memories and personal experiences become intertwined with the roles she played in her films. The film also touches upon the sacrifices and challenges faced by artists in pursuit of their passions, as well as the bittersweet nature of nostalgia and the power of storytelling.',
 DATE '2001-07-28',
 87,
 '{Animation, Drama, Romance, Historical, Mystery, Fantasy}',
@@ -1018,8 +1035,9 @@ https://i.postimg.cc/fR1G7JwF/millenium-actress-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Close-Up',
-'Close-Up is a critically acclaimed Iranian film directed by Abbas Kiarostami, known for its unique blend of reality and fiction. The plot follows the true story of a struggling filmmaker who impersonates a famous Iranian director to befriend a wealthy family, resulting in a gripping courtroom drama. 
-Through its meta-narrative structure, Close-Up explores themes of identity, art, and truth, blurring the lines between reality and fiction. This landmark film is considered a masterpiece of Iranian cinema and has been praised for its innovative storytelling and thought-provoking commentary on the power of cinema.',
+'Close-Up is a 1990 Iranian film directed by Abbas Kiarostami that blurs the lines between fiction and reality. The film is based on a true story and tells the tale of Hossein Sabzian, a poor cinephile who impersonates a famous filmmaker, Mohsen Makhmalbaf, in order to gain access to a wealthy family''s home. Sabzian is eventually caught and put on trial, and the film delves into the complexities of identity, truth, and art.
+Close-Up is distinguished by its unique narrative structure. The film uses a mix of documentary-style footage and reenactments, with the real-life participants playing themselves, blurring the boundary between reality and fiction. Kiarostami challenges the traditional conventions of storytelling and questions the nature of truth and representation in cinema. The film also highlights the power dynamics between different classes in Iranian society, as Sabzian, a lower-class individual, tries to navigate the world of the affluent family.
+Close-Up explores the human need for connection and the role of art in shaping our perceptions of reality. It raises questions about the nature of truth, the authenticity of art, and the power dynamics inherent in storytelling. Through its innovative storytelling and thought-provoking themes, Close-Up has become a critically acclaimed film and a prominent example of Iranian cinema''s artistic and intellectual prowess.',
 DATE '1990-02-01',
 98,
 '{Drama, "Art House", Documentary}',
@@ -1037,8 +1055,9 @@ https://i.postimg.cc/hGd0k1kD/close-up-4.jpg
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Pickpocket', 
-'Pickpocket is a thought-provoking drama by acclaimed Chinese filmmaker Jia Zhangke. Known for his minimalist style and social commentary, Jia tells the story of a small-time thief named Xiaowen who drifts through life in modern-day China, grappling with existential questions and his own moral dilemmas. 
-Through a meticulously crafted narrative and stunning visuals, Pickpocket explores themes of alienation, urbanization, and the struggle for identity in a rapidly changing society.',
+'Pickpocket is a critically acclaimed film by Jia Zhangke, known for its contemplative storytelling and realistic portrayal of contemporary China. The movie follows the life of a young pickpocket named Xiaowen, who roams the streets of China''s industrial city of Datong, stealing wallets from unsuspecting victims. As Xiaowen''s criminal activities escalate, he becomes embroiled in a web of crime and personal turmoil.
+The film is known for its minimalist style and poetic imagery, capturing the everyday struggles of ordinary people in modern China. Jia Zhangke''s masterful direction and the film''s contemplative pace create a sense of realism and intimacy, allowing viewers to delve into the complex emotions and motivations of the protagonist. Pickpocket explores themes of alienation, isolation, and moral ambiguity, as Xiaowen grapples with the moral implications of his criminal behavior and his yearning for human connection.
+Through its thought-provoking narrative and visual aesthetics, Pickpocket offers a poignant portrayal of contemporary Chinese society, shedding light on the personal and societal challenges faced by its characters. The film has been praised for its unique perspective on the human condition and its exploration of the moral complexities of everyday life.',
 DATE '1997-10-05',
 111,
 '{Drama, Crime}',
@@ -1055,8 +1074,10 @@ https://i.postimg.cc/dQ5shhtF/pickpocket-4.jpg}',
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Smiles of a Summer Night',
-'Smiles of a Summer Night is a timeless classic directed by Ingmar Bergman that is known for its wit, charm, and sensual exploration of human relationships. This Swedish film is set during a magical midsummer night in the 19th century, where characters find themselves embroiled in a comedic and bittersweet tale of love, lust, and longing. 
-With its clever dialogue, memorable characters, and poetic cinematography, Smiles of a Summer Night is a masterful exploration of human emotions and desires. This film stands out in Bergman''s filmography for its lighter tone, yet it still delves into deep existential questions about love, sex, and the complexities of human connections.',
+'Ingmar Bergman''s Smiles of a Summer Night is a classic Swedish comedy-drama film released in 1955. The story is set in Sweden during the early 20th century and follows the romantic entanglements of a group of people during a weekend in the countryside.
+The film revolves around a tangled web of relationships involving various couples, including an aging lawyer, Fredrik, his young wife, Anne, his former lover, Desiree, and her current lover, a pompous military officer, Count Malcolm. As the characters come together and interact during a weekend party at Desiree''s estate, their relationships and desires unravel, leading to a series of comedic and poignant situations.
+Smiles of a Summer Night is known for its sharp wit, satirical humor, and Bergman''s masterful direction. It''s a sophisticated exploration of human emotions, sexuality, and the complexities of love, delivered through clever dialogues and nuanced performances. The film''s exploration of desire, infidelity, and societal norms, combined with its witty banter and bittersweet moments, make it a quintessential example of Bergman''s unique style.
+The film''s title, Smiles of a Summer Night, reflects the fleeting nature of love and the fleeting moments of happiness that characters experience during the short summer nights in Sweden. It''s a film that delves into the intricacies of human relationships and the complexities of love, with Bergman''s signature blend of comedy and drama, making it a timeless classic in the world of cinema.',
 DATE '1955-12-26',
 108,
 '{Drama, Romance, Comedy}',
@@ -1074,8 +1095,10 @@ https://i.postimg.cc/52XgGysP/smiles-of-a-summer-night-4.jpg
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Christiane F.',
-'Christiane F. by Uli Edel is a gripping and raw portrayal of the dark and gritty reality of addiction and youth culture in 1980s Berlin. Based on a true story, the film follows the turbulent life of Christiane, a young girl who becomes entangled in the world of drug abuse and prostitution. 
-Through its unflinching depiction of the harsh realities of addiction, Christiane F. delves deep into the desperate struggle for survival, isolation, and the longing for escape. This cult classic is known for its realistic portrayal of addiction, its haunting performances, and its unapologetic exploration of the darker side of youth culture.',
+'Christiane F. is a German film directed by Uli Edel, released in 1981. It tells the true story of a young girl named Christiane Felscherinow, based on her autobiography, who becomes involved in drug addiction and prostitution in the late 1970s in Berlin.
+The movie follows Christiane, a 14-year-old girl who is drawn into the gritty and dangerous world of drug use and exploitation. She becomes addicted to heroin and descends into a downward spiral of desperation and hopelessness, engaging in risky behavior to support her addiction. The film portrays the harsh realities of drug addiction, including the physical and emotional toll it takes on Christiane, as well as the exploitation and abuse she faces as a young girl caught in the throes of addiction.
+Christiane F. is known for its raw and unflinching portrayal of drug addiction and its consequences. It does not shy away from depicting the harsh realities of addiction, including the physical and emotional effects, the social isolation, and the degradation that comes with drug abuse. The film is also notable for its bold and controversial depiction of teenage drug use and prostitution, shining a light on the dark underbelly of youth culture in Berlin during that time period.
+Christiane F. explores the dangers of drug addiction and the devastating impact it can have on an individual''s life, particularly on young people. It delves into the psychological and emotional struggles faced by Christiane as she grapples with her addiction, as well as the societal factors that contribute to her downward spiral. The film also touches on issues of exploitation, sexual abuse, and the harsh realities of life on the streets for those caught in the cycle of addiction.',
 DATE '1981-04-02',
 138,
 '{Drama, "Coming of Age", "Social Commentary", Crime}',
@@ -1093,8 +1116,9 @@ https://i.postimg.cc/d3mQd6wn/christiane-f-4.jpg
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Branded to Kill',
-'Branded to Kill by Seijun Suzuki is a provocative Japanese crime thriller that pushes the boundaries of traditional genre conventions. Known for its avant-garde style, bold visual choices, and unconventional narrative structure, the film follows the story of a hitman named Goro Hanada who becomes embroiled in a deadly game of cat and mouse with other rival assassins. 
-As the plot unfolds, viewers are drawn into a surreal and darkly comedic world, filled with surreal symbolism and unexpected twists. Branded to Kill is celebrated for its daring and subversive approach to storytelling, exploring themes of identity, obsession, and the blurred lines between reality and illusion.', 
+'Branded to Kill is a Japanese crime film directed by Seijun Suzuki, released in 1967. The story revolves around a highly skilled hitman named Goro Hanada, who is ranked as the third best in the underworld. However, his life takes a tumultuous turn when he becomes obsessed with a mysterious woman and finds himself caught in a deadly game of cat-and-mouse with rival assassins, the yakuza, and the police.
+Branded to Kill is set apart by its unique style and unconventional narrative choices. Suzuki''s direction is known for its innovative visual techniques, including bold and striking cinematography, experimental editing, and avant-garde storytelling. The film''s fragmented plot, filled with surreal and absurd elements, challenges traditional genre conventions and pushes the boundaries of narrative structure.
+Branded to Kill explores the concepts of identity and existentialism. The protagonist, Goro Hanada, grapples with his sense of self as he navigates a world filled with violence, betrayal, and deception. The film also delves into the dark and nihilistic aspects of human nature, examining the psychological and emotional toll of a life consumed by violence.',
 DATE '1967-06-15',
 91,
 '{Crime, Thriller. Action, Noir}',
@@ -1110,11 +1134,11 @@ https://i.postimg.cc/Rht0CHjf/branded-to-kill-4.jpg
 'fd03be13-ffb6-4630-9f62-8e946a843b90'
 );
 
-
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Sans Soleil',
-'Sans Soleil by Chris Marker is a renowned experimental documentary film known for its poetic and philosophical exploration of memory, time, and cultural identity. Through a series of mesmerizing images and voice-over narration, the film weaves together travelogue-style footage from around the world with personal reflections on memory and history. It''s a thought-provoking exploration of the human condition and our perception of reality, creating a unique cinematic experience that challenges traditional narrative structure. 
-Sans Soleil is widely considered a masterpiece of avant-garde cinema, and its innovative approach to storytelling has made it a seminal work in the history of experimental filmmaking.',
+'Sans Soleil is a critically acclaimed 1983 documentary film by French filmmaker Chris Marker. The film is a travelogue and poetic meditation on memory, time, and the human condition. The story is narrated through a series of letters written by an unseen female narrator, who shares her thoughts and reflections on various places and cultures she has visited, including Japan, Guinea-Bissau, and Iceland.
+Sans Soleil is celebrated for is its unique blend of documentary and fictional elements, as well as its avant-garde filmmaking techniques. Marker uses a non-linear structure, combining footage from his own travels with found footage and archival material, to create a visual and auditory collage that challenges traditional narrative storytelling.
+Sans Soleil delves into deep philosophical and existential questions about the nature of memory, reality, and the fleeting nature of human existence. It explores how memories are shaped and distorted over time, and how they impact our perception of the world. The film also touches on cultural differences, technology, and the role of media in shaping our understanding of reality.',
 DATE '1983-05-12',
 100,
 '{Documentary, Experimental, "Art House"}',
@@ -1132,8 +1156,9 @@ https://i.postimg.cc/BZBfxN4y/sans-soleil-4.jpg
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Koumiko Mystery',
-'While filming the Olympics in Tokyo, Marker encounters a Japanese girl named Koumiko Muraoka. Manchurian born and French educated, she''s an intriguing anomaly. He films her around Tokyo, as she speaks of Japan, being Japanese and her unique perspective on life. 
-The Koumiko Mystery is a thought-provoking avant-garde documentary that delves into the enigmatic life of Koumiko. Marker explores Koumiko''s mysterious personality and her quest for existential meaning in a modern world filled with consumerism and isolation. The film is known for its unique blend of fiction and reality, as well as its evocative visual imagery and poetic narration. The Koumiko Mystery raises profound questions about cultural identity, human connection, and the complexities of the human psyche.',
+'The Koumiko Mystery by Chris Marker is a 1965 documentary film that explores the life and thoughts of a young Japanese woman named Koumiko Muraoka during the time of the Tokyo Olympics. The film is a result of Marker''s encounter with Koumiko while he was in Japan to document the Olympic Games.
+The Koumiko Mystery is known for its intimate and poetic portrait of Koumiko, who reveals her unique perspective on Japan, being Japanese, and her personal history. Koumiko was born in Manchuria but French educated, which gives her a sense of alienation and curiosity about her own culture. Marker films her around Tokyo, capturing her expressions, gestures, and voice as she talks about various topics, such as war, love, identity, memory, and the city.
+The film is celebrated for its exploration of the contrast between the modernity and tradition of Japan, the role of women in Japanese society, and the influence of Western culture on Japan. Marker uses editing, narration, music, and animation to create a collage of images and sounds to reflect his perception of Koumiko''s inner world. The film is considered one of Marker''s most personal and lyrical works and raises profound questions about cultural identity, human connection, and the complexities of the human psyche.',
 DATE '1965-11-07',
 54,
 '{Documentary, Experimental, "Art House", "Social Commentary"}',
@@ -1151,8 +1176,9 @@ NULL,
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Flowers of Shanghai',
-'Flowers of Shanghai by Hou Hsiao-Hsien is a critically acclaimed Taiwanese film known for its stunning cinematography, meticulous attention to period detail, and immersive portrayal of the social dynamics of 19th-century Shanghai''s courtesan culture. The film delves into the lives of several courtesans and their patrons, examining the complexities of love, desire, and power within the confines of the opulent brothels. 
-Through its masterful use of long takes and exquisite mise-en-scène, Flowers of Shanghai offers a nuanced exploration of gender, class, and interpersonal relationships, while also reflecting on the shifting cultural landscape of Shanghai during a time of societal change.',
+'Flowers of Shanghai, directed by Hou Hsiao-Hsien, is a Taiwanese film set in the 19th century Shanghai, China. The film portrays the lives of four courtesans, known as "flowers," who work in opulent brothels known as "flower houses." The story follows their relationships with their patrons, and the intricate power dynamics, rituals, and social customs they engage in within the flower houses.
+The movie is known for its visually stunning and meticulously crafted cinematography, which captures the opulence and intricacies of the flower houses and their inhabitants. Hou Hsiao-Hsien uses long, static shots and slow-paced storytelling to create a mesmerizing and immersive experience for the viewers.
+Flowers of Shanghai delves into the complexities of human relationships, power dynamics, and gender roles in a patriarchal society. It explores the blurred lines between love and transaction, as the courtesans navigate their relationships with their patrons, who hold significant control over them. The film explores the struggles faced by the courtesans, who are bound by societal norms and expectations, yet seek autonomy and freedom in their own ways.',
 DATE '1998-05-20',
 113,
 '{Drama, Romance, Historical, "Art House"}',

@@ -1181,7 +1181,7 @@ The movie is known for its visually stunning and meticulously crafted cinematogr
 Flowers of Shanghai delves into the complexities of human relationships, power dynamics, and gender roles in a patriarchal society. It explores the blurred lines between love and transaction, as the courtesans navigate their relationships with their patrons, who hold significant control over them. The film explores the struggles faced by the courtesans, who are bound by societal norms and expectations, yet seek autonomy and freedom in their own ways.',
 DATE '1998-05-20',
 113,
-'{Drama, Romance, Historical, "Art House"}',
+'{Drama, Romance, Historical}',
 'https://i.postimg.cc/RZzLdT9g/flowers-of-shanghai.jpg',
 'https://letterboxd.com/film/flowers-of-shanghai/',
 '{https://i.postimg.cc/rwPWbCL6/flowers-of-shanghai-1.jpg,
@@ -1194,3 +1194,63 @@ https://i.postimg.cc/bvSbjDzZ/flowers-of-shanghai-4.jpg
 'ec81fde9-c092-4b46-bf8f-3dcbb7996b46'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Harakiri',
+'Harakiri is a 1962 Japanese film directed by Masaki Kobayashi. The story is set in feudal Japan and follows the ronin, Tsugumo Hanshiro, who arrives at the Iyi clan''s estate and requests to perform harakiri (ritual suicide) in their courtyard. However, Tsugumo''s real intention is to expose the hypocrisy and corruption within the clan by revealing a tragic tale of another ronin''s harakiri that took place there.
+Harakiri is celebrated for its thought-provoking exploration of honor, duty, and morality. The film delves deep into the samurai code of Bushido, and questions its relevance in a changing society. It challenges the romanticized image of samurai as noble warriors and portrays them as flawed human beings with their own agendas. Harakiri is known for its powerful and intense storytelling, with gripping performances from its cast and masterful direction by Kobayashi.
+The film ultimately delivers a scathing critique of the feudal system and its injustices, while posing deep philosophical questions about the meaning of life, death, and honor. It is considered a classic of Japanese cinema, renowned for its depth, complexity, and profound exploration of human nature and societal norms.',
+DATE '1962-09-16',
+134,
+'{Drama, Historical}',
+'https://i.postimg.cc/Fz9XM2yQ/harakiri.jpg',
+'https://letterboxd.com/film/harakiri/',
+'{https://i.postimg.cc/1ttB2BKc/harakiri-1.jpg,
+https://i.postimg.cc/fk4v3NQB/harakiri-2.jpg,
+https://i.postimg.cc/Wzqnb4Cd/harakiri-3.jpg,c
+https://i.postimg.cc/HxhzgMZG/harakiri-4.jpg
+}',
+'Japan',
+'{Violence, Suicide}',
+'95153a55-9ce8-48ea-8e14-98538051dc5c'
+);
+
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Human Condition I: No Greater Love',
+'The Human Condition I: No Greater Love is a 1959 Japanese film directed by Masaki Kobayashi. It is the first installment of a trilogy that follows the life of a pacifist and humanitarian named Kaji during World War II. The plot centers around Kaji''s journey as he tries to maintain his moral integrity and compassion in the face of the brutalities of war and the oppressive social and political systems of his time.
+The film is known for its powerful and unflinching depiction of the harsh realities of war, including the dehumanizing effects of violence, the corruption of power, and the brutality of the Japanese military during World War II. It portrays the horrors of war in stark and uncompromising terms, highlighting the senseless destruction and loss of humanity that results from conflict.
+The Human Condition I: No Greater Love explores the complexities of human nature and the struggle for individual morality and righteousness in the face of societal and systemic injustices. It delves into the philosophical and moral questions surrounding war, social justice, and the inherent dignity and worth of all human beings.',
+DATE '1959-01-15',
+206,
+'{Drama, Historical, "Social Commentary"}',
+'https://i.postimg.cc/qvK2tY15/the-human-condition-I-no-greater-love.jpg',
+'https://letterboxd.com/film/the-human-condition-i-no-greater-love/',
+'{https://i.postimg.cc/qRDGcKyb/the-human-condition-i-no-greater-love-1.jpg,
+https://i.postimg.cc/4N91tmdP/the-human-condition-i-no-greater-love-2.jpg,
+https://i.postimg.cc/sxB4T2JV/the-human-condition-i-no-greater-love-3.jpg,
+https://i.postimg.cc/Y0JfZwXQ/the-human-condition-i-no-greater-love-4.jpg
+}',
+'Japan',
+'{War, Violence, Brutality}',
+'95153a55-9ce8-48ea-8e14-98538051dc5c'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Persona',
+'Persona is a 1966 psychological drama film directed by Ingmar Bergman. The movie follows the story of a nurse named Alma who is assigned to take care of an actress named Elisabet Vogler, who has suddenly stopped speaking. The two women retreat to a remote cottage by the sea, where Alma becomes increasingly fascinated and disturbed by Elisabet''s silence and enigmatic presence.
+Persona is known for its unconventional narrative structure, experimental filmmaking techniques, and deep exploration of human psyche and identity. Bergman uses symbolism, dream sequences, and stark imagery to delve into the themes of selfhood, communication, authenticity, and the blurred lines between reality and illusion. The film raises questions about the nature of persona - the masks we wear in society, the complexity of human relationships, and the impact of silence on the human psyche.
+Persona is often considered one of Bergman''s most influential and challenging works, and it continues to be celebrated for its artistic vision, psychological complexity, and thematic richness in exploring the human condition.',
+DATE '1966-08-31',
+84,
+'{Drama, "Psychological Thriller", "Art House"}',
+'https://i.postimg.cc/zBYkxNcW/persona.jpg',
+'https://letterboxd.com/film/persona/',
+'{https://i.postimg.cc/VvW1Jz3F/persona-1.jpg,
+https://i.postimg.cc/rwPT0nY7/persona-2.png,
+https://i.postimg.cc/NfbBYf8s/persona-3.jpg,
+https://i.postimg.cc/8z5DCQwh/persona-4.jpg
+}',
+'Sweden',
+'{"Sexual Content", "Mental Illness"}',
+'c38af25b-548a-4416-9518-0adf55739174'
+);

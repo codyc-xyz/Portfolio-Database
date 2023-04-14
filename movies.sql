@@ -1254,3 +1254,43 @@ https://i.postimg.cc/8z5DCQwh/persona-4.jpg
 '{"Sexual Content", "Mental Illness"}',
 'c38af25b-548a-4416-9518-0adf55739174'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Discreet Charm of the Bourgeoisie',
+'The Discreet Charm of the Bourgeoisie is a surrealist comedy-drama film directed by Luis Buñuel, released in 1972. The story revolves around a group of upper-class characters, primarily six bourgeois friends, who attempt to have a meal together, but are continuously thwarted by a series of absurd and surreal events.
+The movie is known for its satirical critique of the bourgeoisie and its conventions, exposing the emptiness, hypocrisy, and absurdity of their privileged lives. Buñuel uses his signature surrealistic style, combining dreamlike sequences and unexpected disruptions of reality to challenge societal norms and reveal the characters'' repressed desires and fears.
+The film is renowned for its deconstruction of social and class structures. Buñuel subverts the conventions of the bourgeois lifestyle, exposing the characters'' facades and revealing their flaws and contradictions. The film also delves into the themes of sexual desire, repression, and the irrationality of human behavior, using dark humor and absurdity to highlight the absurdity of societal norms and expectations.',
+DATE '1972-09-15',
+101,
+'{Comedy, Satire, Drama, "Social Commentary", "Art House"}',
+'https://i.postimg.cc/mDF3FfTr/the-discreet-charm-of-the-bourgeoisie.jpg',
+'https://letterboxd.com/film/the-discreet-charm-of-the-bourgeoisie/',
+'{https://i.postimg.cc/GmG1z9zP/the-discreet-charm-of-the-bourgeoisie-1.jpg,
+https://i.postimg.cc/xdPVD7wc/the-discreet-charm-of-the-bourgeoisie-2.jpg,
+https://i.postimg.cc/pTXb2Cvk/the-discreet-charm-of-the-bourgeoisie-3.jpg,
+https://i.postimg.cc/QMDZzsn2/the-discreet-charm-of-the-bourgeoisie-4.jpg
+}',
+'Spain',
+'{"Sexual Content", Violence, "Drug Use"}',
+'d14cc82e-51b4-4277-bf05-d047c59bf4a9'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Pixote',
+'Pixote, directed by Héctor Babenco, is a Brazilian drama film that follows the life of a young boy named Pixote who is abandoned by his family and forced to survive on the streets of Sao Paulo. Pixote ends up in a brutal juvenile detention center, where he becomes exposed to the harsh realities of life and the harsh treatment of children in the criminal justice system.
+The film is known for its gritty and raw depiction of the harsh reality of life for marginalized children in Brazil. It delves into themes of poverty, crime, abuse, and survival, shedding light on the harsh social conditions faced by street children. The film does not shy away from showing the brutal violence and exploitation that Pixote and his friends face as they navigate the streets and the juvenile detention center.
+Pixote raises questions about the failures of the social and criminal justice systems, the cycle of poverty, and the plight of marginalized children who are often left to fend for themselves. It explores the harsh realities of life on the streets and the challenges faced by those who are forced to navigate a world that is indifferent and often cruel.',
+DATE '1980-09-26',
+128,
+'{Drama, Crime, "Coming of Age", "Social Commentary"}',
+'https://i.postimg.cc/ZKHVtVdn/pixote.jpg',
+'https://letterboxd.com/film/pixote/',
+'{https://i.postimg.cc/pXQX2nWp/pixote-1.jpg,
+https://i.postimg.cc/W12ptbzS/pixote-2.jpg,
+https://i.postimg.cc/rpHqh1JY/pixote-3.jpg,
+https://i.postimg.cc/yNxVXQFZ/pixote-4.jpg
+}',
+'Brazil',
+'{"Sexual Content", "Sexual Violence", "Child Abuse", "Drug Use", Violence, Nudity, Suicide, Homophobia, "Police Brutality"}',
+'73603c3c-0109-4887-807c-f18d8d8a7d13'
+);

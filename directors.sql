@@ -546,3 +546,36 @@ DATE '2016-07-13',
 'https://i.postimg.cc/Qx8HPbDf/he-ctor-babenco.jpg',
 'Argentina'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Alejandro Jodorowsky',
+'Alejandro Jodorowsky is a Chilean-French filmmaker, artist, and spiritual teacher, widely regarded as a cult figure in the world of cinema. Born in 1929 in Chile, Jodorowsky has had a multifaceted career that spans across various art forms including film, theater, literature, and visual arts. Known for his avant-garde approach to filmmaking and his unique blend of surrealism, mysticism, and symbolism, Jodorowsky has earned a reputation as a provocative and controversial filmmaker who pushes the boundaries of traditional storytelling.
+Jodorowsky is known for his highly original and unconventional films that challenge the norms of conventional cinema. His films often feature provocative and controversial themes, including spirituality, mysticism, metaphysics, and psychoanalysis. Jodorowsky''s work is often characterized by its surrealist imagery, visceral and shocking scenes, and a willingness to explore taboo subjects. His films are highly symbolic and often blur the line between reality and fantasy, creating a dreamlike and thought-provoking experience for viewers.
+Jodorowsky is renowned for his explorations of spirituality and metaphysics. He often delves into esoteric and philosophical concepts, incorporating elements of tarot, astrology, alchemy, and Eastern spirituality into his films. Jodorowsky''s films also frequently explore the human condition, the nature of existence, and the search for meaning in life. His work often challenges societal norms and conventions, inviting audiences to question their beliefs and perceptions of reality. Jodorowsky''s films are known for their visually stunning and emotionally charged sequences, creating a unique cinematic experience that leaves a lasting impact on viewers.',
+DATE '1929-02-17',
+NULL,
+'https://i.postimg.cc/dtWtfZJd/alejandro-jodorowsky.jpg',
+'Chile'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Ann Hui',
+'Ann Hui is a highly acclaimed Hong Kong film director known for her distinctive style and compelling storytelling. With a career spanning over four decades, Hui has established herself as one of the most influential directors in Asian cinema. Born in 1947 in China and raised in Hong Kong, Hui''s interest in cinema was sparked during her studies in English literature. She later went on to graduate from the London Film School, and her diverse background and experiences have deeply influenced her filmmaking style.
+Hui is known for her ability to capture the human condition with depth and nuance, often exploring complex social and political issues. Her films are known for their realistic portrayal of characters, their struggles, and their relationships, often delving into the complexities of family dynamics, cultural identity, and societal challenges. Hui''s films are known for their emotional impact and powerful storytelling, often touching on universal themes that resonate with audiences from different cultures and backgrounds.
+Themes of social justice, identity, and resilience are prominent in Hui''s work. She often portrays the lives of marginalized individuals, including women, immigrants, and the working class, shedding light on their struggles and triumphs. Hui''s films often challenge social norms and offer critical commentary on issues such as gender inequality, discrimination, and the pursuit of justice. Her compassionate and thought-provoking films are often characterized by their humanistic approach, exploring the complexities of the human experience with sensitivity and empathy.',
+DATE '1947-05-23',
+NULL,
+'https://i.postimg.cc/7hT2m12x/ann-hui.jpg',
+'China'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Martin Bell',
+'Martin Bell is a renowned film director and screenwriter famed for his distinctive style and impactful storytelling.  Born in England, Bell began his career as a photojournalist before transitioning into filmmaking, which greatly influenced his distinct style of documentary filmmaking.
+Bell is known for his captivating and thought-provoking documentaries that delve deep into the lives of ordinary people facing extraordinary circumstances. His films often highlight the resilience of the human spirit in the face of adversity, shedding light on important social issues such as poverty, war, and human rights. Bell''s storytelling is characterized by his ability to capture raw emotions and compelling narratives, creating a powerful and moving cinematic experience for his audiences. His work has been celebrated for its authenticity, sincerity, and impactful storytelling that has resonated with audiences around the world.
+Throughout his career, Bell has focused on a diverse range of themes, all of which center around the human experience. His films often explore the lives of marginalized communities, shedding light on their struggles and triumphs. Bell''s documentaries are known for their compassionate and empathetic approach, highlighting the human condition with a keen eye for detail and nuance. He has been particularly drawn to stories that reveal the resilience of individuals facing adversity, showcasing their courage and determination in the face of overwhelming challenges. Bell''s films are a powerful testament to the inherent strength of the human spirit, and his unwavering commitment to telling socially relevant stories has made him a respected and influential figure in the world of documentary filmmaking.',
+DATE '1943-01-16',
+NULL,
+'https://i.postimg.cc/nhrcf42Z/martin-bell.png',
+'United States of America'
+);

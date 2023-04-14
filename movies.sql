@@ -1294,3 +1294,64 @@ https://i.postimg.cc/yNxVXQFZ/pixote-4.jpg
 '{"Sexual Content", "Sexual Violence", "Child Abuse", "Drug Use", Violence, Nudity, Suicide, Homophobia, "Police Brutality"}',
 '73603c3c-0109-4887-807c-f18d8d8a7d13'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Holy Mountain',
+'The Holy Mountain is a surrealist film directed by Alejandro Jodorowsky. The story follows a man known as "The Thief" who embarks on a spiritual journey to find immortality and enlightenment. Along the way, he encounters a cast of eccentric characters, including an alchemist, a dwarf, and a group of nine powerful individuals who represent the planets of the solar system.
+The movie is known for its visually stunning and symbolic imagery, with Jodorowsky employing a wide range of allegorical and surrealistic elements throughout the film. The film is often considered an exploration of spiritual and metaphysical concepts, such as mysticism, mythology, and the search for higher consciousness. The thematic choices in The Holy Mountain are deeply philosophical, exploring themes of self-discovery, societal norms and conventions, religion, and the human quest for meaning and purpose.
+Jodorowsky''s use of provocative and thought-provoking imagery challenges traditional narrative structures and storytelling conventions, creating a unique and unconventional viewing experience. The Holy Mountain is renowned for its bold cinematography, which includes vividly surreal and sometimes controversial scenes that push the boundaries of traditional cinema.',
+DATE '1973-05-10',
+114,
+'{Experimental, Drama, "Art House"}',
+'https://i.postimg.cc/4NbsC7Zw/the-holy-mountain.jpg',
+'https://letterboxd.com/film/the-holy-mountain/',
+'{https://i.postimg.cc/PqNCrz5d/the-holy-mountain-1.jpg,
+https://i.postimg.cc/0j1jfTdN/the-holy-mountain-2.jpg,
+https://i.postimg.cc/g05nwXx8/the-holy-mountain-3.jpg,
+https://i.postimg.cc/k4bDWJSZ/the-holy-mountain-4.jpg
+}',
+'Mexico',
+'{Violence, "Drug Use", "Disturbing Imagery", "Sexual Content", Nudity}',
+'60932aae-078a-483e-ad92-611f757bb66b'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Boat People',
+'Boat People is a 1982 film directed by Ann Hui that tells the story of a French-Vietnamese journalist named Lam, who travels to post-war Vietnam to investigate a government-sponsored project. While there, he witnesses the harsh realities faced by refugees known as "boat people" who are fleeing the country on overcrowded boats. As Lam becomes entangled in the lives of the refugees and local villagers, he is faced with moral dilemmas and must confront his own biases and assumptions about the situation.
+Boat People is distinguished by its powerful portrayal of the human cost of war and displacement. The film vividly depicts the struggles and sufferings of the refugees as they face hunger, disease, and violence while seeking safety and a better life. Ann Hui''s direction creates a sense of urgency and authenticity, capturing the raw emotions and harsh conditions experienced by the characters.
+Boat People delves into the complex issues of human rights, political ideologies, and cultural clashes. It raises questions about the morality of war, the responsibilities of journalists in conflict zones, and the challenges of cultural assimilation. The film also explores the impact of colonialism and the scars of war on both individuals and communities.',
+DATE '1982-10-13',
+109,
+'{Drama, Historical, "Social Commentary"}',
+'https://i.postimg.cc/kg8DzXGy/boat-people.jpg',
+'https://letterboxd.com/film/boat-people/',
+'{https://i.postimg.cc/LXqW3Xmz/boat-people-1.jpg,
+https://i.postimg.cc/ZnpDXMBn/boat-people-2.jpg,
+https://i.postimg.cc/449MKmLG/boat-people-3.jpg,
+https://i.postimg.cc/B6dVY0vR/boat-people-4.jpg
+}',
+'Hong Kong',
+'{Violence, Racism}',
+'9ea7d39c-4712-443d-9849-aa77bb2ae036'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Streetwise',
+'Streetwise by Martin Bell is a compelling documentary film that offers an unflinching look at the lives of homeless and runaway teenagers in Seattle, USA. The film follows the lives of a group of young people who survive on the streets, navigating the harsh realities of homelessness, poverty, and addiction.
+The movie is known for its raw and candid portrayal of the struggles faced by these vulnerable youth, shedding light on the harsh realities of life on the streets. Bell, a former war photographer, brings his unique perspective to the film, capturing the gritty and unforgiving nature of street life with a compassionate lens.
+The film gives a voice to those who are often overlooked and marginalized in society. Bell allows the teenagers to share their stories and experiences in their own words, painting a vivid and authentic picture of their lives. The film also raises important questions about the failure of social systems and institutions to address the complex issues faced by homeless youth, as well as the impact of poverty and trauma on their lives.
+Streetwise is a compelling exploration of the human spirit and resilience in the face of adversity, and a poignant reminder of the challenges faced by those living on the fringes of society.',
+DATE '1984-10-26',
+91,
+'{Documentary, "Social Commentary"}',
+'https://i.postimg.cc/tg8yF8Fm/streetwise.jpg',
+'https://letterboxd.com/film/streetwise/',
+'{https://i.postimg.cc/qMYtvB79/streetwise-1.jpg,
+https://i.postimg.cc/1z04BpKQ/streetwise-2.jpg,
+https://i.postimg.cc/k5PBWjKs/streetwise-3.jpg,
+https://i.postimg.cc/QdTF9L9V/streetwise-4.jpg
+}',
+'United States of America',
+'{"Drug Use", "Mental Illness", "Child Abuse", Violence}',
+'320ecb5f-e70c-4408-a257-eac952376457'
+);

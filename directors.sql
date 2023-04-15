@@ -579,3 +579,47 @@ NULL,
 'https://i.postimg.cc/nhrcf42Z/martin-bell.png',
 'United States of America'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Kaneto Shindō',
+'Kaneto Shindō was a Japanese film director and screenwriter known for his prolific and influential career in the world of Japanese cinema. Born in Hiroshima, Japan in 1912, Shindō was deeply affected by the atomic bomb that was dropped on his hometown during World War II, an event that would later inspire many of his films. He began his career in the film industry as a scriptwriter and later transitioned to directing, gaining recognition for his unique storytelling style and socially conscious themes.
+Shindō is best known for his work in the Japanese New Wave movement, which emerged in the 1950s and 1960s as a response to the traditional studio system of Japanese cinema. His films often featured realistic and humanistic portrayals of everyday people, exploring the complexities of human emotions and the struggles of ordinary individuals in the face of societal and personal challenges. Shindō''s films were known for their poetic and contemplative nature, often incorporating elements of folklore, mythology, and spirituality, while addressing social issues such as war, poverty, and the human condition.
+Throughout his career, Shindō consistently focused on themes such as the resilience of the human spirit, the impact of war and violence on society, the struggles of marginalized individuals, and the delicate balance between nature and humanity. He often depicted the harsh realities of life, including poverty, discrimination, and the consequences of war, while also highlighting the beauty and strength of the human spirit. Shindō''s films were often characterized by their deep emotional resonance, thought-provoking narratives, and visually striking imagery, making him a celebrated figure in the world of Japanese cinema and a respected director with a profound impact on the global film landscape.',
+DATE '1912-04-22',
+DATE '2012-05-29',
+'https://i.postimg.cc/9fM611F6/kaneto-shindo.webp',
+'Japan'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Guru Dutt',
+'Guru Dutt was a prominent Indian film director, actor, and producer known for his contributions to the Indian cinema during the golden age of Bollywood in the 1950s and 1960s. Born in 1925 in Bangalore, India, Guru Dutt started his career in the film industry as an actor, but quickly made a name for himself as a director, known for his unique storytelling style and innovative filmmaking techniques. His artistic sensibilities and deep understanding of human emotions earned him a reputation as a visionary director in the Indian film industry.
+Guru Dutt is widely recognized for his distinct directorial style that combined elements of realism, melodrama, and symbolism. He is known for his impeccable visual aesthetics, precise compositions, and evocative use of music and lighting in his films. His films often depicted the struggles of common people, exploring themes of love, longing, disillusionment, and existentialism. He was known for his ability to portray complex emotions with subtlety and depth, making his films a reflection of the human condition.
+Guru Dutt''s films often focused on the darker aspects of human nature, delving into themes of societal inequalities, moral conflicts, and the search for meaning in life. He was known for his portrayal of strong female characters who challenged traditional gender roles and norms. His films also had a distinct socio-political commentary, shedding light on the socio-economic disparities and the disillusionment of the common man in post-independence India. Through his films, Guru Dutt explored the complexities of human relationships and the inner struggles of individuals, leaving a profound impact on Indian cinema with his thought-provoking narratives and innovative storytelling techniques.',
+DATE '1925-07-09',
+DATE '1964-10-10',
+'https://i.postimg.cc/Pq2y2Kss/guru-dutt.jpg',
+'India'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('René Laloux',
+'René Laloux was a French film director and animator who is renowned for his contribution to the field of animated films and is considered a pioneer in the genre of science fiction animation. Laloux began his career as a graphic designer and worked for a number of advertising agencies before venturing into animation. He gained international recognition for his unique artistic style and thought-provoking storytelling, which left a lasting impact on the world of animation.
+René Laloux is known for his distinct visual aesthetics and unconventional narratives. His films often incorporate surreal and abstract elements, exploring philosophical and existential concepts that challenge traditional notions of reality. Laloux''s works are characterized by intricate hand-drawn animation, imaginative character designs, and otherworldly landscapes. 
+Social commentary, environmentalism, and spirituality are prominent features of René Laloux''s films. His works often delve into the complexities of human nature, critiquing societal norms and advocating for greater awareness and understanding of the world and our place in it. Laloux''s films often depict the struggles of individuals against oppressive systems, exploring themes of rebellion, freedom, and the consequences of blind conformity. His unique and thought-provoking approach to storytelling has earned him a reputation as a visionary director in the realm of animated films.',
+DATE '1929-07-13',
+DATE '2004-03-14',
+'https://i.postimg.cc/VkZscrty/rene-laloux.webp',
+'France'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Vojtěch Jasný',
+'Vojtěch Jasný was a Czechoslovak film director known for his contributions to the Czechoslovak New Wave movement. Born in Czechoslovakia in 1925, Jasný developed a passion for cinema at a young age and went on to study film at the Academy of Performing Arts in Prague. He began his career as a documentary filmmaker before transitioning to narrative features.
+Jasný is known for his distinct visual style, which often combines poetic imagery with surreal elements. He was known for pushing the boundaries of traditional storytelling and experimenting with unconventional narrative structures. His films often featured poetic and philosophical themes, exploring topics such as the human condition, individuality, and existentialism. Jasný was also known for his meticulous attention to detail and his ability to create vivid and evocative visual landscapes, using cinematography and sound design to enhance the emotional impact of his films.
+Throughout his career, Jasný''s work focused on themes of social criticism and political dissent, often challenging the oppressive political regime of his time. He often portrayed the struggles of individuals against oppressive systems and explored the complexities of human nature. Jasný''s films also reflected his personal experiences and his deep connection to his Czechoslovakian heritage, often capturing the unique cultural and historical aspects of the region. His work has been celebrated for its poetic and thought-provoking nature, and he is considered one of the most influential directors of Czechoslovakian and European cinema.',
+DATE '1925-11-30',
+DATE '2019-11-15',
+'https://i.postimg.cc/Bn5SXYR0/vojtech-jasny.jpg',
+'Czechoslovakia'
+);

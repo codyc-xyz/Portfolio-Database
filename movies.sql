@@ -453,7 +453,7 @@ The movie is known for its stunning visual and technical achievements, particula
 Children of Men explores the loss of hope, the breakdown of societal norms, and the consequences of humanity''s inability to reproduce. It raises thought-provoking questions about immigration, government oppression, and the value of life in the face of despair. The film also offers poignant social commentary on issues such as xenophobia, terrorism, and authoritarianism, making it a compelling and thought-provoking piece of dystopian cinema.',
 DATE '2006-09-03',
 109,
-'{"Science Fiction", Thriller, Action, Adventure}',
+'{"Science Fiction", Thriller, Action}',
 'https://i.postimg.cc/BnRgNHGy/children-of-men.jpg',
 'https://letterboxd.com/film/children-of-men/',
 '{https://i.postimg.cc/pdDtN6K4/children-of-men-1.jpg,
@@ -1355,3 +1355,65 @@ https://i.postimg.cc/QdTF9L9V/streetwise-4.jpg
 '{"Drug Use", "Mental Illness", "Child Abuse", Violence}',
 '320ecb5f-e70c-4408-a257-eac952376457'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Onibaba',
+'Onibaba, directed by Kaneto Shindō, is a 1964 Japanese film known for its haunting and atmospheric portrayal of primal human nature amidst the chaos of war-torn medieval Japan. The story follows two women, an older woman and her daughter-in-law, who live in a secluded hut in a desolate marsh, surviving by luring and killing samurai for their armor and valuables. However, their existence is disrupted when a young soldier returns from the battlefield and complicates their dynamic.
+The film is renowned for its striking black-and-white cinematography, which creates a stark and eerie visual contrast against the desolate landscape. Shindō masterfully uses the surroundings to heighten the sense of isolation and desolation that permeates the story. The film is also notable for its minimalist score, composed by Hikaru Hayashi, which adds to the film''s haunting atmosphere.
+Thematically, Onibaba delves into the darker aspects of human nature, exploring the depths of human depravity, desire, and survival instincts. It raises questions about the morality of human actions in extreme circumstances, and the impact of war on society and individuals. The film also delves into the complex dynamics of female relationships, particularly between the older woman and her daughter-in-law, as they navigate their bleak existence.',
+DATE '1964-11-21',
+102,
+'{Horror, Drama, Historical, Thriller}',
+'https://i.postimg.cc/MKygw5ZQ/onibaba.jpg',
+'https://letterboxd.com/film/onibaba/',
+'{https://i.postimg.cc/5yfK2d2Q/onibaba-1.jpg,
+https://i.postimg.cc/rFFY6kHv/onibaba-2.jpg,
+https://i.postimg.cc/kGw1V121/onibaba-3.jpg,
+https://i.postimg.cc/PfMFFxSW/onibaba-4.png
+}',
+'Japan',
+'{Violence, Nudity, Gore}',
+'2d6c69ae-4edf-4a7c-8e75-a7842a343ca7'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Pyaasa',
+'Pyaasa is a classic Indian film directed by Guru Dutt, released in 1957. The film follows the story of a struggling poet named Vijay, played by Guru Dutt himself, who is disillusioned with society and its shallow values. Vijay''s work is rejected by publishers, and he himself is rejected by his family and society more generally. In his journey to find meaning and recognition, he meets Gulabo, a prostitute who recognizes his talent and encourages him to pursue his dreams.
+Pyaasa is known for is its poignant portrayal of the harsh realities of post-independence India, with themes of societal hypocrisy, materialism, and the devaluation of art in a capitalist society. The movie is known for its deep and emotional exploration of the human condition, capturing the struggles of the marginalized and the disillusionment of the creative soul. It delves deep into the human condition, exploring the emptiness of materialism and the hollowness of societal norms. It raises questions about the relevance of art in a money-driven world and the true value of human relationships. 
+Pyaasa is considered a masterpiece of Indian cinema and has been praised for its powerful performances, strong storytelling, and compelling direction. It was ahead of its time, tackling relevant social issues such as commercialization, corruption, and the commodification of art. The film''s unique blend of realism and poetic expression has made it an enduring classic, and it continues to be recognized for its cinematic brilliance and its critical exploration of the human condition.',
+DATE '1957-02-22',
+153,
+'{Drama, Romance, Musical, "Social Commentary"}',
+'https://i.postimg.cc/26CQRWYd/pyaasa.jpg',
+'https://letterboxd.com/film/pyaasa/',
+'{https://i.postimg.cc/xjwZJ0Kw/pyaasa-1.jpg,
+https://i.postimg.cc/zDgt1990/pyaasa-2.jpg,
+https://i.postimg.cc/DZWC0Dmf/pyaasa-3.jpg,
+https://i.postimg.cc/nLhSbMJD/pyaasa-4.jpg
+}',
+'India',
+'{"Substance Use", Suicide, "Sexual Assault", Misogyny, "Mental Illness", Death}',
+'05aa5087-d0d3-40e2-a656-1dcdb38086c2'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Fantastic Planet',
+'Fantastic Planet, directed by René Laloux, is a groundbreaking and visually stunning animated science fiction film that was released in 1973. The story is set on a distant planet called Ygam, inhabited by giant humanoid aliens known as Draags and their enslaved human-like pets called Oms.
+The film follows the journey of a young Om named Terr, who is taken from his natural environment and raised as a pet by a Draag child named Tiwa. As Terr grows up, he becomes increasingly aware of the injustices faced by the Oms, who are treated as inferior beings by the Draags. Terr joins a group of rebel Oms who are fighting for their freedom, and together they embark on a quest to challenge the oppressive rule of the Draags.
+Fantastic Planet is set apart by its distinctive animation style, characterized by surreal and otherworldly imagery. The film''s visual aesthetics are often described as psychedelic, with vibrant colors, intricate designs, and dream-like sequences that create a mesmerizing viewing experience.
+Thematically, Fantastic Planet touches on issues such as oppression, racism, and the abuse of power. It offers a critique of societal hierarchies and the exploitation of the marginalized, drawing parallels to real-world struggles for freedom and equality. The film also explores the concepts of identity, belonging, and the pursuit of self-determination.',
+DATE '1973-05-11',
+71,
+'{Animation, "Science Fiction", Drama}',
+'https://i.postimg.cc/zfRytSc2/fantastic-planet.jpg',
+'https://letterboxd.com/film/fantastic-planet/',
+'{https://i.postimg.cc/GmLNxXHr/fantastic-planet-1.jpg,
+https://i.postimg.cc/0N3BxxZ2/fantastic-planet-2.jpg,
+https://i.postimg.cc/FzXCdZ2M/fantastic-planet-3.jpg,
+https://i.postimg.cc/856nz3nd/fantastic-planet-4.jpg
+}',
+'France',
+'{Violence, Nudity, "Animal Cruelty", "Drug Use"}',
+'2add17ba-bff8-49e2-aaea-6ed367306e4e'
+);
+

@@ -623,3 +623,36 @@ DATE '2019-11-15',
 'https://i.postimg.cc/Bn5SXYR0/vojtech-jasny.jpg',
 'Czechoslovakia'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Hiroshi Teshigahara',
+'Hiroshi Teshigahara was a Japanese director, known for his contributions to the world of cinema and art. Born on January 28, 1927, in Tokyo, Japan, Teshigahara was born into a family of artists and grew up with a deep appreciation for the arts. He initially pursued a career in ceramics and flower arrangement before turning his passion towards filmmaking. Teshigahara''s unique background in the arts influenced his directorial style, making him a highly regarded and influential figure in the world of Japanese cinema.
+Teshigahara is best known for his avant-garde approach to filmmaking and his unconventional narratives. He often combined elements of surrealism, symbolism, and social critique in his films, pushing the boundaries of traditional storytelling. His films were visually stunning, often characterized by striking imagery and meticulous attention to detail. Teshigahara was also known for his collaboration with composer Toru Takemitsu, who created distinctive and haunting scores for many of his films.
+Themes of isolation, identity, and the human condition were prominent in Teshigahara''s films. He often explored the complexities of human relationships and delved into the psychological and emotional depths of his characters. Teshigahara''s films often had an existentialist undertone, reflecting on the meaning of life and the search for truth in a rapidly changing world. He was also known for his commentary on social issues, such as environmental degradation and the erosion of traditional Japanese culture.',
+DATE '1927-01-28',
+DATE '2001-04-14',
+'https://i.postimg.cc/1tFTJ3MH/hiroshi-teshigara.jpg',
+'Japan'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Tomu Uchida',
+'Tomu Uchida was a Japanese film director who is considered one of the influential figures in the Japanese film industry. Born in 1898 in Okayama, Japan, Uchida''s early exposure to theater and literature greatly influenced his artistic sensibilities. He started his career in the film industry in the 1920s and gained recognition for his innovative storytelling techniques and visual aesthetics. Uchida''s work spans multiple decades and genres, making him a versatile and prolific director in the Japanese cinema.
+Known for his bold and unconventional approach to storytelling, Uchida''s films often tackled social issues and explored the complexities of human nature. He was known for his keen observation of society and human behavior, which he portrayed with depth and sensitivity. Uchida''s films were characterized by their intricate narratives, rich characterizations, and thought-provoking themes. His films often depicted the struggles of marginalized individuals, and he was known for his critical examination of the socio-political landscape of Japan during his time.
+Uchida''s films often revolved around themes of morality, justice, and the human condition. He explored the struggles of ordinary people, often caught in the midst of larger societal changes and conflicts. Uchida was known for his ability to convey complex emotions and moral dilemmas through his characters, and his films often presented a nuanced view of the human experience. He also delved into the themes of family, honor, and loyalty, often challenging societal norms and expectations. Uchida''s films were known for their thought-provoking nature, and he was regarded as a director who pushed the boundaries of traditional storytelling in Japanese cinema, earning him a place among the greats of Japanese filmmaking.',
+DATE '1898-04-26',
+DATE '1970-07-07',
+'https://i.postimg.cc/7LXhF4L1/tomu-uchida.jpg',
+'Japan'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Robert Bresson', 
+'Robert Bresson was a French film director and screenwriter known for his unique and influential approach to cinema. Born in 1901 in Bromont-Lamothe, France, Bresson developed a deep appreciation for art and literature from an early age. He studied painting and literature before eventually turning to cinema, where he went on to make a significant mark as a director.
+Bresson is known for his minimalist and austere style of filmmaking, characterized by his meticulous attention to detail, use of non-professional actors, and emphasis on visual composition. He often used sparse dialogue and minimal music, opting for a stark and raw approach to storytelling. His films are marked by a sense of realism, often depicting ordinary people facing moral dilemmas and grappling with existential questions.
+Bresson''s films are known for exploring profound philosophical and spiritual themes, such as the nature of human existence, the search for meaning in life, and the struggles of the human condition. He often delved into the complexities of human behavior, examining the tension between free will and determinism, and the consequences of one''s actions. Bresson''s films also frequently focused on the concept of redemption, often depicting characters seeking redemption in the face of personal and societal challenges.',
+DATE '1901-09-25',
+DATE '1999-12-18',
+'https://i.postimg.cc/3xdQdfwQ/robert-bresson.jpg',
+'France'
+);

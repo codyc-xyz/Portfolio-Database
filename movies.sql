@@ -1015,7 +1015,7 @@ https://i.postimg.cc/ZKwWfLNg/perfect-blue-4.jpg}',
 );
 
 INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
-VALUES('Millenium Actress',
+VALUES('Millennium Actress',
 'Millennium Actress is a critically acclaimed anime film directed by Satoshi Kon. The story follows the life of an aging former actress, Chiyoko Fujiwara, as she recounts her career to a documentary filmmaker and retraces her memories. The film seamlessly intertwines reality and fantasy, blurring the lines between the past and the present, as Chiyoko''s memories and films come to life in a surreal and dreamlike manner.
 Millennium Actress is set apart by its unique approach to storytelling, where the boundaries between reality and imagination are constantly blurred. The film effortlessly shifts between different time periods and genres, from historical dramas to sci-fi adventures, creating a captivating and immersive narrative. It is known for its mesmerizing visuals, fluid animation, and intricate storytelling techniques that challenge the traditional linear structure of storytelling.
 Millennium Actress explores the nature of memory, dreams, and the passage of time. It delves into the elusive nature of truth and reality, as Chiyoko''s memories and personal experiences become intertwined with the roles she played in her films. The film also touches upon the sacrifices and challenges faced by artists in pursuit of their passions, as well as the bittersweet nature of nostalgia and the power of storytelling.',
@@ -1417,3 +1417,103 @@ https://i.postimg.cc/856nz3nd/fantastic-planet-4.jpg
 '2add17ba-bff8-49e2-aaea-6ed367306e4e'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('When the Cat Comes',
+'When the Cat Comes (also known as The Cassandra Cat) is a 1963 Czechoslovak film directed by Vojtěch Jasný. The film tells the story of a mysterious traveling circus that arrives in a village accompanied by a sunglasses-wearing cat named Mokol. When the cat''’s glasses are removed, people in the village appear bathed in different colors that reflect their true feelings.
+The film is known for its fantastical and surrealist elements, as well as its gentle humor and enchanting storytelling. Jasný masterfully weaves together elements of magic and reality, creating a captivating and otherworldly atmosphere. The film touches on themes of innocence, curiosity, and the clash between imagination and reality.
+When the Cat Comes is also renowned for its visually stunning cinematography and intricate set designs, which enhance the film''s dreamlike quality. The film''s use of color and symbolism further adds depth to its themes and messages, making it a thought-provoking exploration of human behavior and societal norms.  It has been praised for its unique and thought-provoking approach to storytelling, as well as its creative use of visual effects and symbolism to convey complex themes.',
+DATE '1963-05-12',
+104,
+'{Comedy, Fantasy}',
+'https://i.postimg.cc/XNxyHchr/when-the-cat-comes.jpg',
+'https://letterboxd.com/film/when-the-cat-comes/',
+'{https://i.postimg.cc/sxFQSw0X/when-the-cat-comes-1.jpg,
+https://i.postimg.cc/T1rycgZc/when-the-cat-comes-2.jpg,
+https://i.postimg.cc/X7bBY1C1/when-the-cat-comes-3.png,
+https://i.postimg.cc/9XTqVHrq/when-the-cat-comes-4.jpg
+}',
+'Czechoslovakia',
+'{"Animal Cruelty"}',
+'fcb25bc8-044c-4426-9e49-4e150793209e'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Woman in the Dunes',
+'Woman in the Dunes is a thought-provoking and enigmatic film directed by Hiroshi Teshigara. The story follows an entomologist named Jumpei Niki, who becomes trapped in a remote sand dune village while collecting insects. He is forced to live with a widow in a house at the bottom of a sandpit, where they must constantly shovel sand to prevent the house from being buried.
+The movie is known for its stunning visuals and unique cinematography, which captures the desolate landscape of the sand dunes and the sense of entrapment experienced by the characters. Teshigara skillfully uses the claustrophobic setting to create a palpable sense of isolation and existential despair.
+Woman in the Dunes explores the human condition, examining the nature of identity, freedom, and the struggle for survival. The film delves into the complex dynamics between the man and the woman, as they grapple with their confinement and the harsh realities of their existence. It raises philosophical questions about the nature of existence, societal norms, and the search for meaning in a seemingly meaningless world.',
+DATE '1964-02-15',
+146,
+'{Drama, "Psychological Thriller", "Art House"}',
+'https://i.postimg.cc/MTFVwdNP/woman-in-the-dunes.jpg',
+'https://letterboxd.com/film/woman-in-the-dunes/',
+'{https://i.postimg.cc/sgzMWkrd/woman-in-the-dunes-1.jpg,
+https://i.postimg.cc/SKTRwjzk/woman-in-the-dunes-2.jpg,
+https://i.postimg.cc/k5XD1WGT/woman-in-the-dunes-3.jpg,
+https://i.postimg.cc/ht0f12DJ/woman-in-the-dunes-4.jpg
+}',
+'Japan',
+'{Nudity, "Sexual Content"}',
+'9bd50a37-7e24-4a15-a67c-18a7de93da14'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Millennium Mambo',
+'Millennium Mambo is a Taiwanese film directed by Hou Hsiao-hsien. The story revolves around a young woman named Vicky, who is caught in a tumultuous relationship with her abusive boyfriend, Hao-Hao, while working as a hostess in Taipei''s nightclubs during the early 2000s. The film captures Vicky''s struggles with love, identity, and disillusionment as she navigates the complexities of modern urban life.
+Millennium Mambo apart is its distinctive style and thematic choices. The film is known for its slow pacing, poetic visuals, and minimalistic dialogue, which create a meditative and dreamlike atmosphere. Hou Hsiao-hsien masterfully uses long takes and expertly framed shots to immerse the audience in Vicky''s world and evoke a sense of introspection.
+At its core, Millennium Mambo is a reflection on the disillusionment and emptiness that can accompany modernity and urban life. Vicky''s search for freedom and self-identity is portrayed against the backdrop of a rapidly changing Taipei, where traditional values clash with modernity, and the characters are disconnected from their cultural roots. The film explores themes of loneliness, alienation, and the fleeting nature of relationships, painting a poignant picture of the human condition in a fast-paced, contemporary world.',
+DATE '2001-05-19',
+119,
+'{Drama, Romance}',
+'https://i.postimg.cc/DwvDpckJ/millennium-mambo.jpg',
+'https://letterboxd.com/film/millennium-mambo/',
+'{https://i.postimg.cc/pTyYmqhj/millennium-mambo-1.jpg,
+https://i.postimg.cc/KjMPNj5v/millennium-mambo-2.jpg,
+https://i.postimg.cc/3r1Y81j1/millennium-mambo-3.jpg,
+https://i.postimg.cc/FFMgKb9f/millennium-mambo-4.jpg
+}',
+'Taiwan',
+'{"Drug Use", Violence, "Sexual Content"}',
+'ec81fde9-c092-4b46-bf8f-3dcbb7996b46'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Mad Fox',
+'The Mad Fox is a 1962 Japanese film directed by Tomu Uchida, known for its visually stunning imagery and allegorical storytelling. Set in medieval Japan, the film follows the power struggle between two noble clans vying for control of the emperor''s court. However, amidst the political intrigue, a fox spirit known as Kuzunoha gets involved, taking on various human forms to manipulate the events and protect her family''s interests. As the tale unfolds, the line between humans and spirits blurs, and the consequences of ambition and betrayal become increasingly dire.
+The Mad Fox is known for its unique visual style, combining traditional Japanese aesthetics with avant-garde techniques. Uchida employs elaborate set designs, intricate costumes, and bold color palettes to create a surreal and dreamlike atmosphere, enhancing the film''s otherworldly themes. The film''s allegorical storytelling delves into complex themes such as the corrupting influence of power, the duality of human nature, and the consequences of societal hierarchy.
+The Mad Fox explores the conflict between human desire and societal norms, as well as the consequences of political ambition and betrayal. The film delves into the complexities of love, sacrifice, and the struggle between duty and personal desires. It also touches on themes of transformation, illusion, and the blurred lines between reality and fantasy.',
+DATE '1962-05-01',
+109,
+'{Drama, Fantasy, Historical, Romance}',
+'https://i.postimg.cc/5tTCj1wB/the-mad-fox.jpg',
+'https://letterboxd.com/film/the-mad-fox/',
+'{https://i.postimg.cc/Fzdd46fP/the-mad-fox-1.jpg,
+https://i.postimg.cc/XqRZ7gdn/the-mad-fox-2.jpg,
+https://i.postimg.cc/X75G1T6q/the-mad-fox-3.jpg,
+https://i.postimg.cc/FF8kZhqw/the-mad-fox-4.jpg
+}',
+'Japan',
+'{Violence, "Sexual Content", Suicide}',
+'3432acb7-1144-4800-b99c-7700c32d0e62'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Au Hasard Balthazar',
+'Au Hasard Balthazar, directed by Robert Bresson, is a French film known for its minimalist style and profound exploration of human nature. The film tells the story of Balthazar, a donkey who is born, sold, and passed from one owner to another, all while serving as a silent witness to the joys, sorrows, and cruelties of the human world.
+Balthazar''s journey is intertwined with the lives of the people he encounters, including Marie, a young girl who forms a special bond with him. As Balthazar endures mistreatment and abuse, he remains steadfast and stoic, embodying purity and innocence in the face of human depravity.
+Through its simple yet powerful storytelling, Au Hasard Balthazar delves into profound philosophical and spiritual themes, exploring the nature of suffering, redemption, and grace. Bresson''s use of non-professional actors and minimal dialogue, combined with his unique visual style and austere approach to filmmaking, create a haunting and contemplative experience for viewers.
+Au Hasard Balthazar is often lauded for its poetic and symbolic depiction of the human condition, and its masterful exploration of the relationship between man and animal. It is considered a masterpiece of world cinema, known for its profound impact on audiences and its thought-provoking examination of the complexities of human existence.',
+DATE '1966-05-25',
+95,
+'{Drama, "Art House", "Social Commentary", Tragedy}',
+'https://i.postimg.cc/Wz8hSNCy/au-hasard-balthazar.jpg',
+'https://letterboxd.com/film/au-hasard-balthazar/',
+'{https://i.postimg.cc/k4tHxD6n/au-hasard-balthazar-1.jpg,
+https://i.postimg.cc/TP0FRZ86/au-hasard-balthazar-2.jpg,
+https://i.postimg.cc/JndFXZ4Y/au-hasard-balthazar-3.png,
+https://i.postimg.cc/HxLKjBH7/au-hasard-balthazar-4.png
+}',
+'France',
+'{"Animal Abuse", Violence, "Sexual Assault"}',
+'5c862f13-297c-48d0-aa4b-a947c9ae0532'
+);

@@ -656,3 +656,25 @@ DATE '1999-12-18',
 'https://i.postimg.cc/3xdQdfwQ/robert-bresson.jpg',
 'France'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Shinji Aoyama',
+'Shinji Aoyama is a Japanese film director and screenwriter known for his distinctive style and unique approach to storytelling. With a career spanning several decades, Aoyama has established himself as a prominent figure in the Japanese film industry. He was born on March 28, 1964, in Hyogo, Japan, and developed a passion for cinema at a young age. Aoyama''s background includes studying film at Tokyo Visual Arts and working as a film critic, which has greatly influenced his approach to filmmaking.
+Aoyama is known for his thought-provoking and visually stunning films that often challenge traditional narrative structures. He is renowned for his ability to capture the intricacies of human emotions and relationships in his films. His films are characterized by their deep philosophical themes, poetic visuals, and meticulous attention to detail. Aoyama''s work often delves into the complexities of human existence, exploring themes such as love, loss, isolation, and the human condition. His films are often described as introspective and poetic, inviting viewers to reflect on the mysteries of life and the human experience.
+Aoyama''s films recurrently explore human connections and the search for meaning in a complex and often chaotic world. He often portrays characters who are struggling with their own internal conflicts and grappling with the complexities of the world around them. Aoyama''s films also often touch upon societal issues such as the impact of modernization on traditional values and the human struggle to find a sense of identity and purpose in a changing world. He skillfully weaves these themes into his narratives, creating thought-provoking and emotionally resonant stories that captivate audiences with their depth and complexity.',
+DATE '1964-07-13',
+DATE '2022-03-21',
+'https://i.postimg.cc/nc70T6h1/shinji-aoyama.jpg',
+'Japan'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Shūji Terayama',
+'Shūji Terayama was a Japanese avant-garde filmmaker, poet, playwright, and novelist, born on December 10, 1935, in Hirosaki, Japan. As a prolific and controversial figure in Japanese art and culture, Terayama is considered a pioneer of the Japanese New Wave cinema movement, known for his experimental and boundary-pushing works that challenged societal norms and conventions. Terayama''s artistic endeavors were deeply influenced by his tumultuous childhood, growing up during World War II and experiencing the trauma of losing his father at a young age, which shaped his unique perspective and artistic voice.
+Terayama is widely known for his avant-garde and unconventional approach to filmmaking, incorporating surrealistic and dream-like elements into his works. He often blurred the lines between reality and fiction, using poetic and symbolic imagery to explore complex themes of identity, sexuality, memory, and the human condition. Terayama''s works were characterized by their provocative and controversial nature, pushing the boundaries of censorship in Japan and challenging traditional societal norms. His films often featured strong and complex female characters, and he explored the themes of gender roles, sexuality, and the female experience in Japanese society with boldness and sensitivity.
+Terayama''s works are known for their poetic and thought-provoking nature, often drawing from his own personal experiences and emotions. He explored the concepts of memory, nostalgia, and the fleeting nature of existence, delving into the subconscious and exploring the complexity of human emotions. Terayama''s films often carried a sense of ambiguity and open-endedness, allowing audiences to interpret his works in various ways and encouraging introspection and reflection. His unique blend of surrealism, poetry, and social critique made him a revered and influential figure in Japanese cinema and art, leaving a profound impact on the world of filmmaking and beyond.',
+DATE '1935-12-10',
+DATE '1983-05-04',
+'https://i.postimg.cc/DZDrhRGC/shuji-terayama.jpg',
+'Japan'
+);

@@ -1517,3 +1517,44 @@ https://i.postimg.cc/HxLKjBH7/au-hasard-balthazar-4.png
 '{"Animal Abuse", Violence, "Sexual Assault"}',
 '5c862f13-297c-48d0-aa4b-a947c9ae0532'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Eureka',
+'Eureka is a 2000 Japanese film directed by Shinji Aoyama. The movie follows the lives of three individuals who are connected by a tragic event. The story begins with a bus hijacking that results in the death of innocent passengers, leaving the bus driver, Makoto, and two of the survivors, Kozue and her brother Naoki, deeply affected. As they struggle to cope with the aftermath, they find solace in each other''s company and embark on a journey to find meaning in their lives.
+Eureka is distinguished by its unique and deliberate pacing, with long takes and moments of silence that allow the audience to contemplate the characters'' emotions and inner struggles. Aoyama''s masterful use of visual storytelling and the stunning landscapes of rural Japan serve as a backdrop to the characters'' introspective journey, adding depth and beauty to the narrative.
+Eureka delves into the concepts of trauma, grief, and the search for purpose in life. It explores the psychological and emotional impact of a traumatic event, and how it shapes the characters'' identities and perspectives. The film also touches on the themes of human connection, healing, and the power of empathy.',
+DATE '2000-05-18',
+218,
+'{Drama}',
+'https://i.postimg.cc/LXp19bpm/eureka.jpg',
+'https://letterboxd.com/film/eureka-2000/',
+'{https://i.postimg.cc/PxVvWrD5/eureka-1.jpg,
+https://i.postimg.cc/G3Ns9trM/eureka-2.jpg,
+https://i.postimg.cc/prg9SGqN/eureka-3.jpg,
+https://i.postimg.cc/x8kJtDGy/eureka-4.jpg
+}',
+'Japan',
+'{Violence, PTSD, "Mental Illness"}',
+'c995869a-e672-4abc-9452-aeb75e14695c'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Throw Away Your Books, Rally in the Streets',
+'Throw Away Your Books, Rally in the Streets is a 1971 Japanese avant-garde film directed by Shūji Terayama. The story revolves around a disenchanted young man named Julian who rebels against societal norms and his oppressive family. He retreats into a surreal and fantastical world of his imagination, where he engages in various unconventional and provocative acts of rebellion, including rejecting traditional notions of family, sex, and politics.
+The film is known for its bold and experimental style, characterized by a fragmented narrative structure, striking visual imagery, and a provocative blend of surrealism, absurdity, and political commentary. Terayama employs a nonlinear approach to storytelling, incorporating dream-like sequences, surreal montages, and poetic symbolism to create a subversive and challenging cinematic experience.
+Throw Away Your Books, Rally in the Streets is renowned for its provocative and controversial themes, including critiques of authority, sexuality, and social conventions. Terayama uses Julian''s journey as a metaphor for the disillusionment and rebellion of the youth during the tumultuous political and social climate of 1960s Japan. The film challenges traditional societal norms and encourages viewers to question established institutions and ideologies, while also delving into the complexities of human desire, identity, and freedom.',
+DATE '1971-04-24',
+137,
+'{Drama, Experimental, "Art House"}',
+'https://i.postimg.cc/Gpz0XxD3/throw-away-your-books-rally-in-the-streets.jpg',
+'https://letterboxd.com/film/throw-away-your-books-rally-in-the-streets/',
+'{https://i.postimg.cc/BbpM0mqt/throw-away-your-books-rally-in-the-streets-1.jpg,
+https://i.postimg.cc/sDnwHH6N/throw-away-your-books-rally-in-the-streets-2.jpg,
+https://i.postimg.cc/MZmsVpyx/throw-away-your-books-rally-in-the-streets-3.jpg,
+https://i.postimg.cc/CLMcNpN8/throw-away-your-books-rally-in-the-streets-4.jpg
+}',
+'Japan',
+'{"Sexual Content", "Sexual Assault", Nudity}',
+'57ceb621-e4c2-4261-98a9-a18f8cc92009'
+);
+

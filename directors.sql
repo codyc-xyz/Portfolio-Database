@@ -678,3 +678,25 @@ DATE '1983-05-04',
 'https://i.postimg.cc/DZDrhRGC/shuji-terayama.jpg',
 'Japan'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Yoshimitsu Morita',
+'Born on January 25, 1950, in Tokyo, Japan, Morita began his career in the film industry in the 1970s as an assistant director before making his directorial debut in the 1980s. He had a diverse range of films in his filmography, spanning various genres and styles, and was recognized for his unique storytelling techniques and visual aesthetics.
+Morita was known for his ability to capture the nuances of human emotions and relationships in his films. His works often depicted the complexities of human nature and explored the dynamics of interpersonal relationships in modern Japanese society. He was known for his realistic and sensitive portrayals of characters, with a keen eye for detail and a deep understanding of human psychology. Morita''s films often touched upon universal themes such as love, family, identity, and the human condition, resonating with audiences both in Japan and internationally.
+Morita''s films often revolved around themes of societal and cultural issues, showcasing his intuitive knack for social commentary. He delved into the struggles and conflicts of individuals in contemporary Japanese society, shedding light on issues such as alienation, identity crisis, and societal pressure. Morita''s films were often thought-provoking and pushed the boundaries of traditional Japanese cinema, challenging social norms and conventions. His unique perspective and thought-provoking storytelling made him a prominent figure in the Japanese film industry, earning critical acclaim and recognition both at home and abroad.',
+DATE '1950-01-25',
+DATE '2011-12-20',
+'https://i.postimg.cc/vHM577GS/yoshimitsu-morita.webp',
+'Japan'
+);
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Nobuhiko Obayashi',
+'Nobuhiko Obayashi was a Japanese film director known for his unique and experimental style. Born in 1938 in Onomichi, Japan, Obayashi grew up during World War II and was deeply influenced by the traumatic experiences of the war. He studied and worked in various artistic fields, including painting and advertising, before finding his true passion in filmmaking. His background in art and advertising is evident in his films, which are often visually striking and filled with creative imagery.
+Obayashi is best known for his distinctive approach to storytelling, characterized by his blend of fantasy, surrealism, and horror elements. His films often feature unconventional narrative structures, mixing reality and fantasy, and are filled with visual metaphors and symbolism. Obayashi''s works are known for their use of vibrant colors, innovative editing techniques, and experimental visual effects. His films are often described as visually stunning and thought-provoking, challenging traditional notions of storytelling and pushing the boundaries of cinematic storytelling.
+Themes of war, memory, and youth are prominent in Obayashi''s films. His experiences during World War II deeply impacted his worldview and are often reflected in his works. Obayashi''s films explore the trauma of war, the fleetingness of life, and the complexities of memory and nostalgia. He often delves into the lives of young people, capturing their innocence, curiosity, and struggles as they navigate the complexities of the adult world. His films are known for their philosophical and existential themes, delving into the human condition and the mysteries of existence.',
+DATE '1938-01-09',
+DATE '2020-04-10',
+'https://i.postimg.cc/GhCXjk0C/nobuhiko-obayashi.jpg',
+'Japan'
+);

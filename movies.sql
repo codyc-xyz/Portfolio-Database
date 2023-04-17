@@ -1558,3 +1558,83 @@ https://i.postimg.cc/CLMcNpN8/throw-away-your-books-rally-in-the-streets-4.jpg
 '57ceb621-e4c2-4261-98a9-a18f8cc92009'
 );
 
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Haru',
+'Haru is a 1996 Japanese drama film directed and written by Yoshimitsu Morita. It tells the story of a young Tokyo businessman who joins an online movie forum and develops a special bond with one of its members through back and forth e-mails1. The film explores the themes of loneliness, communication, and identity in the digital age.
+The film is known for its innovative use of text and video to show the e-mail exchanges between the two protagonists, who use the aliases Haru and Hoshi. The film also contrasts their online interactions with their offline lives, showing how they cope with their personal problems and struggles.
+Haru is a touching and realistic portrayal of a long-distance relationship that blossoms through words. The film captures the emotions and challenges of finding connection and intimacy in a virtual world. The film also questions the boundaries between reality and fiction, and how our digital selves influence our material selves.',
+DATE '1996-03-09',
+118,
+'{Drama, Romance}',
+'https://i.postimg.cc/Xvmk7c3Z/haru.jpg',
+'https://letterboxd.com/film/haru/',
+'{https://i.postimg.cc/vBfMnWnK/haru-1.jpg,
+https://i.postimg.cc/MZ0qKmqM/haru-2.jpg,
+https://i.postimg.cc/0jvv0bdy/haru-3.jpg,
+https://i.postimg.cc/159PgV3W/haru-4.jpg
+}',
+'Japan',
+NULL,
+'b5c4961e-7bf0-44c1-8ea3-a3cb1a1c17fe'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('A City of Sadness',
+'A City of Sadness is a 1989 Taiwanese historical drama directed by Hou Hsiao-hsien that depicts the turbulent and tragic events that befell Taiwan after the end of Japanese colonial rule in 1945. The film follows the lives of the Lin family, who run a bar called “Little Shanghai” and have four sons with different fates and aspirations. The film portrays the social and political upheavals that Taiwan faced under the Kuomintang government (KMT), which imposed martial law and suppressed dissent, leading to the February 28 Incident of 1947, a brutal massacre of thousands of Taiwanese civilians.
+The film is known for being the first to deal openly with the KMT’s authoritarian misdeeds and the first to depict the February 28 Incident on screen. It is also acclaimed for its innovative and elliptical narrative style, which relies on off-screen events, voice-overs, intertitles, and historical documents to convey the complex and fragmented history of Taiwan. The film uses multiple languages, including Taiwanese, Mandarin, Japanese, Cantonese, and Shanghainese, to reflect the linguistic diversity and identity crisis of the Taiwanese people.
+The film explores themes such as family, memory, violence, trauma, nationalism, and resistance. It shows how the Lin family and their friends struggle to survive and cope with the changing times, while also expressing their hopes and dreams. The film also examines how history is constructed and contested, and how personal stories are intertwined with collective ones. The film is widely regarded as Hou Hsiao-hsien’s masterpiece and one of the greatest films of Taiwanese cinema.',
+DATE '1989-09-04',
+157,
+'{Historical, Drama, "Art House"}',
+'https://i.postimg.cc/GtNmJc27/a-city-of-sadness.jpg',
+'https://letterboxd.com/film/a-city-of-sadness/',
+'{https://i.postimg.cc/W3zDMY84/a-city-of-sadness-1.jpg,
+https://i.postimg.cc/G9wHnLCB/a-city-of-sadness-2.jpg,
+https://i.postimg.cc/j2JL1WG0/a-city-of-sadness-3.jpg,
+https://i.postimg.cc/y6JjKLKB/a-city-of-sadness-4.jpg
+}',
+'Taiwan',
+'{Violence, "Mental Illness"}',
+'ec81fde9-c092-4b46-bf8f-3dcbb7996b46'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Hanagatami',
+'Hanagatami is a visually stunning Japanese film directed by Nobuhiko Obayashi that tells the story of a group of young friends coming of age during World War II. Set in a seaside town in Japan, the film follows the struggles and dreams of the main character, Toshihiko, and his friends as they navigate the tumultuous times of war.
+The film is known for its unique visual style, characterized by Obayashi''s innovative use of colors, textures, and surreal imagery. The scenes are vivid and dreamlike, creating a sense of poetic beauty amidst the chaos of war. The film''s cinematography, set design, and costumes are meticulously crafted to create a visually rich and immersive experience.
+Hanagatami explores the fragility of youth, the ephemeral nature of life, and the devastating impact of war on individuals and communities. The film raises questions about the value of life, the futility of war, and the fleetingness of human existence. Through its artistic and symbolic imagery, Hanagatami delves into the complexities of human emotions, desires, and relationships, painting a poignant and haunting picture of the human condition during wartime.',
+DATE '2017-12-16',
+168,
+'{Drama, Historical, "Coming of Age", "Art House"}',
+'https://i.postimg.cc/PfYjxzzs/hanagatami.jpg',
+'https://letterboxd.com/film/hanagatami/',
+'{https://i.postimg.cc/tJMpQp77/hanagatami-1.jpg,
+https://i.postimg.cc/jqgsJQvK/hanagatami-2.jpg,
+https://i.postimg.cc/9FsCLmvn/hanagatami-3.jpg,
+https://i.postimg.cc/hPXK8z3m/hanagatami-4.jpg
+}',
+'Japan',
+'{Violence, Death, Suicide, "Sexual Assault"}',
+'6f532821-b51f-4d3b-b64a-951839f48f91'
+);
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('House',
+'House by Nobuhiko Obayashi is a visually striking and surreal Japanese horror-comedy film that tells the story of a group of schoolgirls who visit a mysterious and haunted house during their summer vacation. As they explore the house, they encounter supernatural occurrences, bizarre events, and face their own fears and traumas.
+The movie is known for its avant-garde and experimental filmmaking style, with Obayashi using unconventional techniques such as stop-motion animation, optical illusions, and surreal visual effects to create a dreamlike and unsettling atmosphere. The film''s unique blend of horror, comedy, and fantasy creates a tone that is simultaneously eerie, absurd, and humorous.
+Thematically, House explores the dangers of repressed emotions and traumas, the challenges of growing up and facing adulthood, and the illusions and facades of everyday life. The film''s unconventional narrative structure and symbolic imagery challenge traditional storytelling norms, leaving audiences with a sense of unease and bewilderment.
+Obayashi''s House has gained a cult following over the years for its sheer audacity and creativity. It has been praised for its imaginative and unpredictable storytelling, as well as its groundbreaking visual techniques.',
+DATE '1977-07-30',
+88,
+'{Horror, Fantasy, Comedy, Experimental}',
+'https://i.postimg.cc/Pr9CqhLg/house.jpg',
+'https://letterboxd.com/film/house/',
+'{https://i.postimg.cc/fRy18nBR/house-1.jpg,
+https://i.postimg.cc/rwH3bnPC/house-2.jpg,
+https://i.postimg.cc/xCD7jkYX/house-3.jpg,
+https://i.postimg.cc/3wDVHjMM/house-4.jpg
+}',
+'Japan',
+'{Violence, Gore, Death}',
+'6f532821-b51f-4d3b-b64a-951839f48f91'
+);

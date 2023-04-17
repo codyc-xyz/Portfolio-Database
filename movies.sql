@@ -1638,3 +1638,23 @@ https://i.postimg.cc/3wDVHjMM/house-4.jpg
 '{Violence, Gore, Death}',
 '6f532821-b51f-4d3b-b64a-951839f48f91'
 );
+
+INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Perfumed Nightmare',
+'Perfumed Nightmare is a groundbreaking Philippine film directed by Kidlat Tahimik. The story follows a young Filipino man named Kidlat who dreams of escaping his small village and becoming a successful filmmaker. Inspired by Western consumerism and the American dream, Kidlat embarks on a humorous and surreal journey to find his place in the modern world.
+Perfumed Nightmare is distinguished by its unique blend of documentary-style storytelling and experimental filmmaking techniques. The movie is known for its unconventional narrative structure, combining personal anecdotes, mythological references, and political commentary. Kidlat Tahimik uses a playful and satirical approach to examine the clash between traditional Filipino culture and the influences of Western capitalism.
+Perfumed Nightmare delves into issues of cultural identity, post-colonialism, and the commodification of culture. Kidlat''s quest for success and his encounters with various Western symbols of consumerism and technology serve as a critique of the impact of globalization on indigenous cultures. The film also explores the tension between tradition and modernity, as Kidlat grapples with his own cultural roots while being lured by the allure of Western progress.',
+DATE '1977-06-24',
+93,
+'{Comedy, Drama, "Social Commentary", "Art House", Experimental, Satire}',
+'https://i.postimg.cc/gcLCZvC3/perfumed-nightmare.jpg',
+'https://letterboxd.com/film/perfumed-nightmare/',
+'{https://i.postimg.cc/BQ53yTQ2/perfumed-nightmare-1.jpg,
+https://i.postimg.cc/XYQbNn5J/perfumed-nightmare-2.jpg,
+https://i.postimg.cc/4xJGTYmq/perfumed-nightmare-3.jpg,
+https://i.postimg.cc/d03KLgR9/perfumed-nightmare-4.jpg
+}',
+'Philippines',
+'{Nudity}',
+'a5f67e77-79b3-4f50-9b51-de9f4cf59c86'
+);

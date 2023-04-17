@@ -700,3 +700,14 @@ DATE '2020-04-10',
 'https://i.postimg.cc/GhCXjk0C/nobuhiko-obayashi.jpg',
 'Japan'
 );
+
+INSERT INTO director(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Kidlat Tahimik',
+'Kidlat Tahimik, born as Eric de Guia, is a Filipino director, writer, and actor known for his influential contributions to Philippine cinema. Born in 1942 in the Philippines, Tahimik studied economics in the United States and briefly worked in Paris before returning to the Philippines to pursue a career in filmmaking. He is considered one of the pioneers of independent cinema in the Philippines and has gained international recognition for his unique and thought-provoking films.
+Kidlat Tahimik is known for his distinct style of filmmaking that combines documentary and narrative elements with a touch of poetic surrealism. His films often reflect his personal experiences and observations of the socio-political and cultural realities of the Philippines, as well as his critiques of globalization, colonialism, and consumerism. He is known for his innovative use of visual metaphors, witty humor, and satirical commentary on contemporary issues. His films have been praised for their poetic storytelling, rich symbolism, and artistic aesthetics, which challenge conventional cinematic norms and invite viewers to reflect on the complexities of the human condition.
+Kidlat Tahimik often focuses on themes of cultural identity, post-colonialism, environmentalism, and the preservation of indigenous cultures. He is deeply committed to promoting Filipino culture and history, and his films often highlight the struggles and triumphs of the Filipino people in the face of social, economic, and cultural challenges. Tahimik''s works also delve into the tension between traditional ways of life and modernization, exploring the conflicts and contradictions that arise in a rapidly changing world. Through his films, Tahimik encourages viewers to question dominant ideologies, rethink established norms, and reflect on the complex intersections of culture, politics, and humanity.',
+DATE '1942-10-03',
+NULL,
+'https://i.postimg.cc/sDsJjYWF/kidlat-tahimik.jpg',
+'Philippines'
+);

@@ -679,3 +679,66 @@ VALUES('The phrase “to accomplish” signifies a relation between my action an
 
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('Therefore, wishing to be in the wrong is an expression of an infinite relationship, and wanting to be in the right, or finding it painful to be in the wrong, is an expression of a finite relationship! Hence it is upbuilding always to be in the wrong—because only the infinite builds up; the finite does not! ... Why did you wish to be in the wrong in relation to a person? Because you loved. Why did you find it upbuilding? Because you loved. The more you loved, the less time you had to deliberate upon whether or not you were in the right; your love had only one desire, that you might continually be in the wrong.', 333, '166b53f8-6409-47af-8847-a6c795d66ffa', null, 'The Upbuilding That Lies in the Thought That in Relation to God We Are Always in the Wrong');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('In logic, the negative is used as the impelling power to bring movement into all things. One must have movement in logic no matter how it is brought about, and no matter by what means. The negative lends a hand, and what the negative cannot accomplish, play on words and platitudes can ... In logic, no movement must come about, for logic is, and whatever is logical only is. This impotence of the logical consists in the transition of logic into becoming, where existence and actuality come forth.', 12, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', null, 'Introduction');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('That science, just as much as poetry and art, presupposes a mood in the creator as well as in the observer, and that an error in the modulation is just as disturbing as an error in the development of thought, have been entirely forgotten in our time ... because of the joy over all the glory men thought they possessed ...', 14, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', null, 'Introduction');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Ethics proposes to bring ideality into actuality. On the other hand, it is not the nature of its movement to raise actuality up into ideality. Ethics points to ideality as a task and assumes that every man possesses the requisite conditions. Thus ethics develops a contradiction, inasmuch as it makes clear both the difficulty and the impossibility. What is said of the laws is also true of ethics: it is a disciplinarian that demands, and by its demands only judges but does not bring forth life.', 16, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', null, 'Introduction');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('In the struggle to actualize the task of ethics, sin shows itself not as something that belongs only accidentally to the accidental individual, but as something that withdraws deeper and deeper as a deeper and deeper presupposition, as a presupposition that goes beyond the individual.', 19, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', null, 'Introduction');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('As all ancient knowledge and speculation was based on the presupposition that thought has reality, so all ancient ethics was based on the presupposition that virtue can be realized.', 19, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', null, 'Introduction');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('That human nature is so constituted that it makes sin possible is, psychologically speaking, quite correct, but wanting to make the possibility of sin its actuality is revolting to ethics, and to dogmatics it sounds like blasphemy, because freedom is never possible; as soon as it is, it is actual ...', 22, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', null, 'Introduction');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('That the first sin signifies something different from a sin (i.e., a sin like many others), something different from one sin (i.e., no. 1 in relation to no. 2), is quite obvious. The first sin constitutes the nature of the quality: the first sin is the sin. This is the secret of the first, and is an offense to abstract common sense, which maintains that one time amounts to nothing but that many times amounts to something, which is preposterous, since many times signifies either that each particular time is just as much as the first or that all of the times, when added together, are not nearly as much. It is therefore a superstition when it is maintained in logic that through a continued quantification a new quality is brought forth ... The new quality appears with the first, with the leap, with the suddenness of the enigmatic.', 30, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'The Concept of the First Sin', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Hegel has quite consistently volatilized every dogmatic concept just enough to appeal to a man of reduced existence as a clever expression for the logical. That the immediate must be annulled, we do not need Hegel to tell us, nor does he deserve immortal merit for having said it, since it is not even logically correct, for the immediate is not to be annulled, because it at no time exists.', 35, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'The Concept of Innocence', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Just as Adam lost innocence by guilt, so every man loses it in the same way. If it was not by guilt that he lost it, then it was not innocence that he lost; and if he was not innocent before becoming guilty, he never became guilty.', 35, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'The Concept of Innocence', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Innocence is not a perfection that one should wish to regain, for as soon as one wishes for it, it is lost, and then it is a new guilt to waste one''s time on wishes.', 37, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'The Concept of Innocence', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Innocence is ignorance. In innocence, man is not qualified as spirit but is psychically qualified in immediate unity with his natural condition. The spirit in man is dreaming ... In this state there is peace and repose, but there is simultaneously something else that is not contention and strife, for there is indeed nothing against which to strive. What, then, is it? Nothing. But what effect does nothing have? It begets anxiety. This is the profound secret of innocence, that it is at the same time anxiety. Dreamily the spirit projects its own actuality, but this actuality is nothing, and innocence always sees this nothing outside itself.', 41, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'The Concept of Anxiety', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Anxiety is a qualification of dreaming spirit, and as such it has its place in psychology ... The actuality of the spirit constantly shows itself as a form that tempts its possibility but disappears as soon as it seeks to grasp for it, and it is a nothing that can only bring anxiety ... The concept of anxiety is almost never treated in psychology. Therefore, I must point out that it is altogether different from fear and similar concepts that refer to something definite, whereas anxiety is freedom''s actuality as the possibility of possibility. For this reason, anxiety is not found in the beast, precisely because by nature the beast is not qualified as spirit.', 42, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'The Concept of Anxiety', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The anxiety that is posited in innocence is in the first place no guilt, and in the second place it is no troublesome burden, no suffering that cannot be brought into harmony with the blessedness of innocence ...  In all cultures where the childlike is preserved as the dreaming of the spirit, this anxiety is found ... and the less spirit, the less anxiety ... The more profound the anxiety, the more profound the culture.', 42, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'The Concept of Anxiety', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Innocence has now reached its uttermost point. It is ignorance; however, it is not an animal brutality but an ignorance qualified by spirit, and as such innocence is precisely anxiety, because its ignorance is about nothing. Here there is no knowledge of good and evil etc., but the whole actuality of knowledge projects itself in anxiety as the enormous nothing of ignorance ... When it is stated in Genesis that God said to Adam, "Only from the tree of the knowledge of good and evil you must not eat," it follows as a matter of course that Adam really has not understood this word, for how could he understand the difference between good and evil when this distinction would follow as a consequence of the enjoyment of the fruit?', 44, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'The Concept of Anxiety', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Anxiety is neither a category of necessity nor a category of freedom; it is entangled freedom, where freedom is not free in itself but entangled, not by necessity, but in itself.', 49, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Were I allowed to make a wish, then I would wish that no reader would be so profound as to ask: What if Adam had not sinned? In the moment actuality is posited, possibility walks by its side as a nothing that entices every thoughtless man ... When someone asks a stupid question, care should be taken not to answer him, lest he who answers becomes just as stupid as the questioner ... However, science at times has been adequately accommodating in responding to wishes with weighty hypotheses that it at last admits are inadequate as explanations. This, of course, is en- tirely true, yet the confusion is that science did not energetically dismiss foolish questions but instead confirmed superstitious men in their notion that one day there would come a project maker who is smart enough to come up with the right answer.' , 50, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin');
+
+
+-- 6. ANXIETY AS THE PRESUPPOSITION OF HEREDITARY SIN AND AS EXPLAINING HEREDITARY SINRETROGRESSIVELY IN TERMS OF ITS ORIGIN 46
+-- II Anxiety as Explaining Hereditary Sin Progressively52
+-- 1. OBJECTIVE ANXIETY 56 2. SUBJECTIVE ANXIETY 60
+-- A. The Consequence ofthe Relationshipof Generation 62 
+-- B. The Consequence ofthe Historical Relationship 73
+-- III Anxiety as the Consequence of that Sin which Is Absence o f the Consciousness o f Sin 81
+-- l. THE ANXIETY OF spmITLESSNESS 93
+-- 2. ANXIETY DEFINED DIALECTICALLY AS FATE 96
+-- 3. ANXIETY DEFINED DIALECTICALL Y AS GUIL T 103
+-- IV Anxiety of Sin or Anxiety as the Consequence of Sin in the Single Individual
+-- 111
+-- l. ANXIETY ABOUT EVIL 113 2. ANXIETY ABOUT THE GOOD (THE DEMONIC) 118 I. Freedom Lost Somatically-Psychically 136 II. Freedom Lost Pneumatically 137
+-- V Anxiety as Saving through Faith 155

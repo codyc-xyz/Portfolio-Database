@@ -728,11 +728,34 @@ VALUES('Anxiety is neither a category of necessity nor a category of freedom; it
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('Were I allowed to make a wish, then I would wish that no reader would be so profound as to ask: What if Adam had not sinned? In the moment actuality is posited, possibility walks by its side as a nothing that entices every thoughtless man ... When someone asks a stupid question, care should be taken not to answer him, lest he who answers becomes just as stupid as the questioner ... However, science at times has been adequately accommodating in responding to wishes with weighty hypotheses that it at last admits are inadequate as explanations. This, of course, is en- tirely true, yet the confusion is that science did not energetically dismiss foolish questions but instead confirmed superstitious men in their notion that one day there would come a project maker who is smart enough to come up with the right answer.' , 50, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin', 'Anxiety as the Presupposition of Hereditary Sin and as Explaining Hereditary Sin Retrogressively in Terms of Its Origin');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('That there may be men who never experience any anxiety must be understood in the sense that Adam would have perceived no anxiety had he been merely animal.', 52, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', null, 'Anxiety as Explaining Hereditary Sin Progressively');
 
--- 6. ANXIETY AS THE PRESUPPOSITION OF HEREDITARY SIN AND AS EXPLAINING HEREDITARY SINRETROGRESSIVELY IN TERMS OF ITS ORIGIN 46
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('One must have sympathy. However, this sympathy is true only when one admits rightly and profoundly to oneself that what has happened to one human being can happen to all. Only then can one benefit both oneself and others. The physician at an insane asylum who is foolish enough to believe that he is eternally right and that his bit of reason is ensured against all injury in this life is in a sense wiser than the demented, but he is also more foolish, and surely he will not heal many.', 54, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', null, 'Anxiety as Explaining Hereditary Sin Progressively');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Anxiety may be compared with dizziness. He whose eye happens to look down into the yawning abyss becomes dizzy. But what is the reason for this? It is just as much in his own eye as in the abyss, for suppose he had not looked down. Hence anxiety is the dizziness of freedom, which emerges when the spirit wants to posit the synthesis and freedom looks down into its own possibility, laying hold of finiteness to support itself. Freedom succumbs in this dizziness. Further than this, psychology cannot and will not go. In that very moment everything is changed, and freedom, when it again rises, sees that it is guilty.',  61, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Subjective Anxiety', 'Anxiety as Explaining Hereditary Sin Progressively');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('But anxiety is of all things the most selfish, and no concrete expression of freedom is as selfish as the possibility of every concretion ... In anxiety there is the selfish infinity of possibility, which does not tempt like a choice but ensnaringly disquiets with its sweet anxiousness.',  61, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Subjective Anxiety', 'Anxiety as Explaining Hereditary Sin Progressively');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('There has been a great deal of idle talk both spoken and written in the world about naivete. However, although innocence alone is naive, it is also ignorant. As soon as the sexual is brought to consciousness, to speak of naivete is thoughtlessness, affectation, and, what is worse, a disguise for lust.', 67, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Subjective Anxiety', 'Anxiety as Explaining Hereditary Sin Progressively');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The whole question of the significance of the sexual, as well as its significance in the particular spheres, has undeniably been answered poorly until now; moreover, it has seldom been answered in the correct mood. To offer witticisms about the sexual is a paltry art, to admonish is not difficult, to preach about it in such a way that the difficulty is omitted is not hard, but to speak humanly about it is an art.', 67, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Subjective Anxiety', 'Anxiety as Explaining Hereditary Sin Progressively');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('This inconsistency would long since have been recognized if in our day men had not perfected themselves thoughtlessly to waste lives so beautifully designed, and thoughtlessly to participate noisily whenever there is talk about one or another imposing, prodigious idea, in the fulfillment of which they unite in an unshakable faith that in union there is strength, a faith as marvelous as that of the alehouse keeper who sold his beer for a penny less than he paid for it and still counted on a profit, "for it is the quantity that does it."', 68, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Subjective Anxiety', 'Anxiety as Explaining Hereditary Sin Progressively');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('As anxiety is posited in modesty, so it is present in all erotic enjoyment, and by no means because it is sinful ... Even when the erotic expresses itself as beautifully, purely, and, morally as possible, undisturbed in its joy by any lascivious reflection, anxiety is nevertheless present, not as a disturbing but as an accompanying factor ... But why this anxiety? It is because spirit cannot participate in the culmination of the erotic ... The spirit is indeed present, because it is spirit that establishes the synthesis, but it cannot express itself in the erotic. It feels itself a stranger.', 71, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Subjective Anxiety', 'Anxiety as Explaining Hereditary Sin Progressively');
+
+
 -- II Anxiety as Explaining Hereditary Sin Progressively52
 -- 1. OBJECTIVE ANXIETY 56 2. SUBJECTIVE ANXIETY 60
--- A. The Consequence ofthe Relationshipof Generation 62 
+-- A. The Consequence ofthe Relationship of Generation 62 
 -- B. The Consequence ofthe Historical Relationship 73
 -- III Anxiety as the Consequence of that Sin which Is Absence o f the Consciousness o f Sin 81
 -- l. THE ANXIETY OF spmITLESSNESS 93

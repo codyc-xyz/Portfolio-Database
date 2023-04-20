@@ -770,11 +770,41 @@ VALUES('The possible corresponds exactly to the future. For freedom, the possibl
 INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
 VALUES('To a certain degree, spiritlessness may therefore possess the whole content of spirit, but mark well, not as spirit but as the haunting of ghosts, as gibberish, as a slogan, etc. It may possess the truth, but mark well, not as truth but as rumor and old wives'' tales ...Spiritlessness can say exactly the same thing that the richest spirit has said, but it does not say it by virtue of spirit. Man qualified as spiritless has become a talking machine, and there is nothing to prevent him from repeating by rote a philosophical rigmarole, a confession of faith, or a political recitative.', 95, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'The Anxiety of Spiritlessness', 'Anxiety as the Consequence of that Sin which is Absence of the Consciousness of Sin');
 
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('People have talked about the pagan fatum (which is characterized differently in the Oriental conception and in the Greek) as if it were necessity. A vestige of this necessity has been permitted to remain in the Christian view, in which it came to signify fate, i.e., the accidental, that which is incommensurable with providence. However, this is not the case, for fate is precisely the unity of necessity and the accidental. This is ingeniously expressed in the saying, fate is blind, for he who walks forward blindly walks as much by necessity as by accident.', 97, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Anxiety Defined Dialectically as Fate','Anxiety as the Consequence of that Sin which is Absence of the Consciousness of Sin');          
 
--- III Anxiety as the Consequence of that Sin which Is Absence o f the Consciousness o f Sin 81
--- l. THE ANXIETY OF spmITLESSNESS 93
--- 2. ANXIETY DEFINED DIALECTICALLY AS FATE 96
--- 3. ANXIETY DEFINED DIALECTICALL Y AS GUIL T 103
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('That such a genius-existence is sin, despite its splendor, glory, and significance, is something that requires courage to understand, and it can hardly be understood before one has learned to satisfy the hunger of the wishing soul. It is true nonetheless. That such an existence may nevertheless be happy to a certain degree proves nothing. Talent may be con- ceived of as a means of diversion, and in so doing one realizes that at no moment is it possible to raise oneself above the categories in which the temporal lies.', 102,'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Anxiety Defined Dialectically as Fate',
+'Anxiety as the Consequence of that Sin which is Absence of the Consciousness of Sin');     
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('On the whole, the genius differs from every other man only in that he consciously begins within his historical presupposition just as primitively as Adam did.', 104, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Anxiety Defined Dialectically as Guilt',
+'Anxiety as the Consequence of that Sin which is Absence of the Consciousness of Sin');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('To say that someone with a mind for intrigue ought to be a diplomat or a detective, that some- one with a mimic talent for the comical ought to be an actor, and that someone with no talent at all ought to be a stoker in the courthouse is an altogether meaningless view oflife, or it is rather no view at all ...', 105, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Anxiety Defined Dialectically as Guilt', 'Anxiety as the Consequence of that Sin which is Absence of the Consciousness of Sin');     
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Yet the higher an individual rises, the greater is the price he must pay for everything; and for the sake of order, another figure comes into being with the in-itself of freedom, namely, guilt. Guilt in turn is what fate was, the only thing he fears, and yet his fear is not of what was the maximum in the former case, namely, fear of being thought guilty, but fear of being guilty ... He fears only guilt, for guilt alone can deprive him of freedom ... No, the opposite of freedom is guilt, and it is the greatness of freedom that it always has to do only with itself, that in its possibility it projects guilt and accordingly posits it by itself. And if guilt is posited actually, freedom posits it by itself. If this is not kept in mind, freedom is confused in a clever way with something entirely different, with force.', 108, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Anxiety Defined Dialectically as Guilt', 'Anxiety as the Consequence of that Sin which is Absence of the Consciousness of Sin');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The question "What is the good?" is one issue that comes closer and closer to our age, because it has decisive significance for the question of the relationship between church, state, and morality. In attempting an answer, one must be cautious. Hitherto, the true has in a strange way had the priority, because the trilogy–the beautiful, the good, the true–has been conceived and represented in the sphere of the true (namely, as knowledge). The good cannot be defined at all. The good is freedom. The difference between good and evil is only for freedom and in freedom, and this difference is never in abstracto but only in concreto.', 111, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', null, 
+'Anxiety of Sin or Anxiety as the Consequence of Sin in the Single Individual');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('The phenomenon is seldom seen in life, i.e., one must be an observer to see it more often, because it can be concealed or dispelled, and men use one or another prudential device to abort this embryo of the highest life. All that is needed in order to become like most people is to seek the advice of Tom, Dick, and Harry, and one can always secure the testimony of a few respectable people to that end.', 117,  'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Anxiety About Evil', 'Anxiety of Sin or Anxiety as the Consequence of Sin in the Single Individual');
+
+INSERT INTO excerpt(text, page_number, book_uid, chapter, section)
+VALUES('Repentance is the highest ethical contradiction, partly because ethics requires ideality but must be content to receive repentance, and partly because repentance is dialectically ambiguous with regard to what it is to remove ... Moreover, repentance delays action, and action is precisely what ethics requires. At last, repentance must become an object to itself, inasmuch as the moment of repentance becomes a deficit of action.', 118, 'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Anxiety About Evil', 
+'Anxiety of Sin or Anxiety as the Consequence of Sin in the Single Individual');
+
+
+'fcebabd3-c23f-4564-bb61-8ddfd14065cb', 'Anxiety About the Good (The Demonic)', 
+'Anxiety of Sin or Anxiety as the Consequence of Sin in the Single Individual');
+
+
+
+
 -- IV Anxiety of Sin or Anxiety as the Consequence of Sin in the Single Individual
 -- 111
 -- l. ANXIETY ABOUT EVIL 113 2. ANXIETY ABOUT THE GOOD (THE DEMONIC) 118 I. Freedom Lost Somatically-Psychically 136 II. Freedom Lost Pneumatically 137

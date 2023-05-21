@@ -1,4 +1,4 @@
-CREATE TABLE movie (
+CREATE TABLE movies (
   movie_uid UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
   movie_title VARCHAR(255) NOT NULL,
   movie_description TEXT NOT NULL,
@@ -14,7 +14,7 @@ CREATE TABLE movie (
   FOREIGN KEY (director_uid) REFERENCES director(director_uid)
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO moviess(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Enter the Void',
 'Enter the Void is a psychedelic and experimental film directed by Gaspar Noé. The movie follows the life and afterlife of Oscar, a young American living in Tokyo who becomes a drug dealer to support himself and his sister, Linda. However, after a violent encounter with the police, Oscar''s life is cut short, and he transitions into a surreal and metaphysical journey as a spirit, witnessing the aftermath of his death and the lives of those he left behind.
 Enter the Void is set apart is its unique visual style, characterized by stunning long takes, dizzying camera movements, and vibrant neon colors, which create a hallucinatory and immersive experience for the audience. The film is also notorious for its explicit and provocative content, including graphic depictions of sex, violence, and drug use, pushing the boundaries of conventional cinema.
@@ -33,7 +33,7 @@ https://i.postimg.cc/qRJxVFDN/enter-the-void-4.jpg}',
 'c9d957c0-5310-4312-b2fb-0a3d7962f6a0'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('City of God',
 'City of God is a critically acclaimed Brazilian film directed by Fernando Meirelles, known for its gritty portrayal of life in the slums of Rio de Janeiro. The plot follows the life of a young man named Rocket, who grows up in the violent and poverty-stricken neighborhood of Cidade de Deus, or City of God. As Rocket navigates through the dangerous and brutal realities of the favela, he becomes entangled with various characters, including his charismatic but ruthless friend Li''l Zé, and the benevolent drug dealer Knockout Ned.
 City of God apart is famed for its unflinching depiction of the harsh and brutal environment of the favela, where poverty, crime, and violence are rampant. The film portrays the harsh realities of life in the slums, including the cycle of poverty, the lure of crime, and the impact of gang culture on the lives of the residents. It delves into the themes of survival, the pursuit of power, and the consequences of violence.
@@ -52,7 +52,7 @@ https://i.postimg.cc/SsHR729m/City-Of-God-4.jpg}',
 '997ae655-4119-4f6b-999a-08d8ef9ace25'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Ikiru', 
 'Ikiru is a Japanese film directed by Akira Kurosawa. The plot revolves around a bureaucrat named Kanji Watanabe, who discovers he has terminal cancer and has only a few months to live. Faced with his mortality, Watanabe embarks on a journey to find meaning in his life and make a difference in the world.
 The movie is known for its profound exploration of the human condition, particularly the themes of existentialism, mortality, and the search for purpose. Kurosawa masterfully depicts Watanabe''s internal struggles and emotional transformation as he grapples with his impending death. The film also highlights the flaws of the bureaucratic system and societal norms, and how they can stifle individuality and hinder authentic living.
@@ -71,7 +71,7 @@ https://i.postimg.cc/TwMJ7wgJ/ikiru-4.jpg}',
 '760a7cad-af2d-4178-9ddc-f23b53bfb288'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Synecdoche, New York',
 'Synecdoche, New York is a thought-provoking film directed by Charlie Kaufman, known for its complex narrative structure and exploration of existential themes. The story follows the life of Caden Cotard, a theater director, who becomes increasingly absorbed in a sprawling and surreal theatrical production that mimics his own life. 
 As Caden''s mental state deteriorates, the lines between reality and fiction blur, and the film delves into themes of identity, mortality, and the nature of art. Synecdoche, New York is known for its intricate storytelling, philosophical undertones, and surreal visuals, challenging the audience to question the nature of existence and the complexities of human experience.
@@ -90,7 +90,7 @@ https://i.postimg.cc/501RRnM0/s-ny-4.jpg}',
 '2792476c-7deb-4665-954c-38d4e1b9136e'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Spring, Summer, Fall, Winter… and Spring',
 'Spring, Summer, Fall, Winter... and Spring is a South Korean film directed by Kim Ki-duk, known for its serene and contemplative portrayal of the passage of time and the cyclical nature of life. The movie is set in a remote Buddhist monastery floating on a lake and follows the life journey of a young Buddhist monk from childhood to old age.
 The story is divided into five chapters, each representing a different season of life. In each chapter, the young monk encounters various challenges and temptations that test his spiritual beliefs and moral integrity. As he grows older, he grapples with desires, attachments, and the consequences of his actions, ultimately seeking redemption and enlightenment.
@@ -110,7 +110,7 @@ https://i.postimg.cc/9QZwQBvC/s-s-f-w-s-4.jpg
 'f2027501-8332-4744-a058-5a9b4b4718ee'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Akira',
 'Akira is a groundbreaking 1988 Japanese animated science fiction film directed by Katsuhiro Otomo, based on his manga of the same name. The story is set in a post-apocalyptic Tokyo known as Neo-Tokyo, which has been rebuilt after the destruction caused by a mysterious explosion. The government is corrupt, and the city is plagued by gang violence and terrorism. The main character, Kaneda, becomes embroiled in a conspiracy involving a secret government project and his friend Tetsuo, who gains powerful psychic abilities after a motorcycle accident.
 Akira is known for is its stunning animation, innovative visual effects, and intricate world-building. The film''s cyberpunk aesthetic, featuring dystopian cityscapes, high-speed motorcycle chases, and explosive action sequences, has captivated audiences worldwide. It is also renowned for its complex themes and philosophical undertones, delving into issues such as power, technology, identity, and the human condition. Akira challenges conventional notions of authority, explores the consequences of unchecked scientific experimentation, and raises questions about the potential dangers of humanity''s pursuit of progress.
@@ -129,7 +129,7 @@ https://i.postimg.cc/L86GHyqZ/akira-4.jpg}',
 '80a3d133-34b6-40e8-a0c9-4471da6ad11f'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('An Autumn Afternoon',
 'An Autumn Afternoon is a 1962 Japanese film directed by Yasujirō Ozu, known for his distinct style of filmmaking that captures the subtleties of human relationships and societal changes. The film follows the story of an aging widower, Shuhei Hirayama, who works as an office manager and his interactions with his family and friends. As Hirayama''s daughter gets married and moves away, he realizes his loneliness and the changing dynamics of family life.
 The movie is known for its minimalist and contemplative approach to storytelling, with Ozu''s signature use of static shots, low camera angles, and long takes that capture the quiet moments and nuances of everyday life. The film also explores themes of family, duty, and social norms in post-war Japan, where traditional values clash with modernization and Western influences.
@@ -148,7 +148,7 @@ https://i.postimg.cc/Pxc54s1Y/an-autumn-afternoon-4.jpg}',
 '181ac6be-f419-44b5-a39e-75675a1b2c4f'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Late Spring',
 'Late Spring is a Japanese film directed by Yasujiro Ozu, released in 1949. The film revolves around the story of a widowed father, Shukichi Somiya, and his adult daughter, Noriko, as they navigate societal pressures and familial expectations in post-war Japan.
 Late Spring centers around Shukichi''s desire to see Noriko, who is in her late 20s, married and settled. However, Noriko is content with her life as it is and does not wish to marry. The story explores the tension between traditional Japanese societal norms, which prioritize marriage and family, and individual desires and choices.
@@ -168,7 +168,7 @@ NULL,
 '181ac6be-f419-44b5-a39e-75675a1b2c4f'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Tokyo Story',
 'Tokyo Story is a Japanese film directed by Yasujiro Ozu, released in 1953. The film tells the story of an elderly couple, Shukishi and Tomi, who travel from their rural hometown to Tokyo to visit their adult children. However, they find themselves neglected and marginalized by their busy and self-absorbed children, who are preoccupied with their own lives. As the couple navigates the complexities of modern urban life and familial relationships, they come to realize the harsh reality of their children''s indifference and the changing values of society.
 Tokyo Story is known for its slow pace and minimalist style, with Ozu''s signature use of static shots and low camera angles. The film is renowned for its profound portrayal of human emotions and the universal themes of family, aging, and intergenerational conflicts. It explores the tensions between tradition and modernity, the breakdown of traditional family values in post-war Japan, and the loneliness and emptiness that can arise in urban life. 
@@ -187,7 +187,7 @@ https://i.postimg.cc/7b8fn8Sb/tokyo-story-4.webp}',
 '181ac6be-f419-44b5-a39e-75675a1b2c4f'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Tampopo',
 'Tampopo is a 1985 Japanese comedy film directed by Juzo Itami. The story revolves around Tampopo, a widowed woman who runs a small ramen noodle shop. When her business struggles, she seeks help from a truck driver named Goro and together they embark on a quest to create the perfect bowl of ramen.
 However, Tampopo is more than just a story about food. It is known for its unique blend of comedy, drama, and culinary sensibilities. The film features a series of vignettes and subplots that revolve around food, exploring various aspects of Japanese food culture, from the etiquette of eating to the craftsmanship of cooking.
@@ -207,7 +207,7 @@ https://i.postimg.cc/KYNpXmzS/tampopo-4.jpg}',
 'b67010ea-9bcf-430a-b03e-88200dc08c29'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The 400 Blows',
 'The 400 Blows is a 1959 French film directed by François Truffaut. It tells the story of Antoine Doinel, a young boy growing up in Paris who faces neglect from his parents, mistreatment from teachers, and an uncaring society. The film follows Antoine''s struggles as he navigates the challenges of his troubled youth, which ultimately lead to his descent into delinquency.
 The movie is known for its poignant portrayal of the human condition, particularly the challenges faced by marginalized youth. Truffaut''s raw and honest depiction of Antoine''s experiences resonates with audiences, showcasing the harsh realities of growing up in a world that can be indifferent and unforgiving. The film is also recognized for its groundbreaking cinematic techniques, including the use of handheld camera shots and innovative editing, which helped define the French New Wave movement.
@@ -227,7 +227,7 @@ https://i.postimg.cc/DzShh1BF/the-400-blows-4.jpg
 '5fb797ba-edff-4bb0-96d9-8d86260ca5ca'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Shining',
 'The Shining is a psychological horror film directed by Stanley Kubrick. The story follows Jack Torrance, played by Jack Nicholson, who becomes the winter caretaker of the isolated Overlook Hotel in the Colorado Rockies, along with his wife Wendy and son Danny. As Jack descends into madness, the family''s stay at the hotel becomes increasingly terrifying as they confront malevolent supernatural forces that seem to be driving Jack to violence.
 The movie is known for its iconic and haunting visuals, Kubrick''s meticulous attention to detail, and its eerie atmosphere. The film''s cinematography, with its use of long tracking shots and symmetrical compositions, creates a sense of unease and isolation. The movie''s score, composed by Wendy Carlos and Rachel Elkind, adds to the tension with its dissonant and haunting tones.
@@ -249,7 +249,7 @@ https://i.postimg.cc/mDYD8qcn/the-shining-4.jpg
 
 
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('In the Mood for Love',
 'In the Mood for Love is a film directed by Wong Kar-wai, known for its captivating visuals, poetic storytelling, and profound exploration of unrequited love. Set in 1960s Hong Kong, the film follows the story of two neighbors, Mr. Chow and Mrs. Chan, who discover that their spouses are having an affair with each other. As Mr. Chow and Mrs. Chan grapple with the emotional turmoil of betrayal, they find solace in each other''s company and develop a deep emotional connection. However, societal conventions and their own moral codes prevent them from acting on their feelings, leading to a restrained and unfulfilled relationship.
 The film is known for its visually stunning cinematography, with lush colors, elegant costumes, and carefully composed shots that capture the characters'' inner struggles and desires. The use of slow motion, close-ups, and repetitive motifs, create a dreamlike and melancholic atmosphere that amplifies the characters'' emotions.
@@ -270,7 +270,7 @@ https://i.postimg.cc/gjWc7yFm/in-the-mood-for-love-4.jpg
 );
 
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Player',
 'The Player is a 1992 film directed by Robert Altman that follows Griffin Mill, a ruthless Hollywood studio executive who becomes embroiled in a murder mystery. Griffin receives threatening postcards from an unknown screenwriter and becomes obsessed with finding the culprit, all while navigating the cutthroat world of the film industry and dealing with his own personal and professional challenges.
 The Player is known for is its satirical and darkly comedic take on Hollywood and the entertainment industry. Altman uses a sharp and cynical lens to critique the greed, vanity, and duplicity that exist in Hollywood, exposing the darker side of the glamorous facade. The film features a star-studded cast of actors playing exaggerated versions of themselves, blurring the lines between reality and fiction.
@@ -290,7 +290,7 @@ https://i.postimg.cc/5y8RyvR7/the-player-4.jpg}',
 );
 
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Handmaiden',
 'The Handmaiden is a South Korean psychological thriller film directed by Park Chan-wook. The story is based on the novel Fingersmith by Sarah Waters and is set in 1930s Korea under Japanese colonial rule. The movie follows the lives of a con artist posing as a maid, Sook-hee, and her wealthy employer, Lady Hideko, whom she is tasked with deceiving. As Sook-hee becomes increasingly entwined in Lady Hideko''s life, their relationship takes unexpected turns, leading to a complex web of betrayal, passion, and revenge.
 The movie is known for its lush cinematography, intricate plot twists, and explicit depictions of sexuality. It explores themes of desire, power dynamics, and female agency in a patriarchal society. The film challenges societal norms and conventions, as well as the concept of truth and perspective. It subverts genre expectations and keeps viewers on the edge of their seats with its suspenseful storytelling and layered characters.',
@@ -308,7 +308,7 @@ https://i.postimg.cc/5yW8f9R1/the-handmaiden-4.jpg}',
 '9c92fb06-ff01-4b51-847f-334050b70917'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Truman Show',
 'The Truman Show, directed by Peter Weir, is a satirical drama film released in 1998 that explores the life of Truman Burbank, played by Jim Carrey. Truman is an ordinary man who unknowingly lives his entire life in a fabricated reality TV show created for public entertainment.
 The story revolves around Truman''s discovery that his seemingly perfect and idyllic hometown is actually a giant television set, and that he is the unwitting star of a 24/7 reality show that has been broadcast to the world since his birth. As Truman starts to question his reality and search for the truth, he must navigate through various challenges and obstacles while coming to terms with the fact that his entire life has been orchestrated and manipulated for the sake of ratings.
@@ -329,7 +329,7 @@ https://i.postimg.cc/Bv9M4wSf/the-truman-show-4.jpg
 'c846f8bd-e01b-42a1-9b07-019e45547925'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Yi Yi',
 'Yi Yi is a Taiwanese film directed by Edward Yang that delves into the intricacies of modern family life in Taipei. The story revolves around a middle-class family, the Jians, as they navigate the complexities of love, relationships, and personal growth. The film primarily focuses on the perspectives of the father, N.J., the mother, Min-Min, and their young son, Yang-Yang.
 The film is known for its exquisite cinematography, capturing the subtle nuances of everyday life, and its attention to detail in depicting the characters'' inner struggles and emotions. It portrays the challenges and joys of family life with authenticity and sensitivity, presenting a multi-generational portrait of a family dealing with the complexities of their own lives and relationships.
@@ -349,7 +349,7 @@ https://i.postimg.cc/Y91jV7kZ/yi-yi-4.png
 '0653d471-f70a-483a-8048-57ad64d64a0a'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('A Brighter Summer Day',
 'A Brighter Summer Day is a Taiwanese epic drama film directed by Edward Yang. Set in the early 1960s, the film follows the story of a young teenager named Xiao Si''r, living in Taipei during a time of political and social upheaval. Caught between the rival gangs of his school and the pressures of his family, Xiao Si''r navigates a tumultuous world of violence, love, and loss.
 A Brighter Summer Day is set apart by its nuanced portrayal of the complexities of adolescence and its examination of the impact of societal and cultural changes on individuals. Yang masterfully captures the struggles of young people trying to find their identity amidst a changing world, and the consequences of their choices. The film is known for its rich character development, poetic cinematography, and immersive storytelling that draws viewers into the protagonist''s tumultuous journey.
@@ -370,7 +370,7 @@ https://i.postimg.cc/xjZp1SSB/a-brighter-summer-day-4.jpg
 );
 
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Terrorizers',
 'Terrorizers is a Taiwanese film directed by Edward Yang. The story follows the lives of three interconnected characters in Taipei - a young woman named Xiaoxiao, a photojournalist named Yang, and a doctor named Zheng. Their lives become intertwined as a mysterious and violent event shakes their city.
 Terrorizers is known for is its complex narrative structure and its exploration of the disconnection and alienation in modern urban life. The film weaves together multiple storylines and perspectives, creating a fragmented and nonlinear narrative that challenges traditional storytelling conventions. Yang employs a distinctive visual style, using long takes and striking compositions to capture the emotional and psychological landscapes of the characters.
@@ -389,7 +389,7 @@ https://i.postimg.cc/MHQfzByP/terrorizers-4.jpg}',
 '0653d471-f70a-483a-8048-57ad64d64a0a'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Color of Pomegranates', 
 'The Color of Pomegranates is a visually stunning avant-garde film directed by Sergei Parajanov, originally released in 1969. The film is a poetic and abstract portrayal of the life of the 18th-century Armenian poet Sayat-Nova, and is known for its unique and unconventional approach to storytelling.
 The film eschews traditional narrative structure, instead using a series of visually striking tableaus to depict key moments in Sayat-Nova''s life, ranging from his childhood to his career as a court poet. Parajanov employs a surreal and symbolic visual language, incorporating vivid colors, striking costumes, and elaborate set designs to create a dreamlike and mesmerizing atmosphere.
@@ -408,7 +408,7 @@ https://i.postimg.cc/1XX855dd/the-color-of-pomegranates-4.jpg}',
 '9e2dfdf2-b284-4fc6-a06d-ccab5119c7bd'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Roma',
 'Roma is a visually stunning and deeply emotional film directed by Alfonso Cuarón. Set in Mexico City in the early 1970s, it follows the life of a young domestic worker named Cleo, who works for a middle-class family. The story revolves around Cleo''s daily routines, her relationships with the family members, and her personal struggles.
 Roma is set apart by its meticulous attention to detail and its powerful portrayal of human emotions. Cuarón''s masterful use of black-and-white cinematography creates a striking visual aesthetic that captures both the beauty and the harshness of everyday life. The film''s slow pacing and long takes create an immersive experience, drawing the audience into Cleo''s world and allowing them to deeply empathize with her character.
@@ -427,7 +427,7 @@ https://i.postimg.cc/htYfXFmY/roma-4.jpg}',
 'b403fd78-01d7-4fc7-8bce-bd133ac7d459'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Y Tu Mamá También',
 'Y Tu Mama Tambien, directed by Alfonso Cuarón, is a Mexican coming-of-age film that tells the story of two teenage boys, Julio and Tenoch, who embark on a road trip with an older woman named Luisa. The film is known for its provocative and daring exploration of sexuality, politics, and identity.
 Set against the backdrop of a politically charged Mexico in the early 2000s, the film follows Julio and Tenoch as they leave the city and head to a secluded beach with Luisa, who is dealing with her own personal struggles. As the trio journey through the Mexican countryside, their relationships and dynamics evolve, leading to unexpected consequences.
@@ -446,7 +446,7 @@ https://i.postimg.cc/wxk6DkdW/y-tu-mama-tambien-4.jpg}',
 'b403fd78-01d7-4fc7-8bce-bd133ac7d459'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Children of Men',
 'Children of Men is a dystopian science fiction film directed by Alfonso Cuarón. Set in a near-future world where humanity faces infertility and the impending collapse of society, the story follows Theo, a former activist, who is tasked with protecting the only pregnant woman on Earth.
 The movie is known for its stunning visual and technical achievements, particularly its groundbreaking long-take action sequences that immerse the audience in the chaos and violence of the deteriorating world. Cuarón''s masterful direction, combined with Emmanuel Lubezki''s innovative cinematography, creates a sense of urgency and realism that heightens the film''s suspenseful and gritty tone.
@@ -465,7 +465,7 @@ https://i.postimg.cc/JnMCR5qn/children-of-men-4.jpg}',
 'b403fd78-01d7-4fc7-8bce-bd133ac7d459'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Vengeance is Mine', 
 'Vengeance is Mine is a Japanese crime drama film directed by Shohei Imamura. The film tells the true story of Iwao Enokizu, a notorious serial killer who terrorizes rural Japan in the late 1960s. Enokizu is portrayed as a complex and enigmatic character, driven by his dark impulses and desires.
 The film is renowned for its unflinching exploration of the human psyche and its provocative themes. Imamura delves into the complex psychology of the killer, examining the blurred lines between good and evil, sanity and madness, and the human capacity for violence. The film challenges traditional notions of morality and offers a stark portrayal of the darker aspects of human nature.
@@ -484,7 +484,7 @@ https://i.postimg.cc/qgf8jz13/vengeance-is-mine-4.jpg}',
 '546a6ba8-941d-4d63-be32-e9295791e706'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Dear Zachary: A Letter to a Son About His Father',
 'Dear Zachary: A Letter to a Son About His Father is a documentary film directed by Kurt Kuenne. The film tells the heart-wrenching story of the murder of Dr. Andrew Bagby and the subsequent legal battles that follow. The movie is known for its emotional intensity, raw and personal approach, and its unique style of storytelling.
 The documentary is structured as a letter to Zachary, the son of the murdered Dr. Bagby, and serves as a tribute to his father''s memory. Through interviews, home videos, and candid footage, Kuenne paints a vivid portrait of Dr. Bagby''s life, his loving relationship with Zachary''s mother, and the devastating impact of his murder on his family and friends.
@@ -504,7 +504,7 @@ https://i.postimg.cc/Bv7zgfKG/Dear-Zachary-a-Letter-to-a-Son-About-His-Father-4.
 'eb2da03f-5217-4fdc-a332-22553f79221e'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Belladonna of Sadness',
 'Belladonna of Sadness is an avant-garde animated film directed by Eiichi Yamamoto, released in 1973. The film is known for its unique and controversial style, combining psychedelic visuals, eroticism, and dark themes.
 Set in medieval France, the movie follows the journey of Jeanne, a young woman who is brutally raped by the local lord on her wedding night. After being rejected by her husband and society, Jeanne makes a pact with the devil and gains supernatural powers. She uses her newfound abilities to seek revenge and challenge the societal norms and religious beliefs of her time.
@@ -524,7 +524,7 @@ https://i.postimg.cc/J0X5ksdv/belladonna-of-sadness-4.jpg}',
 'd10deaf1-9b71-432d-83f4-6fd12ba1991e'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Rebels of the Neon God',
 'Rebels of the Neon God is a Taiwanese film directed by Tsai Ming-Liang, released in 1992. The film follows the lives of three disconnected individuals in Taipei, Taiwan, whose paths intersect in unexpected ways.
 The story centers around Hsiao-kang, a disaffected young man who drops out of school and becomes obsessed with video games and the arcade culture. He forms an uneasy friendship with Ah-tze, a small-time criminal who steals motorcycle parts, and Ah-kuei, a young woman caught in a love triangle with Ah-tze and her boyfriend Ah-ping. As their lives intersect and collide in Taipei''s gritty urban landscape, they struggle to find meaning and connection in a modern society that seems to be spiraling into chaos.
@@ -545,7 +545,7 @@ https://i.postimg.cc/65J1WK8T/rebels-of-the-neon-god-4.jpg}',
 );
 
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Climax',
 'Climax is a provocative and disturbing psychological horror film directed by Gaspar Noé. The story follows a group of dancers who gather for a rehearsal in an abandoned school building. However, their celebration turns into a nightmarish descent into chaos as they realize their sangria has been spiked with hallucinogens, leading to a night of violence, paranoia, and psychological breakdowns.
 Noé''s signature style is evident in his use of long takes, swirling camera movements, and pulsating electronic music, which contribute to the film''s sense of unease and discomfort. The film is infamous for its highly explicit and disturbing scenes, including graphic depictions of violence and drug-induced hallucinations, which can be challenging and polarizing for viewers.
@@ -564,7 +564,7 @@ https://i.postimg.cc/CKzvpspF/climax-4.jpg}',
 'c9d957c0-5310-4312-b2fb-0a3d7962f6a0'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Shoplifters',
 'Shoplifters is a critically acclaimed Japanese drama film directed by Hirokazu Kore-eda. The story revolves around a family that survives by shoplifting, led by Osamu Shibata, who teaches his son Shota the art of stealing. One day, while returning home from a shoplifting spree, they find a young girl named Yuri abandoned in the cold and take her in as one of their own. The film follows the family''s struggles and dynamics as they try to navigate their unconventional lifestyle and the challenges that arise.
 Shoplifters is distinguished by its exploration of family, morality, and societal norms. The film delves into the complex dynamics of a makeshift family, where the bonds of love and loyalty are tested. It questions the concept of family and challenges the traditional definition of blood ties, highlighting the importance of human connection and compassion. The film also explores the moral ambiguity of stealing as a means of survival, raising ethical questions about what is considered right or wrong in desperate circumstances.
@@ -583,7 +583,7 @@ https://i.postimg.cc/qvcv8SmF/shoplifters-4.jpg}',
 '7e90cf75-f95f-4a94-ba00-3f7844c45d3b'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Nobody Knows',
 'Nobody Knows is a Japanese drama film directed by Hirokazu Kore-eda. The movie tells the story of four siblings who are left to fend for themselves after their mother abandons them in their small apartment in Tokyo. The eldest sibling, Akira, takes on the role of caregiver for his younger siblings, and they must navigate the challenges of survival in a world where nobody knows about their existence.
 The film is known for its powerful portrayal of the resilience and resourcefulness of children in the face of adversity. It sensitively explores themes of family, abandonment, and the consequences of societal neglect. Kore-eda''s masterful direction and the natural performances of the child actors create an intimate and heart-wrenching portrayal of a family struggling to survive in isolation.
@@ -602,7 +602,7 @@ https://i.postimg.cc/7LCgVSRd/nobody-knows-4.jpg}',
 '7e90cf75-f95f-4a94-ba00-3f7844c45d3b'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Something in the Air',
 'Something in the Air is a French film directed by Olivier Assayas, released in 2012. The story is set in the aftermath of the May 1968 student protests in France and follows the life of Gilles, a young aspiring artist, as he navigates through the social and political changes of the time.
 The film is known for its evocative depiction of the countercultural movements of the 1970s, capturing the spirit of rebellion and idealism that characterized the era. Assayas portrays the struggles, desires, and disillusionments of Gilles and his friends as they grapple with questions of art, politics, and personal identity in the wake of societal upheaval.
@@ -622,7 +622,7 @@ https://i.postimg.cc/4NQKHq6C/something-in-the-air-4.jpg}',
 '41e2ffc8-32a9-428f-aaac-d50d5cf44665'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Trainspotting',
 'Trainspotting, directed by Danny Boyle, is a gritty and visceral film that delves into the lives of a group of heroin addicts in Edinburgh, Scotland. The story follows Renton, a young man caught in the grip of addiction, as he navigates the dark and dangerous world of drug abuse alongside his friends Begbie, Sick Boy, Spud, and Diane.
 The movie is known for its raw and unapologetic portrayal of addiction, exploring the physical, mental, and emotional toll it takes on individuals and their relationships. It depicts the harsh reality of drug use, including its devastating consequences such as overdoses, withdrawal, and the constant struggle to maintain a "normal" life.
@@ -642,7 +642,7 @@ https://i.postimg.cc/8P6qZmG9/trainspotting-4.jpg}',
 '5daf5d47-bb9c-4e73-b4bd-cfbe2d2972d5'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Chungking Express',
 'Chungking Express, directed by Wong Kar-wai, is a critically acclaimed Hong Kong film known for its innovative storytelling and unique visual style. The film is divided into two distinct storylines, each depicting a different love story that unfolds in the vibrant and chaotic streets of Hong Kong.
 The first story follows a jaded police officer, He Qiwu, who becomes obsessed with the idea of lost love after his breakup with his girlfriend. He frequents a local fast-food restaurant, the Midnight Express, where he meets a mysterious woman in a blonde wig.. As He Qiwu tries to unravel the mystery of the woman''s identity, he finds himself drawn into a whirlwind of unpredictable events.
@@ -663,7 +663,7 @@ https://i.postimg.cc/3Rgkjb11/chungking-express-4.jpg}',
 'b3f855be-6486-4e4d-9d66-66cfad778e40'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Fallen Angels',
 'Fallen Angels is a visually captivating and emotionally complex film directed by Wong Kar-wai. The story takes place in Hong Kong and revolves around the lives of four interconnected characters whose paths cross in the bustling streets of the city.
 The movie follows the journey of a disillusioned hitman, a mute ex-convict who becomes his partner, a lovelorn woman who works as a professional killer, and her quirky and obsessive ex-boyfriend. As their lives intersect, their individual struggles with love, loneliness, and isolation are explored in a nonlinear and fragmented narrative style.
@@ -683,7 +683,7 @@ https://i.postimg.cc/dtywDhg2/fallen-angels-4.jpg}',
 'b3f855be-6486-4e4d-9d66-66cfad778e40'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Manila in the Claws of Light',
 'Manila in the Claws of Light, directed by Lino Brocka, is a Philippine film known for its gritty depiction of urban poverty and exploitation. The story follows Julio, a young fisherman from the province, who journeys to Manila to search for his missing girlfriend Ligaya. As he navigates the dark and seedy alleys of the city, Julio becomes entangled in its corrupt and oppressive systems, encountering exploitative employers, criminal syndicates, and crooked officials in his desperate quest to find Ligaya.
 The movie is known for its raw and realistic portrayal of the harsh realities faced by the urban poor in Manila during the 1970s. Brocka''s masterful direction captures the squalor, violence, and social injustice that pervade the city, highlighting the stark contrast between the rich and the poor. The film''s gritty cinematography and bleak tone depict Manila as a merciless and unforgiving metropolis that ensnares its inhabitants in its claws of poverty and exploitation.
@@ -702,7 +702,7 @@ https://i.postimg.cc/Hnmg8gRp/manila-in-the-claws-of-light-4.jpg}',
 'd744a1b7-49a4-43c4-888e-58024ba5ca00'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Housemaid',
 'The Housemaid is a South Korean film directed by Kim Ki-young and released in 1960. The movie tells the story of a young woman named Eun-yi who becomes a housemaid for a wealthy family. However, her life takes a dark turn as she becomes entangled in a complex web of relationships and secrets within the household.
 The Housemaid was a groundbreaking work of Korean cinema. Known for its daring and provocative themes, the film explores issues of class, desire, and power dynamics in a way that was considered controversial for its time. The movie delves into the complexities of human behavior and morality, exposing the dark side of human nature and the consequences of desire and obsession.
@@ -723,7 +723,7 @@ https://i.postimg.cc/htwTKMZ0/the-housemaid-4.jpg}',
 );
 
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Chinatown',
 'Chinatown is a neo-noir mystery film directed by Roman Polanski, released in 1974. The story follows private detective J.J. "Jake" Gittes as he investigates a seemingly straightforward case of adultery, which leads him into a complex web of deceit and corruption in 1930s Los Angeles.
 The film is known for its intricate plot and unexpected twists, as well as its atmospheric setting and superb performances by its cast. Polanski''s direction, combined with Robert Towne''s screenplay, creates a dark and gritty world that immerses viewers in the seedy underbelly of Los Angeles, particularly the titular Chinatown district.
@@ -742,7 +742,7 @@ https://i.postimg.cc/gk6k8d9v/chinatown-4.jpg}',
 '3ac8c7bf-04a0-4173-a110-8ad80b90cc94'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Mulholland Drive',
 'Mulholland Drive, directed by David Lynch, is a surreal and enigmatic neo-noir film that follows the story of a young aspiring actress, Betty, who arrives in Hollywood with dreams of becoming a star. She befriends a mysterious amnesiac woman, Rita, who is found in an abandoned apartment. Together, they embark on a journey to uncover Rita''s true identity and solve the mystery of her amnesia.
 However, Mulholland Drive is not a straightforward narrative, and the plot twists and turns into a labyrinth of surreal and nightmarish sequences that blur the lines between reality and fantasy. Lynch''s signature style of nonlinear storytelling, dreamlike imagery, and bizarre symbolism creates a haunting and puzzling experience for the viewers.
@@ -761,7 +761,7 @@ https://i.postimg.cc/vB4fnBWW/mulholland-drive-4.jpg}',
 '227ab380-e623-4702-ad4d-70bf41026bc0'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('An Elephant Sitting Still',
 'An Elephant Sitting Still, directed by Hu Bo, is a critically acclaimed Chinese drama film known for its gritty realism, bleakness, and raw emotional power. The story follows four characters - Wei Bu, Huang Ling, Wang Jin, and Xiao Jin - over the course of a single day as they struggle to find meaning and hope in their lives amidst the harsh realities of modern China.
 Set in a northern Chinese industrial city, the film portrays a society plagued by alienation, poverty, corruption, and moral decay. The characters are all trapped in their own internal conflicts and external circumstances, seeking solace and redemption. The titular elephant, a metaphorical presence, symbolizes the overwhelming sense of despair and helplessness that looms over their lives.
@@ -781,7 +781,7 @@ https://i.postimg.cc/cCNMw30V/an-elephant-sitting-still-4.jpg}',
 '38389229-be51-442c-a121-88042c9a446a'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Thin Blue Line',
 'The Thin Blue Line, directed by Errol Morris, is a groundbreaking and influential documentary film that focuses on the murder case of a police officer in Dallas, Texas. The film weaves together interviews, reenactments, and archival footage to examine the events surrounding the crime and the subsequent trial of the suspect, Randall Adams.
 At its core, The Thin Blue Line is celebrated for its innovative approach to documentary filmmaking, as Morris employs a distinctive style that blurs the line between reality and reconstruction. The film challenges the concept of truth in storytelling, as multiple witnesses provide conflicting accounts, raising questions about the reliability of memory and the fallibility of the criminal justice system.
@@ -801,7 +801,7 @@ https://i.postimg.cc/Sstr0fPv/the-thin-blue-line-4.jpg}',
 '2c54a8c9-b06d-4431-b7f2-8e601d2ee441'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('F for Fake',
 'F for Fake is a 1973 film directed by Orson Welles that blurs the lines between reality and illusion, exploring the concepts of art, authenticity, and deception. The film tells the story of notorious art forger Elmyr de Hory, who duped the art world with his fake masterpieces, and Clifford Irving, a writer who fabricated a hoax autobiography of Howard Hughes.
 However, F for Fake is not a conventional documentary or narrative film. It is known for its unconventional structure, combining elements of documentary, fiction, and essay filmmaking, with Welles himself serving as the charismatic and enigmatic narrator. The film challenges the notions of truth and authenticity in art and life, raising questions about the nature of authorship, the value of art, and the blurred lines between reality and illusion.
@@ -820,7 +820,7 @@ https://i.postimg.cc/VLbsk4Nw/f-for-fake-4.jpg}',
 '69819657-50c2-4931-baee-f5f86be0d42f'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Parasite',
 'Parasite, directed by Bong Joon-ho, is a South Korean dark comedy thriller that follows the story of the Kim family, who live in poverty and scheme their way into the lives of the wealthy Park family. The Kims slowly infiltrate the Parks'' lives, posing as highly skilled individuals, and become entangled in a complex web of lies and deception.
 Parasite is distinctive in its seamless blend of various genres, including dark comedy, drama, and suspense, creating a unique and captivating viewing experience. The movie is known for its clever and unpredictable plot twists that keep audiences on the edge of their seats.
@@ -840,7 +840,7 @@ https://i.postimg.cc/pd6gwMtt/parasite-4.jpg}',
 );
 
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Mishima: A Life in Four Chapters',
 'Mishima: A Life in Four Chapters is a biographical drama film directed by Paul Schrader, released in 1985. The film portrays the life of Yukio Mishima, a Japanese novelist and playwright, and is divided into four chapters, each depicting different periods: "Beauty," "Art," "Action," and "Harmony of Pen and Sword."
 The film is known for its unique narrative structure and visual aesthetics. Schrader skillfully weaves together Mishima''s real-life story with scenes from his own works, creating a visually stunning and thought-provoking film. The movie uses bold color schemes, elaborate sets, and striking imagery to capture the intensity and complexity of Mishima''s life and work.
@@ -859,7 +859,7 @@ https://i.postimg.cc/9XqTv67t/mishima-a-life-in-four-chapters-4.jpg}',
 'c6081c89-d043-46c3-8de0-feb5fcb7de3f'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Stalker',
 'Stalker, directed by Andrei Tarkovsky, is a Soviet science fiction film released in 1979. The story revolves around a mysterious guide known as the "Stalker" who leads two individuals, the "Writer" and the "Professor," through a forbidden and post-apocalyptic area called the "Zone." The Zone is rumored to contain a room that grants the deepest desires of those who enter it. As the journey progresses, the characters confront their inner fears, desires, and existential dilemmas.
 Stalker is known for its atmospheric and meditative tone, deliberate pacing, and stunning cinematography. Tarkovsky masterfully employs long takes, minimal dialogue, and haunting visuals to create a sense of otherworldliness and provoke philosophical and metaphysical reflections. The film raises questions about the nature of reality, the purpose of life, and the consequences of pursuing one''s desires.
@@ -878,7 +878,7 @@ https://i.postimg.cc/Z5W79TsB/stalker-4.jpg}',
 '386ded26-0232-4e5c-8c3c-ec7018140ade'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Still Walking',
 'Still Walking is a Japanese family drama film directed by Hirokazu Kore-eda. The film follows the Yokoyama family as they gather for their annual reunion to commemorate the death of their eldest son who drowned in a tragic accident 15 years ago. Over the course of one day, family dynamics and buried emotions come to the surface as they navigate through their shared grief, regrets, and unspoken truths.
 Still Walking is renowned for its sensitive and nuanced exploration of family relationships and the complexities of human emotions. The film delves into the dynamics of a seemingly ordinary family, revealing the intricacies of their interactions, conflicts, and unspoken resentments. Kore-eda''s minimalist storytelling style and attention to detail create a poignant and thought-provoking exploration of family ties and the passage of time.
@@ -897,7 +897,7 @@ https://i.postimg.cc/FHTHsXCB/still-walking-4.jpg}',
 '7e90cf75-f95f-4a94-ba00-3f7844c45d3b'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Contempt',
 'Contempt, directed by Jean-Luc Godard, is a French film that tells the story of a failing marriage between a screenwriter named Paul and his wife, Camille. As Paul is hired to rewrite a script for a film adaptation of The Odyssey, he becomes disillusioned with his work, and the couple''s relationship deteriorates.
 Contempt is celebrates for its innovative and unconventional filmmaking techniques, including the use of long takes, disjointed editing, and self-reflexive storytelling. The film is also notable for its visually stunning cinematography, with vivid colors and striking compositions.
@@ -917,7 +917,7 @@ https://i.postimg.cc/KvYBCPgb/contempt-4.jpg}',
 );
 
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Insiang',
 'Insiang, directed by Lino Brocka, is a critically acclaimed Filipino film known for its gritty portrayal of poverty and exploitation in Manila. The story revolves around Insiang, a young woman living in a crowded slum, who faces the harsh realities of life as she navigates through an oppressive environment.
 The film centers on Insiang''s relationships with the people around her, including her abusive mother and her mother''s lover. Insiang is subjected to abuse, betrayal, and manipulation, and her struggles are vividly depicted onscreen, revealing the dark and oppressive side of society.
@@ -936,7 +936,7 @@ https://i.postimg.cc/GmxQCLmw/insiang-4.jpg}',
 'd744a1b7-49a4-43c4-888e-58024ba5ca00'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Ballad of Narayama',
 'The Ballad of Narayama, directed by Keisuke Kinoshita, is a visually striking and thematically profound film that portrays the life of an isolated rural community in Japan during the 19th century. The story centers around Orin, an elderly woman living in the mountainous region of Narayama, who must face the tradition of obasute - the custom of abandoning elderly family members on the mountainside to die as a means of conserving scarce resources for the younger generation. Orin accepts her fate with stoicism and dignity, preparing herself and her family for her journey to the mountain.
 The film is known for its striking visual aesthetics, with stunning cinematography capturing the beauty of the Japanese landscape and the harshness of the mountain environment. Kinoshita skillfully uses color to create a vivid and immersive world, contrasting the vibrant hues of nature with the muted tones of the village, highlighting the contrast between the beauty of life and the inevitability of death.
@@ -955,7 +955,7 @@ https://i.postimg.cc/VkFXrKt3/the-ballad-of-narayama-4.jpg}',
 'be757950-51fc-4aa6-a283-395196655acd'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Mommy',
 'Mommy, directed by Xavier Dolan, is a riveting and emotionally charged drama that delves into the tumultuous relationship between a widowed mother and her troubled teenage son. Set in a fictional Canada where a law allows parents to hospitalize their unruly children, the story follows the struggles of Diane "Die" Després as she navigates the challenges of raising her volatile son Steve, who has ADHD and a history of violence. As Die tries to provide a stable home for Steve, she forms an unlikely bond with her eccentric neighbor, Kyla, who becomes a source of support and solace.
 Mommy is distinctive for its visual style, shot in a unique aspect ratio that emphasizes the intensity of the characters'' emotions. Dolan''s signature use of vibrant colors, dynamic camera movements, and an evocative soundtrack further elevate the film''s emotional impact. The movie is a standout for its raw and authentic performances, particularly from the lead actors who bring depth and complexity to their roles.
@@ -976,7 +976,7 @@ https://i.postimg.cc/xdWVWKCn/mommy-4.jpg}',
 
 
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('8 1/2',
 '8 1/2 is a classic Italian film directed by Federico Fellini, released in 1963. It follows the story of Guido Anselmi, a troubled filmmaker who is struggling to find inspiration for his next film. Guido is constantly bombarded by the pressures of his work, the expectations of his colleagues, and the demands of his personal life. As he grapples with creative block and a mid-life crisis, Guido retreats into his memories, fantasies, and dreams to escape the reality of his struggles.
 8 1/2 is celebrated for its unique narrative structure and innovative cinematic techniques. Fellini masterfully weaves together reality and fantasy, blurring the lines between past and present, memory and imagination. The film is known for its surreal and visually stunning sequences, featuring dreamlike imagery, circus performances, and extravagant costumes. It uses music, symbolism, and recurring motifs to heighten the emotional and psychological aspects of the story.
@@ -995,7 +995,7 @@ https://i.postimg.cc/3NFYTd4N/8-1-2-4.jpg}',
 '8770af99-f7cd-49b0-a615-02ca43ea5a89'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Perfect Blue',
 'Perfect Blue, directed by Satoshi Kon, is a psychological thriller anime film that tells the story of Mima Kirigoe, a young pop idol who decides to leave her successful music career to pursue acting. As Mima struggles to navigate the challenges of her new career, she becomes increasingly haunted by a stalker who seems to know everything about her life. As her reality blurs and the line between her past and present become indistinguishable, Mima''s mental state deteriorates, and she is plunged into a dark world of paranoia, obsession, and psychological horror.
 Perfect Blue is renowned for its intricate and mind-bending narrative, which blurs the boundaries between reality and fantasy, leaving viewers questioning what is real and what is imagined. The film masterfully portrays the psychological struggles of its protagonist, Mima, as she grapples with issues of identity, fame, and the pressure to conform to societal expectations. Satoshi Kon employs a visual and auditory style that effectively conveys the disorienting and nightmarish experiences of the protagonist, creating a sense of unease and tension throughout the film.
@@ -1014,7 +1014,7 @@ https://i.postimg.cc/ZKwWfLNg/perfect-blue-4.jpg}',
 'c5f82644-d7b5-4dd1-bcce-7219334a5cd0'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Millennium Actress',
 'Millennium Actress is a critically acclaimed anime film directed by Satoshi Kon. The story follows the life of an aging former actress, Chiyoko Fujiwara, as she recounts her career to a documentary filmmaker and retraces her memories. The film seamlessly intertwines reality and fantasy, blurring the lines between the past and the present, as Chiyoko''s memories and films come to life in a surreal and dreamlike manner.
 Millennium Actress is set apart by its unique approach to storytelling, where the boundaries between reality and imagination are constantly blurred. The film effortlessly shifts between different time periods and genres, from historical dramas to sci-fi adventures, creating a captivating and immersive narrative. It is known for its mesmerizing visuals, fluid animation, and intricate storytelling techniques that challenge the traditional linear structure of storytelling.
@@ -1033,7 +1033,7 @@ https://i.postimg.cc/fR1G7JwF/millenium-actress-4.jpg}',
 'c5f82644-d7b5-4dd1-bcce-7219334a5cd0'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Close-Up',
 'Close-Up is a 1990 Iranian film directed by Abbas Kiarostami that blurs the lines between fiction and reality. The film is based on a true story and tells the tale of Hossein Sabzian, a poor cinephile who impersonates a famous filmmaker, Mohsen Makhmalbaf, in order to gain access to a wealthy family''s home. Sabzian is eventually caught and put on trial, and the film delves into the complexities of identity, truth, and art.
 Close-Up is distinguished by its unique narrative structure. The film uses a mix of documentary-style footage and reenactments, with the real-life participants playing themselves, blurring the boundary between reality and fiction. Kiarostami challenges the traditional conventions of storytelling and questions the nature of truth and representation in cinema. The film also highlights the power dynamics between different classes in Iranian society, as Sabzian, a lower-class individual, tries to navigate the world of the affluent family.
@@ -1053,7 +1053,7 @@ https://i.postimg.cc/hGd0k1kD/close-up-4.jpg
 'ddf4918b-ddca-4fa8-a198-6ca58b376c55'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Pickpocket', 
 'Pickpocket is a critically acclaimed film by Jia Zhangke, known for its contemplative storytelling and realistic portrayal of contemporary China. The movie follows the life of a young pickpocket named Xiaowen, who roams the streets of China''s industrial city of Datong, stealing wallets from unsuspecting victims. As Xiaowen''s criminal activities escalate, he becomes embroiled in a web of crime and personal turmoil.
 The film is known for its minimalist style and poetic imagery, capturing the everyday struggles of ordinary people in modern China. Jia Zhangke''s masterful direction and the film''s contemplative pace create a sense of realism and intimacy, allowing viewers to delve into the complex emotions and motivations of the protagonist. Pickpocket explores themes of alienation, isolation, and moral ambiguity, as Xiaowen grapples with the moral implications of his criminal behavior and his yearning for human connection.
@@ -1072,7 +1072,7 @@ https://i.postimg.cc/dQ5shhtF/pickpocket-4.jpg}',
 '92861508-77ec-41d2-8ac5-0e76901e5a04'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Smiles of a Summer Night',
 'Ingmar Bergman''s Smiles of a Summer Night is a classic Swedish comedy-drama film released in 1955. The story is set in Sweden during the early 20th century and follows the romantic entanglements of a group of people during a weekend in the countryside.
 The film revolves around a tangled web of relationships involving various couples, including an aging lawyer, Fredrik, his young wife, Anne, his former lover, Desiree, and her current lover, a pompous military officer, Count Malcolm. As the characters come together and interact during a weekend party at Desiree''s estate, their relationships and desires unravel, leading to a series of comedic and poignant situations.
@@ -1093,10 +1093,9 @@ https://i.postimg.cc/52XgGysP/smiles-of-a-summer-night-4.jpg
 'c38af25b-548a-4416-9518-0adf55739174'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Christiane F.',
-'Christiane F. is a German film directed by Uli Edel, released in 1981. It tells the true story of a young girl named Christiane Felscherinow, based on her autobiography, who becomes involved in drug addiction and prostitution in the late 1970s in Berlin.
-The movie follows Christiane, a 14-year-old girl who is drawn into the gritty and dangerous world of drug use and exploitation. She becomes addicted to heroin and descends into a downward spiral of desperation and hopelessness, engaging in risky behavior to support her addiction. The film portrays the harsh realities of drug addiction, including the physical and emotional toll it takes on Christiane, as well as the exploitation and abuse she faces as a young girl caught in the throes of addiction.
+'Christiane F. is a German film directed by Uli Edel, released in 1981. It tells the true story of a young girl named Christiane Felscherinow, based on her autobiography, who becomes involved in drug addiction and prostitution in the late 1970s in Berlin.The movie follows Christiane, a 14-year-old girl who is drawn into the gritty and dangerous world of drug use and exploitation. She becomes addicted to heroin and descends into a downward spiral of desperation and hopelessness, engaging in risky behavior to support her addiction. The film portrays the harsh realities of drug addiction, including the physical and emotional toll it takes on Christiane, as well as the exploitation and abuse she faces as a young girl caught in the throes of addiction.
 Christiane F. is known for its raw and unflinching portrayal of drug addiction and its consequences. It does not shy away from depicting the harsh realities of addiction, including the physical and emotional effects, the social isolation, and the degradation that comes with drug abuse. The film is also notable for its bold and controversial depiction of teenage drug use and prostitution, shining a light on the dark underbelly of youth culture in Berlin during that time period.
 Christiane F. explores the dangers of drug addiction and the devastating impact it can have on an individual''s life, particularly on young people. It delves into the psychological and emotional struggles faced by Christiane as she grapples with her addiction, as well as the societal factors that contribute to her downward spiral. The film also touches on issues of exploitation, sexual abuse, and the harsh realities of life on the streets for those caught in the cycle of addiction.',
 DATE '1981-04-02',
@@ -1114,7 +1113,7 @@ https://i.postimg.cc/d3mQd6wn/christiane-f-4.jpg
 'a1a9fb4f-ca31-499e-98c8-bff91131e0fc'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Branded to Kill',
 'Branded to Kill is a Japanese crime film directed by Seijun Suzuki, released in 1967. The story revolves around a highly skilled hitman named Goro Hanada, who is ranked as the third best in the underworld. However, his life takes a tumultuous turn when he becomes obsessed with a mysterious woman and finds himself caught in a deadly game of cat-and-mouse with rival assassins, the yakuza, and the police.
 Branded to Kill is set apart by its unique style and unconventional narrative choices. Suzuki''s direction is known for its innovative visual techniques, including bold and striking cinematography, experimental editing, and avant-garde storytelling. The film''s fragmented plot, filled with surreal and absurd elements, challenges traditional genre conventions and pushes the boundaries of narrative structure.
@@ -1134,7 +1133,7 @@ https://i.postimg.cc/Rht0CHjf/branded-to-kill-4.jpg
 'fd03be13-ffb6-4630-9f62-8e946a843b90'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Sans Soleil',
 'Sans Soleil is a critically acclaimed 1983 documentary film by French filmmaker Chris Marker. The film is a travelogue and poetic meditation on memory, time, and the human condition. The story is narrated through a series of letters written by an unseen female narrator, who shares her thoughts and reflections on various places and cultures she has visited, including Japan, Guinea-Bissau, and Iceland.
 Sans Soleil is celebrated for is its unique blend of documentary and fictional elements, as well as its avant-garde filmmaking techniques. Marker uses a non-linear structure, combining footage from his own travels with found footage and archival material, to create a visual and auditory collage that challenges traditional narrative storytelling.
@@ -1154,7 +1153,7 @@ https://i.postimg.cc/BZBfxN4y/sans-soleil-4.jpg
 'e057ae95-35ec-465b-a5a2-c857b25c164f'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Koumiko Mystery',
 'The Koumiko Mystery by Chris Marker is a 1965 documentary film that explores the life and thoughts of a young Japanese woman named Koumiko Muraoka during the time of the Tokyo Olympics. The film is a result of Marker''s encounter with Koumiko while he was in Japan to document the Olympic Games.
 The Koumiko Mystery is known for its intimate and poetic portrait of Koumiko, who reveals her unique perspective on Japan, being Japanese, and her personal history. Koumiko was born in Manchuria but French educated, which gives her a sense of alienation and curiosity about her own culture. Marker films her around Tokyo, capturing her expressions, gestures, and voice as she talks about various topics, such as war, love, identity, memory, and the city.
@@ -1174,7 +1173,7 @@ NULL,
 'e057ae95-35ec-465b-a5a2-c857b25c164f'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Flowers of Shanghai',
 'Flowers of Shanghai, directed by Hou Hsiao-Hsien, is a Taiwanese film set in the 19th century Shanghai, China. The film portrays the lives of four courtesans, known as "flowers," who work in opulent brothels known as "flower houses." The story follows their relationships with their patrons, and the intricate power dynamics, rituals, and social customs they engage in within the flower houses.
 The movie is known for its visually stunning and meticulously crafted cinematography, which captures the opulence and intricacies of the flower houses and their inhabitants. Hou Hsiao-Hsien uses long, static shots and slow-paced storytelling to create a mesmerizing and immersive experience for the viewers.
@@ -1194,7 +1193,7 @@ https://i.postimg.cc/bvSbjDzZ/flowers-of-shanghai-4.jpg
 'ec81fde9-c092-4b46-bf8f-3dcbb7996b46'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Harakiri',
 'Harakiri is a 1962 Japanese film directed by Masaki Kobayashi. The story is set in feudal Japan and follows the ronin, Tsugumo Hanshiro, who arrives at the Iyi clan''s estate and requests to perform harakiri (ritual suicide) in their courtyard. However, Tsugumo''s real intention is to expose the hypocrisy and corruption within the clan by revealing a tragic tale of another ronin''s harakiri that took place there.
 Harakiri is celebrated for its thought-provoking exploration of honor, duty, and morality. The film delves deep into the samurai code of Bushido, and questions its relevance in a changing society. It challenges the romanticized image of samurai as noble warriors and portrays them as flawed human beings with their own agendas. Harakiri is known for its powerful and intense storytelling, with gripping performances from its cast and masterful direction by Kobayashi.
@@ -1206,7 +1205,7 @@ DATE '1962-09-16',
 'https://letterboxd.com/film/harakiri/',
 '{https://i.postimg.cc/1ttB2BKc/harakiri-1.jpg,
 https://i.postimg.cc/fk4v3NQB/harakiri-2.jpg,
-https://i.postimg.cc/Wzqnb4Cd/harakiri-3.jpg,c
+https://i.postimg.cc/Wzqnb4Cd/harakiri-3.jpg,
 https://i.postimg.cc/HxhzgMZG/harakiri-4.jpg
 }',
 'Japan',
@@ -1215,7 +1214,7 @@ https://i.postimg.cc/HxhzgMZG/harakiri-4.jpg
 );
 
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Human Condition I: No Greater Love',
 'The Human Condition I: No Greater Love is a 1959 Japanese film directed by Masaki Kobayashi. It is the first installment of a trilogy that follows the life of a pacifist and humanitarian named Kaji during World War II. The plot centers around Kaji''s journey as he tries to maintain his moral integrity and compassion in the face of the brutalities of war and the oppressive social and political systems of his time.
 The film is known for its powerful and unflinching depiction of the harsh realities of war, including the dehumanizing effects of violence, the corruption of power, and the brutality of the Japanese military during World War II. It portrays the horrors of war in stark and uncompromising terms, highlighting the senseless destruction and loss of humanity that results from conflict.
@@ -1235,7 +1234,7 @@ https://i.postimg.cc/Y0JfZwXQ/the-human-condition-i-no-greater-love-4.jpg
 '95153a55-9ce8-48ea-8e14-98538051dc5c'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Persona',
 'Persona is a 1966 psychological drama film directed by Ingmar Bergman. The movie follows the story of a nurse named Alma who is assigned to take care of an actress named Elisabet Vogler, who has suddenly stopped speaking. The two women retreat to a remote cottage by the sea, where Alma becomes increasingly fascinated and disturbed by Elisabet''s silence and enigmatic presence.
 Persona is known for its unconventional narrative structure, experimental filmmaking techniques, and deep exploration of human psyche and identity. Bergman uses symbolism, dream sequences, and stark imagery to delve into the themes of selfhood, communication, authenticity, and the blurred lines between reality and illusion. The film raises questions about the nature of persona - the masks we wear in society, the complexity of human relationships, and the impact of silence on the human psyche.
@@ -1255,7 +1254,7 @@ https://i.postimg.cc/8z5DCQwh/persona-4.jpg
 'c38af25b-548a-4416-9518-0adf55739174'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Discreet Charm of the Bourgeoisie',
 'The Discreet Charm of the Bourgeoisie is a surrealist comedy-drama film directed by Luis Buñuel, released in 1972. The story revolves around a group of upper-class characters, primarily six bourgeois friends, who attempt to have a meal together, but are continuously thwarted by a series of absurd and surreal events.
 The movie is known for its satirical critique of the bourgeoisie and its conventions, exposing the emptiness, hypocrisy, and absurdity of their privileged lives. Buñuel uses his signature surrealistic style, combining dreamlike sequences and unexpected disruptions of reality to challenge societal norms and reveal the characters'' repressed desires and fears.
@@ -1275,7 +1274,7 @@ https://i.postimg.cc/QMDZzsn2/the-discreet-charm-of-the-bourgeoisie-4.jpg
 'd14cc82e-51b4-4277-bf05-d047c59bf4a9'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Pixote',
 'Pixote, directed by Héctor Babenco, is a Brazilian drama film that follows the life of a young boy named Pixote who is abandoned by his family and forced to survive on the streets of Sao Paulo. Pixote ends up in a brutal juvenile detention center, where he becomes exposed to the harsh realities of life and the harsh treatment of children in the criminal justice system.
 The film is known for its gritty and raw depiction of the harsh reality of life for marginalized children in Brazil. It delves into themes of poverty, crime, abuse, and survival, shedding light on the harsh social conditions faced by street children. The film does not shy away from showing the brutal violence and exploitation that Pixote and his friends face as they navigate the streets and the juvenile detention center.
@@ -1295,7 +1294,7 @@ https://i.postimg.cc/yNxVXQFZ/pixote-4.jpg
 '73603c3c-0109-4887-807c-f18d8d8a7d13'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Holy Mountain',
 'The Holy Mountain is a surrealist film directed by Alejandro Jodorowsky. The story follows a man known as "The Thief" who embarks on a spiritual journey to find immortality and enlightenment. Along the way, he encounters a cast of eccentric characters, including an alchemist, a dwarf, and a group of nine powerful individuals who represent the planets of the solar system.
 The movie is known for its visually stunning and symbolic imagery, with Jodorowsky employing a wide range of allegorical and surrealistic elements throughout the film. The film is often considered an exploration of spiritual and metaphysical concepts, such as mysticism, mythology, and the search for higher consciousness. The thematic choices in The Holy Mountain are deeply philosophical, exploring themes of self-discovery, societal norms and conventions, religion, and the human quest for meaning and purpose.
@@ -1315,7 +1314,7 @@ https://i.postimg.cc/k4bDWJSZ/the-holy-mountain-4.jpg
 '60932aae-078a-483e-ad92-611f757bb66b'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Boat People',
 'Boat People is a 1982 film directed by Ann Hui that tells the story of a French-Vietnamese journalist named Lam, who travels to post-war Vietnam to investigate a government-sponsored project. While there, he witnesses the harsh realities faced by refugees known as "boat people" who are fleeing the country on overcrowded boats. As Lam becomes entangled in the lives of the refugees and local villagers, he is faced with moral dilemmas and must confront his own biases and assumptions about the situation.
 Boat People is distinguished by its powerful portrayal of the human cost of war and displacement. The film vividly depicts the struggles and sufferings of the refugees as they face hunger, disease, and violence while seeking safety and a better life. Ann Hui''s direction creates a sense of urgency and authenticity, capturing the raw emotions and harsh conditions experienced by the characters.
@@ -1335,7 +1334,7 @@ https://i.postimg.cc/B6dVY0vR/boat-people-4.jpg
 '9ea7d39c-4712-443d-9849-aa77bb2ae036'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Streetwise',
 'Streetwise by Martin Bell is a compelling documentary film that offers an unflinching look at the lives of homeless and runaway teenagers in Seattle, USA. The film follows the lives of a group of young people who survive on the streets, navigating the harsh realities of homelessness, poverty, and addiction.
 The movie is known for its raw and candid portrayal of the struggles faced by these vulnerable youth, shedding light on the harsh realities of life on the streets. Bell, a former war photographer, brings his unique perspective to the film, capturing the gritty and unforgiving nature of street life with a compassionate lens.
@@ -1356,7 +1355,7 @@ https://i.postimg.cc/QdTF9L9V/streetwise-4.jpg
 '320ecb5f-e70c-4408-a257-eac952376457'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Onibaba',
 'Onibaba, directed by Kaneto Shindō, is a 1964 Japanese film known for its haunting and atmospheric portrayal of primal human nature amidst the chaos of war-torn medieval Japan. The story follows two women, an older woman and her daughter-in-law, who live in a secluded hut in a desolate marsh, surviving by luring and killing samurai for their armor and valuables. However, their existence is disrupted when a young soldier returns from the battlefield and complicates their dynamic.
 The film is renowned for its striking black-and-white cinematography, which creates a stark and eerie visual contrast against the desolate landscape. Shindō masterfully uses the surroundings to heighten the sense of isolation and desolation that permeates the story. The film is also notable for its minimalist score, composed by Hikaru Hayashi, which adds to the film''s haunting atmosphere.
@@ -1376,7 +1375,7 @@ https://i.postimg.cc/PfMFFxSW/onibaba-4.png
 '2d6c69ae-4edf-4a7c-8e75-a7842a343ca7'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Pyaasa',
 'Pyaasa is a classic Indian film directed by Guru Dutt, released in 1957. The film follows the story of a struggling poet named Vijay, played by Guru Dutt himself, who is disillusioned with society and its shallow values. Vijay''s work is rejected by publishers, and he himself is rejected by his family and society more generally. In his journey to find meaning and recognition, he meets Gulabo, a prostitute who recognizes his talent and encourages him to pursue his dreams.
 Pyaasa is known for is its poignant portrayal of the harsh realities of post-independence India, with themes of societal hypocrisy, materialism, and the devaluation of art in a capitalist society. The movie is known for its deep and emotional exploration of the human condition, capturing the struggles of the marginalized and the disillusionment of the creative soul. It delves deep into the human condition, exploring the emptiness of materialism and the hollowness of societal norms. It raises questions about the relevance of art in a money-driven world and the true value of human relationships. 
@@ -1396,7 +1395,7 @@ https://i.postimg.cc/nLhSbMJD/pyaasa-4.jpg
 '05aa5087-d0d3-40e2-a656-1dcdb38086c2'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Fantastic Planet',
 'Fantastic Planet, directed by René Laloux, is a groundbreaking and visually stunning animated science fiction film that was released in 1973. The story is set on a distant planet called Ygam, inhabited by giant humanoid aliens known as Draags and their enslaved human-like pets called Oms.
 The film follows the journey of a young Om named Terr, who is taken from his natural environment and raised as a pet by a Draag child named Tiwa. As Terr grows up, he becomes increasingly aware of the injustices faced by the Oms, who are treated as inferior beings by the Draags. Terr joins a group of rebel Oms who are fighting for their freedom, and together they embark on a quest to challenge the oppressive rule of the Draags.
@@ -1417,7 +1416,7 @@ https://i.postimg.cc/856nz3nd/fantastic-planet-4.jpg
 '2add17ba-bff8-49e2-aaea-6ed367306e4e'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('When the Cat Comes',
 'When the Cat Comes (also known as The Cassandra Cat) is a 1963 Czechoslovak film directed by Vojtěch Jasný. The film tells the story of a mysterious traveling circus that arrives in a village accompanied by a sunglasses-wearing cat named Mokol. When the cat''’s glasses are removed, people in the village appear bathed in different colors that reflect their true feelings.
 The film is known for its fantastical and surrealist elements, as well as its gentle humor and enchanting storytelling. Jasný masterfully weaves together elements of magic and reality, creating a captivating and otherworldly atmosphere. The film touches on themes of innocence, curiosity, and the clash between imagination and reality.
@@ -1437,7 +1436,7 @@ https://i.postimg.cc/9XTqVHrq/when-the-cat-comes-4.jpg
 'fcb25bc8-044c-4426-9e49-4e150793209e'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Woman in the Dunes',
 'Woman in the Dunes is a thought-provoking and enigmatic film directed by Hiroshi Teshigara. The story follows an entomologist named Jumpei Niki, who becomes trapped in a remote sand dune village while collecting insects. He is forced to live with a widow in a house at the bottom of a sandpit, where they must constantly shovel sand to prevent the house from being buried.
 The movie is known for its stunning visuals and unique cinematography, which captures the desolate landscape of the sand dunes and the sense of entrapment experienced by the characters. Teshigara skillfully uses the claustrophobic setting to create a palpable sense of isolation and existential despair.
@@ -1457,7 +1456,7 @@ https://i.postimg.cc/ht0f12DJ/woman-in-the-dunes-4.jpg
 '9bd50a37-7e24-4a15-a67c-18a7de93da14'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Millennium Mambo',
 'Millennium Mambo is a Taiwanese film directed by Hou Hsiao-hsien. The story revolves around a young woman named Vicky, who is caught in a tumultuous relationship with her abusive boyfriend, Hao-Hao, while working as a hostess in Taipei''s nightclubs during the early 2000s. The film captures Vicky''s struggles with love, identity, and disillusionment as she navigates the complexities of modern urban life.
 Millennium Mambo apart is its distinctive style and thematic choices. The film is known for its slow pacing, poetic visuals, and minimalistic dialogue, which create a meditative and dreamlike atmosphere. Hou Hsiao-hsien masterfully uses long takes and expertly framed shots to immerse the audience in Vicky''s world and evoke a sense of introspection.
@@ -1477,7 +1476,7 @@ https://i.postimg.cc/FFMgKb9f/millennium-mambo-4.jpg
 'ec81fde9-c092-4b46-bf8f-3dcbb7996b46'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('The Mad Fox',
 'The Mad Fox is a 1962 Japanese film directed by Tomu Uchida, known for its visually stunning imagery and allegorical storytelling. Set in medieval Japan, the film follows the power struggle between two noble clans vying for control of the emperor''s court. However, amidst the political intrigue, a fox spirit known as Kuzunoha gets involved, taking on various human forms to manipulate the events and protect her family''s interests. As the tale unfolds, the line between humans and spirits blurs, and the consequences of ambition and betrayal become increasingly dire.
 The Mad Fox is known for its unique visual style, combining traditional Japanese aesthetics with avant-garde techniques. Uchida employs elaborate set designs, intricate costumes, and bold color palettes to create a surreal and dreamlike atmosphere, enhancing the film''s otherworldly themes. The film''s allegorical storytelling delves into complex themes such as the corrupting influence of power, the duality of human nature, and the consequences of societal hierarchy.
@@ -1497,7 +1496,7 @@ https://i.postimg.cc/FF8kZhqw/the-mad-fox-4.jpg
 '3432acb7-1144-4800-b99c-7700c32d0e62'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Au Hasard Balthazar',
 'Au Hasard Balthazar, directed by Robert Bresson, is a French film known for its minimalist style and profound exploration of human nature. The film tells the story of Balthazar, a donkey who is born, sold, and passed from one owner to another, all while serving as a silent witness to the joys, sorrows, and cruelties of the human world.
 Balthazar''s journey is intertwined with the lives of the people he encounters, including Marie, a young girl who forms a special bond with him. As Balthazar endures mistreatment and abuse, he remains steadfast and stoic, embodying purity and innocence in the face of human depravity.
@@ -1518,7 +1517,7 @@ https://i.postimg.cc/HxLKjBH7/au-hasard-balthazar-4.png
 '5c862f13-297c-48d0-aa4b-a947c9ae0532'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Eureka',
 'Eureka is a 2000 Japanese film directed by Shinji Aoyama. The movie follows the lives of three individuals who are connected by a tragic event. The story begins with a bus hijacking that results in the death of innocent passengers, leaving the bus driver, Makoto, and two of the survivors, Kozue and her brother Naoki, deeply affected. As they struggle to cope with the aftermath, they find solace in each other''s company and embark on a journey to find meaning in their lives.
 Eureka is distinguished by its unique and deliberate pacing, with long takes and moments of silence that allow the audience to contemplate the characters'' emotions and inner struggles. Aoyama''s masterful use of visual storytelling and the stunning landscapes of rural Japan serve as a backdrop to the characters'' introspective journey, adding depth and beauty to the narrative.
@@ -1538,7 +1537,7 @@ https://i.postimg.cc/x8kJtDGy/eureka-4.jpg
 'c995869a-e672-4abc-9452-aeb75e14695c'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Throw Away Your Books, Rally in the Streets',
 'Throw Away Your Books, Rally in the Streets is a 1971 Japanese avant-garde film directed by Shūji Terayama. The story revolves around a disenchanted young man named Julian who rebels against societal norms and his oppressive family. He retreats into a surreal and fantastical world of his imagination, where he engages in various unconventional and provocative acts of rebellion, including rejecting traditional notions of family, sex, and politics.
 The film is known for its bold and experimental style, characterized by a fragmented narrative structure, striking visual imagery, and a provocative blend of surrealism, absurdity, and political commentary. Terayama employs a nonlinear approach to storytelling, incorporating dream-like sequences, surreal montages, and poetic symbolism to create a subversive and challenging cinematic experience.
@@ -1558,9 +1557,9 @@ https://i.postimg.cc/CLMcNpN8/throw-away-your-books-rally-in-the-streets-4.jpg
 '57ceb621-e4c2-4261-98a9-a18f8cc92009'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Haru',
-'Haru is a 1996 Japanese drama film directed and written by Yoshimitsu Morita. It tells the story of a young Tokyo businessman who joins an online movie forum and develops a special bond with one of its members through back and forth e-mails1. The film explores the themes of loneliness, communication, and identity in the digital age.
+'Haru is a 1996 Japanese drama film directed and written by Yoshimitsu Morita. It tells the story of a young Tokyo businessman who joins an online movie forum and develops a special bond with one of its members through back and forth e-mails. The film explores the themes of loneliness, communication, and identity in the digital age.
 The film is known for its innovative use of text and video to show the e-mail exchanges between the two protagonists, who use the aliases Haru and Hoshi. The film also contrasts their online interactions with their offline lives, showing how they cope with their personal problems and struggles.
 Haru is a touching and realistic portrayal of a long-distance relationship that blossoms through words. The film captures the emotions and challenges of finding connection and intimacy in a virtual world. The film also questions the boundaries between reality and fiction, and how our digital selves influence our material selves.',
 DATE '1996-03-09',
@@ -1578,7 +1577,7 @@ NULL,
 'b5c4961e-7bf0-44c1-8ea3-a3cb1a1c17fe'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('A City of Sadness',
 'A City of Sadness is a 1989 Taiwanese historical drama directed by Hou Hsiao-hsien that depicts the turbulent and tragic events that befell Taiwan after the end of Japanese colonial rule in 1945. The film follows the lives of the Lin family, who run a bar called “Little Shanghai” and have four sons with different fates and aspirations. The film portrays the social and political upheavals that Taiwan faced under the Kuomintang government (KMT), which imposed martial law and suppressed dissent, leading to the February 28 Incident of 1947, a brutal massacre of thousands of Taiwanese civilians.
 The film is known for being the first to deal openly with the KMT’s authoritarian misdeeds and the first to depict the February 28 Incident on screen. It is also acclaimed for its innovative and elliptical narrative style, which relies on off-screen events, voice-overs, intertitles, and historical documents to convey the complex and fragmented history of Taiwan. The film uses multiple languages, including Taiwanese, Mandarin, Japanese, Cantonese, and Shanghainese, to reflect the linguistic diversity and identity crisis of the Taiwanese people.
@@ -1598,7 +1597,7 @@ https://i.postimg.cc/y6JjKLKB/a-city-of-sadness-4.jpg
 'ec81fde9-c092-4b46-bf8f-3dcbb7996b46'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Hanagatami',
 'Hanagatami is a visually stunning Japanese film directed by Nobuhiko Obayashi that tells the story of a group of young friends coming of age during World War II. Set in a seaside town in Japan, the film follows the struggles and dreams of the main character, Toshihiko, and his friends as they navigate the tumultuous times of war.
 The film is known for its unique visual style, characterized by Obayashi''s innovative use of colors, textures, and surreal imagery. The scenes are vivid and dreamlike, creating a sense of poetic beauty amidst the chaos of war. The film''s cinematography, set design, and costumes are meticulously crafted to create a visually rich and immersive experience.
@@ -1618,7 +1617,7 @@ https://i.postimg.cc/hPXK8z3m/hanagatami-4.jpg
 '6f532821-b51f-4d3b-b64a-951839f48f91'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('House',
 'House by Nobuhiko Obayashi is a visually striking and surreal Japanese horror-comedy film that tells the story of a group of schoolgirls who visit a mysterious and haunted house during their summer vacation. As they explore the house, they encounter supernatural occurrences, bizarre events, and face their own fears and traumas.
 The movie is known for its avant-garde and experimental filmmaking style, with Obayashi using unconventional techniques such as stop-motion animation, optical illusions, and surreal visual effects to create a dreamlike and unsettling atmosphere. The film''s unique blend of horror, comedy, and fantasy creates a tone that is simultaneously eerie, absurd, and humorous.
@@ -1639,7 +1638,7 @@ https://i.postimg.cc/3wDVHjMM/house-4.jpg
 '6f532821-b51f-4d3b-b64a-951839f48f91'
 );
 
-INSERT INTO movie(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('Perfumed Nightmare',
 'Perfumed Nightmare is a groundbreaking Philippine film directed by Kidlat Tahimik. The story follows a young Filipino man named Kidlat who dreams of escaping his small village and becoming a successful filmmaker. Inspired by Western consumerism and the American dream, Kidlat embarks on a humorous and surreal journey to find his place in the modern world.
 Perfumed Nightmare is distinguished by its unique blend of documentary-style storytelling and experimental filmmaking techniques. The movie is known for its unconventional narrative structure, combining personal anecdotes, mythological references, and political commentary. Kidlat Tahimik uses a playful and satirical approach to examine the clash between traditional Filipino culture and the influences of Western capitalism.

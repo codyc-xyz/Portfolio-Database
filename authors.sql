@@ -1,4 +1,4 @@
-CREATE TABLE author (
+CREATE TABLE authors (
   author_uid UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
   author_biography TEXT NOT NULL,
   author_image VARCHAR(255) NOT NULL,
@@ -7,7 +7,7 @@ CREATE TABLE author (
   date_author_deceased DATE
 );
 
-INSERT INTO author (author_name, author_biography, date_author_born, date_author_deceased, author_image) 
+INSERT INTO authors (author_name, author_biography, date_author_born, date_author_deceased, author_image) 
 VALUES ('Søren Kierkegaard', 
 'Søren Kierkegaard was a Danish philosopher, theologian, and writer widely regarded as the father of existentialism. His work explored the depths of the human experience, and he is best known for his unique and often challenging views on faith, ethics, and the meaning of life.
 Kierkegaard''s writings, which include works of philosophy, theology, and literature, are marked by a profound sense of introspection and a deep concern with the individual''s relationship to God, to society, and to oneself. He is known for his use of paradox, irony, and pseudonyms, and his works often challenge conventional wisdom and the accepted norms of his time.
@@ -16,7 +16,7 @@ DATE '1813-05-05',
 DATE '1855-11-11',
 'https://i.postimg.cc/XqHbbbG9/soren-kierkegaard.jpg');
 
-INSERT INTO author (author_name, author_biography, date_author_born, date_author_deceased, author_image) 
+INSERT INTO authors (author_name, author_biography, date_author_born, date_author_deceased, author_image) 
 VALUES ('Albert Camus', 
 'Albert Camus was a French writer known for his contributions to existentialism, absurdism, and humanism. His philosophy was deeply influenced by his experiences of war, political upheaval, and human suffering. 
 Camus rejected nihilism and the idea of absolute freedom, instead embracing the concept of the absurd. He believed that human beings are driven to search for meaning and purpose in a world that is fundamentally meaningless. According to Camus, this search is futile, but it is also essential to the human experience. 

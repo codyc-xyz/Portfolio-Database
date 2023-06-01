@@ -711,3 +711,14 @@ NULL,
 'https://i.postimg.cc/sDsJjYWF/kidlat-tahimik.jpg',
 'Philippines'
 );
+
+INSERT INTO directors(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Jiang Wen',
+'Jiang Wen is a highly acclaimed Chinese film director, actor, and screenwriter. Born in Tangshan, Hebei, China, he embarked on a career in the film industry in the 1980s and has since become one of the most influential figures in Chinese cinema. Jiang Wen''s background is marked by his unique blend of artistic creativity and social consciousness. He is known for his rebellious spirit, often challenging traditional norms and exploring controversial themes through his work.
+Jiang Wen is widely recognized for his distinctive directorial style and innovative storytelling techniques. He has garnered international recognition for his films, which are characterized by their boldness, unpredictability, and a fusion of different genres. Jiang Wen''s films often blur the boundaries between reality and fantasy, combining elements of drama, dark comedy, action, and historical narratives. He possesses a keen eye for capturing raw emotions and human complexities, skillfully blending intense performances with visually striking cinematography.
+Jiang Wen frequently explores power dynamics and corruption. He delves into the complexities of human nature and the ways in which individuals navigate within oppressive systems. His works often examine societal issues, historical events, and political climates, offering sharp commentaries on power structures and their impact on individuals and communities. Through his storytelling, he sheds light on the human condition, provoking viewers to question the status quo and challenge established norms.',
+DATE '1963-01-05',
+NULL,
+'https://i.postimg.cc/jSsZzhP5/jiang-wen.webp',
+'China'
+);

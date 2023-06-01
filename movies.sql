@@ -214,7 +214,7 @@ The movie is known for its poignant portrayal of the human condition, particular
 Thematically, The 400 Blows explores the complexities of adolescence, the impact of neglect and societal pressures on youth, and the search for identity and belonging. It raises questions about the nature of authority, the limitations of conventional education, and the consequences of societal expectations on young individuals. Through Antoine''s struggles and emotions, Truffaut presents a critique of a flawed society that fails to provide adequate support and guidance to its younger generation.',
 DATE '1959-05-04',
 99,
-'{Drama, "Coming of Age", "Art House", "Psychological Drama"}',
+'{Drama, "Coming of Age", "Art House"}',
 'https://i.postimg.cc/fLYNPDRh/the-400-blows.jpg',
 'https://letterboxd.com/film/the-400-blows/',
 '{https://i.postimg.cc/qMrpKhMX/the-400-blows-1.jpg,
@@ -1120,7 +1120,7 @@ Branded to Kill is set apart by its unique style and unconventional narrative ch
 Branded to Kill explores the concepts of identity and existentialism. The protagonist, Goro Hanada, grapples with his sense of self as he navigates a world filled with violence, betrayal, and deception. The film also delves into the dark and nihilistic aspects of human nature, examining the psychological and emotional toll of a life consumed by violence.',
 DATE '1967-06-15',
 91,
-'{Crime, Thriller. Action, Noir}',
+'{Crime, Thriller, Action, Noir}',
 'https://i.postimg.cc/C1VLK1sf/branded-to-kill.jpg',
 'https://letterboxd.com/film/branded-to-kill/',
 '{https://i.postimg.cc/9MrMSSbL/branded-to-kill-1.jpg,
@@ -1656,4 +1656,26 @@ https://i.postimg.cc/d03KLgR9/perfumed-nightmare-4.jpg
 'Philippines',
 '{Nudity}',
 'a5f67e77-79b3-4f50-9b51-de9f4cf59c86'
+);
+
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('In the Heat of the Sun',
+'In the Heat of the Sun is a Chinese film directed by Jiang Wen. Set during the Cultural Revolution in the 1970s, the movie follows the coming-of-age journey of a young boy named Ma Xiaojun, who spends his days with a group of rebellious friends in Beijing. The carefree days of their adolescence are marked by mischief, pranks, and a sense of rebellion against the established order. They navigate the challenges and uncertainties of their lives, finding solace in their camaraderie and youthful energy.
+In the Heat of the Sun blurs the line between reality and imagination, weaving together memories, dreams, and subjective experiences. Through Xiaojun''s perspective, the film captures the nostalgia and idealism of youth, while also presenting a critique of the idealized images often associated with that time.
+The film is known for its poetic and nostalgic portrayal of youth, capturing the carefree spirit and restless energy of its characters amidst the political turmoil of the era. Through the eyes of Ma Xiaojun, the movie explores themes of rebellion, friendship, and the loss of innocence. It delves into the complex dynamics between the young characters as they navigate the changing social landscape and confront their own desires, dreams, and limitations.
+It examines the dynamics between the characters, their shared experiences, and the unspoken tensions that underlie their relationships. Through Xiaojun''s interactions with his friends, the film portrays the resilience, vulnerability, and fleeting nature of human connections.
+In the Heat of the Sun stands out for its visually stunning cinematography, employing vibrant colors and evocative imagery to convey both the vibrancy and melancholy of youth. Through its distinctive storytelling and thematic choices, it offers a poignant reflection on youth, friendship, and the lasting impact of historical events.',
+DATE '1994-04-30',
+134,
+'{Drama, "Coming of Age", Historical}',
+'https://i.postimg.cc/Rhwrk0b0/in-the-heat-of-the-sun.jpg',
+'https://letterboxd.com/film/in-the-heat-of-the-sun/',
+'{https://i.postimg.cc/tJBH9gHt/in-the-heat-of-the-sun-1.jpg,
+https://i.postimg.cc/yN04kjHN/in-the-heat-of-the-sun-2.jpg,
+https://i.postimg.cc/jSpYx9B9/in-the-heat-of-the-sun-3.jpg,
+https://i.postimg.cc/FHdQQmC3/in-the-heat-of-the-sun-4.jpg
+}',
+'China',
+'{Violence, "Sexual Content"}',
+'192d6596-3e4f-4b86-8f25-b7e194610e6b'
 );

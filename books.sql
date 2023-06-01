@@ -8,11 +8,12 @@ CREATE TABLE books (
   isbn VARCHAR(20) NOT NULL,
   book_cover_image VARCHAR(255),
   goodreads_link VARCHAR(255),
+  country_of_origin VARCHAR(255);
   author_uid UUID NOT NULL,
   FOREIGN KEY (author_uid) REFERENCES author(author_uid)
 );
 
-INSERT INTO books (book_title, book_description, date_book_published, pages, book_subjects, isbn, book_cover_image, goodreads_link, author_uid)
+INSERT INTO books (book_title, book_description, date_book_published, pages, book_subjects, isbn, book_cover_image, goodreads_link, country_of_origin, author_uid)
 VALUES ('Fear and Trembling', 
 'Fear and Trembling is a philosophical work written by Søren Kierkegaard in 1843. This book explores the theme of faith and the nature of the ethical and the religious life. It is known for its profound analysis of the story of Abraham and his willingness to sacrifice his son Isaac, as described in the Bible.
 In Fear and Trembling, Kierkegaard presents four different interpretations of the biblical story of Abraham. He delves into the moral and ethical implications of Abraham''s actions, questioning whether the religious sphere is beyond the ethical sphere. Kierkegaard examines the concept of faith and argues that true faith involves a leap beyond reason and the suspension of the ethical.
@@ -24,6 +25,7 @@ DATE '1843-10-16',
 '978-0140444490', 
 'https://i.postimg.cc/66mpys0Y/fear-and-trembling.jpg', 
 'https://www.goodreads.com/book/show/24965.Fear_and_Trembling', 
+'Denmark',
 '072dfd0a-3638-4028-8993-d10dc67f2801');
 
 INSERT INTO books (book_title, book_description, date_book_published, pages, book_subjects, isbn, book_cover_image, goodreads_link, author_uid)
@@ -38,6 +40,7 @@ DATE '1841-09-29',
 '978-0-691-02072-3', 
 'https://i.postimg.cc/15krQjVj/concept-of-irony.jpg', 
 'https://www.goodreads.com/book/show/99290.The_Concept_of_Irony', 
+'Denmark',
 '072dfd0a-3638-4028-8993-d10dc67f2801');
 
 INSERT INTO books (book_title, book_description, date_book_published, pages, book_subjects, isbn, book_cover_image, goodreads_link, author_uid)
@@ -52,6 +55,7 @@ DATE '1843-02-20',
 '978-0691020419', 
 'https://i.postimg.cc/1X2mT6tL/either-or-part-I.jpg', 
 'https://www.goodreads.com/book/show/24971.Either_Or_Part_I', 
+'Denmark',
 '072dfd0a-3638-4028-8993-d10dc67f2801');
 
 INSERT INTO books (book_title, book_description, date_book_published, pages, book_subjects, isbn, book_cover_image, goodreads_link, author_uid)
@@ -81,6 +85,7 @@ DATE '1844-06-17',
 '978-1631490040', 
 'https://i.postimg.cc/4356p4LD/the-concept-of-anxiety.jpg', 
 'https://www.goodreads.com/book/show/17987667-the-concept-of-anxiety', 
+'Denmark',
 '072dfd0a-3638-4028-8993-d10dc67f2801');
 
 INSERT INTO books (book_title, book_description, date_book_published, pages, book_subjects, isbn, book_cover_image, goodreads_link, author_uid)
@@ -95,6 +100,7 @@ DATE '1942-01-01',
 '0-679-73373-6', 
 'https://i.postimg.cc/1t3pBxbf/myth-of-sisyphus.jpg', 
 'https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus', 
+'France',
 '92a4b579-8eb9-4c8a-bb21-78e34a752b5a');
 
 

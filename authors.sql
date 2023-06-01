@@ -4,16 +4,18 @@ CREATE TABLE authors (
   author_image VARCHAR(255) NOT NULL,
   author_name VARCHAR(255) NOT NULL,
   date_author_born DATE NOT NULL,
-  date_author_deceased DATE
+  date_author_deceased DATE,
+  country_of_birth VARCHAR(255) NOT NULL
 );
 
-INSERT INTO authors (author_name, author_biography, date_author_born, date_author_deceased, author_image) 
+INSERT INTO authors (author_name, author_biography, date_author_born, date_author_deceased, country_of_birth, author_image) 
 VALUES ('Søren Kierkegaard', 
 'Søren Kierkegaard was a Danish philosopher, theologian, and writer widely regarded as the father of existentialism. His work explored the depths of the human experience, and he is best known for his unique and often challenging views on faith, ethics, and the meaning of life.
 Kierkegaard''s writings, which include works of philosophy, theology, and literature, are marked by a profound sense of introspection and a deep concern with the individual''s relationship to God, to society, and to oneself. He is known for his use of paradox, irony, and pseudonyms, and his works often challenge conventional wisdom and the accepted norms of his time.
 Kierkegaard''s ideas have had a profound impact on the development of 20th-century philosophy, particularly in the areas of existentialism, phenomenology, and hermeneutics. His emphasis on the importance of the individual, the subjective experience of existence, and the necessity of personal choice and responsibility continues to resonate with contemporary thinkers and readers.',
 DATE '1813-05-05', 
 DATE '1855-11-11',
+'Denmark'
 'https://i.postimg.cc/XqHbbbG9/soren-kierkegaard.jpg');
 
 INSERT INTO authors (author_name, author_biography, date_author_born, date_author_deceased, author_image) 
@@ -23,5 +25,6 @@ Camus rejected nihilism and the idea of absolute freedom, instead embracing the 
 Camus also emphasized the importance of individual freedom and the need to resist oppressive systems. He was critical of both communism and capitalism, seeing both as forms of oppression that limit human freedom and autonomy. Instead, he advocated for a more humanistic approach that valued individual dignity and respect for human life.',
 DATE '1913-11-07', 
 DATE '1960-01-04',
+'France',
 'https://i.postimg.cc/J04Lvnn1/albert-camus.jpg');
 

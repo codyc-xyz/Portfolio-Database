@@ -128,7 +128,7 @@ Themes of unrequited love, loneliness, and longing are recurrent in Wong Kar-wai
 DATE '1958-07-17',
 NULL,
 'https://i.postimg.cc/d1vCzG9J/wong-kar-wai.jpg',
-'Hong Kong'
+'China'
 );
 
 INSERT INTO directors(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)

@@ -16,7 +16,7 @@ Noé is known for pushing the boundaries of cinema with his provocative and cont
 Themes of existentialism, sexuality, violence, and the human psyche are recurring in Noé''s films. He often delves into the darker aspects of human nature, exploring the complexities of desire, obsession, and self-destructive behavior. Noé''s films also often blur the boundaries between reality and illusion, challenging the traditional narrative structure and pushing the boundaries of cinematic storytelling. His work has been described as confrontational, thought-provoking, and controversial, inviting audiences to question and challenge societal norms and conventions.',
 DATE '1963-12-27',
 NULL,
-'https://i.postimg.cc/V60K7JZD/gaspar-noe.jpg',
+'https://i.postimg.cc/pTpSMP8b/gaspar-noe-adjusted.jpg',
 'Argentina'
 );
 
@@ -27,7 +27,7 @@ Meirelles is renowned for his masterful storytelling and visual aesthetics. Meir
 Themes of social and political relevance are prominent in Meirelles'' work. He often explores issues such as poverty, inequality, corruption, and human rights, shining a light on the harsh realities faced by marginalized communities. Meirelles is known for his unflinching portrayal of the human condition, delving into the depths of human nature, and challenging societal norms and structures. Through his films, Meirelles pushes the boundaries of conventional storytelling, encouraging audiences to reflect on the world around them and confront uncomfortable truths. His thought-provoking films are known for their emotional depth, philosophical inquiries, and social commentary.',
 DATE '1955-11-09',
 NULL,
-'https://i.postimg.cc/WzWth4Tc/fernando-meirelles.jpg',
+'https://i.postimg.cc/Jh7gKNzh/fernando-meirelles-adjusted.jpg',
 'Brazil'
 );
 
@@ -38,7 +38,7 @@ Kurosawa is known for his masterful storytelling, innovative visual techniques, 
 Throughout his career, Kurosawa focused on a range of themes that reflected his observations and concerns about society and the human condition. He often depicted the struggles of individuals against social and political injustices, the consequences of violence and war, and the complexities of human nature. Kurosawa also explored the concepts of honor, loyalty, and duty, as well as the search for meaning and redemption in a changing world. His films often delved into the psychological depths of his characters, presenting complex moral dilemmas and ethical questions for the audience to ponder.',
 DATE '1910-03-23',
 DATE '1998-09-06',
-'https://i.postimg.cc/yx6bztcW/akira-kurosawa.jpg',
+'https://i.postimg.cc/DybxcCQ6/akira-kurosawa-adjusted.jpg',
 'Japan'
 );
 
@@ -49,7 +49,7 @@ Kaufman is known for his surreal, introspective, and often metafictional style o
 Themes of existentialism, self-reflection, and the search for meaning in life are prominent in Kaufman''s work. He often explores the inner struggles, anxieties, and vulnerabilities of his characters, delving into the human psyche with a keen eye for detail and emotional depth. Kaufman''s films are known for their deep emotional resonance, as they explore the complexities of human emotions and the existential questions that arise from the human condition. His work often reflects a sense of introspection, grappling with the inherent uncertainties and contradictions of life, and questioning the nature of reality itself. Kaufman''s unique blend of surrealism, introspection, and philosophical inquiry has made him a distinct and influential voice in contemporary cinema.',
 DATE '1958-11-19',
 NULL,
-'https://i.postimg.cc/jq3SFJpQ/charlie-kaufman.jpg',
+'https://i.postimg.cc/hj50LxfN/charlie-kaufman-adjusted.jpg',
 'United States of America'
 );
 
@@ -60,7 +60,7 @@ Kim Ki-duk is best known for his visually stunning and emotionally charged films
 Themes of redemption, spirituality, and human suffering are common in Kim Ki-duk''s films. He often delves into the complexities of human relationships and the struggles individuals face in a society that can be harsh and unforgiving. Kim Ki-duk''s films often portray characters who are marginalized or disenfranchised, and he sheds light on the harsh realities faced by those on the fringes of society. Despite the controversial and sometimes challenging nature of his works, Kim Ki-duk''s films are often praised for their boldness and unique artistic vision.',
 DATE '1960-12-20',
 DATE '2020-12-11',
-'https://i.postimg.cc/667npwfK/kim-ki-duk.jpg',
+'https://i.postimg.cc/Y9GdybKt/kim-ki-duk-adjusted.jpg',
 'South Korea'
 );
 
@@ -71,7 +71,7 @@ Otomo''s work is characterized by his ability to seamlessly blend elements of sc
 Throughout his career, Otomo has focused on several recurring themes in his work. One of his main themes is the exploration of the relationship between technology and society, often portraying a dystopian future where advanced technology has both positive and negative impacts on humanity. Otomo also delves into themes of power dynamics, corruption, and the consequences of human actions. His films often feature complex characters who grapple with moral dilemmas, societal pressures, and the consequences of their choices. Otomo''s work is known for its thought-provoking and philosophical nature, challenging audiences to reflect on the complexities of the modern world.',
 DATE '1954-04-14',
 NULL,
-'https://i.postimg.cc/kXvZMkCn/katsuhiro-otomo.jpg',
+'https://i.postimg.cc/tgmr58cr/katsuhiro-otomo-adjusted.jpg',
 'Japan'
 );
 
@@ -82,7 +82,7 @@ Ozu is widely recognized for his minimalist and contemplative approach to filmma
 Ozu often explored the concept of filial piety, which is deeply rooted in Japanese culture. He explored the complex relationships between parents and children, as well as the conflicts that arise when traditional values clash with modern ideals. Ozu''s films were renowned for their treatment of loneliness, loss, and the passage of time, capturing the bittersweet emotions of human existence. His films are renowned for their deep emotional resonance, their profound understanding of human nature, and their ability to capture the subtle nuances of human relationships with authenticity and sensitivity.',
 DATE '1903-12-12',
 DATE '1963-12-12',
-'https://i.postimg.cc/sD1G9H93/yasujiro-ozu.jpg',
+'https://i.postimg.cc/qBcsB9G9/yasujiro-ozu-adjusted.jpg',
 'Japan'
 );
 
@@ -93,7 +93,7 @@ Itami is widely known for his satirical comedies that often explored social and 
 Itami''s work was distinctive in its analysis of Japanese culture and society. He often used satire and humor to critique and challenge social norms, traditions, and taboos in Japan, including topics such as gender roles, sexuality, and the role of the individual in a conformist society. Itami''s films also often portrayed the struggles of ordinary people against societal expectations and explored the concept of personal freedom in a conforming society. He was known for his keen observations of human behavior and his ability to capture the nuances of Japanese culture in his films.',
 DATE '1933-05-15',
 DATE '1997-12-20',
-'https://i.postimg.cc/HxJGc1cw/juzo-itami.jpg',
+'https://i.postimg.cc/tggSF9BZ/juzo-itami-adjusted.jpg',
 'Japan'
 );
 
@@ -104,7 +104,7 @@ Truffaut is known for his distinctive directorial voice, characterized by his in
 Throughout his career, Truffaut explored a wide range of themes in his films. He often delved into the complexities of love, relationships, and human connections, often portraying them in a realistic and raw manner. Truffaut''s films also frequently examined the process of growing up and the challenges faced by children and adolescents as they navigate the complexities of the adult world. Truffaut was known for his incisive critiques of societal norms, especially regarding marriage, family, and social expectations. His films were often characterized by their emotional authenticity, nuanced characterizations, and their exploration of the human condition.',
  DATE '1932-02-06',
  DATE '1984-10-21',
- 'https://i.postimg.cc/2jFDr9jC/francois-truffaut.jpg',
+'https://i.postimg.cc/d0Wffhhj/francois-truffaut-adjusted.jpg',
  'France'
 );
 
@@ -115,7 +115,7 @@ Kubrick''s films are known for their technical brilliance and thought-provoking 
 Themes of existentialism, the nature of violence, the impact of technology on humanity, and the human quest for meaning are prominent in Kubrick''s films. He often portrayed characters who grapple with their own internal struggles and the complexities of the human experience, while also critiquing societal norms and institutions. Kubrick was known for his subversive and provocative approach to storytelling, often challenging the status quo and pushing the boundaries of cinematic conventions. His films have been described as visually stunning, psychologically haunting, and intellectually stimulating.',
 DATE '1928-07-26',
 DATE '1999-03-07',
-'https://i.postimg.cc/QMqgtyCD/stanley-kubrick.jpg',
+'https://i.postimg.cc/y8pX4cTx/stanley-kubrick-adjusted.jpg',
 'United States of America'
 );
 
@@ -127,7 +127,7 @@ Wong Kar-wai is known for his visually striking films that often explore themes 
 Themes of unrequited love, loneliness, and longing are recurrent in Wong Kar-wai''s films. He often delves into the complexities of human emotions, exploring the yearning for connection and intimacy in a modern, fast-paced world. Wong Kar-wai''s films also often portray the struggles of individuals who are caught between societal expectations and their own desires, creating a sense of yearning and nostalgia. His films often depict the fragility of human relationships and the fleeting nature of time, resulting in deeply moving and emotionally resonant stories that leave a lasting impact on the audience.',
 DATE '1958-07-17',
 NULL,
-'https://i.postimg.cc/d1vCzG9J/wong-kar-wai.jpg',
+'https://i.postimg.cc/SR4c7rmT/wong-kar-wai-adjusted.jpg',
 'China'
 );
 
@@ -138,7 +138,7 @@ Altman is best known for his distinctive style of filmmaking, which often featur
 Throughout his career, Altman explored a wide range of themes in his films. He often delved into the flawed nature of human behavior, exposing the dark underbelly of American society while also celebrating its eccentricities. Altman had a keen eye for exploring power dynamics, social hierarchies, and the intersection of politics and human behavior. His films often questioned traditional storytelling conventions and challenged societal norms, making him a trailblazer in the realm of American cinema.',
 DATE '1925-02-20',
 DATE '2006-11-20',
-'https://i.postimg.cc/RCdqY8FY/robert-altman.jpg',
+'https://i.postimg.cc/0jGdL4t1/robert-altman-adjusted.jpg',
 'United States of America'
 );
 
@@ -149,7 +149,7 @@ Park Chan-wook''s films are known for their unflinching exploration of human nat
 Park Chan-wook often explores the consequences of human actions. He delves into the complexities of human behavior, blurring the lines between good and evil, and often depicts the psychological and emotional toll of vengeance and the cycle of violence. Park''s films provide a thought-provoking examination of the human condition, offering a nuanced and often challenging perspective on morality, ethics, and the choices individuals make.',
 DATE '1963-08-23',
 NULL,
-'https://i.postimg.cc/P5yTd6NR/park-chan-wook.webp',
+'https://i.postimg.cc/tg7kY2gF/park-chan-wook-adjusted.jpg',
 'South Korea'
 );
 
@@ -160,7 +160,7 @@ Weir is known for his ability to tell stories that captivate audiences with thei
 Themes of identity, transformation, and the search for meaning are prominent in Weir''s work. His films often delve into the psychological and emotional aspects of human experience, challenging audiences to question their perceptions of reality and explore the deeper truths that lie beneath the surface. Weir''s films also often feature strong characters who undergo profound personal transformations, navigating through life-changing events and facing their inner conflicts with courage and resilience.',
 DATE '1944-08-21',
 NULL,
-'https://i.postimg.cc/NFTKsLJD/peter-weir.jpg',
+'https://i.postimg.cc/RhxLpmLT/peter-weir-adjusted.jpg',
 'Australia'
 );
 
@@ -171,7 +171,7 @@ Yang is primarily known for his authentic and poignant portrayals of everyday li
 Themes of memory, identity, and urbanization are prominent in Yang''s films. He often delves into the concept of cultural displacement, examining the tension between tradition and modernity in Taiwanese society. Yang''s films also frequently explore the impact of societal changes on individuals, particularly in the context of rapid urbanization and globalization. His work is known for its thought-provoking exploration of the human condition, and his ability to portray the complexity and contradictions of life with nuance and depth, making him one of the most respected directors in Taiwanese cinema.',
 DATE '1947-11-06',
 DATE '2007-06-29',
-'https://i.postimg.cc/XN1qZrrQ/edward-yang.jpg',
+'https://i.postimg.cc/CM93Ynmv/edward-yang-adjusted.jpg',
 'Taiwan'
 );
 
@@ -182,7 +182,7 @@ Parajanov is primarily known for his films, which are characterized by their ric
 Themes of identity, culture, and spirituality are central to Parajanov''s works. He often explored the plight of marginalized groups, such as ethnic minorities and LGBTQ+ communities, and delved into the complexities of human emotions and relationships. Parajanov''s films also often depicted the struggle between traditional values and modernity, and the tension between individual freedom and societal norms. Through his films, Parajanov pushed the boundaries of cinematic expression and challenged the status quo, leaving a lasting legacy as one of the most innovative and influential filmmakers of his time.',
 DATE '1924-01-09',
 DATE '1990-07-20',
-'https://i.postimg.cc/Vs75hmCr/sergei-parajanov.jpg',
+'https://i.postimg.cc/CxxHQmk9/sergei-parajanov-adjusted.jpg',
 'Armenia'
 );
 
@@ -193,7 +193,7 @@ Cuarón is known for his distinct directorial vision, marked by his meticulous a
 Cuarón''s films often delve into social and political issues, particularly those related to class, identity, and the human experience. He frequently portrays characters who are marginalized, oppressed, or grappling with existential crises. Cuarón''s films often showcase his keen observation of the human condition, as he poignantly captures the triumphs, tragedies, and intricacies of human life. With a penchant for thought-provoking storytelling, Cuarón''s films often challenge societal norms, explore the complexities of human relationships, and offer profound insights into the human experience.',
 DATE '1961-11-28',
 NULL,
-'https://i.postimg.cc/qq902kmg/alfonso-cuaron.webp',
+'https://i.postimg.cc/NjqpC1pc/alfonso-cuaron-adjusted.jpg',
 'Mexico'
 );
 
@@ -204,7 +204,7 @@ Imamura is known for his distinctive directorial style, which combines a raw and
 Imamura''s work often delves into the themes of human desire, morality, and societal norms. He explored the human psyche and the intricate motivations that drive individuals to make choices, both rational and irrational. Imamura''s films also often examine the tension between traditional Japanese values and the changing modern society, as well as the impact of historical events on the psyche of individuals and communities. Imamura''s nuanced and multi-layered approach to storytelling often left audiences with deep introspection and a renewed understanding of the complexity of the human experience.',
 DATE '1926-09-15',
 DATE '2006-05-30',
-'https://i.postimg.cc/jSzCdZT0/shohei-imamura.jpg',
+'https://i.postimg.cc/5tZBjJTM/shohei-imamura-adjusted.jpg',
 'Japan'
 );
 
@@ -215,7 +215,7 @@ Kurt Kuenne is best known for his ability to evoke deep emotions through his sto
 Throughout his career, Kurt Kuenne has explored a variety of themes in his films. One of the recurring themes in his work is the exploration of human emotions and the human condition. Kuenne often delves into the depths of the human psyche, examining the complexities of human relationships and the intricacies of human emotions. He also often touches on the themes of love, loss, forgiveness, and redemption, exploring the human capacity for healing and growth. Kuenne''s films are known for their emotional depth and nuanced exploration of the human experience, leaving audiences with a deep sense of introspection and reflection.', 
 DATE '1973-10-24',
 NULL,
-'https://i.postimg.cc/52mf4DWc/kurt-kuenne.jpg',
+'https://i.postimg.cc/qBKmsbxL/kurt-kuenne-adjusted.jpg',
 'United States of America'
 );
 
@@ -226,7 +226,7 @@ Yamamoto is best known for his distinct visual style and his bold approach to st
 Yamamoto''s works often revolve around complex themes and social issues. He is known for addressing taboo subjects such as sexuality, gender, and societal norms in his films. Yamamoto often explores the human condition, depicting the struggles, desires, and conflicts of his characters in a raw and unflinching manner. His films also often feature allegories and metaphors that reflect on the nature of humanity, spirituality, and existentialism. Through his thought-provoking narratives and visual storytelling, Yamamoto has left a lasting impact on the world of anime and film, challenging conventions and pushing the boundaries of the medium.',
 DATE '1940-11-22',
 DATE '2021-09-07',
-'https://i.postimg.cc/hGv660YB/eiichi-yamamoto.jpg',
+'https://i.postimg.cc/VLM3Nshz/eiichi-yamamoto-adjusted.jpg',
 'Japan'
 );
 
@@ -237,7 +237,7 @@ Tsai Ming-Liang is known for his slow-paced and contemplative films that often d
 Themes of human connection, communication, and isolation are central to Tsai Ming-Liang''s body of work. He often portrays characters who are disconnected from their surroundings or unable to establish meaningful relationships, highlighting the impact of modern urban living on the human psyche. Tsai''s films often depict the mundane and banal aspects of daily life, revealing the beauty and complexity in seemingly ordinary moments. He also explores issues such as sexuality, spirituality, and the search for identity, often delving into the emotional struggles and vulnerabilities of his characters. Tsai''s films are known for their poetic and allegorical quality, inviting viewers to reflect on the human experience and the challenges of living in a fast-paced, disconnected world.',
 DATE '1957-10-27',
 NULL,
-'https://i.postimg.cc/0QTHF1gg/tsai-ming-liang.webp',
+'https://i.postimg.cc/GpBPctMQ/tsai-ming-liang-adjusted.jpg',
 'Malaysia'
 );
 
@@ -248,7 +248,7 @@ Kore-eda is known for his realistic and deeply empathetic portrayal of human rel
 Thematically, Kore-eda''s films often revolve around the concept of family, examining the joys, struggles, and conflicts that arise within familial relationships. He delves into the themes of memory, loss, and identity, often exploring the impact of social norms and expectations on individuals and families. Kore-eda has a keen ability to depict the fragility and vulnerability of human existence, capturing the nuances of human emotions and the complexities of human nature in a way that resonates deeply with audiences. His films are often introspective, thought-provoking, and compassionate, inviting viewers to reflect on their own lives and relationships.',
 DATE '1962-06-06',
 NULL,
-'https://i.postimg.cc/13ZPt43h/hirokazu-kore-eda.jpg',
+'https://i.postimg.cc/ZnND0jVw/hirokazu-kore-eda-adjusted.jpg',
 'Japan'
 );
 
@@ -259,7 +259,7 @@ Assayas is known for his versatile and eclectic style as a director. He has dabb
 Themes of identity, communication, and technology are recurring in Assayas'' films. He often explores the challenges and changes brought about by the rapid evolution of modern society, including the impact of globalization, digitalization, and the interconnectedness of the world. Assayas also delves into the intricacies of human relationships, particularly the complexities of love, intimacy, and loss. His films often feature multi-dimensional characters who grapple with their own desires, fears, and vulnerabilities, creating a rich tapestry of emotions and experiences that resonate with audiences on a deep level. Assayas'' work is characterized by its thought-provoking storytelling, innovative filmmaking techniques, and profound exploration of the human condition.',
 DATE '1955-01-25',
 NULL,
-'https://i.postimg.cc/J0BrYz81/olivier-assayas.jpg',
+'https://i.postimg.cc/Mp9t6hzW/olivier-assayas-adjusted.jpg',
 'France'
 );
 
@@ -270,7 +270,7 @@ Boyle is renowned for his ability to create visually stunning and emotionally en
 Boyle''s work often explores the human condition and the complexities of human emotions. He often delves into the raw and gritty aspects of human existence, portraying flawed characters struggling with their inner demons and societal pressures. Boyle''s films also often touch on themes of redemption, survival, and the resilience of the human spirit in the face of adversity. He has a knack for capturing the beauty in the mundane and finding hope in the darkest of situations, creating a unique and thought-provoking cinematic experience for his audiences.',
 DATE '1956-10-20',
 NULL,
-'https://i.postimg.cc/pVDQk0fC/danny-boyle.jpg',
+'https://i.postimg.cc/5jcqGV53/danny-boyle-adjusted.jpg',
 'United Kingdom'
 );
 
@@ -281,7 +281,7 @@ Brocka is widely recognized for his groundbreaking work in Philippine cinema, of
 Throughout his career, Brocka''s films consistently delved into themes of social inequality, human rights, and the plight of the marginalized. He was deeply committed to portraying the struggles of the common people and shedding light on the social injustices faced by the underprivileged. His films often examined the complex dynamics of power and corruption, and the impact of socio-political systems on individuals and communities. Brocka''s unflinching exploration of these themes made him a prominent figure in Philippine cinema and a powerful advocate for social change, leaving a lasting legacy as one of the most important directors in the history of Filipino cinema.',
 DATE '1939-04-03',
 DATE '1991-05-22',
-'https://i.postimg.cc/NFSkCJxz/lino-brocka.jpg',
+'https://i.postimg.cc/Qxrf0Q6r/lino-brocka-adjusted.jpg',
 'Philippines'
 );
 
@@ -292,7 +292,7 @@ Kim Ki-young is best known for his innovative and experimental approach to filmm
 Throughout his career, Kim Ki-young focused on various themes in his films. He often explored the dynamics of power, gender, and social class, shedding light on the darker aspects of human nature. He was known for depicting complex female characters who challenged traditional gender roles and expectations. Kim Ki-young''s films often featured social commentary, critiquing the societal norms and values of Korean society during his time, and pushing the boundaries of what was considered acceptable in Korean cinema. His films were often controversial and pushed the limits of censorship, making him a pioneering figure in Korean cinema and a significant influence on subsequent generations of filmmakers.',
 DATE '1919-10-10',
 DATE '1998-02-05',
-'https://i.postimg.cc/hvNLGrpx/kim-ki-young.jpg',
+'https://i.postimg.cc/DZ9xVLnL/kim-ki-young-adjusted.jpg',
 'South Korea'
 );
 
@@ -303,7 +303,7 @@ Polanski is known for his distinctive filmmaking style, characterized by his use
 Throughout his career, Polanski has often focused on themes of trauma, identity, and the human condition. His films often explore the psychological effects of trauma, whether it be from a traumatic event in the past or the ongoing struggles of his characters. Polanski''s films also often delve into the complexities of human identity, including issues of gender, power dynamics, and societal norms. In addition, his work often touches on the absurdity of existence and the inherent darkness that can lurk beneath the surface of seemingly ordinary lives. Polanski''s films are known for their thought-provoking content, challenging audiences to confront uncomfortable truths about the human experience.',
 DATE '1933-08-18',
 NULL,
-'https://i.postimg.cc/BvHgydZF/roman-polanski.jpg',
+'https://i.postimg.cc/RCwR63vp/roman-polanski-adjusted.jpg',
 'France'
 );
 
@@ -314,7 +314,7 @@ Lynch is known for his surreal and atmospheric films that often blur the line be
 Throughout his career, Lynch has focused on several recurring themes that are prevalent in his films. These themes include the duality of human nature, the dark underbelly of suburban life, the exploration of the subconscious mind, and the complexities of human relationships. His films often depict a world that is both beautiful and unsettling, capturing the darker aspects of the human condition with a sense of poetic surrealism. Lynch''s work is known for its exploration of the subconscious mind, delving into the depths of the human psyche to reveal the hidden fears, desires, and mysteries that lurk beneath the surface of everyday life.',
 DATE '1946-01-20',
 NULL,
-'https://i.postimg.cc/x1F1rCSN/david-lynch.jpg',
+'https://i.postimg.cc/qBNP9xXh/david-lynch-adjusted.jpg',
 'United States of America'
 );
 
@@ -325,7 +325,7 @@ Hu Bo is known for his distinct directorial style, characterized by long takes, 
 Hu Bo''s films often revolve around the themes of loneliness, alienation, and the search for connection in an increasingly disconnected world. He delves into the inner struggles of his characters, exploring their emotional complexities and psychological states with remarkable depth and sensitivity. His films also highlight the tension between traditional values and contemporary society, shedding light on the disillusionment and loss of identity experienced by individuals caught in the midst of societal changes. Hu Bo''s work is known for its thought-provoking narratives and evocative imagery, which offer a poignant reflection on the human condition and leave a lasting impact on audiences.',
 DATE '1988-07-20',
 DATE '2017-10-12',
-'https://i.postimg.cc/5NwZF5qS/hu-bo.webp',
+'https://i.postimg.cc/WbRHxL1C/hu-bo-adjusted.jpg',
 'China'
 );
 
@@ -336,7 +336,7 @@ Morris is widely recognized for his pioneering work in the genre of documentary 
 Morris has tackled a diverse range of themes throughout his career. Many of his films explore the concept of truth and the ways in which it can be constructed, perceived, and manipulated. He has also delved into subjects such as crime and punishment, war and its aftermath, politics and power, and the nature of identity and memory. Morris''s films often provoke deep philosophical questions and challenge viewers to reconsider their assumptions and beliefs about the world around them, making him a highly influential figure in the field of documentary filmmaking.',
 DATE '1948-02-05',
 NULL,
-'https://i.postimg.cc/HnZ40kp7/errol-morris.jpg',
+'https://i.postimg.cc/kgmLR3rK/errol-morris-adjusted.jpg',
 'United States of America'
 );
 
@@ -347,7 +347,7 @@ Welles is renowned for his unique directorial style, characterized by his innova
 Themes of Welles'' work often revolved around the complexities of human nature, power dynamics, societal structures, and the blurred lines between truth and illusion. He often delved into the dark and flawed aspects of humanity, examining the complexities of human behavior and the consequences of one''s actions. Welles was known for his sharp critique of authority and social hierarchies, often challenging the status quo and advocating for social justice. His films were known for their deep psychological insights, philosophical musings, and thought-provoking narratives that left a lasting impression on audiences and critics alike.',
 DATE '1915-05-06',
 DATE '1985-10-10',
-'https://i.postimg.cc/zBbV2wY7/orson-welles.jpg',
+'https://i.postimg.cc/HLK25XJR/orson-welles-adjusted.jpg',
 'United States of America'
 );
 INSERT INTO directors(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
@@ -357,7 +357,7 @@ Bong Joon-ho is known for his distinctive style and genre-defying films that oft
 Bong Joon-ho''s films often revolve around themes of social inequality, class struggle, and human nature. He delves deep into the complexities of the human condition, exploring the dark and often hidden aspects of society and human behavior. Bong Joon-ho''s films often carry a powerful social and political message, critiquing the injustices and inequalities of the world while shedding light on the struggles and hopes of ordinary people. His films provoke thoughtful reflection on pressing societal issues, making audiences question the status quo and encouraging them to examine the world through a critical lens.',
 DATE '1969-09-14',
 NULL,
-'https://i.postimg.cc/GhNWH15g/bong-joon-ho.jpg',
+'https://i.postimg.cc/4dd5HwNz/bong-joon-ho-adjusted.jpg',
 'South Korea'
 );
 
@@ -368,7 +368,7 @@ Schrader is best known for his gritty and introspective films that often explore
 Schrader often focuses on the human condition and the struggle for identity and meaning in a chaotic world. His characters are often tormented by their inner demons, grappling with existential questions, and facing moral dilemmas. Schrader''s films also frequently explore themes of religion, guilt, redemption, and the darker aspects of the human psyche, delving into the complexities of human emotions and motivations. Through his films, Schrader presents a raw and unflinching portrayal of the human experience, often challenging societal norms and exploring the depths of the human soul.',
 DATE '1946-07-22',
 NULL,
-'https://i.postimg.cc/rpN94SQZ/paul-schrader.jpg',
+'https://i.postimg.cc/TwDcc1gw/paul-schrader-adjusted.jpg',
 'United States of America'
 );
 
@@ -379,7 +379,7 @@ Tarkovsky is known for his unique cinematic approach, characterized by long take
 Throughout his career, Tarkovsky consistently focused on profound themes that reflected his deep philosophical and spiritual convictions. His films often explore the human condition, delving into questions of identity, existence, and the meaning of life. Tarkovsky''s works frequently grapple with themes of spirituality, faith, and transcendence, and he often used religious and metaphysical imagery to convey his ideas. Nature and the environment also play a significant role in his films, serving as symbols for the human condition and representing the beauty and harshness of existence. Tarkovsky''s films continue to be celebrated for their intellectual complexity, emotional depth, and poetic sensibility.',
 DATE '1932-04-04',
 DATE '1986-12-29',
-'https://i.postimg.cc/D0Rydfhj/andrei-tarkovsky.jpg',
+'https://i.postimg.cc/N0QbBB3C/andrei-tarkovsky-adjusted.jpg',
 'Russia'
 );
 
@@ -390,7 +390,7 @@ Godard is known for his bold and innovative filmmaking techniques that challenge
 Thematically, Godard''s films often explore the human condition, existentialism, and the complexities of modern society. He is known for his philosophical and intellectual approach to storytelling, often incorporating complex dialogues, allegories, and visual symbolism in his films. His films also often reflect on the nature of cinema itself, exploring the relationship between reality and fiction, the role of the filmmaker, and the power dynamics between the audience and the screen. Godard''s films are known for their poetic and poetic nature, often raising questions and leaving the audience with a sense of ambiguity and introspection.',
 DATE '1930-12-03',
 DATE '2022-09-13',
-'https://i.postimg.cc/SxR8xJZf/jean-luc-godard.jpg',
+'https://i.postimg.cc/fRDgTcXv/jean-luc-godard-adjusted.jpg',
 'France'
 );
 
@@ -401,7 +401,7 @@ Kinoshita is best known for his distinct style of storytelling that combines mel
 Throughout his career, Kinoshita''s films often delved into the social and political issues of post-war Japan, such as the impact of war, the challenges of economic reconstruction, and the changing dynamics of family and society. He was known for his nuanced approach to characters and his keen observation of human behavior, which allowed him to explore complex themes with depth and authenticity. Kinoshita''s work often reflected his humanistic values and his belief in the power of compassion, empathy, and understanding to heal societal wounds and bring people together.',
 DATE '1912-12-05',
 DATE '1998-12-30',
-'https://i.postimg.cc/3JKNqYVD/keisuke-kinoshita.jpg',
+'https://i.postimg.cc/kGWf7GgZ/keisuke-kinoshita-adjusted.jpg',
 'Japan'
 );
 
@@ -412,7 +412,7 @@ Dolan is known for his raw and emotional filmmaking style that delves deep into 
 Themes of sexuality, coming of age, and the challenges of human connection are recurrent in Dolan''s films. He often explores the dynamics of family relationships, particularly the complex relationships between parents and children. Dolan''s films also frequently touch on issues of LGBTQ+ identity and the challenges faced by individuals navigating their sexual orientation and gender identity in society. Through his films, Dolan fearlessly confronts societal norms and challenges conventional storytelling, creating a distinct voice in contemporary cinema that resonates with audiences around the world.',
 DATE '1989-03-20',
 NULL,
-'https://i.postimg.cc/qMGD88Hg/xavier-dolan.jpg',
+'https://i.postimg.cc/1XKwWqt9/xavier-dolan-adjusted.jpg',
 'Canada'
 );
 
@@ -423,7 +423,7 @@ Fellini is known for his surreal and fantastical films that often blur the line 
 Throughout his career, Fellini explored a wide range of themes in his films. He often delved into the human condition, examining the complexities of the human mind, the struggles of individuals in modern society, and the search for meaning and purpose in life. Fellini''s films often depicted the joys and sorrows of the human experience, exploring themes such as love, desire, spirituality, and the human quest for self-identity. His films were known for their deep philosophical and existential undertones, as well as their vivid and imaginative portrayal of the human psyche.',
 DATE '1920-01-20',
 DATE '1993-10-31',
-'https://i.postimg.cc/dV8cC7t0/federico-fellini.jpg',
+'https://i.postimg.cc/DwPHqjFD/federico-fellini-adjusted.jpg',
 'Italy'
 );
 
@@ -434,7 +434,7 @@ As a director, Satoshi Kon was known for his visually stunning and psychological
 One of the recurring themes in Satoshi Kon''s works was the exploration of the human mind and the blurred lines between reality and fantasy. His films often delved into the psychological and emotional states of his characters, exploring the complexities of human nature, identity, and memory. Kon''s works also frequently addressed the impact of technology and media on society, questioning the nature of reality in the digital age. He often used unconventional narrative structures and visual techniques to represent the blurred boundaries between dreams and reality, challenging the viewer''s perception of what is real and what is imagined.',
 DATE '1963-10-12',
 DATE '2010-08-24',
-'https://i.postimg.cc/qR9G2xLh/satoshi-kon.jpg',
+'https://i.postimg.cc/NfYx1gMs/satoshi-kon-adjusted.jpg',
 'Japan'
 );
 
@@ -445,7 +445,7 @@ Kiarostami is known for his minimalist and contemplative approach to storytellin
 Throughout his career, Kiarostami delved into a wide range of themes in his films. He often explored the intersections of art, reality, and identity, challenging conventional narrative structures and pushing the boundaries of cinematic form. He frequently depicted the lives of children and marginalized individuals, shedding light on their struggles and joys with empathy and compassion. Kiarostami''s films also frequently grapple with the themes of love, loss, loneliness, and the search for meaning in life, often inviting viewers to contemplate the deeper philosophical questions of existence. His poetic and introspective approach to storytelling has earned him critical acclaim and a loyal following of cinephiles worldwide.',
 DATE '1940-06-22',
 DATE '2016-07-04',
-'https://i.postimg.cc/BvKR64G0/abbas-kiarostami.jpg',
+'https://i.postimg.cc/zDQdKmh3/abbas-kiarostami-adjusted.jpg',
 'Iran'
 );
 
@@ -456,7 +456,7 @@ Jia Zhangke is known for his realistic and contemplative approach to storytellin
 Jia Zhangke''s films often focus on themes such as urbanization, displacement, and social injustice, as well as the tensions between tradition and modernity in contemporary China. He has been lauded for his keen social commentary, shedding light on the human cost of China''s rapid economic development and the challenges faced by individuals navigating a changing society. Jia Zhangke''s works are renowned for their exploration of identity, memory, and the complexities of human emotions, often portraying characters who are marginalized or struggling to find their place in a rapidly evolving world. Overall, Jia Zhangke''s films are powerful and thought-provoking, offering a nuanced and critical perspective on contemporary Chinese society and the human condition.',
 DATE '1970-05-24',
 NULL,
-'https://i.postimg.cc/7ZPfp3WF/jia-zhangke.jpg',
+'https://i.postimg.cc/g2stwxHb/jia-zhangke-adjusted.jpg',
 'China'
 );
 
@@ -467,7 +467,7 @@ Bergman is known for his unique and uncompromising style of filmmaking, characte
 Themes of religion, existentialism, and the complexity of human relationships are central to Bergman''s body of work. His films often challenge conventional notions of faith and morality, grappling with the existential questions of existence, the nature of God, and the meaning of life. Bergman''s films are known for their deep psychological exploration of characters, delving into their fears, desires, and inner conflicts with great depth and complexity. Through his films, Bergman provided a deeply introspective and introspective examination of the human condition, presenting thought-provoking insights into the complexities of the human mind and soul.',
 DATE '1918-07-14',
 DATE '2007-07-30',
-'https://i.postimg.cc/ZKJLTC0Y/ingmar-bergman.jpg',
+'https://i.postimg.cc/L6zbpCqX/ingmar-bergman-adjusted.jpg',
 'Sweden'
 );
 
@@ -478,7 +478,7 @@ Throughout his career, Uli Edel has been recognized for his versatility and abil
 In his films, Uli Edel often focuses on complex and challenging themes, delving into the depths of human emotions and motivations. He has explored topics such as sexuality, identity, power dynamics, and social issues with raw authenticity and unflinching honesty. Edel''s films often provoke thought and discussion, challenging societal norms and pushing the boundaries of conventional storytelling. With a penchant for pushing artistic boundaries and fearlessly confronting difficult subjects, Uli Edel has become a respected and influential figure in the world of cinema.',
 DATE '1947-04-11',
 NULL,
-'https://i.postimg.cc/rwcvHcch/uli-edel.jpg',
+'https://i.postimg.cc/DZLqXD34/uli-edel-adjusted.jpg',
 'Germany'
 );
 
@@ -489,7 +489,7 @@ Suzuki is widely recognized for his avant-garde and unconventional filmmaking te
 Thematically, Suzuki often explored the complexities of human nature, societal norms, and the absurdity of modern life. He frequently depicted outsiders and marginalized characters who rebelled against societal constraints and struggled with existential crises. Suzuki''s films also often featured commentary on the changing landscape of post-war Japan, including the influence of Western culture, the struggle of the individual against societal expectations, and the tension between tradition and modernity.',
 DATE '1923-05-24',
 NULL,
-'https://i.postimg.cc/qMNJrSbc/seijun-suzuki.webp',
+'https://i.postimg.cc/tC5NkLZh/seijun-suzuki-adjusted.jpg',
 'Japan'
 );
 
@@ -500,7 +500,7 @@ Marker was best known for his avant-garde and experimental approach to filmmakin
 Throughout his career, Marker focused on a wide range of themes, but he was particularly known for his exploration of memory and history. He often reflected on the nature of memory, its fallibility, and its role in shaping individual and collective identities. Marker was also deeply engaged with political and social issues, such as war, revolution, colonialism, and globalization. He was critical of mainstream media and its portrayal of reality, and often used his films to challenge dominant narratives and offer alternative perspectives. Marker''s works were highly intellectual and philosophical, inviting viewers to reflect on the complexities of the human condition and the world we live in.',
 DATE '1921-07-29',
 DATE '2012-07-29',
-'https://i.postimg.cc/0QV88CWb/chris-marker.jpg',
+'https://i.postimg.cc/HL3zLFHY/chris-marker-adjusted.jpg',
 'France'
 );
 
@@ -511,7 +511,7 @@ Hou Hsiao-hsien is known for his minimalist and contemplative approach to storyt
 Thematically, Hou Hsiao-hsien often explores the intricacies of Taiwanese history, culture, and identity. His films often delve into the tension between tradition and modernity, the impact of globalization, and the changing social dynamics in Taiwan. Hou''s work has also delved into the effects of political and social changes on individuals and families, particularly during the transitional period in Taiwan''s history. His films are known for their subtle and nuanced portrayal of human emotions and their deep insights into the human condition.',
 DATE '1947-04-08',
 NULL,
-'https://i.postimg.cc/XJv91WTr/hou-hsiao-hsien.jpg',
+'https://i.postimg.cc/gcL7Mkm3/hou-hsiao-hsien-adjusted.jpg',
 'Taiwan'
 );
 
@@ -522,7 +522,7 @@ Kobayashi is known for his critical examination of Japanese society and its inst
 Kobayashi often explored the individual''s struggle against societal norms and expectations. He is renowned for his portrayal of characters who were marginalized or oppressed by the rigid social hierarchy and explored the psychological and emotional toll of such oppression. Kobayashi was also known for his criticism of war and militarism, reflecting on the impact of Japan''s wartime history and its aftermath. His films often provided poignant social commentary, addressing issues such as poverty, discrimination, and corruption, and advocating for human rights and justice.',
 DATE '1916-02-14',
 DATE '1996-10-04',
-'https://i.postimg.cc/VkgrQ9Qs/masaki-kobayashi.jpg',
+'https://i.postimg.cc/zGz01JZt/masaki-kobayashi-adjusted.jpg',
 'Japan'
 );
 
@@ -533,7 +533,7 @@ Buñuel is best known for his distinctive surrealist style, which challenged con
 Throughout his career, Buñuel''s films often focused on themes such as religion, sexuality, bourgeois society, and the human condition. He frequently explored the irrational and subconscious aspects of the human mind, delving into the contradictions and desires that lie beneath the surface of polite society. Buñuel''s films often subverted traditional expectations and embraced absurdity, creating a unique cinematic experience that left audiences questioning established norms and beliefs.',
 DATE '1900-02-22',
 DATE '1983-07-29',
-'https://i.postimg.cc/GpVJpSPj/luis-bun-uel.jpg',
+'https://i.postimg.cc/GhJqN4NT/luis-bun-uel-adjusted.jpg',
 'Spain'
 );
 INSERT INTO directors(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
@@ -543,7 +543,7 @@ Babenco was known for his ability to capture the human condition with raw and un
 Throughout his career, Babenco focused on portraying the complexity of human emotions and the inherent contradictions of the human experience. His films often tackled themes of identity, isolation, and redemption, delving into the depths of the human soul. Babenco''s work was characterized by a deep sense of empathy and compassion for his characters, as he sought to illuminate the struggles and triumphs of the human spirit with unflinching realism.',
 DATE '1946-02-07',
 DATE '2016-07-13',
-'https://i.postimg.cc/Qx8HPbDf/he-ctor-babenco.jpg',
+'https://i.postimg.cc/Px9Rt0zL/he-ctor-babenco-adjusted.jpg',
 'Argentina'
 );
 
@@ -554,7 +554,7 @@ Jodorowsky is known for his highly original and unconventional films that challe
 Jodorowsky is renowned for his explorations of spirituality and metaphysics. He often delves into esoteric and philosophical concepts, incorporating elements of tarot, astrology, alchemy, and Eastern spirituality into his films. Jodorowsky''s films also frequently explore the human condition, the nature of existence, and the search for meaning in life. His work often challenges societal norms and conventions, inviting audiences to question their beliefs and perceptions of reality. Jodorowsky''s films are known for their visually stunning and emotionally charged sequences, creating a unique cinematic experience that leaves a lasting impact on viewers.',
 DATE '1929-02-17',
 NULL,
-'https://i.postimg.cc/dtWtfZJd/alejandro-jodorowsky.jpg',
+'https://i.postimg.cc/kgQw0Bpt/alejandro-jodorowsky-adjusted.jpg',
 'Chile'
 );
 
@@ -565,7 +565,7 @@ Hui is known for her ability to capture the human condition with depth and nuanc
 Themes of social justice, identity, and resilience are prominent in Hui''s work. She often portrays the lives of marginalized individuals, including women, immigrants, and the working class, shedding light on their struggles and triumphs. Hui''s films often challenge social norms and offer critical commentary on issues such as gender inequality, discrimination, and the pursuit of justice. Her compassionate and thought-provoking films are often characterized by their humanistic approach, exploring the complexities of the human experience with sensitivity and empathy.',
 DATE '1947-05-23',
 NULL,
-'https://i.postimg.cc/7hT2m12x/ann-hui.jpg',
+'https://i.postimg.cc/D04PBZG0/ann-hui-adjusted.jpg',
 'China'
 );
 
@@ -576,7 +576,7 @@ Bell is known for his captivating and thought-provoking documentaries that delve
 Throughout his career, Bell has focused on a diverse range of themes, all of which center around the human experience. His films often explore the lives of marginalized communities, shedding light on their struggles and triumphs. Bell''s documentaries are known for their compassionate and empathetic approach, highlighting the human condition with a keen eye for detail and nuance. He has been particularly drawn to stories that reveal the resilience of individuals facing adversity, showcasing their courage and determination in the face of overwhelming challenges. Bell''s films are a powerful testament to the inherent strength of the human spirit, and his unwavering commitment to telling socially relevant stories has made him a respected and influential figure in the world of documentary filmmaking.',
 DATE '1943-01-16',
 NULL,
-'https://i.postimg.cc/nhrcf42Z/martin-bell.png',
+'https://i.postimg.cc/JhkQmt0L/martin-bell-adjusted.jpg',
 'United States of America'
 );
 
@@ -587,7 +587,7 @@ Shindō is best known for his work in the Japanese New Wave movement, which emer
 Throughout his career, Shindō consistently focused on themes such as the resilience of the human spirit, the impact of war and violence on society, the struggles of marginalized individuals, and the delicate balance between nature and humanity. He often depicted the harsh realities of life, including poverty, discrimination, and the consequences of war, while also highlighting the beauty and strength of the human spirit. Shindō''s films were often characterized by their deep emotional resonance, thought-provoking narratives, and visually striking imagery, making him a celebrated figure in the world of Japanese cinema and a respected director with a profound impact on the global film landscape.',
 DATE '1912-04-22',
 DATE '2012-05-29',
-'https://i.postimg.cc/9fM611F6/kaneto-shindo.webp',
+'https://i.postimg.cc/dVDBH5KD/kaneto-shindo-adjusted.jpg',
 'Japan'
 );
 
@@ -598,7 +598,7 @@ Guru Dutt is widely recognized for his distinct directorial style that combined 
 Guru Dutt''s films often focused on the darker aspects of human nature, delving into themes of societal inequalities, moral conflicts, and the search for meaning in life. He was known for his portrayal of strong female characters who challenged traditional gender roles and norms. His films also had a distinct socio-political commentary, shedding light on the socio-economic disparities and the disillusionment of the common man in post-independence India. Through his films, Guru Dutt explored the complexities of human relationships and the inner struggles of individuals, leaving a profound impact on Indian cinema with his thought-provoking narratives and innovative storytelling techniques.',
 DATE '1925-07-09',
 DATE '1964-10-10',
-'https://i.postimg.cc/Pq2y2Kss/guru-dutt.jpg',
+'https://i.postimg.cc/RCQXN3RC/guru-dutt-adjusted.jpg',
 'India'
 );
 
@@ -609,7 +609,7 @@ René Laloux is known for his distinct visual aesthetics and unconventional narr
 Social commentary, environmentalism, and spirituality are prominent features of René Laloux''s films. His works often delve into the complexities of human nature, critiquing societal norms and advocating for greater awareness and understanding of the world and our place in it. Laloux''s films often depict the struggles of individuals against oppressive systems, exploring themes of rebellion, freedom, and the consequences of blind conformity. His unique and thought-provoking approach to storytelling has earned him a reputation as a visionary director in the realm of animated films.',
 DATE '1929-07-13',
 DATE '2004-03-14',
-'https://i.postimg.cc/VkZscrty/rene-laloux.webp',
+'https://i.postimg.cc/j2s6zXXx/rene-laloux-adjusted.jpg',
 'France'
 );
 
@@ -620,7 +620,7 @@ Jasný is known for his distinct visual style, which often combines poetic image
 Throughout his career, Jasný''s work focused on themes of social criticism and political dissent, often challenging the oppressive political regime of his time. He often portrayed the struggles of individuals against oppressive systems and explored the complexities of human nature. Jasný''s films also reflected his personal experiences and his deep connection to his Czechoslovakian heritage, often capturing the unique cultural and historical aspects of the region. His work has been celebrated for its poetic and thought-provoking nature, and he is considered one of the most influential directors of Czechoslovakian and European cinema.',
 DATE '1925-11-30',
 DATE '2019-11-15',
-'https://i.postimg.cc/Bn5SXYR0/vojtech-jasny.jpg',
+'https://i.postimg.cc/FHfyg1jL/vojtech-jasny-adjusted.jpg',
 'Czechoslovakia'
 );
 
@@ -631,7 +631,7 @@ Teshigahara is best known for his avant-garde approach to filmmaking and his unc
 Themes of isolation, identity, and the human condition were prominent in Teshigahara''s films. He often explored the complexities of human relationships and delved into the psychological and emotional depths of his characters. Teshigahara''s films often had an existentialist undertone, reflecting on the meaning of life and the search for truth in a rapidly changing world. He was also known for his commentary on social issues, such as environmental degradation and the erosion of traditional Japanese culture.',
 DATE '1927-01-28',
 DATE '2001-04-14',
-'https://i.postimg.cc/1tFTJ3MH/hiroshi-teshigara.jpg',
+'https://i.postimg.cc/wTqFJ6fX/hiroshi-teshigara-adjusted.jpg',
 'Japan'
 );
 
@@ -642,7 +642,7 @@ Known for his bold and unconventional approach to storytelling, Uchida''s films 
 Uchida''s films often revolved around themes of morality, justice, and the human condition. He explored the struggles of ordinary people, often caught in the midst of larger societal changes and conflicts. Uchida was known for his ability to convey complex emotions and moral dilemmas through his characters, and his films often presented a nuanced view of the human experience. He also delved into the themes of family, honor, and loyalty, often challenging societal norms and expectations. Uchida''s films were known for their thought-provoking nature, and he was regarded as a director who pushed the boundaries of traditional storytelling in Japanese cinema, earning him a place among the greats of Japanese filmmaking.',
 DATE '1898-04-26',
 DATE '1970-07-07',
-'https://i.postimg.cc/7LXhF4L1/tomu-uchida.jpg',
+'https://i.postimg.cc/hPZ8dV7n/tomu-uchida-adjusted.jpg',
 'Japan'
 );
 
@@ -653,7 +653,7 @@ Bresson is known for his minimalist and austere style of filmmaking, characteriz
 Bresson''s films are known for exploring profound philosophical and spiritual themes, such as the nature of human existence, the search for meaning in life, and the struggles of the human condition. He often delved into the complexities of human behavior, examining the tension between free will and determinism, and the consequences of one''s actions. Bresson''s films also frequently focused on the concept of redemption, often depicting characters seeking redemption in the face of personal and societal challenges.',
 DATE '1901-09-25',
 DATE '1999-12-18',
-'https://i.postimg.cc/3xdQdfwQ/robert-bresson.jpg',
+'https://i.postimg.cc/RhX7GHsc/robert-bresson-adjusted.jpg',
 'France'
 );
 
@@ -664,7 +664,7 @@ Aoyama is known for his thought-provoking and visually stunning films that often
 Aoyama''s films recurrently explore human connections and the search for meaning in a complex and often chaotic world. He often portrays characters who are struggling with their own internal conflicts and grappling with the complexities of the world around them. Aoyama''s films also often touch upon societal issues such as the impact of modernization on traditional values and the human struggle to find a sense of identity and purpose in a changing world. He skillfully weaves these themes into his narratives, creating thought-provoking and emotionally resonant stories that captivate audiences with their depth and complexity.',
 DATE '1964-07-13',
 DATE '2022-03-21',
-'https://i.postimg.cc/nc70T6h1/shinji-aoyama.jpg',
+'https://i.postimg.cc/05f09Tkb/shinji-aoyama-adjusted.jpg',
 'Japan'
 );
 
@@ -675,7 +675,7 @@ Terayama is widely known for his avant-garde and unconventional approach to film
 Terayama''s works are known for their poetic and thought-provoking nature, often drawing from his own personal experiences and emotions. He explored the concepts of memory, nostalgia, and the fleeting nature of existence, delving into the subconscious and exploring the complexity of human emotions. Terayama''s films often carried a sense of ambiguity and open-endedness, allowing audiences to interpret his works in various ways and encouraging introspection and reflection. His unique blend of surrealism, poetry, and social critique made him a revered and influential figure in Japanese cinema and art, leaving a profound impact on the world of filmmaking and beyond.',
 DATE '1935-12-10',
 DATE '1983-05-04',
-'https://i.postimg.cc/DZDrhRGC/shuji-terayama.jpg',
+'https://i.postimg.cc/TY3q1t1Q/shuji-terayama-adjusted.jpg',
 'Japan'
 );
 
@@ -686,7 +686,7 @@ Morita was known for his ability to capture the nuances of human emotions and re
 Morita''s films often revolved around themes of societal and cultural issues, showcasing his intuitive knack for social commentary. He delved into the struggles and conflicts of individuals in contemporary Japanese society, shedding light on issues such as alienation, identity crisis, and societal pressure. Morita''s films were often thought-provoking and pushed the boundaries of traditional Japanese cinema, challenging social norms and conventions. His unique perspective and thought-provoking storytelling made him a prominent figure in the Japanese film industry, earning critical acclaim and recognition both at home and abroad.',
 DATE '1950-01-25',
 DATE '2011-12-20',
-'https://i.postimg.cc/vHM577GS/yoshimitsu-morita.webp',
+'https://i.postimg.cc/7ZpgBDVQ/yoshimitsu-morita-adjusted.jpg',
 'Japan'
 );
 
@@ -697,7 +697,7 @@ Obayashi is best known for his distinctive approach to storytelling, characteriz
 Themes of war, memory, and youth are prominent in Obayashi''s films. His experiences during World War II deeply impacted his worldview and are often reflected in his works. Obayashi''s films explore the trauma of war, the fleetingness of life, and the complexities of memory and nostalgia. He often delves into the lives of young people, capturing their innocence, curiosity, and struggles as they navigate the complexities of the adult world. His films are known for their philosophical and existential themes, delving into the human condition and the mysteries of existence.',
 DATE '1938-01-09',
 DATE '2020-04-10',
-'https://i.postimg.cc/GhCXjk0C/nobuhiko-obayashi.jpg',
+'https://i.postimg.cc/V69BrTXZ/nobuhiko-obayashi-adjusted.jpg',
 'Japan'
 );
 
@@ -708,7 +708,7 @@ Kidlat Tahimik is known for his distinct style of filmmaking that combines docum
 Kidlat Tahimik often focuses on themes of cultural identity, post-colonialism, environmentalism, and the preservation of indigenous cultures. He is deeply committed to promoting Filipino culture and history, and his films often highlight the struggles and triumphs of the Filipino people in the face of social, economic, and cultural challenges. Tahimik''s works also delve into the tension between traditional ways of life and modernization, exploring the conflicts and contradictions that arise in a rapidly changing world. Through his films, Tahimik encourages viewers to question dominant ideologies, rethink established norms, and reflect on the complex intersections of culture, politics, and humanity.',
 DATE '1942-10-03',
 NULL,
-'https://i.postimg.cc/sDsJjYWF/kidlat-tahimik.jpg',
+'https://i.postimg.cc/G2nxprTs/kidlat-tahimik-adjusted.jpg',
 'Philippines'
 );
 
@@ -719,6 +719,6 @@ Jiang Wen is widely recognized for his distinctive directorial style and innovat
 Jiang Wen frequently explores power dynamics and corruption. He delves into the complexities of human nature and the ways in which individuals navigate within oppressive systems. His works often examine societal issues, historical events, and political climates, offering sharp commentaries on power structures and their impact on individuals and communities. Through his storytelling, he sheds light on the human condition, provoking viewers to question the status quo and challenge established norms.',
 DATE '1963-01-05',
 NULL,
-'https://i.postimg.cc/jSsZzhP5/jiang-wen.webp',
+'https://i.postimg.cc/XYhgT9VL/jiang-wen-adjusted.jpg',
 'China'
 );

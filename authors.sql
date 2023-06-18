@@ -16,9 +16,9 @@ Kierkegaard''s ideas have had a profound impact on the development of 20th-centu
 DATE '1813-05-05', 
 DATE '1855-11-11',
 'Denmark'
-'https://i.postimg.cc/XqHbbbG9/soren-kierkegaard.jpg');
+'https://i.postimg.cc/wMy5y15J/soren-kierkegaard-adjusted.jpg');
 
-INSERT INTO authors (author_name, author_biography, date_author_born, date_author_deceased, author_image) 
+INSERT INTO authors (author_name, author_biography, date_author_born, date_author_deceased, country_of_birth, author_image) 
 VALUES ('Albert Camus', 
 `Albert Camus was born on November 7, 1913, in Mondovi, a small village near the seaport city of Bône (now Annaba) in the northeast region of French Algeria. Camus grew up in poverty in a working-class neighborhood in Algiers, and his experiences during these early years had a significant influence on his philosophy and worldview.
 Camus is best known as a key figure in 20th-century philosophy, particularly in existentialism and absurdism. His works are recognized for their profound exploration of the human condition, life's purpose, and the search for meaning in a world often seen as indifferent and devoid of inherent value. As a philosopher, he vehemently rejected the label of "existentialist," preferring to be associated with the philosophy of the absurd, which explores the conflict between the human tendency to seek inherent value and meaning in life and the human inability to find any in a purposeless, meaningless, irrational universe.
@@ -26,5 +26,15 @@ Camus focused on the idea of the absurd, the futility of suicide, and the import
 DATE '1913-11-07', 
 DATE '1960-01-04',
 'France',
-'https://i.postimg.cc/J04Lvnn1/albert-camus.jpg');
+'https://i.postimg.cc/PxFz5WDT/albert-camus-adjusted.jpg');
 
+INSERT INTO authors (author_name, author_biography, date_author_born, date_author_deceased, country_of_birth, author_image) 
+VALUES('Georg Wilhelm Friedrich Hegel',
+'Georg Wilhelm Friedrich Hegel was a German philosopher born in Stuttgart in 1770. A significant figure in Western thought, he was part of the movement known as German Idealism that emerged after Immanuel Kant. Hegel was initially educated at the Tübinger Stift, a seminary attached to the University of Tübingen, where he was a contemporary of the poet Friedrich Hölderlin and the philosopher Friedrich Schelling. Despite beginning his professional career as a schoolteacher, he eventually shifted to the academia, where he held professorships at the University of Jena, Heidelberg, and finally, the University of Berlin.
+Hegel is most renowned for his comprehensive philosophical system designed to reconcile the contradictions of reality. His philosophy is often presented in a triadic structure: thesis, antithesis, and synthesis, commonly associated with his dialectical method, though this terminology is not his own. This method was intended to overcome the shortcomings of any fixed philosophical standpoint and to encompass the dynamic, evolving nature of reality. Hegel''s thought touched upon virtually all domains of philosophy, including metaphysics, epistemology, logic, aesthetics, ethics, history, and the philosophy of religion.
+The main themes in Hegel''s philosophy include the idea of the Absolute (the ultimate reality), the dialectical understanding of truth as a result of contradiction and resolution, and the progression of history and consciousness. He posited that human history is a process of the "unfolding of the Absolute", a progression towards freedom and self-understanding. Hegel also emphasized the importance of the community and social relations in the development of the individual self, leading to his often-quoted phrase that "the truth is the whole". His work profoundly influenced many subsequent philosophical movements, such as Marxism, existentialism, pragmatism, and postmodernism, among others.',
+DATE '1770-08-27',
+DATE '1831-11-14',
+'Germany',
+'https://i.postimg.cc/DZ1pDrr8/hegel-adjusted.jpg'
+);

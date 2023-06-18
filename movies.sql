@@ -1679,3 +1679,23 @@ https://i.postimg.cc/FHdQQmC3/in-the-heat-of-the-sun-4.jpg
 '{Violence, "Sexual Content"}',
 '192d6596-3e4f-4b86-8f25-b7e194610e6b'
 );
+
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('The Fall of Otrar',
+'The Fall of Otrar is a 1991 Kazakhstani drama film directed by Ardak Amirkulov. The movie unfolds as a staggering historical epic about the intrigue and turmoil of the East Asian civilization of Otrar, focusing on the period just before its systematic destruction at the hands of Genghis Khan. This in-depth examination of the political landscape and way of life in Otrar gives viewers a glimpse into the soon-to-be-destroyed Central Asian civilization of Khorezm, while not shying away from the complexities of the past.
+The Fall of Otrar is an exploration of holy war in 13th-century Central Asia, with particular focus on a Genghis Khan emissary''s tumultuous relationship with Allah. The film is not interested in making the past relatable or comprehensible, but instead emphasizes the murky and complex nature of historical events. Although it features moments of striking single images and stirring strains of score, the film''s visual strength generally relies more on filters, locations, and dressing, with an overall appeal that is best suited for those interested in filmic representations of the histories of these regions.
+The movie is renowned for its bold and unflinching portrayal of a brutal historical era, filled with blood, tears, and dirt, praised as one of the most brilliant films ever made. Despite challenges in translation and a lack of relatability, the film''s greatness is undeniable. Its claustrophobic camera work, compelling score, and meticulous set design serve to intensify the merciless atmosphere, making it a unique medieval film that deserves wider recognition.',
+DATE '1991-01-01',
+176,
+'{Historical, Drama}',
+'https://i.postimg.cc/zGLrQh4r/the-fall-of-otrar-adjusted.jpg',
+'https://letterboxd.com/film/the-fall-of-otrar/',
+'{https://i.postimg.cc/Y2YKQkYp/the-fall-of-otrar-1.jpg,
+https://i.postimg.cc/t4RK0xfT/the-fall-of-otrar-2.jpg,
+https://i.postimg.cc/c4WqmjBf/the-fall-of-otrar-3.jpg,
+https://i.postimg.cc/X7kRD8sm/the-fall-of-otrar-4.jpg 
+}', 
+'Kazakhstan',
+'{Violence, Nudity, Sexual Content}',
+'4194c7e3-bedf-40aa-b9b5-34a38aeb6b6d'
+);

@@ -722,3 +722,14 @@ NULL,
 'https://i.postimg.cc/XYhgT9VL/jiang-wen-adjusted.jpg',
 'China'
 );
+
+INSERT INTO directors(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Ardak Amirkulov',
+'Ardak Amirkulov, born in Ak-Kul, Kazakh SSR, USSR, is a prominent figure in the world of cinema. He embarked on his academic journey by studying philosophy at the University of Alma Ata, from which he graduated in 1977. Thereafter, he pursued film directing in Moscow under the guidance of Sergei Solovyov. From 1996 onwards, Amirkulov has been sharing his knowledge and experience as a professor at the Alma Ata Film Institute.
+Amirkulov has a distinguished reputation in the film industry, and his work has been recognized at various international platforms. His films have been awarded at prestigious events like the 15th Montreal World Film Festival, reflecting his skills and influence as a director. He is acknowledged as an accomplished filmmaker from Kazakhstan and has made significant contributions to the cinematic landscape of his home country.
+Amirkulov''s work is characterized by a rich visual style and compelling storytelling. He is known for creating historical epics with attention to detail and an expansive scope. His works often tackle themes of intrigue, conflict, and destruction, as shown through complex narratives and vibrant, expansive settings. His style carries influences from esteemed filmmakers like Akira Kurosawa and Sergio Leone, and his films have been compared to art cinema classics like Andrei Tarkovsky''s Andrei Rublev. His films offer an immersive experience, presenting hallucinatory, visually resplendent, and energetically ferocious narratives that traverse an endless variety of landscapes and settings.',
+DATE '1955-12-10',
+NULL,
+'https://i.postimg.cc/2yBtwdVc/ardak-amirkulov-adjusted.jpg',
+'Kazakhstan'
+);

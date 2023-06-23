@@ -24,7 +24,7 @@ Each item within these categories is detailed on its dedicated page, comprising 
 DATE '2023-05-11',
 'Large',
 'https://i.postimg.cc/y82Rwpsh/website-homepage-adjusted.jpg',
-'http://localhost:8000/',
+'/',
 'https://github.com/0xdacted/portfolio_site',
 NULL
 );
@@ -42,7 +42,7 @@ Please note that this project is based on publicly available Twitter data and th
 DATE '2023-01-25',
 'Medium',
 'https://i.postimg.cc/c49wc4zb/over-under-game-adjusted.jpg',
-'http://localhost:8000/over_under',
+'/over_under',
 'https://github.com/0xdacted/over_under_tweet_scraping_game',
 'https://github.com/0xdacted/portfolio_site/blob/main/src/pages/over_under.tsx'
 );
@@ -58,7 +58,7 @@ A distinctive feature of this application is the reset functionality, which allo
 DATE '2023-06-07',
 'Small',
 'https://i.postimg.cc/bNN1b2mn/image-resizer-adjusted.jpg',
-'http://localhost:8000/image_resizer',
+'/image_resizer',
 'https://github.com/0xdacted/image-resizer',
 'https://github.com/0xdacted/portfolio_site/blob/main/src/pages/image_resizer.tsx'
 );

@@ -103,4 +103,11 @@ DATE '1942-01-01',
 'France',
 '92a4b579-8eb9-4c8a-bb21-78e34a752b5a');
 
-
+INSERT INTO books (book_title, book_description, date_book_published, pages, book_subjects, isbn, book_cover_image, goodreads_link, author_uid)
+VALUES('The Phenomenology of Spirit',
+'Currently reading but love it so far. Check back later for excerpts I found particularly interesting.',
+DATE '1807-01-01',
+590,
+'{Idealism, Phenomenology, Existentialism, Epistemology, Metaphysics}'
+'978-0198245971',
+)

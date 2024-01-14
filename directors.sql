@@ -1,5 +1,6 @@
 CREATE TABLE directors (
-  director_uid UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  director_uid UUID PRIMARY KEY DEFAULT 
+  uuid_generate_v4(),
   director_name VARCHAR(255) NOT NULL,
   director_biography TEXT NOT NULL,
   date_director_born DATE NOT NULL,
@@ -733,3 +734,34 @@ NULL,
 'https://i.postimg.cc/2yBtwdVc/ardak-amirkulov-adjusted.jpg',
 'Kazakhstan'
 );
+
+INSERT INTO directors(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Theodoros Angelopoulos',
+'Theodoros Angelopoulos was a seminal Greek filmmaker and screenwriter, recognized as one of the most influential figures in European cinema during the late 20th century. Born in Athens in 1935, Angelopoulos began his career as a film critic before moving on to study film at the prestigious IDHEC (Institute for Advanced Cinematographic Studies) in France. He then returned to Greece where he had a difficult time getting his films produced due to the political climate at the time. Despite these challenges, he managed to create an impressive body of work that has had an enduring impact on global cinema.
+Angelopoulos was renowned for his distinct filmmaking style, which often featured long takes, slow pacing, and minimal dialogue. This signature approach, coupled with a keen eye for visual composition, gave his films a contemplative, often melancholic quality that set them apart from much of mainstream cinema. He was known for rejecting the conventions of classical storytelling, instead crafting expansive, lyrical narratives that were grounded in the historical and sociopolitical realities of Greece but also had a broader, universal resonance.
+Angelopoulos frequently dealt with issues related to history, politics, and personal memory. His films often depicted characters on journeys that serve as metaphors for historical and cultural displacement, reflecting his own experiences and observations of Greek society and history. The intersection of personal and collective memory was another recurring theme, with his films often exploring the ways in which individual identities are shaped by larger historical forces. This deep exploration of time, history, and memory gave Angelopoulos''s cinema its distinctive philosophical depth and emotional resonance.',
+DATE '1935-04-27',
+DATE '2012-01-24',
+'https://i.postimg.cc/3N82sZ5p/theodoros-angelopoulos-adjusted.jpg',
+'Greece'
+);
+
+INSERT INTO directors(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Hideaki Anno',
+'Hideaki Anno is a renowned Japanese director, animator, and screenwriter born on May 22, 1960 in Ube, Yamaguchi. Before ascending to prominence, Anno studied at the Osaka University of Arts, where he co-founded the infamous amateur animation group Daicon Film, which later evolved into Gainax, a major animation studio. Anno is widely respected for his unique vision and innovative storytelling techniques, influencing a whole generation of creators in the world of anime and beyond.
+Anno is primarily known for his pioneering work in the realm of anime, specifically in the mecha and science fiction genres. His unique approach blends traditional animation techniques with a cinematic and psychological depth that is seldom seen in the medium, pushing the boundaries of what is achievable in anime. Anno is also highly recognized for his directing and screenwriting prowess, credited with having an exceptional eye for detail and a penchant for complex narratives. 
+Anno''s works often delve into introspective explorations of the human condition, using the fantastical elements of his narratives as metaphors for psychological and societal issues. He is known for crafting stories that grapple with themes of existential angst, depression, and the pursuit of individual identity in the face of societal expectations. His narratives are marked by a blend of melancholy, humor, and surrealism, all used to explore the psyche of his characters in poignant and often unflinchingly raw ways.',
+DATE '1960-05-22',
+NULL,
+'https://i.postimg.cc/hPGrwBHn/hideako-anno-adjusted.jpg',
+'Japan'
+);
+
+
+
+
+
+
+
+
+

@@ -36,7 +36,7 @@ https://i.postimg.cc/qRJxVFDN/enter-the-void-4.jpg}',
 INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
 VALUES('City of God',
 'City of God is a critically acclaimed Brazilian film directed by Fernando Meirelles, known for its gritty portrayal of life in the slums of Rio de Janeiro. The plot follows the life of a young man named Rocket, who grows up in the violent and poverty-stricken neighborhood of Cidade de Deus, or City of God. As Rocket navigates through the dangerous and brutal realities of the favela, he becomes entangled with various characters, including his charismatic but ruthless friend Li''l Zé, and the benevolent drug dealer Knockout Ned.
-City of God is famed for its unflinching depiction of the harsh and brutal environment of the favela, where poverty, crime, and violence are rampant. The film portrays the harsh realities of life in the slums, including the cycle of poverty, the lure of crime, and the impact of gang culture on the lives of the residents. It delves into the themes of survival, the pursuit of power, and the consequences of violence.
+City of God is renowned for its unflinching depiction of the harsh and brutal environment of the favela, where poverty, crime, and violence are rampant. The film portrays the harsh realities of life in the slums, including the cycle of poverty, the lure of crime, and the impact of gang culture on the lives of the residents. It delves into the themes of survival, the pursuit of power, and the consequences of violence.
 The movie is known for its fast-paced editing, dynamic camera work, and compelling performances from its mostly non-professional cast. Meirelles'' unique visual style and the film''s raw and authentic portrayal of life in the favela have earned it widespread acclaim, both for its technical excellence and its powerful storytelling.',
 DATE '2002-05-18',
 130,
@@ -1687,7 +1687,7 @@ The Fall of Otrar is an exploration of holy war in 13th-century Central Asia, wi
 The movie is renowned for its bold and unflinching portrayal of a brutal historical era, filled with blood, tears, and dirt, praised as one of the most brilliant films ever made. Despite challenges in translation and a lack of relatability, the film''s greatness is undeniable. Its claustrophobic camera work, compelling score, and meticulous set design serve to intensify the merciless atmosphere, making it a unique medieval film that deserves wider recognition.',
 DATE '1991-01-01',
 176,
-'{Historical, Drama}',
+'{Historical, Drama, Epic}',
 'https://i.postimg.cc/zGLrQh4r/the-fall-of-otrar-adjusted.jpg',
 'https://letterboxd.com/film/the-fall-of-otrar/',
 '{https://i.postimg.cc/Y2YKQkYp/the-fall-of-otrar-1.jpg,
@@ -1699,3 +1699,77 @@ https://i.postimg.cc/X7kRD8sm/the-fall-of-otrar-4.jpg
 '{Violence, Nudity, Sexual Content}',
 '4194c7e3-bedf-40aa-b9b5-34a38aeb6b6d'
 );
+
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Landscape in the Mist',
+'Landscape in the Mist explores a poignant journey undertaken by two siblings, Voula and Alexandros, in their quest to find their father, who they believe resides in Germany. The children flee their home in Greece without any substantial preparation or resources, driven by a naïve yet sincere belief in their mission. Throughout their voyage, they encounter a series of challenging and sometimes harrowing experiences that illustrate the stark realities of life, the cruelty of mankind, and the harshness of the world they live in.
+The film is primarily renowned for its uniquely contemplative narrative style, distinguished by Angelopoulos''s signature long takes, and his poetic, meditative visualization of the physical and emotional landscapes. The film''s authenticity, and the raw, emotional performances of the child actors, contributed to its widespread acclaim, along with the sublime cinematography that showcased both the grim and beautiful elements of their journey.
+Landscape in the Mist represents a profound exploration of the human condition, adolescence, and the loss of innocence. Through Voula and Alexandros''s journey, Angelopoulos offers an introspective look at life, its inherent suffering, the illusion of hope, and the relentless pursuit of dreams. This underlying melancholy, beautifully interwoven with threads of resilience, forms the poignant backbone of the film, making it a moving reflection on the existential facets of human life.',
+DATE '1998-09-10',
+125,
+'{Drama, "Art House", "Coming of Age"}',
+'https://i.postimg.cc/rwnqQrvZ/landscape-in-the-mist-adjusted.jpg',
+'https://letterboxd.com/film/landscape-in-the-mist/',
+'{https://i.postimg.cc/Dz0qmRVj/landscape-in-the-mist-1.jpg,
+https://i.postimg.cc/SKPc9Vky/landscape-in-the-mist-2.jpg,
+https://i.postimg.cc/NFqTJMKS/landscape-in-the-mist-3.jpg,
+https://i.postimg.cc/4dhVQtxp/landscape-in-the-mist-4.jpg
+}',
+'Greece',
+'{Violence, "Implied Rape"}',
+'9d1e5dde-3c90-478f-8318-a62888be9191'
+);
+
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Ritual',
+'Ritual, directed by Hideaki Anno, is a thought-provoking film that delves into the themes of disillusionment, connection, and the power of repetition. The story revolves around a filmmaker who finds himself disillusioned with his craft and disconnected from the world around him. However, his life takes an unexpected turn when he encounters a young girl who has a peculiar ritual of uttering the phrase "Tomorrow is my birthday" every single day. Intrigued by her repetitive behavior, the filmmaker attempts to establish a connection with her through his video camera, embarking on a journey that explores the complexities of human communication and the search for meaning.
+Known for its captivating narrative and unique approach to storytelling, Ritual stands out as a film that challenges conventional filmmaking techniques. The movie is characterized by its masterful use of visuals and symbolism, as the filmmaker''s camera becomes a tool for both observation and communication, blurring the lines between reality and fiction. It is this unconventional blend of elements that has garnered Ritual critical acclaim and a dedicated following.
+Thematically, Ritual delves into profound philosophical and existential questions. Through the filmmaker''s encounters with the young girl, the movie explores the human desire for connection and the search for meaning in a world that often feels disconnected and chaotic. Anno''s film invites viewers to contemplate the significance of routine, communication, and the power of self-expression, ultimately challenging them to reflect on their own lives and the rituals they partake in on a daily basis. Ritual is a captivating exploration of human nature and the complexities of the human experience.',
+DATE '2000-12-07',
+128,
+'{Psychological, "Art House", Drama}',
+'https://i.postimg.cc/QdSpmWnq/ritual-adjusted.jpg',
+'https://letterboxd.com/film/ritual-2000/',
+'{https://i.postimg.cc/DzH4pQQ1/ritual-1.jpg,
+https://i.postimg.cc/HxMcqJ3R/ritual-2.jpg,
+https://i.postimg.cc/MHbcGhCY/ritual-3.jpg,
+https://i.postimg.cc/hvqzcS5j/ritual-4.jpg
+}',
+'Japan',
+'{"Mental Illness", "Suicidal Ideation"}',
+'ac50c91a-7431-4e00-b06e-5345fea8f823'
+);
+
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('His Motorbike, Her Island',
+'His Motorbike, Her Island delicately explores the complexities of young love and the yearning for connection. The story unfolds on a picturesque island, where the arrival of a mysterious young man with his motorbike captivates the heart of a local girl. Their ensuing romance is portrayed with a blend of youthful innocence and deep emotional undercurrents, set against the stunning backdrop of the island''s natural beauty.
+The film is renowned for its exquisite cinematography and the manner it captures the essence of the island''s landscape, which becomes a character in its own right. Its visual storytelling, combined with the use of the motorbike as a symbol of freedom and change, distinguishes the film in the realm of romantic dramas. The performances of the lead actors are praised for their authenticity and depth, bringing to life the nuanced emotions of their characters.
+Thematically, His Motorbike, Her Island delves into the themes of escapism, the transition from adolescence to adulthood, and the impact of first love. The motorbike symbolizes the desire to break free from the constraints of everyday life, while the island represents a microcosm of the larger world the characters are hesitant to confront. The film addresses the bittersweet nature of first love and its profound impact on personal growth, making it a poignant and memorable cinematic experience.',
+DATE '1986-04-26',
+90,
+'{Romance, Drama, "Coming of Age"}',
+'https://i.postimg.cc/Y9VfdFNY/his-motorbike-her-island-adjusted.jpg',
+'https://letterboxd.com/film/his-motorbike-her-island/',
+'{https://i.postimg.cc/W1XMLTrB/hmhi-1.jpg,
+https://i.postimg.cc/7ZxgWfC1/hmhi-2.jpg,
+https://i.postimg.cc/pdrKP4Jp/hmhi-3.jpg,
+https://i.postimg.cc/8PdR4hCP/hmhi-4.jpg
+}',
+'Japan',
+'{"Mild Violence"}',
+'6f532821-b51f-4d3b-b64a-951839f48f91'
+);
+
+
+
+
+
+
+'
+
+)
+
+
+
+
+

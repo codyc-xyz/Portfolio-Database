@@ -757,6 +757,17 @@ NULL,
 'Japan'
 );
 
+INSERT INTO directors(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Kiyoshi Kurosawa',
+'Kiyoshi Kurosawa is a prominent Japanese film director, born in Kobe, Hyogo, Japan. He studied at Rikkyo University in Tokyo, where he began his journey into filmmaking. Kurosawa initially gained attention in the Japanese film industry through his work in the pink film genre but later transitioned to mainstream cinema. His career spans several decades, and he is widely recognized for his unique directorial style and significant contributions to contemporary Japanese cinema.
+Kurosawa is best known for his ability to blend elements of various genres, creating a unique and distinctive style. His films often blur the lines between reality and the supernatural, presenting stories that are both intriguing and unsettling. Kurosawa''s mastery in building suspense and creating atmospheric tension has been widely acclaimed. His work is characterized by a minimalist approach, with a focus on slow-paced narratives and meticulous attention to visual composition. This distinct style has earned him a strong following both in Japan and internationally.
+Kiyoshi Kurosawa''s films revolve around existential dread, isolation, and the human psyche. He frequently delves into the depths of human emotions, exploring the complexities of relationships and the alienation of individuals in modern society. His narratives often reflect on the nature of reality, questioning the perception and understanding of the world around us. Kurosawa''s films also tend to have an underlying critique of social and cultural issues, subtly woven into the fabric of his storytelling. This thematic exploration makes his work not only visually captivating but also intellectually stimulating.',
+DATE '1955-07-19',
+NULL,
+'https://i.postimg.cc/5tRTcn8R/kiyoshi-kurosawa-adjusted.jpg',
+'Japan'
+);
+
 
 
 

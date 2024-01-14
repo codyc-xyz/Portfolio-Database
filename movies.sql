@@ -1760,6 +1760,25 @@ https://i.postimg.cc/8PdR4hCP/hmhi-4.jpg
 '6f532821-b51f-4d3b-b64a-951839f48f91'
 );
 
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Cure',
+'Cure revolves around a series of bizarre and unsettling murders in Tokyo, where each victim is found with a large X carved into their neck. The protagonist, Detective Takabe, is tasked with solving these mysterious cases. As Takabe delves deeper into the investigation, he encounters Mamiya, a strange man with amnesia who seems to be linked to the murders. The narrative unfolds in a slow, suspenseful manner, blending elements of horror and detective genres.
+The film is renowned for its atmospheric tension and psychological depth. Cure has been praised for its unique approach to the thriller genre, utilizing minimalistic storytelling and a haunting soundtrack to create an eerie and unsettling ambiance. It is also known for its exploration of the human psyche and the concept of hypnotism. The performances, particularly of Koji Yakusho as Detective Takabe and Masato Hagiwara as Mamiya, have been widely acclaimed. The film''s influence extends beyond Japan, having garnered a cult following internationally and being hailed as a masterpiece in psychological horror.
+Cure delves into themes of identity, memory, and the human subconscious. The film''s exploration of hypnotism serves as a metaphor for the influence of society and external factors on individual actions and thoughts. It raises questions about the nature of evil and the capacity for manipulation within human interactions. The ambiguous and open-ended conclusion of the film invites various interpretations, encouraging viewers to ponder the thin line between sanity and madness. The film''s subtle commentary on the societal pressures in modern Japan adds a layer of depth, making "Cure" not just a thriller, but a profound exploration of the human condition.',
+DATE '1997-12-27',
+112,
+'{Mystery, Drama, "Psychological Thriller", Crime}',
+'https://i.postimg.cc/fbVcPqww/cure-adjusted.jpg',
+'https://letterboxd.com/film/cure/',
+'{https://i.postimg.cc/52JzxJfh/cure-1.jpg,
+https://i.postimg.cc/FR48p7vP/cure-2.jpg,
+https://i.postimg.cc/TPmBnnzL/cure-3.jpg,
+https://i.postimg.cc/3xWT04rm/cure-4.jpg
+}',
+'Japan',
+'{Violence, Gore, "Disturbing Scenes"}',
+'59779d99-cb9e-4b3c-9fe5-5870f474eb57'
+);
 
 
 

@@ -70,7 +70,7 @@ VALUES('Team Selkirk App',
 The app features a comprehensive backend with over 20 Firebase functions. These functions encompass a variety of tasks such as user management, adding events and promotions, distributing push notifications, and collecting, analyzing and updating user progress via both in-app and out-of-app channels. This backend functionality is pivotal in tracking user progress, generating QR codes for easy event access, and updating content in real-time.
 A key feature of my development work was the creation of a user-friendly GUI for the backend. This interface allows non-technical staff to easily add and manage content, ensuring that the app remains dynamic and up-to-date with the latest community offerings.
 Throughout my tenure at Selkirk, the Team Selkirk App saw over 1000 active users and efficiently distributed over $25,000 in completion-based promotions. This level of engagement not only demonstrates the app''s popularity but also its effectiveness in fostering a connected and active community within Selkirk Sport''s Pickleball circle.',
-'{Typescript, React, Gatsby, Postgres, GraphQL, Node, Tailwind, Figma, Redux}',
+'{Flutter, Firebase, Figma, IOS, Android}',
 DATE '2023-08-01',
 'Large',
 'https://i.postimg.cc/N0n3p1zz/square-logo.png',

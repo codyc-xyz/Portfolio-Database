@@ -8,7 +8,7 @@ CREATE TABLE projects (
   project_size VARCHAR(255) NOT NULL,
   project_image VARCHAR(255) NOT NULL,
   project_link VARCHAR(255),
-  github_project_link VARCHAR(255) NOT NULL,
+  github_project_link VARCHAR(255),
   github_ui_link VARCHAR(255)
 );
 
@@ -62,3 +62,20 @@ DATE '2023-06-07',
 'https://github.com/0xdacted/image-resizer',
 'https://github.com/0xdacted/portfolio_site/blob/main/src/pages/image_resizer.tsx'
 );
+
+INSERT INTO projects(project_name, project_status, project_description, technologies, date_started, project_size, project_image, project_link, github_project_link, github_ui_link)
+VALUES('Team Selkirk App',
+'Completed',
+'As the solo developer of the Team Selkirk App, I successfully blended advanced technology with a passion for sports community engagement. Utilizing Flutter for the front-end and Firebase for the backend, this exclusive app was created for the members of Team Selkirk, part of Selkirk Sport''s Pickleball community. Available on both the Apple App Store and Google Playstore, the app is a hub for special events, promotions, initiatives, and educational courses, tailor-made for the pickleball enthusiasts of Team Selkirk.
+The app features a comprehensive backend with over 20 Firebase functions. These functions encompass a variety of tasks such as user management, adding events and promotions, distributing push notifications, and collecting, analyzing and updating user progress via both in-app and out-of-app channels. This backend functionality is pivotal in tracking user progress, generating QR codes for easy event access, and updating content in real-time.
+A key feature of my development work was the creation of a user-friendly GUI for the backend. This interface allows non-technical staff to easily add and manage content, ensuring that the app remains dynamic and up-to-date with the latest community offerings.
+Throughout my tenure at Selkirk, the Team Selkirk App saw over 1000 active users and efficiently distributed over $25,000 in completion-based promotions. This level of engagement not only demonstrates the app''s popularity but also its effectiveness in fostering a connected and active community within Selkirk Sport''s Pickleball circle.',
+'{Typescript, React, Gatsby, Postgres, GraphQL, Node, Tailwind, Figma, Redux}',
+DATE '2023-08-01',
+'Large',
+'https://i.postimg.cc/N0n3p1zz/square-logo.png',
+'https://apps.apple.com/us/app/team-selkirk/id6463821595',
+NULL,
+NULL
+);
+

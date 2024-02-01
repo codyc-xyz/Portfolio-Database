@@ -73,7 +73,7 @@ Throughout my tenure at Selkirk, the Team Selkirk App saw over 1000 active users
 '{Flutter, Firebase, Figma, IOS, Android, Javascript}',
 DATE '2023-08-01',
 'Large',
-'https://i.postimg.cc/N0n3p1zz/square-logo.png',
+'https://i.postimg.cc/dVYfGyDn/selkirk-sports-logo.jpg',
 'https://apps.apple.com/us/app/team-selkirk/id6463821595',
 NULL,
 NULL
@@ -82,17 +82,17 @@ NULL
 INSERT INTO projects(project_name, project_status, project_description, technologies, date_started, project_size, project_image, project_link, github_project_link, github_ui_link)
 VALUES('Workout Tracker App',
 'Completed',
-`The Workout Tracker App is a dynamic and user-friendly application designed to assist fitness enthusiasts in tracking and managing their workout routines. Developed using TypeScript and React Native, this application offers a robust and responsive user experience, backed by a SQLite database to ensure efficient data handling and storage.
+'The Workout Tracker App is a dynamic and user-friendly application designed to assist fitness enthusiasts in tracking and managing their workout routines. Developed using TypeScript and React Native, this application offers a robust and responsive user experience, backed by a SQLite database to ensure efficient data handling and storage.
 The application boasts three primary views, each meticulously crafted to cater to the diverse needs of its users.
-The centerpiece of the app, the Home View, presents users with a weekly overview of their custom workout routines, spanning Monday to Sunday. Users can input detailed information for each workout, including the name, sets, and repetitions. The interface features an intuitive design with cards for each workout, displaying bubbles corresponding to each set and the designated number of reps. Users can interact with these bubbles to log their completed reps, offering a real-time tracking experience. The progress is visually represented and maintained throughout the current week, with completed day's icons turning green, providing a gratifying sense of achievement.
+The centerpiece of the app, the Home View, presents users with a weekly overview of their custom workout routines, spanning Monday to Sunday. Users can input detailed information for each workout, including the name, sets, and repetitions. The interface features an intuitive design with cards for each workout, displaying bubbles corresponding to each set and the designated number of reps. Users can interact with these bubbles to log their completed reps, offering a real-time tracking experience. The progress is visually represented and maintained throughout the current week, with completed day''s icons turning green, providing a gratifying sense of achievement.
 The History view offers a comprehensive calendar display, enabling users to delve into their workout history. By selecting any date on the calendar, users can view the specifics of the workouts completed on that particular day, including the number of repetitions for each set. Days marked with completed workouts are easily identifiable by a green dot. This permanent historical record allows users to scroll through their entire workout journey since their first use of the app, offering valuable insights into their fitness progress over time.
-The Progress view showcases each distinct workout the user has ever completed, including details like the name, sets, and reps. A key feature is the line chart that plots the entire workout history for each exercise, from the initial session to the most recent one. The chart transitions seamlessly between metric and imperial units, depending on the unit used in the user's last workout. The chart's X-axis represents the date, while the Y-axis denotes the weight, offering a visual representation of the user's strength and endurance growth.`,
+The Progress view showcases each distinct workout the user has ever completed, including details like the name, sets, and reps. A key feature is the line chart that plots the entire workout history for each exercise, from the initial session to the most recent one. The chart transitions seamlessly between metric and imperial units, depending on the unit used in the user''s last workout. The chart''s X-axis represents the date, while the Y-axis denotes the weight, offering a visual representation of the user''s strength and endurance growth.',
 '{Typescript, React Native, SQLite, IOS, Android, SQL}',
 DATE '2024-01-18',
 'Medium',
-'https://i.postimg.cc/DyGLCgQD/fitness-tracker.webp',
+'https://i.postimg.cc/pTGC79WN/fitness-tracker.jpg',
 'https://vimeo.com/908391773?share=copy',
-NULL,
+'https://github.com/codyc-xyz/Fitness_App',
 NULL
 );
 

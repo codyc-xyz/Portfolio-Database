@@ -768,6 +768,17 @@ NULL,
 'Japan'
 );
 
+INSERT INTO directors(director_name, director_biography, date_director_born, date_director_deceased, director_image, director_country_of_birth)
+VALUES('Margot Benacerraf',
+'Margot Benacerraf is a distinguished Venezuelan film director and producer, celebrated for her contributions to Latin American cinema. Born in 1926 in Caracas, Venezuela, Benacerraf''s career spans several decades, during which she has left an indelible mark on the world of film. Her education in cinema took her to Paris, France, where she was deeply influenced by the French New Wave, a movement that would play a significant role in shaping her own cinematic voice. Despite the relatively small number of films she has made, Benacerraf''s work has garnered critical acclaim and international recognition, establishing her as a pioneering figure in Venezuelan and Latin American filmmaking.
+Benacerraf is best known for her unique approach to documentary filmmaking, which blends poetic imagery with social and political commentary. Her work is characterized by its artistic depth, as well as its keen sensitivity to the landscapes and peoples it portrays. Unlike traditional documentaries, her films often transcend mere observation, offering instead a lyrical and reflective perspective on her subjects. This distinct style has not only won her numerous awards but has also influenced a generation of filmmakers both within and beyond Latin America. Her contributions to cinema are not limited to her films; she has also played a crucial role in promoting and supporting the arts in Venezuela, including the establishment of a foundation dedicated to the preservation and promotion of Venezuelan and Latin American film heritage.
+Benacerraf''s work commonly revolves around the human condition, cultural identity, and the social and economic realities faced by Latin American communities. Her films frequently address issues of poverty, marginalization, and the struggle for survival, yet they do so with a profound sense of dignity and beauty. Benacerraf''s ability to capture the resilience and spirit of her subjects against the backdrop of challenging environments speaks to her deep empathy and understanding of the human experience. Through her cinematic lens, she invites audiences to engage with the complexities of Latin American societies, encouraging a reflection on universal themes of humanity, solidarity, and hope.',
+DATE '1926-08-14',
+NULL,
+'https://i.postimg.cc/htc5wzKm/Margot-Benacerraf.jpgg',
+'Venezuela'
+);
+
 
 
 

@@ -73,7 +73,7 @@ Throughout my tenure at Selkirk, the Team Selkirk App saw over 1000 active users
 '{Flutter, Firebase, Figma, IOS, Android, Javascript}',
 DATE '2023-08-01',
 'Large',
-'https://i.postimg.cc/dVYfGyDn/selkirk-sports-logo.jpg',
+'https://i.postimg.cc/wxF5wRW0/selkirk-sports-logo.jpg',
 'https://apps.apple.com/us/app/team-selkirk/id6463821595',
 NULL,
 NULL

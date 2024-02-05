@@ -1780,6 +1780,26 @@ https://i.postimg.cc/3xWT04rm/cure-4.jpg
 '59779d99-cb9e-4b3c-9fe5-5870f474eb57'
 );
 
+INSERT INTO movies(movie_title, movie_description, date_movie_released, length_in_minutes, movie_genres, movie_poster, letterboxd_link, screenshot_links, country_of_origin, content_warnings, director_uid)
+VALUES('Araya',
+'Araya is a Venezuelan film released in 1959, directed by Margot Benacerraf. This documentary-style film presents a day in the life of the Araya Peninsula, a region in northeastern Venezuela. Initially crafted as an ethnographic documentary, "Araya" is a cinematic exploration of the harsh working conditions of salt miners and the traditional lifestyle of the local communities. The film meticulously captures the labor-intensive process of salt extraction, which has remained unchanged for centuries, along with the daily routines of fishing and salt mining families, presenting a poetic and stark portrait of human endurance and the natural beauty of the landscape.
+Araya is renowned for its breathtaking cinematography and unique narrative structure, which eschews conventional storytelling in favor of a lyrical and observational approach. Upon its release, the film was celebrated for its artistic vision and technical mastery, earning it a shared Critics Award at the Cannes Film Festival in 1959. Despite its accolades, "Araya" was largely forgotten until its restoration and re-release in 2009, which brought renewed attention to its visual artistry and the precision of its social and cultural observations. The film''s ability to capture the timeless and grueling reality of labor, combined with its stunning black and white imagery, has cemented its status as a masterpiece of Latin American cinema.
+The themes of Araya are deeply rooted in the exploration of human interaction with the environment, the cycles of manual labor, and the resilience of communities living in harsh conditions. The film delves into the symbiotic relationship between the people of the Araya Peninsula and their unforgiving, yet bountiful, natural surroundings. It reflects on the themes of tradition, survival, and the inexorable passage of time, showcasing how generations of workers have adapted to an unchanging landscape that shapes their lives and identities. Through its poetic juxtaposition of the arduous work of salt extraction against the backdrop of the vast, desolate beauty of the peninsula, "Araya" invites contemplation on the nature of human struggle, the dignity of labor, and the profound connection between people and the earth.',
+DATE '1959-01-01',
+90,
+'{Documentary, "Art House", "Social Commentary"}',
+'https://postimg.cc/Js5mxbR5/e8464bef',
+'https://letterboxd.com/film/araya/',
+'{https://i.postimg.cc/X70nLB4g/araya-1.png,
+https://i.postimg.cc/R0qmhcLv/araya-2.png,
+https://i.postimg.cc/NjsBqhy9/araya-3.jpg,
+https://i.postimg.cc/YqfMs2SB/araya-4.jpg
+}',
+'Venezuela',
+'{Nudity}',
+''
+);
+
 
 
 
